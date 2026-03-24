@@ -1,0 +1,31 @@
+id: travel-grant-simonsfonds-travel-grants
+legacy_id: 62
+slug: simonsfonds-travel-grants
+name: SimonsFonds Travel Grants
+url: https://cluster15.erasmusmc.nl/simonsfonds/grants.html
+description: null
+funders: []
+legacy_funder_name: Simons Foundation Fund (SimonsFonds, ErasmusMC)
+applicant_country: applicant must be in the temporary employment of a Dutch institute
+host_country: null
+award: €600-€800
+deadline: June 30 & December 31
+deadline_month: June, December
+membership: null
+membership_time: null
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- conference
+- research-visit
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: SimonsFonds Travel Grants Conference Research visit applicant must be
+  in the temporary employment of a Dutch institute
+source: legacy-import

@@ -1,0 +1,48 @@
+id: funding-collaborative-reseasrch-development-grant
+legacy_id: 514
+slug: collaborative-reseasrch-development-grant
+name: Collaborative Reseasrch Development Grant
+description: Concentrating on funding projects of early career scientists that aim
+  to advance the knowledge on ovarian cancer.
+url: https://ocrfa.org/research/for-grantees/application-process/
+funders:
+- ovarian-cancer-research-fund-alliance
+legacy_funder_name: Ovarian Cancer Research Fund Alliance (OCRFA)
+host_country: United States
+applicant_country: Worldwide
+career_levels:
+- phd
+- junior-faculty
+- md
+years_since_phd: NA
+duration: 1-3
+award: $75,000-$300,000
+mobility_rule: 'No'
+research_costs: null
+deadline: May
+deadline_month: May
+diversity: null
+comments: Grants for projects selected through this process are made to non-profit
+  medical institutions on behalf of individual investigators or project directors.
+  The number of awarded grants depends on the total grant budget for the year, and
+  how their Scientific Advisory Committee decides to distribute the research funds.
+benefits: Budgeting up to 10% indirect costs.
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-24T16:06:45Z'
+subjects:
+- medicine-and-health-sciences
+funding_purposes:
+- research
+search_text: Collaborative Reseasrch Development Grant Concentrating on funding projects
+  of early career scientists that aim to advance the knowledge on ovarian cancer.
+  Ovarian Cancer Research Fund Alliance PhD Junior Faculty MD Medicine and Health
+  Sciences Research United States Worldwide
+source: legacy-import

@@ -1,0 +1,25 @@
+id: resource-on-being-a-scientist-a-guide-to-responsible-conduct-in-research
+legacy_id: 40
+slug: on-being-a-scientist-a-guide-to-responsible-conduct-in-research
+name: 'On Being a Scientist: A Guide to Responsible Conduct in Research'
+url: https://graduateschool.nd.edu/assets/21763/on_being_a_scientist.pdf
+description: This free and short book presents an overview of the professional standards
+  of science and explains why adherence to those standards is essential for continued
+  scientific progress.
+source_name: National Academy of Sciences
+funders: []
+resource_categories:
+- reproducibility
+- science-communication
+- policy
+- publishing
+- peer-review
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2019-03-10T13:13:00Z'
+updated_at: '2019-03-10T13:40:10Z'
+source: legacy-import

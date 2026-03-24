@@ -1,0 +1,45 @@
+id: funding-hfsp-long-term-fellowships
+legacy_id: 99
+slug: hfsp-long-term-fellowships
+name: HFSP Long-Term Fellowships
+description: The HFSP fellowship program supports proposals for frontier, potentially
+  transformative research in the life sciences. Applications for high-risk projects
+  are particularly encouraged. The projects should be interdisciplinary in nature
+  and should challenge existing paradigms by using novel approaches and techniques.
+  Scientifically, they should address an important problem or a barrier to progress
+  in the field.
+url: http://www.hfsp.org/funding/postdoctoral-fellowships
+funders:
+- human-frontier-science-program-hfsp
+legacy_funder_name: Human Frontiers in Science Program
+host_country: Worldwide
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: <3
+duration: '3'
+award: 300K USD
+mobility_rule: 'No'
+research_costs: all included
+deadline: August
+deadline_month: August
+diversity: null
+comments: null
+benefits: null
+frequency: Annual
+fileds: null
+featured: true
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-10T04:47:23Z'
+subjects:
+- life-sciences
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: HFSP Long-Term Fellowships Human Frontier Science Program (HFSP) PhD
+  Life Sciences Fellowship, scholarship or training Worldwide Worldwide
+source: legacy-import

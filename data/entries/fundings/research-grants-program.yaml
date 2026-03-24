@@ -1,0 +1,49 @@
+id: funding-research-grants-program
+legacy_id: 366
+slug: research-grants-program
+name: Research Grants Program
+description: null
+url: http://www.myocarditisfoundation.org/research-and-grants/research-and-grant-program/
+funders: []
+legacy_funder_name: Myocarditis Foundation
+host_country: USA, Canada
+applicant_country: United States
+career_levels:
+- phd
+- md
+years_since_phd: Candidates may apply up to 10 years following receipt of an MD, PhD,
+  or an equivalent degree and plan to perform the funded work in the United States
+  or Canada, in order to apply for the Fell
+duration: 1 year
+award: $40,000 (salary only)
+mobility_rule: null
+research_costs: null
+deadline: December
+deadline_month: December
+diversity: null
+comments: The Myocarditis Foundation (MF) accepts fellowship grant applications on
+  an annual basis for innovative basic, clinical or translational research relevant
+  to the cause or treatment of myocarditis. MF’s fellowship grant program is designed
+  to provide seed funding to investigators for the testing of initial hypotheses and
+  collecting preliminary data to help secure long-term funding by the National Institute
+  of Health (NIH) and other major granting institutions. Funding is available at US
+  $40,000 for salary only. Grant award decisions are made through a peer review process
+  by our Medical Advisory Board. Scientific excellence and relevance to myocarditis
+  are the basic criteria for selecting the supported research project. The award is
+  designed to support training and career development of physician-scientists in myocarditis
+  research.
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-18T20:38:56Z'
+subjects: []
+funding_purposes: []
+search_text: Research Grants Program PhD MD USA, Canada United States
+source: legacy-import

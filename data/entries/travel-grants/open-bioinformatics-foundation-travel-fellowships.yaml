@@ -1,0 +1,41 @@
+id: travel-grant-open-bioinformatics-foundation-travel-fellowships
+legacy_id: 74
+slug: open-bioinformatics-foundation-travel-fellowships
+name: Open Bioinformatics Foundation Travel Fellowships
+url: https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md
+description: <p>OBF Travel Fellowship program aimed at increasing diverse participation
+  at events promoting open source bioinformatics software development and open science
+  in the biological research community.</p>
+funders:
+- open-bioinformatics-foundation
+legacy_funder_name: Open Bioinformatics Foundation
+applicant_country: Worldwide
+host_country: null
+award: USD 1,000
+deadline: April, August, December
+deadline_month: April, August, December
+membership: 'No'
+membership_time: null
+purpose_text: null
+career_levels:
+- phd
+- postdoc
+- master-students
+subjects:
+- life-sciences
+- bioinformatics
+travel_purposes:
+- conference
+featured: true
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: Open Bioinformatics Foundation Travel Fellowships <p>OBF Travel Fellowship
+  program aimed at increasing diverse participation at events promoting open source
+  bioinformatics software development and open science in the biological research
+  community.</p> Open Bioinformatics Foundation PhD Postdoc Master students Life Sciences
+  Bioinformatics Conference Worldwide
+source: legacy-import

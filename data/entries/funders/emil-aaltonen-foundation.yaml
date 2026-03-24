@@ -1,0 +1,20 @@
+id: funder-emil-aaltonen-foundation
+legacy_id: 636
+slug: emil-aaltonen-foundation
+name: Emil Aaltonen Foundation
+short_name: Emil Aaltonen Foundation
+funder_registry_id: '501100004756'
+country: Finland
+website: https://emilaaltonen.fi/
+logo: /logos/funders/emil-aaltonen-foundation.jpg
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-05-26T08:40:53Z'
+updated_at: '2020-05-27T03:57:14Z'
+source: legacy-import

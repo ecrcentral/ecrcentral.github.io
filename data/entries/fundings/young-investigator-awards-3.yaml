@@ -1,0 +1,47 @@
+id: funding-young-investigator-awards-3
+legacy_id: 569
+slug: young-investigator-awards-3
+name: Young Investigator Awards
+description: null
+url: http://www.academicpeds.org/research/research_young_investigator_awards.cfm
+funders: []
+legacy_funder_name: Academic Pediatric Association
+host_country: United States
+applicant_country: null
+career_levels:
+- postdoc
+- junior-faculty
+years_since_phd: NA
+duration: null
+award: $15 000
+mobility_rule: null
+research_costs: null
+deadline: September for initial proposal, December for full proposal
+deadline_month: September, December
+diversity: null
+comments: The program provides awards for research by fellows or junior faculty related
+  to child health promotion, health services research, teaching, or patient care.
+  Projects must be consistent with the goals of the APA. Proposals submitted should
+  address an important area of concern for the health or healthcare of children or
+  adolescents. The awards will be one-time awards; multiple-year funding requests
+  will not be considered. Preference will be given to those proposals that have the
+  potential to lead to projects of a larger or longer-term nature. Up to $10,000 or
+  $15,000 (depending upon the specific program).
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T17:11:02Z'
+subjects:
+- medicine-and-health-sciences
+funding_purposes:
+- research
+search_text: Young Investigator Awards Postdoc Junior Faculty Medicine and Health
+  Sciences Research United States
+source: legacy-import

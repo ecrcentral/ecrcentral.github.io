@@ -1,0 +1,46 @@
+id: funding-emmy-noether-fellowship
+legacy_id: 51
+slug: emmy-noether-fellowship
+name: Emmy Noether Fellowship
+description: The Emmy Noether Programme gives exceptionally qualified early career
+  researchers the chance to qualify for the post of professor at a university by leading
+  an independent junior research group for a period of six years.
+url: http://www.dfg.de/en/research_funding/programmes/individual/emmy_noether/index.html
+funders:
+- deutsche-forschungsgemeinschaft
+legacy_funder_name: Deutsche Forschungsgemeinschaft
+host_country: Germany
+applicant_country: Worldwide
+career_levels:
+- postdoc
+- junior-faculty
+years_since_phd: '4'
+duration: '6'
+award: null
+mobility_rule: null
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: null
+benefits: null
+frequency: Rolling
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-26T07:40:07Z'
+subjects:
+- all-subjects
+funding_purposes:
+- research
+search_text: Emmy Noether Fellowship The Emmy Noether Programme gives exceptionally
+  qualified early career researchers the chance to qualify for the post of professor
+  at a university by leading an independent junior research group for a period of
+  six years. Deutsche Forschungsgemeinschaft Postdoc Junior Faculty All subjects Research
+  Germany Worldwide
+source: legacy-import

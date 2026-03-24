@@ -1,0 +1,228 @@
+---
+import BaseLayout from '../components/layout/BaseLayout.astro'
+import { fundings, travelGrants, resources, funders } from '../lib/data'
+
+const githubRepo = 'https://github.com/ecrcentral/ecrcentral.github.io'
+
+const totalFundings = fundings.length
+const totalTravelGrants = travelGrants.length
+const totalResources = resources.length
+const totalFunders = funders.length
+---
+
+<BaseLayout
+  title="About ECRcentral"
+  description="Learn about ECRcentral — an open, community-maintained directory of funding opportunities, travel grants, and resources for early career researchers."
+  canonical="/about/"
+>
+  <div class="page-header">
+    <div class="container">
+      <h1 class="page-header-title">About ECRcentral</h1>
+      <p class="page-header-subtitle">Open, community-maintained, and always free.</p>
+    </div>
+  </div>
+
+  <div class="container" style="padding-top:48px;padding-bottom:80px;">
+    <div class="about-section">
+
+      <!-- Mission -->
+      <section id="mission" style="margin-bottom:56px;">
+        <h2>Our Mission</h2>
+        <p>
+          ECRcentral exists to make it easier for early career researchers — PhD students,
+          postdoctoral researchers, and junior faculty — to discover funding opportunities,
+          travel grants, and professional development resources.
+        </p>
+        <p>
+          Finding research funding is hard. Information is scattered across hundreds of funder
+          websites, institutional pages, and social media posts. ECRcentral aggregates this
+          information into a single, searchable, filterable directory that anyone can use for free.
+        </p>
+        <p>
+          We believe open science starts with open infrastructure. ECRcentral is fully open source,
+          community-maintained, and has no commercial interests.
+        </p>
+      </section>
+
+      <!-- Stats -->
+      <section id="stats" style="margin-bottom:56px;">
+        <h2>What We Cover</h2>
+        <div style="display:grid;grid-template-columns:repeat(2,1fr);gap:16px;margin-top:24px;" class="cards-grid-2">
+          {[
+            { label: 'Funding Opportunities', count: totalFundings, icon: '💰', url: '/fundings/' },
+            { label: 'Travel Grants', count: totalTravelGrants, icon: '✈️', url: '/travel-grants/' },
+            { label: 'Resources', count: totalResources, icon: '📚', url: '/resources/' },
+            { label: 'Funding Organizations', count: totalFunders, icon: '🏛️', url: '/funders/' },
+          ].map(stat => (
+            <a
+              href={stat.url}
+              style="display:flex;align-items:center;gap:16px;padding:20px;background:var(--color-white);border:1px solid var(--color-border);border-radius:var(--radius-xl);text-decoration:none;color:inherit;transition:box-shadow 150ms ease;"
+              onmouseover="this.style.boxShadow='var(--shadow-md)'"
+              onmouseout="this.style.boxShadow='none'"
+            >
+              <span style="font-size:2rem;" aria-hidden="true">{stat.icon}</span>
+              <div>
+                <p style="font-size:1.75rem;font-weight:700;color:var(--color-dark);line-height:1;">{stat.count.toLocaleString()}</p>
+                <p style="font-size:var(--font-size-sm);color:var(--color-muted);">{stat.label}</p>
+              </div>
+            </a>
+          ))}
+        </div>
+      </section>
+
+      <!-- History -->
+      <section id="history" style="margin-bottom:56px;">
+        <h2>History</h2>
+        <p>
+          ECRcentral is a community-driven initiative started by
+          <a href="https://elifesciences.org/inside-elife/b5a4c0e4/elife-ambassadors-programme" target="_blank" rel="noopener noreferrer">eLife Ambassadors</a>
+          in 2018. The eLife Ambassador program supports the development of new initiatives
+          ranging from preprints, reproducibility, and funding, by facilitating local discussions
+          and connecting communities with international developments.
+        </p>
+        <p>
+          The concept of a centralised, searchable ECR funding database was conceived and
+          initiated by eLife Ambassador <strong>Aziz Khan</strong>, who also
+          <a href="https://elifesciences.org/inside-elife/85999196/elife-ambassadors-introducing-ecrcentral" target="_blank" rel="noopener noreferrer">built and launched the initial platform</a>.
+          The initial idea was further shaped by former eLife ECAG member
+          <strong>Sonia Sen</strong>. <strong>Naomi Penfold</strong> and
+          <strong>Gary McDowell</strong> were instrumental in shaping ideas at the initial stages.
+          The initial fellowship funding list was curated and edited by
+          <strong>Dieter Lukas</strong> (Max Planck Institute for Evolutionary Anthropology) and
+          eLife Ambassador <strong>Juan Quintana</strong> (Wellcome Centre for Anti-Infectives
+          Research, University of Dundee). At launch, ECRcentral also integrated a funding list
+          from Johns Hopkins University and opportunities submitted via a community Google form.
+          The initial travel grant list was curated by
+          <strong>Lotte de Winde</strong>, eLife Ambassador 2018 and member of eLife ECAG.
+        </p>
+        <p>
+          ECRcentral aims to bring early career researchers together to discuss funding
+          opportunities, share experiences, and create impact through community engagement.
+          The platform is built entirely on open-source technology, with all source code
+          and documentation publicly available. The current static site, also built and
+          maintained by <strong>Aziz Khan</strong>, is hosted on GitHub Pages.
+        </p>
+        <p>
+          The ECRcentral logo was designed by <strong>Anne Martin</strong>, a postdoc at the
+          University of Oregon.
+        </p>
+
+        <h3 style="margin-top:32px;margin-bottom:12px;font-size:var(--font-size-lg);">Hosting &amp; Infrastructure</h3>
+        <p>
+          From its launch until March 2026, ECRcentral was hosted on AWS, with infrastructure
+          costs generously covered by <strong>eLife Sciences</strong>. In March 2026 the platform
+          was migrated to <strong>GitHub Pages</strong> — a fully static, zero-cost hosting
+          solution that aligns with the project's open-source principles. The domain
+          <strong>ecrcentral.org</strong> has been registered and paid for by
+          <strong>Aziz Khan</strong> since the platform's inception.
+        </p>
+      </section>
+
+      <!-- How it works -->
+      <section id="how-it-works" style="margin-bottom:56px;">
+        <h2>How It Works</h2>
+        <p>
+          ECRcentral is a <strong>static website</strong> — there is no database server,
+          no login system, and no backend infrastructure. This keeps it fast, cheap to
+          host, and easy to maintain.
+        </p>
+        <p>All data is stored as YAML files in a public GitHub repository:</p>
+        <ul>
+          <li>Each funding opportunity, travel grant, resource, and funder has its own <code>.yaml</code> file.</li>
+          <li>When a pull request is merged or an issue is processed, a Python build script converts the YAML files into JSON.</li>
+          <li>Astro reads those JSON files at build time and generates static HTML pages.</li>
+          <li>The static site is deployed to GitHub Pages — no servers, no costs.</li>
+          <li>Client-side JavaScript handles filtering, searching, and sorting without a backend.</li>
+        </ul>
+        <p>
+          This architecture means ECRcentral can scale to hundreds of thousands of entries
+          without any infrastructure costs.
+        </p>
+      </section>
+
+      <!-- Editorial policy -->
+      <section id="editorial-policy" style="margin-bottom:56px;">
+        <h2>Editorial Policy</h2>
+        <p>
+          ECRcentral aims to be <strong>inclusive</strong> — we list opportunities for researchers
+          at all career stages, in all disciplines, and in all countries.
+        </p>
+        <p>We do <strong>not</strong> endorse any specific funder, program, or institution.
+        All entries are descriptive, not prescriptive — we describe what is offered, not
+        whether it is good value.</p>
+        <p>
+          All entries go through a <strong>community review</strong> before being published.
+          Reviewers check:
+        </p>
+        <ul>
+          <li>That the entry points to a real, legitimate opportunity</li>
+          <li>That the URL is correct and accessible</li>
+          <li>That the information is accurate based on the official source</li>
+          <li>That the entry is not a duplicate</li>
+        </ul>
+        <p>
+          If you find an error, please use the "Report an issue" link on any entry page,
+          or open a GitHub issue directly.
+        </p>
+      </section>
+
+      <!-- Technology -->
+      <section id="technology" style="margin-bottom:56px;">
+        <h2>Technology Stack</h2>
+        <div style="display:flex;flex-direction:column;gap:12px;">
+          {[
+            { name: 'Astro 4', role: 'Static site generator', url: 'https://astro.build' },
+            { name: 'TypeScript', role: 'Type-safe frontend code', url: 'https://www.typescriptlang.org' },
+            { name: 'Python 3', role: 'Data build scripts', url: 'https://www.python.org' },
+            { name: 'MiniSearch', role: 'Client-side full-text search', url: 'https://lucaong.github.io/minisearch/' },
+            { name: 'GitHub Actions', role: 'CI/CD and automated builds', url: 'https://github.com/features/actions' },
+            { name: 'GitHub Pages', role: 'Static site hosting', url: 'https://pages.github.com' },
+          ].map(tech => (
+            <div style="display:flex;align-items:center;justify-content:space-between;padding:12px 16px;background:var(--color-white);border:1px solid var(--color-border);border-radius:var(--radius-lg);">
+              <div>
+                <a href={tech.url} target="_blank" rel="noopener noreferrer" style="font-weight:600;color:var(--color-primary);">{tech.name}</a>
+                <span style="color:var(--color-muted);margin-left:12px;font-size:var(--font-size-sm);">{tech.role}</span>
+              </div>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      <!-- License -->
+      <section id="license" style="margin-bottom:56px;">
+        <h2>License</h2>
+        <p>
+          ECRcentral is open source, released under the
+          <a href={`${githubRepo}/blob/main/LICENSE`} target="_blank" rel="noopener noreferrer">MIT License</a>.
+          The data (YAML files and generated JSON) is released under the
+          <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer">Creative Commons Attribution 4.0 (CC BY 4.0)</a>
+          license. You are free to use, share, and adapt the data with attribution.
+        </p>
+      </section>
+
+      <!-- Contact -->
+      <section id="contact" style="margin-bottom:56px;">
+        <h2>Contact &amp; Community</h2>
+        <p>
+          ECRcentral is maintained by volunteers. The best way to get in touch
+          is through GitHub:
+        </p>
+        <div style="display:flex;flex-wrap:wrap;gap:12px;margin-top:16px;">
+          <a href={githubRepo} class="btn btn-primary" target="_blank" rel="noopener noreferrer">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M12 0C5.374 0 0 5.373 0 12c0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23A11.509 11.509 0 0 1 12 5.803c1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576C20.566 21.797 24 17.3 24 12c0-6.627-5.373-12-12-12z"/>
+            </svg>
+            GitHub Repository
+          </a>
+          <a href={`${githubRepo}/issues`} class="btn btn-outline" target="_blank" rel="noopener noreferrer">
+            Open an Issue
+          </a>
+          <a href="/contribute/" class="btn btn-outline">
+            Contribute
+          </a>
+        </div>
+      </section>
+
+    </div>
+  </div>
+</BaseLayout>

@@ -1,0 +1,25 @@
+id: resource-connectscience-seminar-series
+legacy_id: 159
+slug: connectscience-seminar-series
+name: Connect:Science seminar series
+url: https://www.dfhcc.harvard.edu/events/dfhcc-connecting-the-scientific-community-seminar-series/
+description: A virtual seminar aims to bring leaders in cancer biology, immune oncology
+  and other fields from across the world during this difficult time and it promotes
+  engagement during these next several weeks. It held every Monday, Tuesday, Thursday
+  and Friday at 12 PM EST.
+source_name: Dana–Farber - Harvard Cancer Center
+funders: []
+resource_categories:
+- science-communication
+- other
+- public-involvement-in-research
+- covid19-online-events
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-05-25T23:11:32Z'
+updated_at: '2020-05-29T02:20:51Z'
+source: legacy-import

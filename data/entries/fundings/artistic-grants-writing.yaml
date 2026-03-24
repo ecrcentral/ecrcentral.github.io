@@ -1,0 +1,56 @@
+id: funding-artistic-grants-writing
+legacy_id: 672
+slug: artistic-grants-writing
+name: Artistic Grants (Writing)
+description: "The Elizabeth George Foundation provides grants to short story writers,\
+  \ poets, unpublished novelists, emerging playwrights and unpublished creative non-fiction\
+  \ writers.  This one-time funding enables writers to live and work for a period\
+  \ of time not to exceed a year.\r\n\r\nGrant funds may be used for living expenses,\
+  \ travel for research, artistic residencies,  writers' conferences, necessary enrichment\
+  \ or creative growth classes, or tuition in accredited MFA programs in the United\
+  \ States.\r\n\r\nThe Elizabeth George Foundation also provides grants to organizations\
+  \ that we have previously funded to benefit disadvantaged youth, particularly in\
+  \ the area of the arts."
+url: http://www.elizabethgeorgeonline.com/foundation.htm
+funders:
+- elizabeth-george-foundation
+legacy_funder_name: Elizabeth George Foundation
+host_country: null
+applicant_country: null
+career_levels: []
+years_since_phd: NA
+duration: '1'
+award: null
+mobility_rule: null
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: "For full information on how to apply, please request a brochure by sending\
+  \ a postcard or letter to: \r\n\r\nElizabeth George Foundation\r\nPO Box 1429\r\n\
+  \  Langley, Washington 98260"
+benefits: null
+frequency: Rolling
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-24T19:59:24Z'
+subjects:
+- creative-writing
+funding_purposes: []
+search_text: "Artistic Grants (Writing) The Elizabeth George Foundation provides grants\
+  \ to short story writers, poets, unpublished novelists, emerging playwrights and\
+  \ unpublished creative non-fiction writers.  This one-time funding enables writers\
+  \ to live and work for a period of time not to exceed a year.\r\n\r\nGrant funds\
+  \ may be used for living expenses, travel for research, artistic residencies,  writers'\
+  \ conferences, necessary enrichment or creative growth classes, or tuition in accredited\
+  \ MFA programs in the United States.\r\n\r\nThe Elizabeth George Foundation also\
+  \ provides grants to organizations that we have previously funded to benefit disadvantaged\
+  \ youth, particularly in the area of the arts. Elizabeth George Foundation Creative\
+  \ Writing"
+source: legacy-import

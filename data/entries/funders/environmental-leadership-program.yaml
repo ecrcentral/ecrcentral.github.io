@@ -1,0 +1,20 @@
+id: funder-environmental-leadership-program
+legacy_id: 567
+slug: environmental-leadership-program
+name: Environmental Leadership Program
+short_name: Environmental Leadership Program
+funder_registry_id: '100005722'
+country: United States
+website: https://elpnet.org
+logo: /logos/funders/environmental-leadership-program.png
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-05-22T16:59:32Z'
+updated_at: '2020-05-22T16:59:32Z'
+source: legacy-import

@@ -1,0 +1,20 @@
+id: funder-frnt-quebec
+legacy_id: 603
+slug: frnt-quebec
+name: FRNT Quebec
+short_name: FRNT Quebec
+funder_registry_id: frnt-quebec
+country: Canada
+website: http://www.frqnt.gouv.qc.ca/en/accueil
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-05-24T10:39:36Z'
+updated_at: '2020-05-24T16:19:37Z'
+source: legacy-import

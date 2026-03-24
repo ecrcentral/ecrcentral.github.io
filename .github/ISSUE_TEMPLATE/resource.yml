@@ -1,0 +1,76 @@
+name: Add a Resource
+description: Submit a new resource for early career researchers
+title: "[Resource] "
+labels: ["new-entry", "resource", "needs-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for contributing a resource to ECRcentral!
+
+  - type: input
+    id: name
+    attributes:
+      label: "Resource name *"
+      placeholder: "e.g., MIT CommKit"
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: "URL *"
+      placeholder: "https://..."
+    validations:
+      required: true
+
+  - type: input
+    id: source
+    attributes:
+      label: "Source / Publisher *"
+      placeholder: "e.g., MIT Communication Lab"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: "Description *"
+      placeholder: "What does this resource offer? Who is it for?"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: categories
+    attributes:
+      label: Resource categories
+      options:
+        - label: Career development
+        - label: Reproducibility
+        - label: Science Communication
+        - label: Academic writing
+        - label: Policy
+        - label: Preprints
+        - label: Publishing
+        - label: Peer review
+        - label: Data management
+        - label: Mental health and wellbeing
+        - label: Networking
+        - label: Funding advice
+        - label: Other
+
+  - type: textarea
+    id: subjects
+    attributes:
+      label: Subject areas
+      placeholder: "e.g., Life Sciences, all disciplines"
+
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: Checklist
+      options:
+        - label: The resource is freely accessible (or I have noted access requirements)
+          required: true
+        - label: This resource does not already exist on ECRcentral
+          required: true

@@ -1,0 +1,60 @@
+id: funding-postdoctoral-fellowship-tecniospring
+legacy_id: 689
+slug: postdoctoral-fellowship-tecniospring
+name: Postdoctoral Fellowship - TECNIOspring
+description: "Tecniospring INDUSTRY proposals are submitted by a Catalan host entity,\
+  \ together with an experienced researcher.\r\n\r\n    Catalan host organisations\
+  \ may be companies located in Catalonia (startups, SMEs and multinationals) or TECNIO\
+  \ entities (research centres accredited by the Government of Catalonia through ACCIÓ).\r\
+  \n    Experienced researchers of any nationality with a PhD and two additional years\
+  \ of full-time research experience, or at least six years of full-time equivalent\
+  \ research experience."
+url: http://catalonia.com/innovate-in-catalonia/tecniospringplus/
+funders:
+- government-of-catalonia
+legacy_funder_name: ACCIÓ - Agency for Business Competitiveness of the Government
+  of Catalonia
+host_country: Spain
+applicant_country: Worldwide
+career_levels:
+- phd
+- md
+years_since_phd: '>2'
+duration: '2'
+award: EUR 137 160
+mobility_rule: 'Yes'
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: null
+benefits: "Tecniospring INDUSTRY offers financial support to cover up to 100% of 2-year\
+  \ employment contracts and develop research activity:\r\n\r\n    Salary costs (with\
+  \ full social security coverage): Incoming: 58,500€ per year. Outgoing & Return:\
+  \ 58,500€/1st year x coef. 58,500€ 2nd year.         \r\n    Research costs: 15,240€.\
+  \ \r\n    Open Access Publication costs: 3,000€.\r\n    Mobility costs: 1,920€."
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: '2018-12-26T14:51:36Z'
+updated_at: '2020-05-26T07:16:53Z'
+subjects:
+- science-and-technology-studies
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: "Postdoctoral Fellowship - TECNIOspring Tecniospring INDUSTRY proposals\
+  \ are submitted by a Catalan host entity, together with an experienced researcher.\r\
+  \n\r\n    Catalan host organisations may be companies located in Catalonia (startups,\
+  \ SMEs and multinationals) or TECNIO entities (research centres accredited by the\
+  \ Government of Catalonia through ACCIÓ).\r\n    Experienced researchers of any\
+  \ nationality with a PhD and two additional years of full-time research experience,\
+  \ or at least six years of full-time equivalent research experience. Government\
+  \ of Catalonia PhD MD Science and Technology Studies Fellowship, scholarship or\
+  \ training Research Spain Worldwide"
+source: legacy-import

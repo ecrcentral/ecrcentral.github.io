@@ -1,0 +1,23 @@
+id: resource-bio-protocol
+legacy_id: 86
+slug: bio-protocol
+name: bio-protocol
+url: https://bio-protocol.org/Default.aspx
+description: A peer-reviewed protocol journal that publishes life science methods.
+  Free to access and no publication fees are charged to authors.
+source_name: Dennis Bua
+funders: []
+resource_categories:
+- reproducibility
+- preprints
+- publishing
+- peer-review
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-02-28T17:56:00Z'
+updated_at: '2020-02-29T05:44:06Z'
+source: legacy-import

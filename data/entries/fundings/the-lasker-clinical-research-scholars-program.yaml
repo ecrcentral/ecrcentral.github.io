@@ -1,0 +1,60 @@
+id: funding-the-lasker-clinical-research-scholars-program
+legacy_id: 562
+slug: the-lasker-clinical-research-scholars-program
+name: The Lasker Clinical Research Scholars Program
+description: "The program supports a small number of exceptional clinical researchers\
+  \ in the early stages of their careers to promote their development to fully independent\
+  \ positions. Successful candidates are designated as Lasker Clinical Research Scholars.\r\
+  \n\r\nLasker Scholars receive a unique combination of NIH funding for clinical research\
+  \ for up to 10 years. In the first phase of the program, Scholars will receive appointments\
+  \ for 5-7 years as tenure-track investigators within the NIH Intramural Research\
+  \ Program with independent budgets. In the second phase, successful Scholars will\
+  \ receive up to 3 years of NIH support for their research at an extramural research\
+  \ facility; or the Scholar can be considered to remain as an investigator within\
+  \ the intramural program."
+url: http://www.nih.gov/science/laskerscholar/index.html
+funders:
+- lasker-foundation
+- national-institutes-of-health-nih
+legacy_funder_name: Lasker Foundation
+host_country: United States
+applicant_country: United States
+career_levels:
+- junior-faculty
+years_since_phd: NA
+duration: 5-7
+award: Full appointment - see website for details.
+mobility_rule: 'No'
+research_costs: Salary + Extramural costs up to $499,000
+deadline: Late August
+deadline_month: August
+diversity: null
+comments: null
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-22T18:57:22Z'
+subjects:
+- life-sciences
+funding_purposes:
+- research
+search_text: "The Lasker Clinical Research Scholars Program The program supports a\
+  \ small number of exceptional clinical researchers in the early stages of their\
+  \ careers to promote their development to fully independent positions. Successful\
+  \ candidates are designated as Lasker Clinical Research Scholars.\r\n\r\nLasker\
+  \ Scholars receive a unique combination of NIH funding for clinical research for\
+  \ up to 10 years. In the first phase of the program, Scholars will receive appointments\
+  \ for 5-7 years as tenure-track investigators within the NIH Intramural Research\
+  \ Program with independent budgets. In the second phase, successful Scholars will\
+  \ receive up to 3 years of NIH support for their research at an extramural research\
+  \ facility; or the Scholar can be considered to remain as an investigator within\
+  \ the intramural program. Lasker Foundation National Institutes of Health (NIH)\
+  \ Junior Faculty Life Sciences Research United States United States"
+source: legacy-import

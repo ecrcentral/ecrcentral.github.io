@@ -1,0 +1,68 @@
+id: funding-marie-curie-individual-fellowships
+legacy_id: 65
+slug: marie-curie-individual-fellowships
+name: Marie Curie Individual Fellowships
+description: "The goal of the Individual Fellowships is to enhance the creative and\
+  \ innovative potential of experienced researchers, wishing to diversify their individual\
+  \ competence in terms of skill acquisition through advanced training, international\
+  \ and intersectoral mobility.\r\n\r\nIndividual Fellowships provide opportunities\
+  \ to researchers of any nationality to acquire and transfer new knowledge and to\
+  \ work on research and innovation in Europe (EU Member States and Horizon 2020 Associated\
+  \ Countries) and beyond. The scheme particularly supports the return and (re)integration\
+  \ of European researchers from outside Europe and those who have previously worked\
+  \ here, as well as researchers displaced by conflict outside the EU and Horizon\
+  \ 2020 Associated Countries. It also promotes the career restart of individual researchers\
+  \ who show great potential."
+url: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/msca-if-2019
+funders:
+- h2020-marie-skodowska-curie-actions
+legacy_funder_name: European Commission
+host_country: Europe
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: '4'
+duration: '3'
+award: Living allowance + Mobility allowance + Family allowance + Research training
+  and networking costs
+mobility_rule: 'No'
+research_costs: null
+deadline: September
+deadline_month: September
+diversity: null
+comments: The MSCA Individual Fellowships (IF) are open to researchers of all nationalities,
+  in all disciplines, and with a PhD degree or more than four years of full-time research
+  experience. The duration of IF depends on the IF schemes (typically 24 to 36 months),
+  which allows for a stay of between 12 and 24 months abroad.
+benefits: The grant provides an allowance to cover living, travel and family costs.
+  In addition, the EU contributes to the training, networking and research costs of
+  the fellow, as well as to the management and indirect costs of the project. The
+  grant is awarded to the host organisation, usually a university, research centre
+  or a company in Europe.
+frequency: Annual
+fileds: Multidisciplinary
+featured: true
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-26T09:13:33Z'
+subjects:
+- all-subjects
+funding_purposes:
+- research
+search_text: "Marie Curie Individual Fellowships The goal of the Individual Fellowships\
+  \ is to enhance the creative and innovative potential of experienced researchers,\
+  \ wishing to diversify their individual competence in terms of skill acquisition\
+  \ through advanced training, international and intersectoral mobility.\r\n\r\nIndividual\
+  \ Fellowships provide opportunities to researchers of any nationality to acquire\
+  \ and transfer new knowledge and to work on research and innovation in Europe (EU\
+  \ Member States and Horizon 2020 Associated Countries) and beyond. The scheme particularly\
+  \ supports the return and (re)integration of European researchers from outside Europe\
+  \ and those who have previously worked here, as well as researchers displaced by\
+  \ conflict outside the EU and Horizon 2020 Associated Countries. It also promotes\
+  \ the career restart of individual researchers who show great potential. H2020 Marie\
+  \ Skłodowska-Curie Actions PhD All subjects Research Europe Worldwide"
+source: legacy-import

@@ -1,0 +1,68 @@
+id: funding-career-development-award-2
+legacy_id: 582
+slug: career-development-award-2
+name: Career Development Award
+description: The Career Development Award (CDA) provides research funding to clinical
+  investigators, who have received their initial faculty appointment, as they work
+  to establish an independent clinical cancer research program. This research must
+  have a patient-oriented focus, including a clinical research study and/or translational
+  research involving human subjects. Proposals with a predominant focus on in vitro
+  or animal studies (even if clinically relevant) are not allowed.
+url: https://www.conquer.org/career-development-award
+funders:
+- american-society-for-clinical-oncology
+legacy_funder_name: Conquer Cancer Foundation of the American Society for Clinical
+  Oncology (ASCO)
+host_country: United States
+applicant_country: null
+career_levels:
+- md
+years_since_phd: NA
+duration: '3'
+award: $200 000
+mobility_rule: 'No'
+research_costs: null
+deadline: September
+deadline_month: September
+diversity: null
+comments: 'The Career Development Award (CDA) provides research funding to clinical
+  investigators, who have received their initial faculty appointment, as they work
+  to establish an independent clinical cancer research program. This research must
+  have a patient-oriented focus, including a clinical research study and/or translational
+  research involving human subjects. Proposals with a predominant focus on in vitro
+  or animal studies (even if clinically relevant) are not allowed. Eligibility: Be
+  an ASCO member; Must be a physician (MD, DO of international equivalent) with a
+  valid medical license; be in the first to third year of a full-time primary faculty
+  appointment in a clinical department at an academic medical institution at the time
+  of grant submission; applicants holding Instructor/Lecturer appointments are eligible
+  to apply with institutional support; Should not have any current career development
+  awards (i.e. K23, K08, or any other type of career development award) and have not
+  been a Principal Investigator on any large project grants (i.e. R01 or international
+  equivalent, or private foundation grants); $200,000 over three years to pay for
+  personnel and/or research expenses, and travel to attend the CCF Grants and Awards
+  Ceremony at the ASCO Annual Meeting.'
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-24T10:42:12Z'
+subjects:
+- medicine-and-health-sciences
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: Career Development Award The Career Development Award (CDA) provides
+  research funding to clinical investigators, who have received their initial faculty
+  appointment, as they work to establish an independent clinical cancer research program.
+  This research must have a patient-oriented focus, including a clinical research
+  study and/or translational research involving human subjects. Proposals with a predominant
+  focus on in vitro or animal studies (even if clinically relevant) are not allowed.
+  American Society for Clinical Oncology MD Medicine and Health Sciences Fellowship,
+  scholarship or training Research United States
+source: legacy-import

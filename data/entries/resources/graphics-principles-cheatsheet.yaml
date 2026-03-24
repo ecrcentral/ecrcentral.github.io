@@ -1,0 +1,20 @@
+id: resource-graphics-principles-cheatsheet
+legacy_id: 7
+slug: graphics-principles-cheatsheet
+name: Graphics principles cheatsheet
+url: https://graphicsprinciples.github.io/
+description: A useful initiative to increase the graphical expertise and productivity
+  of quantitative scientists.
+source_name: Novartis
+funders: []
+resource_categories:
+- science-communication
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2019-01-15T23:01:00Z'
+updated_at: '2019-02-05T21:07:28Z'
+source: legacy-import

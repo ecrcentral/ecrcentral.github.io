@@ -1,0 +1,33 @@
+id: travel-grant-fulbright-travel-grant
+legacy_id: 53
+slug: fulbright-travel-grant
+name: Fulbright travel grant
+url: https://awards.cies.org/
+description: null
+funders:
+- fulbright-program
+legacy_funder_name: US Bureau of Educational and Cultural Affairs
+applicant_country: US
+host_country: null
+award: it varies
+deadline: Application deadline depend on the grant scheme
+deadline_month: null
+membership: null
+membership_time: NA
+purpose_text: null
+career_levels: []
+subjects:
+- all-subjects
+travel_purposes:
+- collaboration
+- learn-new-technique
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: Fulbright travel grant Fulbright Program All subjects Collaboration Learn
+  new technique US
+source: legacy-import

@@ -1,0 +1,35 @@
+id: travel-grant-arr-travel-bursaries
+legacy_id: 75
+slug: arr-travel-bursaries
+name: ARR Travel bursaries
+url: https://www.le.ac.uk/cm/arr/travelbursary.html
+description: <p>Travel bursaries are available from the Association for Radiation
+  Research (ARR) to attend both the annual ARR meeting and alternative, radiation
+  focused non-ARR meetings.</p>
+funders: []
+legacy_funder_name: Association for Radiation Research (ARR)
+applicant_country: United Kingdom
+host_country: null
+award: £500
+deadline: 31 May, 30 Nov
+deadline_month: May, November
+membership: 'Yes'
+membership_time: null
+purpose_text: null
+career_levels:
+- phd
+- postdoc
+subjects: []
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: ARR Travel bursaries <p>Travel bursaries are available from the Association
+  for Radiation Research (ARR) to attend both the annual ARR meeting and alternative,
+  radiation focused non-ARR meetings.</p> PhD Postdoc Conference United Kingdom
+source: legacy-import

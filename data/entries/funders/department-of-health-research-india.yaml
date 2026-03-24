@@ -1,0 +1,20 @@
+id: funder-department-of-health-research-india
+legacy_id: 290
+slug: department-of-health-research-india
+name: Department of Health Research, India
+short_name: Department of Health Research, India
+funder_registry_id: '501100009104'
+country: India
+website: null
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2020-05-21T09:36:15Z'
+source: legacy-import

@@ -1,0 +1,52 @@
+id: funding-new-investigator-grant
+legacy_id: 499
+slug: new-investigator-grant
+name: New Investigator Grant
+description: New investigator research grants of the Scoliosis Research Society are
+  meant to stimulate younger members into a career of investigation in spinal deformity.
+url: http://www.srs.org/professionals/research-and-journal/research-grants
+funders:
+- scoliosis-research-society
+legacy_funder_name: Scoliosis Research Society
+host_country: United States
+applicant_country: United States
+career_levels:
+- phd
+years_since_phd: '5'
+duration: '2'
+award: $30,000 max
+mobility_rule: null
+research_costs: null
+deadline: March
+deadline_month: March
+diversity: null
+comments: Open to SRS Candidate Fellows or investigators who have not previously received
+  an SRS Standard Grant, ORS, OREF, USA Federal grant (or OUS equivalent) and have
+  completed 10 years or less of practice or at the committee’s discretion. The work
+  must be both conceptualized and executed by the young investigator. Reviewers will
+  consider the extent of which the project seems to be the young investigator’s own
+  work rather than that of a more senior collaborator. Involvement, however, of an
+  experienced mentor in an advisory role is encouraged and will be viewed positively.
+  Applicants do not need to be members of the SRS but do need to have at least one
+  SRS member as a co-investigator. Funds are for work to be performed, not works in
+  progress or already completed.
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-22T18:15:00Z'
+subjects:
+- medicine-and-health-sciences
+funding_purposes:
+- research
+search_text: New Investigator Grant New investigator research grants of the Scoliosis
+  Research Society are meant to stimulate younger members into a career of investigation
+  in spinal deformity. Scoliosis Research Society PhD Medicine and Health Sciences
+  Research United States United States
+source: legacy-import

@@ -1,0 +1,20 @@
+id: funder-actelion-pharmaceuticals
+legacy_id: 226
+slug: actelion-pharmaceuticals
+name: Actelion Pharmaceuticals
+short_name: Actelion Pharmaceuticals
+funder_registry_id: '100005646'
+country: Switzerland
+website: null
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2020-05-21T09:36:15Z'
+source: legacy-import

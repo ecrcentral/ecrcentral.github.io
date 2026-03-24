@@ -1,0 +1,77 @@
+id: funding-ford-foundation-fellowships
+legacy_id: 132
+slug: ford-foundation-fellowships
+name: Ford Foundation Fellowships
+description: "Through its Fellowship Programs, the Ford Foundation seeks to increase\
+  \ the diversity of the nation’s college and university faculties by increasing their\
+  \ ethnic and racial diversity, maximize the educational benefits of diversity, and\
+  \ increase the number of professors who can and will use diversity as a resource\
+  \ for enriching the education of all students.\r\n\r\nPredoctoral, Dissertation,\
+  \ and Postdoctoral fellowships will be awarded in a national competition administered\
+  \ by the National Academies of Sciences, Engineering, and Medicine on behalf of\
+  \ the Ford Foundation."
+url: http://sites.nationalacademies.org/pga/fordfellowships/index.htm
+funders:
+- national-academies-of-sciences-engineering-and-medicine
+legacy_funder_name: National Academies of Sciences, Engineering, and Medicine
+host_country: United States
+applicant_country: United States
+career_levels:
+- phd
+- master-students
+years_since_phd: No rule
+duration: '3'
+award: null
+mobility_rule: null
+research_costs: null
+deadline: December
+deadline_month: December
+diversity: null
+comments: null
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-30T18:49:47Z'
+subjects:
+- engineering
+- arts-and-humanities
+- education
+- social-and-behavioral-sciences
+- biology
+- ecology-and-evolutionary-biology
+- history
+- physical-sciences-and-mathematics
+- computer-sciences
+- history-of-art-architecture-and-archaeology
+- philosophy
+- religion
+- theatre-and-performance-studies
+- anthropology
+- communication
+- psychology
+- sociology
+- literature-and-languages
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: "Ford Foundation Fellowships Through its Fellowship Programs, the Ford\
+  \ Foundation seeks to increase the diversity of the nation’s college and university\
+  \ faculties by increasing their ethnic and racial diversity, maximize the educational\
+  \ benefits of diversity, and increase the number of professors who can and will\
+  \ use diversity as a resource for enriching the education of all students.\r\n\r\
+  \nPredoctoral, Dissertation, and Postdoctoral fellowships will be awarded in a national\
+  \ competition administered by the National Academies of Sciences, Engineering, and\
+  \ Medicine on behalf of the Ford Foundation. National Academies of Sciences, Engineering,\
+  \ and Medicine PhD Master students Engineering Arts and Humanities Education Social\
+  \ and Behavioral Sciences Biology Ecology and Evolutionary Biology History Physical\
+  \ Sciences and Mathematics Computer Sciences History of Art, Architecture, and Archaeology\
+  \ Philosophy Religion Theatre and Performance Studies Anthropology Communication\
+  \ Psychology Sociology Literature and Languages Fellowship, scholarship or training\
+  \ United States United States"
+source: legacy-import

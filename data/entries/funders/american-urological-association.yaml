@@ -1,0 +1,20 @@
+id: funder-american-urological-association
+legacy_id: 608
+slug: american-urological-association
+name: American Urological Association
+short_name: American Urological Association
+funder_registry_id: '100001466'
+country: United States
+website: https://www.auanet.org/
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-05-24T13:38:05Z'
+updated_at: '2020-05-24T13:38:05Z'
+source: legacy-import

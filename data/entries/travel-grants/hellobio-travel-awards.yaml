@@ -1,0 +1,30 @@
+id: travel-grant-hellobio-travel-awards
+legacy_id: 70
+slug: hellobio-travel-awards
+name: Hellobio Travel Awards
+url: https://www.hellobio.com/blog/apply-for-our-travel-awards-its-easy.html
+description: null
+funders: []
+legacy_funder_name: Hello Bio
+applicant_country: Worldwide
+host_country: null
+award: $500
+deadline: Every month
+deadline_month: null
+membership: 'No'
+membership_time: null
+purpose_text: null
+career_levels:
+- phd
+subjects: []
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: Hellobio Travel Awards PhD Conference Worldwide
+source: legacy-import

@@ -1,0 +1,54 @@
+id: funding-st-baldricks-scholars
+legacy_id: 494
+slug: st-baldricks-scholars
+name: St. Baldrick's Scholars
+description: The St. Baldrick’s Foundation works hard to be sure that every dollar
+  makes the biggest impact possible in childhood cancer research. The Scholar (Career
+  Development) Award is meant to help develop the independent research of highly qualified
+  individuals still early in their careers.
+url: https://www.stbaldricks.org/for-researchers
+funders:
+- st-baldricks-foundation
+legacy_funder_name: St. Baldrick's Foundation
+host_country: United States
+applicant_country: United States
+career_levels:
+- phd
+- junior-faculty
+years_since_phd: 7 years of the initial independent full faculty appointment
+duration: null
+award: $560,000 (maximum)
+mobility_rule: 'No'
+research_costs: null
+deadline: April / September
+deadline_month: April, September
+diversity: null
+comments: 'The Foundation encourages applications from institutions with fellowship
+  programs which have not previously received St. Baldrick’s funding for this grant
+  mechanism. Eligibility: Junior Faculty: within first five years as a faculty member,
+  post-fellowship;  Ph.D., M.D., or D.O. degree; Applicants holding or awarded R01s
+  of NIH K-award at the time of the LOI are not eligible to apply (institutional K12
+  funding is allowed). $330,000 over three years; opportunity for two additional years
+  at $115,000 per year; to be used for Scholar''s salary and benefits only.'
+benefits: Recipients are called St. Baldrick’s Scholars. Scholars may also receive
+  funding from other sources to support their research.
+frequency: Biennial
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-22T17:08:41Z'
+subjects:
+- medicine-and-health-sciences
+funding_purposes: []
+search_text: St. Baldrick's Scholars The St. Baldrick’s Foundation works hard to be
+  sure that every dollar makes the biggest impact possible in childhood cancer research.
+  The Scholar (Career Development) Award is meant to help develop the independent
+  research of highly qualified individuals still early in their careers. St. Baldrick's
+  Foundation PhD Junior Faculty Medicine and Health Sciences United States United
+  States
+source: legacy-import

@@ -1,0 +1,45 @@
+id: funding-dalsemer-research-grants
+legacy_id: 395
+slug: dalsemer-research-grants
+name: Dalsemer Research Grants
+description: null
+url: https://www.lung.org/research/awards-and-grants-opportunities
+funders:
+- american-lung-association
+legacy_funder_name: American Lung Association
+host_country: United States
+applicant_country: null
+career_levels: []
+years_since_phd: 'At the time of application, candidates must be United States citizens
+  or foreign nationals holding one of the following visa immigration statuses: permanent
+  resident (Green Card), exchange vi'
+duration: 2 years
+award: $100 000
+mobility_rule: null
+research_costs: null
+deadline: December
+deadline_month: December
+diversity: null
+comments: The American Lung Association is accepting applications for its mentored
+  Dalsemer Research Grant. Grants of $40,000 per year for up to two years will be
+  awarded to junior investigators researching the mechanisms and biology of interstitial
+  lung disease. To be eligible, applicants should be on track to pursue a career in
+  lung health research with a mentor who has a demonstrated history of lung disease
+  research and mentorship.
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-18T21:33:20Z'
+subjects:
+- medicine-and-health-sciences
+funding_purposes: []
+search_text: Dalsemer Research Grants American Lung Association Medicine and Health
+  Sciences United States
+source: legacy-import

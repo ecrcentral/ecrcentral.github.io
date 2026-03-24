@@ -1,0 +1,20 @@
+id: funder-childrens-discovery-institute
+legacy_id: 277
+slug: childrens-discovery-institute
+name: Children's Discovery Institute
+short_name: Children's Discovery Institute
+funder_registry_id: '100009340'
+country: United States
+website: null
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2020-05-21T09:36:15Z'
+source: legacy-import

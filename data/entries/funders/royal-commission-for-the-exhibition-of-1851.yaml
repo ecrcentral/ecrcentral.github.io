@@ -1,0 +1,20 @@
+id: funder-royal-commission-for-the-exhibition-of-1851
+legacy_id: 579
+slug: royal-commission-for-the-exhibition-of-1851
+name: Royal Commission for the Exhibition of 1851
+short_name: Royal Commission for the Exhibition of 1851
+funder_registry_id: '501100000700'
+country: United Kingdom
+website: https://www.royalcommission1851.org
+logo: /logos/funders/royal-commission-for-the-exhibition-of-1851.png
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-05-23T11:04:15Z'
+updated_at: '2020-05-23T11:04:15Z'
+source: legacy-import

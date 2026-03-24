@@ -1,0 +1,22 @@
+id: resource-career-trends-booklets
+legacy_id: 24
+slug: career-trends-booklets
+name: Career Trends Booklets
+url: https://www.sciencemag.org/booklets
+description: A list of useful booklets brings together advice and tips from Science
+  Careers in order to help scientists to learn new skills and be successful.
+source_name: Science careers
+funders: []
+resource_categories:
+- career-development
+- science-communication
+- academic-writing
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2019-01-28T11:10:00Z'
+updated_at: '2019-01-28T11:24:13Z'
+source: legacy-import

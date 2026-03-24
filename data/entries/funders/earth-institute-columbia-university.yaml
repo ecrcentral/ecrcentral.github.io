@@ -1,0 +1,20 @@
+id: funder-earth-institute-columbia-university
+legacy_id: 298
+slug: earth-institute-columbia-university
+name: Earth Institute, Columbia University
+short_name: Earth Institute, Columbia University
+funder_registry_id: '100005695'
+country: United States
+website: null
+logo: /logos/funders/earth-institute-columbia-university.png
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2020-05-29T01:50:02Z'
+source: legacy-import

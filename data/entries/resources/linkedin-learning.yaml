@@ -1,0 +1,19 @@
+id: resource-linkedin-learning
+legacy_id: 119
+slug: linkedin-learning
+name: LinkedIn Learning
+url: https://www.linkedin.com/learning/
+description: Courses for every step of your career. Instructors with real-world experience.
+source_name: LinkedIn
+funders: []
+resource_categories:
+- career-development
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-03-25T19:01:00Z'
+updated_at: '2020-03-25T19:02:00Z'
+source: legacy-import

@@ -1,0 +1,230 @@
+---
+import type { FacetValue } from '../../lib/schema'
+
+interface Props {
+  entityType: 'fundings' | 'travel_grants' | 'resources' | 'funders'
+  facets: Record<string, FacetValue[]>
+}
+
+const { entityType, facets } = Astro.props
+
+// Human-readable group labels
+const groupLabels: Record<string, string> = {
+  status: 'Status',
+  funder: 'Funder',
+  career_level: 'Career Level',
+  career_levels: 'Career Level',
+  subject: 'Subject / Field',
+  subjects: 'Subject / Field',
+  funding_purpose: 'Funding Purpose',
+  funding_purposes: 'Funding Purpose',
+  travel_purpose: 'Travel Purpose',
+  travel_purposes: 'Travel Purpose',
+  applicant_country: 'Applicant Country',
+  host_country: 'Host Country',
+  deadline_month: 'Deadline Month',
+  frequency: 'Frequency',
+  category: 'Category',
+  resource_categories: 'Category',
+  country: 'Country',
+  featured: 'Featured',
+  membership: 'Membership',
+  diversity: 'Diversity Flag',
+}
+
+// Define preferred order per entity type
+// Keys must match the actual keys emitted by build_facets.py
+const groupOrder: Record<string, string[]> = {
+  fundings: ['status', 'career_levels', 'funding_purposes', 'subject', 'funder', 'applicant_country', 'host_country', 'frequency', 'featured'],
+  travel_grants: ['status', 'career_levels', 'travel_purposes', 'subject', 'funder', 'applicant_country', 'membership', 'featured'],
+  resources: ['status', 'resource_categories', 'subject', 'featured'],
+  funders: ['status', 'country', 'featured'],
+}
+
+const orderedGroups = (groupOrder[entityType] || Object.keys(facets))
+  .filter(key => facets[key] && facets[key].length > 0)
+
+const hasAnyFacets = orderedGroups.length > 0
+---
+
+<div class="facet-sidebar" id="facet-sidebar">
+  <button
+    class="facet-mobile-toggle"
+    id="facet-mobile-toggle"
+    aria-expanded="false"
+    aria-controls="facet-sidebar-content"
+    type="button"
+  >
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+      <line x1="4" y1="6" x2="20" y2="6"/>
+      <line x1="4" y1="12" x2="14" y2="12"/>
+      <line x1="4" y1="18" x2="18" y2="18"/>
+    </svg>
+    Filters
+    <span id="facet-active-count" style="margin-left:auto;font-size:11px;background:var(--color-primary);color:white;border-radius:9999px;padding:2px 7px;display:none;">0</span>
+  </button>
+
+  <div class="facet-sidebar-content" id="facet-sidebar-content">
+    <div class="facet-panel">
+      <div class="facet-header">
+        <span class="facet-header-title">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true" style="display:inline;vertical-align:middle;margin-right:4px;">
+            <line x1="4" y1="6" x2="20" y2="6"/>
+            <line x1="4" y1="12" x2="14" y2="12"/>
+            <line x1="4" y1="18" x2="18" y2="18"/>
+          </svg>
+          Filters
+        </span>
+        <button class="facet-clear-btn" id="facet-clear-all" type="button" aria-label="Clear all filters">
+          Clear all
+        </button>
+      </div>
+
+      {!hasAnyFacets && (
+        <div style="padding:20px;text-align:center;color:var(--color-muted);font-size:var(--font-size-sm);">
+          No filters available
+        </div>
+      )}
+
+      {orderedGroups.map(groupKey => {
+        const values = facets[groupKey]
+        const label = groupLabels[groupKey] || groupKey.replace(/_/g, ' ')
+        // Show top 8 by default, more via show-more
+        const topValues = values.slice(0, 8)
+        const extraValues = values.slice(8)
+        return (
+          <details class="facet-group" data-facet-group={groupKey} open={groupKey === 'status'}>
+            <summary>
+              {label}
+              <svg class="facet-group-icon" width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" aria-hidden="true">
+                <polyline points="6 9 12 15 18 9"/>
+              </svg>
+            </summary>
+            <div class="facet-options" role="group" aria-label={`Filter by ${label}`}>
+              {topValues.map(facetValue => (
+                <label class="facet-option">
+                  <input
+                    type="checkbox"
+                    name={groupKey}
+                    value={facetValue.value}
+                    data-facet-key={groupKey}
+                    data-facet-value={facetValue.value}
+                    aria-label={`${facetValue.label} (${facetValue.count})`}
+                  />
+                  <span class="facet-option-label">{facetValue.label}</span>
+                  <span class="facet-option-count">{facetValue.count.toLocaleString()}</span>
+                </label>
+              ))}
+              {extraValues.length > 0 && (
+                <details class="facet-more" style="margin-top:2px;">
+                  <summary style="font-size:var(--font-size-xs);color:var(--color-primary);cursor:pointer;list-style:none;padding:2px 0;">
+                    Show {extraValues.length} more...
+                  </summary>
+                  {extraValues.map(facetValue => (
+                    <label class="facet-option" style="margin-top:4px;">
+                      <input
+                        type="checkbox"
+                        name={groupKey}
+                        value={facetValue.value}
+                        data-facet-key={groupKey}
+                        data-facet-value={facetValue.value}
+                        aria-label={`${facetValue.label} (${facetValue.count})`}
+                      />
+                      <span class="facet-option-label">{facetValue.label}</span>
+                      <span class="facet-option-count">{facetValue.count.toLocaleString()}</span>
+                    </label>
+                  ))}
+                </details>
+              )}
+            </div>
+          </details>
+        )
+      })}
+    </div>
+  </div>
+</div>
+
+<script>
+  // ── Mobile toggle ───────────────────────────────────────────
+  const mobileToggle = document.getElementById('facet-mobile-toggle')
+  const sidebarContent = document.getElementById('facet-sidebar-content')
+
+  if (mobileToggle && sidebarContent) {
+    mobileToggle.addEventListener('click', () => {
+      const isOpen = sidebarContent.classList.contains('mobile-open')
+      sidebarContent.classList.toggle('mobile-open', !isOpen)
+      mobileToggle.setAttribute('aria-expanded', String(!isOpen))
+    })
+  }
+
+  // ── Restore checkbox state from URL on load ─────────────────
+  function getFiltersFromURL(): Record<string, string[]> {
+    const params = new URLSearchParams(window.location.search)
+    const filters: Record<string, string[]> = {}
+    for (const [key, value] of params.entries()) {
+      if (key === 'q') continue
+      if (!filters[key]) filters[key] = []
+      filters[key].push(value)
+    }
+    return filters
+  }
+
+  function updateActiveCount(filters: Record<string, string[]>) {
+    const total = Object.values(filters).reduce((sum, arr) => sum + arr.length, 0)
+    const countEl = document.getElementById('facet-active-count')
+    if (countEl) {
+      countEl.textContent = String(total)
+      countEl.style.display = total > 0 ? '' : 'none'
+    }
+  }
+
+  function applyCheckboxState(filters: Record<string, string[]>) {
+    document.querySelectorAll<HTMLInputElement>('input[data-facet-key]').forEach(cb => {
+      const key = cb.dataset.facetKey!
+      const val = cb.dataset.facetValue!
+      cb.checked = filters[key]?.includes(val) ?? false
+    })
+  }
+
+  const currentFilters = getFiltersFromURL()
+  applyCheckboxState(currentFilters)
+  updateActiveCount(currentFilters)
+
+  // Open groups that have active filters
+  Object.keys(currentFilters).forEach(key => {
+    const group = document.querySelector<HTMLDetailsElement>(`details[data-facet-group="${key}"]`)
+    if (group) group.open = true
+  })
+
+  // ── Handle checkbox changes ─────────────────────────────────
+  document.querySelectorAll<HTMLInputElement>('input[data-facet-key]').forEach(cb => {
+    cb.addEventListener('change', () => {
+      const params = new URLSearchParams(window.location.search)
+      // Preserve search query
+      const q = params.get('q')
+
+      // Rebuild params from all checked boxes
+      params.delete(cb.dataset.facetKey!)
+
+      document.querySelectorAll<HTMLInputElement>(`input[data-facet-key="${cb.dataset.facetKey}"]`)
+        .forEach(sibling => {
+          if (sibling.checked) params.append(cb.dataset.facetKey!, sibling.value)
+        })
+
+      if (q) params.set('q', q)
+
+      // Navigate
+      window.location.search = params.toString()
+    })
+  })
+
+  // ── Clear all ───────────────────────────────────────────────
+  const clearBtn = document.getElementById('facet-clear-all')
+  if (clearBtn) {
+    clearBtn.addEventListener('click', () => {
+      const params = new URLSearchParams(window.location.search)
+      const q = params.get('q')
+      window.location.search = q ? `q=${encodeURIComponent(q)}` : ''
+    })
+  }
+</script>

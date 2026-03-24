@@ -1,0 +1,34 @@
+id: travel-grant-scientific-congresses
+legacy_id: 16
+slug: scientific-congresses
+name: Scientific Congresses
+url: http://www.fnrs.be/en/index.php/funding/scientific-congresses
+description: null
+funders: []
+legacy_funder_name: FNRS Freedom to Research
+applicant_country: Anyone, but for congress organization the organising committee
+  should include professors from at least two universities from the Wallonia-Brussels
+  Federation
+host_country: null
+award: null
+deadline: 'Congress attendance: 2 (European) or 3 (non-European) months before; Congress
+  organization: 6 months before'
+deadline_month: null
+membership: 'No'
+membership_time: NA
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: Scientific Congresses Conference Anyone, but for congress organization
+  the organising committee should include professors from at least two universities
+  from the Wallonia-Brussels Federation
+source: legacy-import

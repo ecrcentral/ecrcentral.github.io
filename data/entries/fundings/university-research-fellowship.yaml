@@ -1,0 +1,46 @@
+id: funding-university-research-fellowship
+legacy_id: 171
+slug: university-research-fellowship
+name: University Research Fellowship
+description: This scheme is for outstanding scientists who are in the early stages
+  of their research career and have the potential to become leaders in their field.
+url: https://royalsociety.org/grants-schemes-awards/grants
+funders:
+- the-royal-society
+legacy_funder_name: Royal Society
+host_country: United Kingdom
+applicant_country: Worldwide
+career_levels:
+- phd
+- postdoc
+years_since_phd: 3-8
+duration: '5'
+award: Salary plus support for research assistance
+mobility_rule: null
+research_costs: £13,000 in year one and £11,000 per year thereafter
+deadline: September
+deadline_month: September
+diversity: null
+comments: This scheme is highly flexible to accommodate for part-time working, sabbaticals
+  and secondments. There is also provision for maternity, paternity, adoptive or extended
+  sick leave.
+benefits: null
+frequency: Annual
+fileds: null
+featured: true
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T11:26:37Z'
+subjects:
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: University Research Fellowship This scheme is for outstanding scientists
+  who are in the early stages of their research career and have the potential to become
+  leaders in their field. The Royal Society PhD Postdoc All subjects Fellowship, scholarship
+  or training United Kingdom Worldwide
+source: legacy-import

@@ -1,0 +1,35 @@
+---
+interface Props {
+  title: string
+  viewAllUrl: string
+  viewAllLabel?: string
+  emptyMessage?: string
+  alt?: boolean
+}
+
+const {
+  title,
+  viewAllUrl,
+  viewAllLabel = 'View all',
+  emptyMessage = 'No featured items yet.',
+  alt = false,
+} = Astro.props
+---
+
+<section class={`section${alt ? ' section-alt' : ''}`}>
+  <div class="container">
+    <div class="section-header">
+      <h2 class="section-title">{title}</h2>
+      <a href={viewAllUrl} class="section-view-all">
+        {viewAllLabel}
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
+          <path d="M5 12h14M12 5l7 7-7 7"/>
+        </svg>
+      </a>
+    </div>
+
+    <slot>
+      <p class="text-muted">{emptyMessage}</p>
+    </slot>
+  </div>
+</section>

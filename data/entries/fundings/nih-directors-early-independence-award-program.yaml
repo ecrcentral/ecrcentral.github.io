@@ -1,0 +1,52 @@
+id: funding-nih-directors-early-independence-award-program
+legacy_id: 584
+slug: nih-directors-early-independence-award-program
+name: NIH Director's Early Independence Award Program
+description: Part of the High-Risk, High-Reward Research program, the award supports
+  outstanding junior scientists with the intellect, scientific creativity, drive,
+  and maturity bypass the traditional postdoctoral training period to launch independent
+  research careers.
+url: https://commonfund.nih.gov/earlyindependence
+funders:
+- national-institutes-of-health-nih
+legacy_funder_name: National Institutes of Health
+host_country: United States
+applicant_country: null
+career_levels:
+- postdoc
+years_since_phd: 0-1
+duration: '5'
+award: $1 250 000
+mobility_rule: 'No'
+research_costs: null
+deadline: July for internal deadline (limited submission)
+deadline_month: July
+diversity: null
+comments: 'LIMITED SUBMISSION (limit 2 applications from JHU): The NIH Common Fund
+  has established the NIH Director''s Early Independence Award to provide a mechanism
+  for exceptional early career scientists to move rapidly into independent research
+  positions at U.S. institutions by essentially omitting the traditional post-doctoral
+  training period. Must be within 12 months of terminal research degree and in non-independent
+  position at time of submission. Need support & commitment of host institution. Awards
+  up to $250K per year for 5 years. ($1,250,000 over five years)'
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-24T10:49:26Z'
+subjects:
+- life-sciences
+funding_purposes:
+- research
+search_text: NIH Director's Early Independence Award Program Part of the High-Risk,
+  High-Reward Research program, the award supports outstanding junior scientists with
+  the intellect, scientific creativity, drive, and maturity bypass the traditional
+  postdoctoral training period to launch independent research careers. National Institutes
+  of Health (NIH) Postdoc Life Sciences Research United States
+source: legacy-import

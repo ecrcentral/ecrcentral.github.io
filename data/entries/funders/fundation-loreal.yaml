@@ -1,0 +1,20 @@
+id: funder-fundation-loreal
+legacy_id: 648
+slug: fundation-loreal
+name: Fundation L'ORÉAL
+short_name: Fundation L'ORÉAL
+funder_registry_id: fundation-l'oreal
+country: France
+website: https://www.fondationloreal.com/en
+logo: /logos/funders/fundation-loreal.jpg
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-06-28T19:56:34Z'
+updated_at: '2020-06-28T19:56:34Z'
+source: legacy-import

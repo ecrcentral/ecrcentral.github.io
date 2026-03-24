@@ -1,0 +1,22 @@
+id: resource-review-of-electronic-lab-notebooks
+legacy_id: 30
+slug: review-of-electronic-lab-notebooks
+name: Review of electronic lab notebooks
+url: https://datamanagement.hms.harvard.edu/electronic-lab-notebooks
+description: A detailed comparison of Electronic Lab Notebooks (ELN) to help researchers
+  in the process of identifying a usable ELN solution to meet their specific research
+  needs.
+source_name: Harvard Biomedical School
+funders: []
+resource_categories:
+- reproducibility
+- science-communication
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2019-01-30T14:59:00Z'
+updated_at: '2019-01-30T18:01:39Z'
+source: legacy-import

@@ -1,0 +1,23 @@
+id: resource-romeo-publisher-copyright-policies-self-archiving
+legacy_id: 31
+slug: romeo-publisher-copyright-policies-self-archiving
+name: RoMEO - Publisher copyright policies & self-archiving
+url: http://www.sherpa.ac.uk/romeo/index.php
+description: An online resource that aggregates publisher open access policies and
+  shows whether the academic journal allows preprint or postprint archiving in their
+  copyright transfer agreements.
+source_name: SHERPA
+funders: []
+resource_categories:
+- policy
+- preprints
+- publishing
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2019-02-03T14:16:00Z'
+updated_at: '2019-02-03T14:18:25Z'
+source: legacy-import

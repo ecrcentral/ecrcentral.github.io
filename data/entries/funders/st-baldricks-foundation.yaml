@@ -1,0 +1,20 @@
+id: funder-st-baldricks-foundation
+legacy_id: 524
+slug: st-baldricks-foundation
+name: St. Baldrick's Foundation
+short_name: St. Baldrick's Foundation
+funder_registry_id: '100006058'
+country: United States
+website: null
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2020-05-21T09:36:16Z'
+source: legacy-import

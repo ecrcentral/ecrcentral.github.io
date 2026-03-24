@@ -1,0 +1,29 @@
+id: travel-grant-lasa-bursaries
+legacy_id: 39
+slug: lasa-bursaries
+name: LASA Bursaries
+url: http://www.lasa.co.uk/bursaries/
+description: null
+funders: []
+legacy_funder_name: Laboratory Animal Science Association (LASA)
+applicant_country: null
+host_country: null
+award: up to £1000 (UK)
+deadline: Any time
+deadline_month: null
+membership: 'No'
+membership_time: NA
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: LASA Bursaries Conference
+source: legacy-import

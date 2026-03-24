@@ -1,0 +1,53 @@
+id: funding-ernst-rutherford-fellowship
+legacy_id: 178
+slug: ernst-rutherford-fellowship
+name: Ernst Rutherford Fellowship
+description: The Ernest Rutherford Fellowships will enable early career researchers
+  with clear leadership potential to establish a strong, independent research programme.
+  They will encourage talented researchers in UK universities to remain in the country
+  and at the same time attract outstanding overseas researchers to the UK.
+url: http://www.stfc.ac.uk/funding/fellowships/ernest-rutherford-fellowship
+funders:
+- science-and-technology-facilities-council
+legacy_funder_name: Science & Technology Facilities Council
+host_country: United Kingdom
+applicant_country: Worldwide
+career_levels:
+- phd
+- postdoc
+years_since_phd: N/A
+duration: '5'
+award: 80% of the full economic costs requested (host institute must match the remaining
+  20%)
+mobility_rule: 'No'
+research_costs: Minor equipment and consumables up to a total of £5000
+deadline: September
+deadline_month: September
+diversity: null
+comments: You are not eligible if you currently hold a permanent academic position
+  or the equivalent in institutions other than universities.
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T13:54:02Z'
+subjects:
+- physical-sciences-and-mathematics
+- astrophysics-and-astronomy
+- physics
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Ernst Rutherford Fellowship The Ernest Rutherford Fellowships will enable
+  early career researchers with clear leadership potential to establish a strong,
+  independent research programme. They will encourage talented researchers in UK universities
+  to remain in the country and at the same time attract outstanding overseas researchers
+  to the UK. Science and Technology Facilities Council PhD Postdoc Physical Sciences
+  and Mathematics Astrophysics and Astronomy Physics Fellowship, scholarship or training
+  United Kingdom Worldwide
+source: legacy-import

@@ -1,0 +1,214 @@
+---
+import BaseLayout from '../../components/layout/BaseLayout.astro'
+import FundingCard from '../../components/cards/FundingCard.astro'
+import FacetPanel from '../../components/facets/FacetPanel.astro'
+import SearchBox from '../../components/search/SearchBox.astro'
+import { fundings, facets } from '../../lib/data'
+
+// Pre-filter to approved + non-draft for the public listing
+const publicFundings = fundings.filter(f => f.review_status === 'approved' || f.status === 'active')
+
+// Read initial query from URL (for SSR-like experience on first load)
+const url = Astro.url
+const initialQuery = url.searchParams.get('q') || ''
+
+const totalCount = publicFundings.length
+const activeFundingFacets = facets.fundings || {}
+---
+
+<BaseLayout
+  title="Funding Opportunities"
+  description={`Browse ${totalCount} funding opportunities for early career researchers. Filter by career level, subject, country, funder, and more.`}
+  canonical="/fundings/"
+>
+  <div class="page-header">
+    <div class="container">
+      <h1 class="page-header-title">Funding Opportunities</h1>
+      <p class="page-header-subtitle">
+        Fellowships, grants, and awards for early career researchers worldwide.
+      </p>
+    </div>
+  </div>
+
+  <div class="container" style="padding-top:32px;padding-bottom:64px;">
+    <div class="listing-layout">
+      <!-- Facet sidebar -->
+      <aside aria-label="Filter funding opportunities">
+        <FacetPanel entityType="fundings" facets={activeFundingFacets} />
+      </aside>
+
+      <!-- Main content -->
+      <div>
+        <!-- Search + controls bar -->
+        <div class="listing-controls" style="margin-bottom:20px;">
+          <div style="flex:1;max-width:420px;">
+            <SearchBox
+              placeholder="Search fundings..."
+              value={initialQuery}
+              id="fundings-search"
+              ariaLabel="Search funding opportunities"
+            />
+          </div>
+          <p class="listing-count" aria-live="polite" id="results-count">
+            Showing <strong id="visible-count">{totalCount}</strong> of {totalCount} fundings
+          </p>
+        </div>
+
+        <!-- No results message (hidden by default) -->
+        <div id="no-results" class="no-results" style="display:none;" aria-live="polite">
+          <div class="no-results-icon" aria-hidden="true">🔍</div>
+          <p class="no-results-title">No fundings match your filters</p>
+          <p class="text-muted">Try adjusting your search or clearing some filters.</p>
+          <button
+            type="button"
+            class="btn btn-outline"
+            style="margin-top:16px;"
+            onclick="window.location.search=''"
+          >
+            Clear all filters
+          </button>
+        </div>
+
+        <!-- Cards grid -->
+        <div class="cards-list" id="fundings-grid" aria-label="Funding opportunities">
+          {publicFundings.map(funding => (
+            <FundingCard funding={funding} />
+          ))}
+        </div>
+
+        <nav id="fundings-pagination" class="pagination" aria-label="Pagination"></nav>
+
+        {totalCount === 0 && (
+          <div class="no-results">
+            <div class="no-results-icon" aria-hidden="true">📭</div>
+            <p class="no-results-title">No funding opportunities yet</p>
+            <p class="text-muted">Be the first to add one!</p>
+            <a
+              href="https://github.com/ecrcentral/ecrcentral.github.io/issues/new?template=add_funding.yml"
+              class="btn btn-primary"
+              style="margin-top:16px;"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Add a funding opportunity
+            </a>
+          </div>
+        )}
+      </div>
+    </div>
+  </div>
+</BaseLayout>
+
+<script>
+  const grid = document.getElementById('fundings-grid')
+  const noResults = document.getElementById('no-results')
+  const visibleCountEl = document.getElementById('visible-count')
+  const searchInput = document.getElementById('fundings-search') as HTMLInputElement | null
+  const paginationEl = document.getElementById('fundings-pagination')
+
+  const PAGE_SIZE = 20
+  let currentPage = 1
+
+  function getFiltersFromURL(): Record<string, string[]> {
+    const params = new URLSearchParams(window.location.search)
+    const filters: Record<string, string[]> = {}
+    for (const [key, val] of params.entries()) {
+      if (key === 'q') continue
+      if (!filters[key]) filters[key] = []
+      filters[key].push(val)
+    }
+    return filters
+  }
+
+  function matchesFilters(card: HTMLElement, filters: Record<string, string[]>, query: string): boolean {
+    if (query) {
+      const searchText = card.dataset.searchText || card.dataset.name || ''
+      if (!searchText.includes(query.toLowerCase())) return false
+    }
+    if (filters.status?.length && !filters.status.includes(card.dataset.status || '')) return false
+    if (filters.funder?.length) {
+      const cardFunders = (card.dataset.funders || '').split(',').filter(Boolean)
+      if (!filters.funder.some(f => cardFunders.includes(f))) return false
+    }
+    if (filters.career_levels?.length) {
+      const levels = (card.dataset.careerLevels || '').split(',').filter(Boolean)
+      if (!filters.career_levels.some(c => levels.includes(c))) return false
+    }
+    if (filters.subject?.length) {
+      const subjects = (card.dataset.subjects || '').split(',').filter(Boolean)
+      if (!filters.subject.some(s => subjects.includes(s))) return false
+    }
+    if (filters.funding_purposes?.length) {
+      const purposes = (card.dataset.fundingPurposes || '').split(',').filter(Boolean)
+      if (!filters.funding_purposes.some(p => purposes.includes(p))) return false
+    }
+    if (filters.applicant_country?.length) {
+      const country = (card.dataset.applicantCountry || '').toLowerCase()
+      if (!filters.applicant_country.some(c => country.includes(c.toLowerCase()))) return false
+    }
+    if (filters.host_country?.length) {
+      const country = (card.dataset.hostCountry || '').toLowerCase()
+      if (!filters.host_country.some(c => country.includes(c.toLowerCase()))) return false
+    }
+    if (filters.deadline_month?.length && !filters.deadline_month.includes(card.dataset.deadlineMonth || '')) return false
+    if (filters.frequency?.length && !filters.frequency.includes(card.dataset.frequency || '')) return false
+    if (filters.featured?.includes('true') && card.dataset.featured !== 'true') return false
+    return true
+  }
+
+  function getPageNumbers(current: number, total: number): (number | '...')[] {
+    if (total <= 7) return Array.from({ length: total }, (_, i) => i + 1)
+    const pages: (number | '...')[] = [1]
+    if (current > 3) pages.push('...')
+    for (let p = Math.max(2, current - 1); p <= Math.min(total - 1, current + 1); p++) pages.push(p)
+    if (current < total - 2) pages.push('...')
+    pages.push(total)
+    return pages
+  }
+
+  function renderPagination(total: number) {
+    if (!paginationEl) return
+    const totalPages = Math.ceil(total / PAGE_SIZE)
+    if (totalPages <= 1) { paginationEl.innerHTML = ''; return }
+    let html = `<button class="pagination-btn" ${currentPage === 1 ? 'disabled' : ''} data-page="${currentPage - 1}" aria-label="Previous page">&#8249;</button>`
+    for (const p of getPageNumbers(currentPage, totalPages)) {
+      if (p === '...') html += `<span class="pagination-ellipsis">…</span>`
+      else html += `<button class="pagination-btn${p === currentPage ? ' active' : ''}" data-page="${p}" aria-label="Page ${p}"${p === currentPage ? ' aria-current="page"' : ''}>${p}</button>`
+    }
+    html += `<button class="pagination-btn" ${currentPage === totalPages ? 'disabled' : ''} data-page="${currentPage + 1}" aria-label="Next page">&#8250;</button>`
+    paginationEl.innerHTML = html
+    paginationEl.querySelectorAll<HTMLButtonElement>('button[data-page]').forEach(btn => {
+      btn.addEventListener('click', () => {
+        currentPage = parseInt(btn.dataset.page!)
+        applyFilters()
+        window.scrollTo({ top: 0, behavior: 'smooth' })
+      })
+    })
+  }
+
+  function applyFilters() {
+    if (!grid) return
+    const filters = getFiltersFromURL()
+    const query = searchInput?.value.trim() || new URLSearchParams(window.location.search).get('q') || ''
+    const cards = Array.from(grid.querySelectorAll<HTMLElement>('article[data-slug]'))
+    const matching = cards.filter(card => matchesFilters(card, filters, query))
+    const start = (currentPage - 1) * PAGE_SIZE
+    const end = start + PAGE_SIZE
+    cards.forEach(card => { card.style.display = 'none' })
+    matching.slice(start, end).forEach(card => { card.style.display = '' })
+    if (visibleCountEl) visibleCountEl.textContent = String(matching.length)
+    if (noResults) noResults.style.display = matching.length === 0 ? '' : 'none'
+    if (grid) grid.style.display = matching.length === 0 ? 'none' : ''
+    renderPagination(matching.length)
+  }
+
+  applyFilters()
+
+  if (searchInput) {
+    searchInput.value = new URLSearchParams(window.location.search).get('q') || ''
+    searchInput.addEventListener('search-change' as any, () => { currentPage = 1; applyFilters() })
+    searchInput.addEventListener('input', () => { currentPage = 1; applyFilters() })
+  }
+
+  window.addEventListener('popstate', () => { currentPage = 1; applyFilters() })
+</script>

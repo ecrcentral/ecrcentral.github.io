@@ -1,0 +1,20 @@
+id: funder-national-institutes-of-health-nih
+legacy_id: 128
+slug: national-institutes-of-health-nih
+name: National Institutes of Health (NIH)
+short_name: National Institutes of Health (NIH)
+funder_registry_id: '100000002'
+country: United States
+website: null
+logo: /logos/funders/national-institutes-of-health-nih.png
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2020-06-09T18:03:59Z'
+source: legacy-import

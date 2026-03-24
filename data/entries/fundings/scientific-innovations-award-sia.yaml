@@ -1,0 +1,51 @@
+id: funding-scientific-innovations-award-sia
+legacy_id: 520
+slug: scientific-innovations-award-sia
+name: Scientific Innovations Award (SIA)
+description: Brain Research Foundation (BRF) Annual Scientific Innovations Award supports
+  innovative discovery science in both basic and clinical neuroscience. This funding
+  mechanism is designed to support creative, cutting edge research in well-established
+  research laboratories, under the direction of established investigators.
+url: https://www.thebrf.org/for-researchers/scientific-innovations-award-2/
+funders:
+- brain-research-foundation
+legacy_funder_name: Brain Research Foundation
+host_country: United States
+applicant_country: United States
+career_levels:
+- senior-faculty
+years_since_phd: NA
+duration: '2'
+award: $150,000
+mobility_rule: 'No'
+research_costs: null
+deadline: June
+deadline_month: June
+diversity: null
+comments: The objective of the SIA is to support projects that may be too innovative
+  and speculative for traditional funding sources but still have a high likelihood
+  of producing important findings. It is expected that investigations supported by
+  these grants will yield high impact findings and result in major grant applications
+  and significant publications in high impact journals.
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-24T17:05:29Z'
+subjects:
+- medicine-and-health-sciences
+funding_purposes:
+- research
+search_text: Scientific Innovations Award (SIA) Brain Research Foundation (BRF) Annual
+  Scientific Innovations Award supports innovative discovery science in both basic
+  and clinical neuroscience. This funding mechanism is designed to support creative,
+  cutting edge research in well-established research laboratories, under the direction
+  of established investigators. Brain Research Foundation Senior Faculty Medicine
+  and Health Sciences Research United States United States
+source: legacy-import

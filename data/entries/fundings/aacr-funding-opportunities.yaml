@@ -1,0 +1,43 @@
+id: funding-aacr-funding-opportunities
+legacy_id: 665
+slug: aacr-funding-opportunities
+name: AACR Funding Opportunities
+description: null
+url: https://www.aacr.org/professionals/research-funding/current-funding-opportunities/
+funders:
+- american-association-for-cancer-research
+legacy_funder_name: American Association for Cancer Research
+host_country: null
+applicant_country: null
+career_levels: []
+years_since_phd: Varies
+duration: null
+award: Varies
+mobility_rule: 'No'
+research_costs: null
+deadline: Varies
+deadline_month: null
+diversity: null
+comments: AACR offers an array of support mechanisms for cancer researchers at various
+  stages in their careers, from fellowships to career development awards to grants
+  for independent investigators. Multiple grant programs are offered, please see website
+  for details of specific funding opportunities available
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-24T19:23:28Z'
+subjects:
+- life-sciences
+- medicine-and-health-sciences
+funding_purposes:
+- research
+search_text: AACR Funding Opportunities American Association for Cancer Research Life
+  Sciences Medicine and Health Sciences Research
+source: legacy-import

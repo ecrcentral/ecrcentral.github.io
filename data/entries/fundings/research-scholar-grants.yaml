@@ -1,0 +1,45 @@
+id: funding-research-scholar-grants
+legacy_id: 501
+slug: research-scholar-grants
+name: Research Scholar Grants
+description: null
+url: http://www.cancer.org/research/applyforaresearchgrant/granttypes/research-scholar-grants
+funders:
+- american-cancer-society
+legacy_funder_name: American Cancer Society
+host_country: United States
+applicant_country: null
+career_levels:
+- phd
+years_since_phd: '12'
+duration: null
+award: Up to $165,000 a year (or $200,000 a year for multi-level studies)
+mobility_rule: 'No'
+research_costs: null
+deadline: April / October
+deadline_month: April, October
+diversity: null
+comments: Independent investigators in the first 6 years of an independent research
+  career or faculty appointment are eligible to apply. Eligibility is extended for
+  8 years for clinician scientists who remain active in clinical care. Applicants
+  typically must be within 12 years of receiving a terminal (doctorate) degree and
+  cannot have more than one R01/R01-like grant (>$100,000/year direct costs for more
+  than 3 years) as principal investigator at the time of application.
+benefits: Up to 20% allowable indirect costs associated with the project.
+frequency: Twice a year
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T16:30:52Z'
+subjects:
+- medicine-and-health-sciences
+funding_purposes:
+- research
+search_text: Research Scholar Grants American Cancer Society PhD Medicine and Health
+  Sciences Research United States
+source: legacy-import

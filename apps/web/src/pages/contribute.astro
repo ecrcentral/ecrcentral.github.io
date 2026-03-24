@@ -1,0 +1,210 @@
+---
+import BaseLayout from '../components/layout/BaseLayout.astro'
+
+const githubRepo = 'https://github.com/ecrcentral/ecrcentral.github.io'
+
+const issueTypes = [
+  {
+    title: 'Add a Funding Opportunity',
+    description: 'Know of a fellowship, grant, or award for early career researchers?',
+    url: `${githubRepo}/issues/new?template=add_funding.yml`,
+    icon: '💰',
+    color: '#edf2f9',
+  },
+  {
+    title: 'Add a Travel Grant',
+    description: 'Found a grant for attending conferences, workshops, or research visits?',
+    url: `${githubRepo}/issues/new?template=add_travel_grant.yml`,
+    icon: '✈️',
+    color: '#d6f5e8',
+  },
+  {
+    title: 'Add a Resource',
+    description: 'Know of a useful guide, tool, or database for ECRs?',
+    url: `${githubRepo}/issues/new?template=add_resource.yml`,
+    icon: '📚',
+    color: '#fff3cd',
+  },
+  {
+    title: 'Add a Funder',
+    description: 'Want to add a funding organization that is not yet listed?',
+    url: `${githubRepo}/issues/new?template=add_funder.yml`,
+    icon: '🏛️',
+    color: '#f8f0ff',
+  },
+  {
+    title: 'Report an Issue',
+    description: 'Found inaccurate, outdated, or missing information?',
+    url: `${githubRepo}/issues/new?template=report_issue.yml`,
+    icon: '🐛',
+    color: '#fde8eb',
+  },
+  {
+    title: 'General Suggestion',
+    description: 'Have an idea for improving ECRcentral?',
+    url: `${githubRepo}/issues/new`,
+    icon: '💡',
+    color: '#f1f3f5',
+  },
+]
+---
+
+<BaseLayout
+  title="Contribute to ECRcentral"
+  description="Help build the most comprehensive database of funding opportunities for early career researchers. Learn how to contribute via GitHub — no coding required."
+  canonical="/contribute/"
+>
+  <div class="page-header">
+    <div class="container">
+      <h1 class="page-header-title">Contribute to ECRcentral</h1>
+      <p class="page-header-subtitle">
+        ECRcentral is community-maintained. Everyone can contribute — no coding required.
+      </p>
+    </div>
+  </div>
+
+  <div class="container" style="padding-top:48px;padding-bottom:80px;">
+    <div style="max-width:860px;margin:0 auto;">
+
+      <!-- Quick actions -->
+      <section style="margin-bottom:64px;">
+        <h2 style="font-size:1.75rem;margin-bottom:8px;">Submit via GitHub Issues</h2>
+        <p class="text-muted" style="margin-bottom:32px;line-height:1.7;">
+          The easiest way to contribute is through our GitHub issue forms.
+          No technical knowledge required — just fill in a form and we'll
+          review and add the entry.
+        </p>
+
+        <div class="steps">
+          {issueTypes.map(item => (
+            <a
+              href={item.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              style={`display:flex;gap:16px;padding:20px 24px;background:${item.color};border:1px solid var(--color-border);border-radius:var(--radius-xl);text-decoration:none;color:inherit;transition:box-shadow 150ms ease;`}
+              onmouseover="this.style.boxShadow='var(--shadow-md)'"
+              onmouseout="this.style.boxShadow='none'"
+            >
+              <span style="font-size:1.75rem;flex-shrink:0;" aria-hidden="true">{item.icon}</span>
+              <div>
+                <p style="font-weight:600;color:var(--color-dark);margin-bottom:4px;">{item.title}</p>
+                <p style="font-size:var(--font-size-sm);color:var(--color-muted);line-height:1.5;">{item.description}</p>
+              </div>
+              <svg style="margin-left:auto;flex-shrink:0;align-self:center;color:var(--color-muted);" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"/>
+                <polyline points="15 3 21 3 21 9"/>
+                <line x1="10" y1="14" x2="21" y2="3"/>
+              </svg>
+            </a>
+          ))}
+        </div>
+      </section>
+
+      <!-- Technical contributions -->
+      <section style="margin-bottom:64px;">
+        <h2 style="font-size:1.75rem;margin-bottom:8px;">Technical Contributions</h2>
+        <p class="text-muted" style="margin-bottom:24px;line-height:1.7;">
+          If you are comfortable with YAML and GitHub, you can contribute directly
+          via a pull request. This is the preferred approach for batch submissions.
+        </p>
+
+        <div style="background:var(--color-white);border:1px solid var(--color-border);border-radius:var(--radius-xl);overflow:hidden;">
+          <div style="padding:8px 24px;background:var(--color-dark);color:rgba(255,255,255,0.9);font-family:var(--font-mono);font-size:var(--font-size-sm);">
+            Step-by-step guide
+          </div>
+
+          <div style="padding:24px 28px;">
+            <ol style="list-style:none;counter-reset:steps;display:flex;flex-direction:column;gap:24px;">
+              {[
+                {
+                  title: 'Fork the repository',
+                  body: `Go to <a href="${githubRepo}" target="_blank" rel="noopener noreferrer" style="color:var(--color-primary)">github.com/ecrcentral/ecrcentral.github.io</a> and click "Fork" in the top-right corner.`,
+                },
+                {
+                  title: 'Create a YAML file',
+                  body: 'Add a new <code>.yaml</code> file in the appropriate directory: <code>data/entries/fundings/</code>, <code>data/entries/travel-grants/</code>, <code>data/entries/resources/</code>, or <code>data/entries/funders/</code>.',
+                },
+                {
+                  title: 'Follow the schema',
+                  body: 'Check the <code>data/schema/</code> directory for the YAML schema for each entry type. Look at existing entries for examples.',
+                },
+                {
+                  title: 'Submit a Pull Request',
+                  body: 'Open a pull request from your fork. A maintainer will review and merge it, and the site will rebuild automatically.',
+                },
+              ].map((step, i) => (
+                <li style="display:flex;gap:16px;counter-increment:steps;">
+                  <div style="flex-shrink:0;width:32px;height:32px;border-radius:50%;background:var(--color-primary);color:white;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:var(--font-size-sm);">
+                    {i + 1}
+                  </div>
+                  <div>
+                    <p style="font-weight:600;color:var(--color-dark);margin-bottom:4px;">{step.title}</p>
+                    <p style="font-size:var(--font-size-sm);color:var(--color-muted);line-height:1.6;" set:html={step.body} />
+                  </div>
+                </li>
+              ))}
+            </ol>
+          </div>
+        </div>
+      </section>
+
+      <!-- Guidelines -->
+      <section style="margin-bottom:64px;">
+        <h2 style="font-size:1.75rem;margin-bottom:16px;">Editorial Guidelines</h2>
+
+        <div style="display:grid;gap:16px;">
+          {[
+            {
+              title: 'Eligibility',
+              text: 'Entries should be relevant to early career researchers (PhD students, postdoctoral researchers, junior faculty). We cover all academic disciplines and all countries.',
+            },
+            {
+              title: 'Accuracy',
+              text: 'Only submit entries you have verified. Include a direct link to the official source. Do not paraphrase eligibility criteria — link to the official terms.',
+            },
+            {
+              title: 'Status',
+              text: 'Mark entries as "active" only if applications are currently being accepted or will open within the next 12 months. Use "expired" for past deadlines.',
+            },
+            {
+              title: 'Duplicates',
+              text: 'Search before submitting to avoid duplicates. If you are updating an existing entry, use the "Edit on GitHub" link on the entry page.',
+            },
+          ].map(item => (
+            <div style="padding:20px;background:var(--color-white);border:1px solid var(--color-border);border-radius:var(--radius-lg);">
+              <p style="font-weight:600;color:var(--color-dark);margin-bottom:6px;">{item.title}</p>
+              <p style="font-size:var(--font-size-sm);color:var(--color-muted);line-height:1.6;">{item.text}</p>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      <!-- CTA -->
+      <div style="text-align:center;padding:48px;background:linear-gradient(135deg,var(--color-dark) 0%,#1e3a5f 100%);border-radius:var(--radius-2xl);color:white;">
+        <h2 style="color:white;margin-bottom:12px;">Ready to contribute?</h2>
+        <p style="color:rgba(255,255,255,0.75);margin-bottom:28px;">
+          Join our community of contributors and help early career researchers
+          find the funding they need.
+        </p>
+        <div style="display:flex;gap:12px;justify-content:center;flex-wrap:wrap;">
+          <a
+            href={`${githubRepo}/issues/new?template=add_funding.yml`}
+            class="btn btn-primary btn-lg"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Add an entry
+          </a>
+          <a
+            href={githubRepo}
+            class="btn btn-outline-white btn-lg"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            View on GitHub
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</BaseLayout>

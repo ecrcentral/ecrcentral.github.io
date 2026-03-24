@@ -1,0 +1,29 @@
+id: travel-grant-travel-awards-for-postdocs-and-phd-students
+legacy_id: 5
+slug: travel-awards-for-postdocs-and-phd-students
+name: Travel Awards for postdocs and PhD students
+url: http://www.mdpi.com/journal/biology/awards
+description: null
+funders: []
+legacy_funder_name: MDPI Biology Journal
+applicant_country: NA
+host_country: null
+award: 800 CHF / $810 / €720
+deadline: currently closed for applications
+deadline_month: null
+membership: 'No'
+membership_time: NA
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: Travel Awards for postdocs and PhD students Conference NA
+source: legacy-import

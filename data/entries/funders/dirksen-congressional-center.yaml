@@ -1,0 +1,20 @@
+id: funder-dirksen-congressional-center
+legacy_id: 296
+slug: dirksen-congressional-center
+name: Dirksen Congressional Center
+short_name: Dirksen Congressional Center
+funder_registry_id: '100013529'
+country: United States
+website: null
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2020-05-21T09:36:15Z'
+source: legacy-import

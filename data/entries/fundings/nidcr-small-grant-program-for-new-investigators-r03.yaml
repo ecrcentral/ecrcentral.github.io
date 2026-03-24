@@ -1,0 +1,56 @@
+id: funding-nidcr-small-grant-program-for-new-investigators-r03
+legacy_id: 322
+slug: nidcr-small-grant-program-for-new-investigators-r03
+name: NIDCR Small Grant Program for New Investigators (R03)
+description: The NIDCR Small Grant Program for New Investigators (R03) supports basic
+  research conducted by scientists who are in the early stages of establishing their
+  independent research career in oral, dental and craniofacial research. This program
+  supports pilot or feasibility studies and developmental research projects with the
+  intention of obtaining enough preliminary data for a subsequent investigator-initiated
+  Research Project Grant (R01) or equivalent application.
+url: https://www.nidcr.nih.gov/grants-funding/funding-priorities/future-research-initiatives/nidcr-small-grant-program-new-investigators-r03
+funders:
+- national-institutes-of-health-nih
+legacy_funder_name: National Institutes of Health
+host_country: United States
+applicant_country: null
+career_levels:
+- phd
+- junior-faculty
+- md
+years_since_phd: NA
+duration: '2'
+award: $200 000
+mobility_rule: null
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: 'This PAR has existed since FY2007 (previous versions: PAR-07-418, PAR-10-275,
+  PAR-13-348 and the current iteration: PAR-16-409). Unlike the parent NIH R03 mechanism
+  (PA-19-052) which provides $50K direct cost/year for two years, this PAR allows
+  for direct cost up to $100K per year for two years.'
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T14:25:18Z'
+subjects:
+- medicine-and-health-sciences
+funding_purposes:
+- feasibility-studies
+search_text: NIDCR Small Grant Program for New Investigators (R03) The NIDCR Small
+  Grant Program for New Investigators (R03) supports basic research conducted by scientists
+  who are in the early stages of establishing their independent research career in
+  oral, dental and craniofacial research. This program supports pilot or feasibility
+  studies and developmental research projects with the intention of obtaining enough
+  preliminary data for a subsequent investigator-initiated Research Project Grant
+  (R01) or equivalent application. National Institutes of Health (NIH) PhD Junior
+  Faculty MD Medicine and Health Sciences Feasibility Studies United States
+source: legacy-import

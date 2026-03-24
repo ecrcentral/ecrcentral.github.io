@@ -1,0 +1,32 @@
+id: travel-grant-general-travel-grants
+legacy_id: 11
+slug: general-travel-grants
+name: General Travel Grants
+url: http://www.biochemistry.org/Grants/GeneralTravelGrants.aspx
+description: null
+funders: []
+legacy_funder_name: Biochemical Society
+applicant_country: null
+host_country: null
+award: £300-£750
+deadline: 7 times a year
+deadline_month: null
+membership: 'Yes'
+membership_time: 1 year
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- conference
+- workshop-training-or-course
+- learn-new-technique
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: General Travel Grants Conference Workshop, training or course Learn new
+  technique
+source: legacy-import

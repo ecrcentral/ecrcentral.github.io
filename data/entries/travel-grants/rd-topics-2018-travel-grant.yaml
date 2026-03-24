@@ -1,0 +1,30 @@
+id: travel-grant-rd-topics-2018-travel-grant
+legacy_id: 67
+slug: rd-topics-2018-travel-grant
+name: R&D Topics 2018 Travel Grant
+url: http://www.rndtopics.com
+description: null
+funders: []
+legacy_funder_name: R&D Topics 2018
+applicant_country: null
+host_country: null
+award: null
+deadline: currently closed for applications
+deadline_month: null
+membership: null
+membership_time: null
+purpose_text: null
+career_levels:
+- phd
+subjects: []
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: R&D Topics 2018 Travel Grant PhD Conference
+source: legacy-import

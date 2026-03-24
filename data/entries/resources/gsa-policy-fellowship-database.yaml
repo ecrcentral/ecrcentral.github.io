@@ -1,0 +1,21 @@
+id: resource-gsa-policy-fellowship-database
+legacy_id: 166
+slug: gsa-policy-fellowship-database
+name: GSA Policy Fellowship Database
+url: http://app.genetics-gsa.org/MemberEngagement/FellowshipProd.External
+description: A curated database of policy fellowshipby by Genetics Society of America.
+source_name: Genetics Society of America
+funders: []
+resource_categories:
+- science-communication
+- policy
+- public-involvement-in-research
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2021-09-29T08:14:27Z'
+updated_at: '2021-10-06T08:59:02Z'
+source: legacy-import

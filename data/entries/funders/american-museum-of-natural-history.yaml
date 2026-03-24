@@ -1,0 +1,20 @@
+id: funder-american-museum-of-natural-history
+legacy_id: 29
+slug: american-museum-of-natural-history
+name: American Museum of Natural History
+short_name: American Museum of Natural History
+funder_registry_id: '100005835'
+country: United States
+website: null
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2019-01-17T00:40:55Z'
+source: legacy-import

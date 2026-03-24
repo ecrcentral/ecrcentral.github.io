@@ -1,0 +1,50 @@
+id: funding-alan-t-waterman-award
+legacy_id: 624
+slug: alan-t-waterman-award
+name: Alan T. Waterman Award
+description: null
+url: http://www.nsf.gov/od/waterman/waterman.jsp
+funders:
+- national-science-foundation
+legacy_funder_name: National Science Foundation (NSF)
+host_country: United States
+applicant_country: United States
+career_levels:
+- junior-faculty
+years_since_phd: '10'
+duration: null
+award: $1 000 000
+mobility_rule: null
+research_costs: null
+deadline: October
+deadline_month: October
+diversity: null
+comments: The Alan T. Waterman Award is the highest honor awarded by the National
+  Science Foundation. Since 1975, when Congress established the award to honor the
+  agency’s first director, the annual award has been bestowed upon individuals who
+  have demonstrated exceptional individual achievement in scientific or engineering
+  research of sufficient quality to place them at the forefront of their peers. The
+  annual award recognizes an outstanding young researcher in any field of science
+  or engineering supported by the National Science Foundation. In addition to a medal,
+  the awardee receives a grant of $1,000,000 over a five year period for scientific
+  research or advanced study in the mathematical, physical, biological, engineering,
+  social or other sciences at the institution of the recipient’s choice.
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-24T13:46:44Z'
+subjects:
+- life-sciences
+- physical-sciences-and-mathematics
+funding_purposes:
+- award
+search_text: Alan T. Waterman Award National Science Foundation Junior Faculty Life
+  Sciences Physical Sciences and Mathematics Award United States United States
+source: legacy-import

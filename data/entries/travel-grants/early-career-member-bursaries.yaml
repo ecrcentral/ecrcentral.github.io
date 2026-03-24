@@ -1,0 +1,29 @@
+id: travel-grant-early-career-member-bursaries
+legacy_id: 12
+slug: early-career-member-bursaries
+name: Early Career Member Bursaries
+url: http://www.biochemistry.org/Grants/FullandEarlyCareerBursaries.aspx
+description: null
+funders: []
+legacy_funder_name: Biochemical Society
+applicant_country: null
+host_country: null
+award: £200-£300
+deadline: Closing date of poster abstract submission of event of choice
+deadline_month: null
+membership: 'Yes'
+membership_time: null
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: Early Career Member Bursaries Conference
+source: legacy-import

@@ -1,0 +1,29 @@
+id: travel-grant-isscr-travel-award
+legacy_id: 49
+slug: isscr-travel-award
+name: ISSCR Travel Award
+url: http://www.isscr.org/meetings-events/annual-meetings/isscr-annual-meeting-2018/present/abstracts/awards-for-travel-merit-posters
+description: null
+funders: []
+legacy_funder_name: ISSCR
+applicant_country: Anyone
+host_country: null
+award: null
+deadline: currently closed for applications
+deadline_month: null
+membership: 'Yes'
+membership_time: 1 year
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: ISSCR Travel Award Conference Anyone
+source: legacy-import

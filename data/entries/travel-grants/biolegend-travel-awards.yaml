@@ -1,0 +1,33 @@
+id: travel-grant-biolegend-travel-awards
+legacy_id: 58
+slug: biolegend-travel-awards
+name: Biolegend Travel Awards
+url: https://www.biolegend.com/travel_awards/
+description: null
+funders: []
+legacy_funder_name: Biolegend
+applicant_country: Legal resident of USA, Canada or UK
+host_country: null
+award: $500
+deadline: One drawing every month
+deadline_month: null
+membership: 'No'
+membership_time: N/A
+purpose_text: null
+career_levels:
+- phd
+- postdoc
+- junior-faculty
+subjects: []
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: Biolegend Travel Awards PhD Postdoc Junior Faculty Conference Legal resident
+  of USA, Canada or UK
+source: legacy-import

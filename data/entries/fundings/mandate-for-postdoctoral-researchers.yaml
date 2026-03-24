@@ -1,0 +1,35 @@
+id: funding-mandate-for-postdoctoral-researchers
+legacy_id: 74
+slug: mandate-for-postdoctoral-researchers
+name: Mandate for postdoctoral researchers
+description: null
+url: http://www.fnrs.be/index.php/financements/mandats/post-doctorants
+funders: []
+legacy_funder_name: FNRS
+host_country: Belgium
+applicant_country: Worldwide
+career_levels: []
+years_since_phd: <5
+duration: '3'
+award: null
+mobility_rule: null
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: null
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: draft
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-24T10:23:55Z'
+subjects: []
+funding_purposes: []
+search_text: Mandate for postdoctoral researchers Belgium Worldwide
+source: legacy-import

@@ -1,0 +1,65 @@
+id: funding-visionary-grants
+legacy_id: 498
+slug: visionary-grants
+name: Visionary Grants
+description: The APF Visionary Grants provide up to $20,000 to seed innovation through
+  supporting research, education, and intervention projects and programs. Applicants
+  must be a graduate student or early career researcher (no more than 10 years postdoctoral),
+  affiliated with a nonprofit charitable, educational or scientific institution, or
+  governmental entity operating exclusively for charitable and educational purposes,
+  and have demonstrated competence and capacity to execute the proposed work.
+url: http://www.apa.org/apf/funding/visionary.aspx?tab=1
+funders:
+- american-psychological-foundation
+legacy_funder_name: American Psychological Foundation
+host_country: United States
+applicant_country: United States
+career_levels:
+- phd
+- postdoc
+years_since_phd: '10'
+duration: '1'
+award: $20,000
+mobility_rule: null
+research_costs: null
+deadline: April
+deadline_month: April
+diversity: null
+comments: 'The APF Visionary Grants seek to seed innovation through supporting research,
+  education and intervention projects and programs that use psychology to solve social
+  problems in the following priority areas: Understanding and fostering the connection
+  between behavior and physical health to ensure well-being. Reducing stigma and prejudice
+  to promote unity and harmony.Understanding and preventing violence to create a safer,
+  more humane world. Supporting programs that address the long-term psychological
+  needs of individuals and communities in the aftermath of disaster. One-year grants
+  are available in amounts of up to $20,000. Preference will be given to pilot projects
+  that, if successful, would be strong candidates for support from major federal and
+  foundation funding agencies, and “demonstration projects” that promise to generalize
+  broadly to similar settings in other geographical areas and/or to other settings.'
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-22T17:42:38Z'
+subjects:
+- life-sciences
+- psychiatry-and-psychology
+- educational-psychology
+- psychology
+funding_purposes:
+- research
+search_text: Visionary Grants The APF Visionary Grants provide up to $20,000 to seed
+  innovation through supporting research, education, and intervention projects and
+  programs. Applicants must be a graduate student or early career researcher (no more
+  than 10 years postdoctoral), affiliated with a nonprofit charitable, educational
+  or scientific institution, or governmental entity operating exclusively for charitable
+  and educational purposes, and have demonstrated competence and capacity to execute
+  the proposed work. American Psychological Foundation PhD Postdoc Life Sciences Psychiatry
+  and Psychology Educational Psychology Psychology Research United States United States
+source: legacy-import

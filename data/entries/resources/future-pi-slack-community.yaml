@@ -1,0 +1,21 @@
+id: resource-future-pi-slack-community
+legacy_id: 35
+slug: future-pi-slack-community
+name: Future PI Slack Community
+url: https://futurepislack.wordpress.com/
+description: An international community of postdocs uses Slack to help each other
+  on the academic track.
+source_name: Future PI Slack
+funders: []
+resource_categories:
+- career-development
+- science-communication
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2019-02-08T08:26:00Z'
+updated_at: '2019-02-08T08:29:02Z'
+source: legacy-import

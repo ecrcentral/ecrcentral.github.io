@@ -1,0 +1,31 @@
+id: travel-grant-overseas-travel-grants
+legacy_id: 19
+slug: overseas-travel-grants
+name: Overseas Travel Grants
+url: https://www.epsrc.ac.uk/funding/applicationprocess/routes/international/otgs/
+description: null
+funders: []
+legacy_funder_name: Engineering and Physical Sciences Research Council (EPSRC)
+applicant_country: Anyone, but visited institute should be outside UK
+host_country: null
+award: no limit
+deadline: Any time
+deadline_month: null
+membership: 'No'
+membership_time: NA
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- collaboration
+- learn-new-technique
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: Overseas Travel Grants Collaboration Learn new technique Anyone, but
+  visited institute should be outside UK
+source: legacy-import

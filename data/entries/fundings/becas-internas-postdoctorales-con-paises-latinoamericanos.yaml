@@ -1,0 +1,53 @@
+id: funding-becas-internas-postdoctorales-con-paises-latinoamericanos
+legacy_id: 39
+slug: becas-internas-postdoctorales-con-paises-latinoamericanos
+name: Becas Internas Postdoctorales con Países Latinoamericanos
+description: '''Becas Internas Postdoctorales con Países Latinoamericanos'' is a scholarship
+  program intended for foreign applicants who are residing in a Latin American country
+  at the time of application and who have defended their doctoral thesis.'
+url: http://convocatorias.conicet.gov.ar/latinoamericanas/
+funders:
+- conicet
+legacy_funder_name: CONICET
+host_country: Argentina
+applicant_country: Latin America
+career_levels:
+- phd
+years_since_phd: NA
+duration: '2'
+award: 22,000 Argentine Pesos
+mobility_rule: 'No'
+research_costs: Salary
+deadline: July
+deadline_month: July
+diversity: null
+comments: Annual call, usually opens in June. Applications must propose an institution
+  and coordinator in Argentina, as well as a coordinator in the country of origin.
+  Likewise, they must be endorsed by the agreement with CONICET. Applicants from countries
+  where CONICET does not have agreements may send the endorsement of the University
+  where the candidate graduated. Applicants receiving the scholarship will not be
+  able to enter Argentina without completing the immigration procedures required by
+  the current legislation.
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-27T16:57:54Z'
+subjects:
+- life-sciences
+- medicine-and-health-sciences
+- engineering
+funding_purposes:
+- research
+search_text: Becas Internas Postdoctorales con Países Latinoamericanos 'Becas Internas
+  Postdoctorales con Países Latinoamericanos' is a scholarship program intended for
+  foreign applicants who are residing in a Latin American country at the time of application
+  and who have defended their doctoral thesis. CONICET PhD Life Sciences Medicine
+  and Health Sciences Engineering Research Argentina Latin America
+source: legacy-import

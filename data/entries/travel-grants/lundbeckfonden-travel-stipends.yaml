@@ -1,0 +1,31 @@
+id: travel-grant-lundbeckfonden-travel-stipends
+legacy_id: 79
+slug: lundbeckfonden-travel-stipends
+name: Lundbeckfonden Travel Stipends
+url: https://www.lundbeckfonden.com/en/grants/what-you-can-apply-for/
+description: null
+funders: []
+legacy_funder_name: Lundbeckfonden
+applicant_country: Denmark
+host_country: null
+award: Up to 50000 DKK
+deadline: null
+deadline_month: null
+membership: 'No'
+membership_time: null
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- conference
+- workshop-training-or-course
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: Lundbeckfonden Travel Stipends Conference Workshop, training or course
+  Denmark
+source: legacy-import

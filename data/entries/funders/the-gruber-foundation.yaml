@@ -1,0 +1,20 @@
+id: funder-the-gruber-foundation
+legacy_id: 627
+slug: the-gruber-foundation
+name: The Gruber Foundation
+short_name: The Gruber Foundation
+funder_registry_id: '100010848'
+country: USA
+website: https://gruber.yale.edu/
+logo: /logos/funders/the-gruber-foundation.png
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-05-25T17:54:14Z'
+updated_at: '2020-05-25T17:54:14Z'
+source: legacy-import

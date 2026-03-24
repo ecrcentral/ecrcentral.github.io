@@ -1,0 +1,59 @@
+id: funding-serb-national-post-doctoral-fellowship
+legacy_id: 136
+slug: serb-national-post-doctoral-fellowship
+name: SERB National Post Doctoral Fellowship
+description: The SERB-National Post Doctoral Fellowship (N-PDF) is aimed to identify
+  motivated young researchers and provide them support for doing research in frontier
+  areas of science and engineering. The fellows will work under a mentor, and it is
+  hoped that this training will provide them a platform to develop as an independent
+  researcher.
+url: http://www.serb.gov.in/npdf.php
+funders:
+- science-and-engineering-research-board
+legacy_funder_name: Science and Engineering Research Board
+host_country: India
+applicant_country: India
+career_levels:
+- phd
+- master-students
+- md
+years_since_phd: null
+duration: '2'
+award: 2,00,000 INR
+mobility_rule: 'Yes'
+research_costs: null
+deadline: May
+deadline_month: May
+diversity: null
+comments: null
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-30T19:12:12Z'
+subjects:
+- life-sciences
+- physical-sciences-and-mathematics
+- engineering
+- chemistry
+- earth-sciences
+- oceanography-and-atmospheric-sciences-and-meteorology
+- chemical-engineering
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: SERB National Post Doctoral Fellowship The SERB-National Post Doctoral
+  Fellowship (N-PDF) is aimed to identify motivated young researchers and provide
+  them support for doing research in frontier areas of science and engineering. The
+  fellows will work under a mentor, and it is hoped that this training will provide
+  them a platform to develop as an independent researcher. Science and Engineering
+  Research Board PhD Master students MD Life Sciences Physical Sciences and Mathematics
+  Engineering Chemistry Earth Sciences Oceanography and Atmospheric Sciences and Meteorology
+  Chemical Engineering Fellowship, scholarship or training Research India India
+source: legacy-import

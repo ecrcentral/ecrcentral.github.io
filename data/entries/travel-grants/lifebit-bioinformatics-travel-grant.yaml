@@ -1,0 +1,31 @@
+id: travel-grant-lifebit-bioinformatics-travel-grant
+legacy_id: 81
+slug: lifebit-bioinformatics-travel-grant
+name: Lifebit Bioinformatics Travel Grant
+url: https://blog.lifebit.ai/2019/05/07/lifebit-travel-grant-award/?utm_campaign=lifebitblog
+description: null
+funders: []
+legacy_funder_name: Lifebit
+applicant_country: Worldwide
+host_country: null
+award: 500 USD
+deadline: May 31st, 2019
+deadline_month: May
+membership: 'No'
+membership_time: null
+purpose_text: null
+career_levels:
+- phd
+- postdoc
+subjects: []
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: Lifebit Bioinformatics Travel Grant PhD Postdoc Conference Worldwide
+source: legacy-import

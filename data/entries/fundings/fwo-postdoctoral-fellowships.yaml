@@ -1,0 +1,44 @@
+id: funding-fwo-postdoctoral-fellowships
+legacy_id: 162
+slug: fwo-postdoctoral-fellowships
+name: FWO Postdoctoral Fellowships
+description: The junior and senior postdoctoral fellowships are intended to support
+  researchers who have only recently completed their PhD, in developing an independent,
+  international research career.
+url: https://www.fwo.be/en/fellowships-funding/postdoctoral-fellowships/
+funders:
+- research-foundation-flanders
+legacy_funder_name: Research Foundation Flanders
+host_country: Belgium
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: Max. 3
+duration: '3'
+award: null
+mobility_rule: null
+research_costs: null
+deadline: December
+deadline_month: December
+diversity: null
+comments: null
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T10:40:06Z'
+subjects:
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: FWO Postdoctoral Fellowships The junior and senior postdoctoral fellowships
+  are intended to support researchers who have only recently completed their PhD,
+  in developing an independent, international research career. Research Foundation
+  Flanders PhD All subjects Fellowship, scholarship or training Belgium Worldwide
+source: legacy-import

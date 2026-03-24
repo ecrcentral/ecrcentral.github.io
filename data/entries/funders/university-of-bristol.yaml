@@ -1,0 +1,20 @@
+id: funder-university-of-bristol
+legacy_id: 183
+slug: university-of-bristol
+name: University of Bristol
+short_name: University of Bristol
+funder_registry_id: '501100000883'
+country: United Kingdom
+website: null
+logo: null
+dora: true
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2019-01-17T00:40:55Z'
+source: legacy-import

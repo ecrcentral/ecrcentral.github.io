@@ -1,0 +1,44 @@
+id: funding-niels-stensen-fellowship
+legacy_id: 145
+slug: niels-stensen-fellowship
+name: Niels Stensen Fellowship
+description: The aim of the Niels Stensen Fellowship is to encourage these talented
+  young researchers by means of facilitating their academic research abroad.
+url: http://www.nielsstensenfellowship.nl/nl/home
+funders: []
+legacy_funder_name: Niels Stensen
+host_country: Worldwide
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: 1 year before or 1 year after deadline full application (June)
+duration: null
+award: null
+mobility_rule: 'Yes'
+research_costs: null
+deadline: May
+deadline_month: May
+diversity: null
+comments: Applicants must have completed their PhD in a Dutch university. Applicants
+  must be nominated by two professors at Dutch universities. Fellowship is intended
+  to cover academic research abroad (outside The Netherlands).
+benefits: null
+frequency: Annual
+fileds: All academic disciplines
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-22T15:18:13Z'
+subjects:
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Niels Stensen Fellowship The aim of the Niels Stensen Fellowship is to
+  encourage these talented young researchers by means of facilitating their academic
+  research abroad. PhD All subjects Fellowship, scholarship or training Worldwide
+  Worldwide
+source: legacy-import

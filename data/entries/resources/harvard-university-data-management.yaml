@@ -1,0 +1,19 @@
+id: resource-harvard-university-data-management
+legacy_id: 1
+slug: harvard-university-data-management
+name: Harvard University Data Management
+url: https://datamanagement.hms.harvard.edu
+description: Best practices & support services for research data lifecycles
+source_name: Harvard University
+funders: []
+resource_categories:
+- reproducibility
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2019-01-02T20:58:00Z'
+updated_at: '2019-01-02T21:12:26Z'
+source: legacy-import

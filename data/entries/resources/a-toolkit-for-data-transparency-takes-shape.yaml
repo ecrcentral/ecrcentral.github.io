@@ -1,0 +1,20 @@
+id: resource-a-toolkit-for-data-transparency-takes-shape
+legacy_id: 13
+slug: a-toolkit-for-data-transparency-takes-shape
+name: A toolkit for data transparency takes shape
+url: https://www.nature.com/articles/d41586-018-05990-5
+description: A simple software toolset can help to ease the pain of reproducing computational
+  analyses by Jeffrey M. Perkel.
+source_name: Nature
+funders: []
+resource_categories:
+- reproducibility
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2019-01-23T15:37:00Z'
+updated_at: '2019-01-23T15:47:10Z'
+source: legacy-import

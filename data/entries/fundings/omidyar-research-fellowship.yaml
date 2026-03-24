@@ -1,0 +1,47 @@
+id: funding-omidyar-research-fellowship
+legacy_id: 175
+slug: omidyar-research-fellowship
+name: Omidyar Research Fellowship
+description: The Omidyar Fellowship at the Santa Fe Institute offers a select group
+  of early-career scholars the opportunity to join a collaborative research community
+  that nurtures creative, transdisciplinary thought in pursuit of key insights about
+  the complex systems that matter most for science and society.
+url: https://www.santafe.edu/research/omidyar
+funders:
+- santa-fe-institute
+legacy_funder_name: Santa Fe Institute
+host_country: United States
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: Max. 6
+duration: Max. 3
+award: null
+mobility_rule: null
+research_costs: null
+deadline: October
+deadline_month: October
+diversity: null
+comments: null
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T13:30:09Z'
+subjects:
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Omidyar Research Fellowship The Omidyar Fellowship at the Santa Fe Institute
+  offers a select group of early-career scholars the opportunity to join a collaborative
+  research community that nurtures creative, transdisciplinary thought in pursuit
+  of key insights about the complex systems that matter most for science and society.
+  Santa Fe Institute PhD All subjects Fellowship, scholarship or training United States
+  Worldwide
+source: legacy-import

@@ -1,0 +1,20 @@
+id: funder-open-society-foundations
+legacy_id: 144
+slug: open-society-foundations
+name: Open Society Foundations
+short_name: Open Society Foundations
+funder_registry_id: '100000919'
+country: United States
+website: null
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2019-01-17T00:40:55Z'
+source: legacy-import

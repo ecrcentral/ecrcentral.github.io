@@ -1,0 +1,20 @@
+id: funder-government-of-catalonia
+legacy_id: 631
+slug: government-of-catalonia
+name: Government of Catalonia
+short_name: Government of Catalonia
+funder_registry_id: '501100002809'
+country: Spain
+website: http://web.gencat.cat/en/inici/index.html
+logo: /logos/funders/government-of-catalonia.png
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-05-26T07:19:43Z'
+updated_at: '2020-05-26T07:19:43Z'
+source: legacy-import

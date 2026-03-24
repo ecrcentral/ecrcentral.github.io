@@ -1,0 +1,22 @@
+id: resource-national-equity-project-resources
+legacy_id: 81
+slug: national-equity-project-resources
+name: National Equity Project - Resources
+url: https://nationalequityproject.org/resources
+description: An organisation that works for equity in districts, schools, classrooms,
+  nonprofits, and communities. This is a collection of their latest publications,
+  resources and tools.
+source_name: National Equity Project (U.S.A)
+funders: []
+resource_categories:
+- teaching
+- diversity-and-inclusion
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2019-08-03T02:02:00Z'
+updated_at: '2019-08-03T02:04:11Z'
+source: legacy-import

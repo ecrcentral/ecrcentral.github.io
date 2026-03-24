@@ -1,0 +1,36 @@
+id: funding-250-great-minds-fellowships
+legacy_id: 228
+slug: 250-great-minds-fellowships
+name: 250 Great Minds Fellowships
+description: null
+url: http://250greatminds.leeds.ac.uk
+funders:
+- university-of-leeds
+legacy_funder_name: University of Leeds
+host_country: United Kingdom
+applicant_country: Worldwide
+career_levels: []
+years_since_phd: No rule
+duration: '5'
+award: null
+mobility_rule: null
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: null
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: draft
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-07T21:15:40Z'
+subjects: []
+funding_purposes: []
+search_text: 250 Great Minds Fellowships University of Leeds United Kingdom Worldwide
+source: legacy-import

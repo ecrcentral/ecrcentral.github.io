@@ -1,0 +1,20 @@
+id: funder-staatssekretariat-fur-bildung-forschung-und-innovation
+legacy_id: 219
+slug: staatssekretariat-fur-bildung-forschung-und-innovation
+name: Staatssekretariat für Bildung, Forschung und Innovation
+short_name: Staatssekretariat für Bildung, Forschung und Innovation
+funder_registry_id: '501100007352'
+country: Switzerland
+website: https://www.sbfi.admin.ch/sbfi/en/home.html
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2019-05-20T07:07:52Z'
+updated_at: '2019-05-20T07:07:52Z'
+source: legacy-import

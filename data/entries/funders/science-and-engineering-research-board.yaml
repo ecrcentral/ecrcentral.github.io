@@ -1,0 +1,20 @@
+id: funder-science-and-engineering-research-board
+legacy_id: 634
+slug: science-and-engineering-research-board
+name: Science and Engineering Research Board
+short_name: Science and Engineering Research Board
+funder_registry_id: '501100001843'
+country: India
+website: http://www.serb.gov.in/home.php
+logo: /logos/funders/science-and-engineering-research-board.png
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-05-26T07:54:30Z'
+updated_at: '2020-05-26T08:30:27Z'
+source: legacy-import

@@ -1,0 +1,49 @@
+id: funding-early-postdoc-mobility-fellowship
+legacy_id: 191
+slug: early-postdoc-mobility-fellowship
+name: Early Postdoc Mobility Fellowship
+description: Early Postdoc.Mobility fellowships are designed for early-career postdocs
+  who wish to enhance their scientific profile by working at a research institution
+  abroad.
+url: http://www.snf.ch/en/funding/careers/early-postdoc-mobility/Pages/default.aspx#Participation%20requirements
+funders:
+- swiss-national-science-foundation
+legacy_funder_name: Swiss National Research Foundation
+host_country: Worldwide
+applicant_country: Switzerland
+career_levels:
+- phd
+years_since_phd: Max. 2
+duration: 1-1.5
+award: Depending on host country
+mobility_rule: 'Yes'
+research_costs: A maximum of CHF 3,000 per year may be approved if there is written
+  proof that the host institution cannot cover the costs.
+deadline: March, September
+deadline_month: March, September
+diversity: null
+comments: 'Participation requirements: Swiss nationality, permanent residence, residence
+  or cross-border commuter permit, or marriage resp. registered partnership with a
+  Swiss; Activity of no less than 3 years at a research institution in Switzerland
+  (for applicants who do not hold Swiss nationality).'
+benefits: Fellows with children are entitled to a child allowance of CHF 12,000 per
+  child and per year. Child allowances contributed by third parties are deducted.
+frequency: Twice a year
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T16:09:00Z'
+subjects:
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Early Postdoc Mobility Fellowship Early Postdoc.Mobility fellowships
+  are designed for early-career postdocs who wish to enhance their scientific profile
+  by working at a research institution abroad. Swiss National Science Foundation PhD
+  All subjects Fellowship, scholarship or training Worldwide Switzerland
+source: legacy-import

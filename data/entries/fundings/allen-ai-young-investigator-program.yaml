@@ -1,0 +1,57 @@
+id: funding-allen-ai-young-investigator-program
+legacy_id: 6
+slug: allen-ai-young-investigator-program
+name: Allen AI Young Investigator Program
+description: The Allen AI Young Investigator is a postdoctoral program offering unique
+  benefits. The program will enable you to balance working collaboratively on an AI2
+  project while pursuing an independent research agenda.
+url: http://allenai.org/young-investigator-program.html
+funders:
+- the-allen-institute-for-artificial-intelligence
+legacy_funder_name: The Allen Institute for Artificial Intelligence, Seattle
+host_country: United States
+applicant_country: Worldwide
+career_levels:
+- phd
+- master-students
+years_since_phd: '1'
+duration: '3'
+award: $100K
+mobility_rule: 'No'
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: n/a
+comments: Dedicated AI2 mentor; Mentorship in research, grant writing, and more; 50%
+  collaborative work on an AI2 project; 50% work on your own projects; Generous travel
+  budget; AI2 provides support for obtaining a visa through its immigration attorney,
+  and pays the necessary expenses; Access to AI2’s data, AWS infrastructure, and other
+  resources as needed; No grant writing, teaching, or administrative responsibilities;
+  $100K research funding from AI2 after completion (based on proposal)
+benefits: null
+frequency: Rolling
+fileds: Artificial Intelligence
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T05:04:48Z'
+subjects:
+- computer-sciences
+- computational-engineering
+- computer-engineering
+- artificial-intelligence
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+- collaboration
+search_text: Allen AI Young Investigator Program The Allen AI Young Investigator is
+  a postdoctoral program offering unique benefits. The program will enable you to
+  balance working collaboratively on an AI2 project while pursuing an independent
+  research agenda. The Allen Institute for Artificial Intelligence PhD Master students
+  Computer Sciences Computational Engineering Computer Engineering Artificial intelligence
+  Fellowship, scholarship or training Research Collaboration United States Worldwide
+source: legacy-import

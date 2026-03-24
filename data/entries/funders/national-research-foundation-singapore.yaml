@@ -1,0 +1,20 @@
+id: funder-national-research-foundation-singapore
+legacy_id: 135
+slug: national-research-foundation-singapore
+name: National Research Foundation Singapore
+short_name: National Research Foundation Singapore
+funder_registry_id: '501100001381'
+country: Singapore
+website: null
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2019-01-17T00:40:55Z'
+source: legacy-import

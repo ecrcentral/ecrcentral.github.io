@@ -1,0 +1,48 @@
+id: funding-research-associateship-program
+legacy_id: 133
+slug: research-associateship-program
+name: Research Associateship Program
+description: The NRC Research Associateship Programs (RAP) promote excellence in scientific
+  and technological research conducted by the U.S. government through the administration
+  of programs offering graduate, postdoctoral, and senior level research opportunities
+  at sponsoring federal laboratories and affiliated institutions.
+url: http://sites.nationalacademies.org/pga/rap
+funders:
+- national-academies-of-sciences-engineering-and-medicine
+legacy_funder_name: National Academies of Sciences, Engineering, and Medicine
+host_country: United States
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: No rule
+duration: '2'
+award: null
+mobility_rule: 'Yes'
+research_costs: null
+deadline: February
+deadline_month: February
+diversity: null
+comments: null
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-30T18:56:32Z'
+subjects:
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: Research Associateship Program The NRC Research Associateship Programs
+  (RAP) promote excellence in scientific and technological research conducted by the
+  U.S. government through the administration of programs offering graduate, postdoctoral,
+  and senior level research opportunities at sponsoring federal laboratories and affiliated
+  institutions. National Academies of Sciences, Engineering, and Medicine PhD All
+  subjects Fellowship, scholarship or training Research United States Worldwide
+source: legacy-import

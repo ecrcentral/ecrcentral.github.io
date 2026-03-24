@@ -1,0 +1,20 @@
+id: funder-ludwig-maximilians-universitat-munchen-2
+legacy_id: 651
+slug: ludwig-maximilians-universitat-munchen-2
+name: Ludwig-Maximilians-Universitat Munchen
+short_name: Ludwig-Maximilians-Universitat Munchen
+funder_registry_id: ludwig-maximilians-universitat-munchen
+country: Germany
+website: https://www.en.uni-muenchen.de/index.html
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-06-30T14:28:53Z'
+updated_at: '2020-06-30T14:28:53Z'
+source: legacy-import

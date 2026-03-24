@@ -1,0 +1,20 @@
+id: funder-american-geophysical-union
+legacy_id: 238
+slug: american-geophysical-union
+name: American Geophysical Union
+short_name: American Geophysical Union
+funder_registry_id: '100005369'
+country: United States
+website: null
+logo: null
+dora: true
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2020-05-21T09:36:15Z'
+source: legacy-import

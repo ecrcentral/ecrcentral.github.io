@@ -1,0 +1,51 @@
+id: funding-early-career-investigator-program-ecip
+legacy_id: 285
+slug: early-career-investigator-program-ecip
+name: Early Career Investigator Program (ECIP)
+description: The Early Career Investigator Program (ECIP) in Heliophysics is designed
+  to support outstanding scientific research and career development of scientists
+  at the early stage of their professional careers. The program aims to encourage
+  innovative research initiatives and cultivate diverse scientific leadership in Heliophysics.
+url: https://nspires.nasaprs.com/external/solicitations
+funders:
+- national-aeronautics-and-space-administration
+legacy_funder_name: National Aeronautics and Space Administration (NASA), Space Technology
+  Mission Directorate
+host_country: United States
+applicant_country: null
+career_levels:
+- phd
+years_since_phd: 10 years
+duration: '4'
+award: $125,000 to $175,000
+mobility_rule: 'No'
+research_costs: null
+deadline: May
+deadline_month: May
+diversity: null
+comments: null
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-22T15:10:09Z'
+subjects:
+- physical-sciences-and-mathematics
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+- collaboration
+search_text: Early Career Investigator Program (ECIP) The Early Career Investigator
+  Program (ECIP) in Heliophysics is designed to support outstanding scientific research
+  and career development of scientists at the early stage of their professional careers.
+  The program aims to encourage innovative research initiatives and cultivate diverse
+  scientific leadership in Heliophysics. National Aeronautics and Space Administration
+  PhD Physical Sciences and Mathematics Fellowship, scholarship or training Research
+  Collaboration United States
+source: legacy-import

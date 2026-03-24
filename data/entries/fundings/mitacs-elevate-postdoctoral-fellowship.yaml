@@ -1,0 +1,51 @@
+id: funding-mitacs-elevate-postdoctoral-fellowship
+legacy_id: 130
+slug: mitacs-elevate-postdoctoral-fellowship
+name: Mitacs Elevate postdoctoral fellowship
+description: <p>Mitacs Elevate is a postdoctoral fellowship with a customized research
+  management training component. Fellows address complex challenges through an exclusive
+  research management curriculum for postdoctoral fellows in any discipline. Over
+  the two-year fellowship, Elevate fellows divide their time between their partner
+  organization project and university-based research with their faculty supervisor.</p>
+url: https://www.mitacs.ca/en/programs/elevate#postdoc
+funders:
+- mitacs-elevate
+legacy_funder_name: Mitacs Elevate
+host_country: Canada
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: '5'
+duration: '2'
+award: '> $55,000 salary / year'
+mobility_rule: 'Yes'
+research_costs: null
+deadline: June
+deadline_month: June
+diversity: null
+comments: null
+benefits: Training curriculum valued at $7,500 per year
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2022-01-16T19:01:30Z'
+subjects:
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+- collaboration
+search_text: Mitacs Elevate postdoctoral fellowship <p>Mitacs Elevate is a postdoctoral
+  fellowship with a customized research management training component. Fellows address
+  complex challenges through an exclusive research management curriculum for postdoctoral
+  fellows in any discipline. Over the two-year fellowship, Elevate fellows divide
+  their time between their partner organization project and university-based research
+  with their faculty supervisor.</p> Mitacs Elevate PhD All subjects Fellowship, scholarship
+  or training Research Collaboration Canada Worldwide
+source: legacy-import

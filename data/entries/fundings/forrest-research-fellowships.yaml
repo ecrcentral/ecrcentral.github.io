@@ -1,0 +1,51 @@
+id: funding-forrest-research-fellowships
+legacy_id: 77
+slug: forrest-research-fellowships
+name: Forrest Research Fellowships
+description: <p>Forrest Research Fellowships are open to outstanding early-career
+  researchers of any nationality and working in any discipline; they can be held at
+  any of Western Australia&rsquo;s five universities. Fellowships are offered to early-stage
+  post-doctoral researchers who have outstanding academic profiles and who have already
+  made significant personal research contributions within and beyond their discipline.</p>
+url: https://www.forrestresearch.org.au/fellowship/
+funders: []
+legacy_funder_name: Forrest Research Foundation
+host_country: Australia
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: <=2
+duration: '3'
+award: Salary + expenses + accommodation in Forrest Hall
+mobility_rule: null
+research_costs: null
+deadline: April
+deadline_month: April
+diversity: null
+comments: Open to researchers to undertake high quality research at any of the five
+  universities in Western Australia.
+benefits: "Accommodation allowance of $21,447 per annum;\r\nA once-off research and\
+  \ travel allowance of up to $12,000, plus economy airfare to Perth."
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2022-01-24T08:48:03Z'
+subjects:
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: Forrest Research Fellowships <p>Forrest Research Fellowships are open
+  to outstanding early-career researchers of any nationality and working in any discipline;
+  they can be held at any of Western Australia&rsquo;s five universities. Fellowships
+  are offered to early-stage post-doctoral researchers who have outstanding academic
+  profiles and who have already made significant personal research contributions within
+  and beyond their discipline.</p> PhD All subjects Fellowship, scholarship or training
+  Research Australia Worldwide
+source: legacy-import

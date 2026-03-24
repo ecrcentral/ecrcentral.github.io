@@ -1,0 +1,20 @@
+id: funder-agencia-estatal-de-investigacion
+legacy_id: 566
+slug: agencia-estatal-de-investigacion
+name: Agencia Estatal de Investigación
+short_name: Agencia Estatal de Investigación
+funder_registry_id: '501100011033'
+country: Spain
+website: null
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-05-22T16:41:38Z'
+updated_at: '2020-05-22T16:42:13Z'
+source: legacy-import

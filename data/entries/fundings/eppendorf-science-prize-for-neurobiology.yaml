@@ -1,0 +1,52 @@
+id: funding-eppendorf-science-prize-for-neurobiology
+legacy_id: 315
+slug: eppendorf-science-prize-for-neurobiology
+name: Eppendorf & Science Prize for Neurobiology
+description: The international Eppendorf & Science Prize for Neurobiology is awarded
+  annually to one young scientist for the most outstanding neurobiological research
+  based on methods of molecular and cell biology conducted by him/her during the past
+  three years.
+url: https://corporate.eppendorf.com/en/company/scientific-awards/global-award/
+funders:
+- american-association-for-the-advancement-of-science
+legacy_funder_name: Eppendorf
+host_country: NA
+applicant_country: NA
+career_levels:
+- phd
+years_since_phd: '10'
+duration: NA
+award: $25 000
+mobility_rule: null
+research_costs: null
+deadline: June
+deadline_month: June
+diversity: null
+comments: Eppendorf and Science/AAAS established this international prize in 2002.
+  The Prize is intended to encourage and support the work of promising young neurobiologists
+  who are not older than 35 years. It is awarded annually to one young scientist for
+  the most outstanding neurobiological research based on methods of molecular and
+  cell biology conducted by him/her during the past three years, as described in a
+  1,000-word entrance essay.
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T10:00:13Z'
+subjects:
+- life-sciences
+- medicine-and-health-sciences
+funding_purposes: []
+search_text: Eppendorf & Science Prize for Neurobiology The international Eppendorf
+  & Science Prize for Neurobiology is awarded annually to one young scientist for
+  the most outstanding neurobiological research based on methods of molecular and
+  cell biology conducted by him/her during the past three years. American Association
+  for the Advancement of Science PhD Life Sciences Medicine and Health Sciences NA
+  NA
+source: legacy-import

@@ -1,0 +1,38 @@
+id: funding-nsf-grfp
+legacy_id: 713
+slug: nsf-grfp
+name: NSF GRFP
+description: Graduate student fellowship through the NSF
+url: https://www.nsfgrfp.org
+funders: []
+legacy_funder_name: NSF
+host_country: United States
+applicant_country: United States
+career_levels: []
+years_since_phd: n/a
+duration: null
+award: $138,000
+mobility_rule: null
+research_costs: salary
+deadline: Mid-October
+deadline_month: October
+diversity: null
+comments: null
+benefits: NSF provides a stipend of $34,000 to the Fellow and a cost-ofeducation allowance
+  of $12,000 to the graduate degree-granting institution for each Fellow who uses
+  the fellowship support in a fellowship year.
+frequency: null
+fileds: Graduate Students
+featured: false
+review_status: approved
+status: expired
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 755
+created_at: '2019-06-29T02:13:04Z'
+updated_at: '2020-05-25T11:59:33Z'
+subjects: []
+funding_purposes: []
+search_text: NSF GRFP Graduate student fellowship through the NSF United States United
+  States
+source: legacy-import

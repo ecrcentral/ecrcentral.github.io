@@ -1,0 +1,42 @@
+id: funding-bridging-excellence-fellowship
+legacy_id: 726
+slug: bridging-excellence-fellowship
+name: Bridging Excellence Fellowship
+description: null
+url: https://med.stanford.edu/lifesciencealliance/activities/befellowships.html
+funders:
+- stanford-university
+legacy_funder_name: EMBL, Stanford University
+host_country: USA, Europe
+applicant_country: Worldwide
+career_levels:
+- phd
+- phd
+years_since_phd: '5'
+duration: '3'
+award: up to €240000
+mobility_rule: 'Yes'
+research_costs: Contribution towards lab consumables included
+deadline: March
+deadline_month: March
+diversity: null
+comments: null
+benefits: null
+frequency: null
+fileds: Life Sciences
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: '2020-01-21T23:05:22Z'
+updated_at: '2020-05-20T06:11:52Z'
+subjects:
+- life-sciences
+- medicine-and-health-sciences
+- life-sciences
+funding_purposes: []
+search_text: Bridging Excellence Fellowship Stanford University PhD PhD Life Sciences
+  Medicine and Health Sciences Life Sciences USA, Europe Worldwide
+source: legacy-import

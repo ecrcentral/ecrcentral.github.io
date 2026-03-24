@@ -1,0 +1,44 @@
+id: funding-frnt-quebec-scholarships-and-grants
+legacy_id: 79
+slug: frnt-quebec-scholarships-and-grants
+name: FRNT Quebec scholarships and grants
+description: The Fonds de recherche du Québec - Nature et technologies (FRQNT) is
+  pleased to present its scholarship and grant programs. In addition to its base budget,
+  the FRQNT is able to offer additional funding for students and researchers through
+  the support of its many partners.
+url: http://www.frqnt.gouv.qc.ca/en/bourses-et-subventions
+funders:
+- frnt-quebec
+legacy_funder_name: FRNT Quebec
+host_country: Canada
+applicant_country: Canada
+career_levels: []
+years_since_phd: null
+duration: '3'
+award: null
+mobility_rule: null
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: There are various funding available in this funder's own database. Visit
+  http://www.frqnt.gouv.qc.ca/en/bourses-et-subventions for more information.
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-24T10:42:02Z'
+subjects: []
+funding_purposes: []
+search_text: FRNT Quebec scholarships and grants The Fonds de recherche du Québec
+  - Nature et technologies (FRQNT) is pleased to present its scholarship and grant
+  programs. In addition to its base budget, the FRQNT is able to offer additional
+  funding for students and researchers through the support of its many partners. FRNT
+  Quebec Canada Canada
+source: legacy-import

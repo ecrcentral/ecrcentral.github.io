@@ -1,0 +1,45 @@
+id: funding-discovery-grant-program
+legacy_id: 421
+slug: discovery-grant-program
+name: Discovery Grant Program
+description: null
+url: https://www.psoriasis.org/grants
+funders:
+- national-psoriasis-foundation
+legacy_funder_name: National Psoriasis Foundation
+host_country: null
+applicant_country: null
+career_levels: []
+years_since_phd: NA
+duration: '1'
+award: $75 000
+mobility_rule: 'No'
+research_costs: null
+deadline: January
+deadline_month: January
+diversity: null
+comments: The National Psoriasis Foundation (NPF) is seeking grant applications that
+  encourage the advancement of innovative research into psoriasis, psoriatic arthritis,
+  and related comorbidities. Discovery Grants fund researchers while they explore
+  preliminary ideas and conduct proof-of-concept experiments. The goal is to stimulate
+  the development of new research programs in the field of psoriatic disease capable
+  of competing for long-term funding from the National Institutes of Health or other
+  agencies in the future.
+benefits: null
+frequency: Rolling
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-25T00:42:25Z'
+subjects:
+- medicine-and-health-sciences
+funding_purposes:
+- research
+search_text: Discovery Grant Program National Psoriasis Foundation Medicine and Health
+  Sciences Research
+source: legacy-import

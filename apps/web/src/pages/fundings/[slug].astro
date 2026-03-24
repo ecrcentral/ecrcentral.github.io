@@ -1,0 +1,372 @@
+---
+import BaseLayout from '../../components/layout/BaseLayout.astro'
+import { fundings, getFunderBySlug } from '../../lib/data'
+import type { GetStaticPaths } from 'astro'
+
+export const getStaticPaths: GetStaticPaths = async () => {
+  return fundings.map(f => ({
+    params: { slug: f.slug },
+    props: { funding: f },
+  }))
+}
+
+const { funding } = Astro.props
+
+// Resolve funder objects for richer display
+const resolvedFunders = funding.funders.map(slug => ({
+  slug,
+  funder: getFunderBySlug(slug),
+  name: (funding.funder_names || [])[funding.funders.indexOf(slug)] || slug,
+}))
+
+const githubRepo = 'https://github.com/ecrcentral/ecrcentral.github.io'
+const editUrl = `${githubRepo}/edit/main/data/entries/fundings/${funding.slug}.yaml`
+const issueUrl = `${githubRepo}/issues/new?template=report_issue.yml&title=Issue+with+funding:+${encodeURIComponent(funding.name)}&labels=funding`
+
+function formatDeadline(deadline: string | null): string {
+  if (!deadline) return ''
+  try {
+    const d = new Date(deadline)
+    return d.toLocaleDateString('en-GB', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' })
+  } catch {
+    return deadline
+  }
+}
+
+const statusClass: Record<string, string> = {
+  active: 'badge-active',
+  expired: 'badge-expired',
+  archived: 'badge-archived',
+  draft: 'badge-draft',
+}
+
+const jsonLd = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'Grant',
+  name: funding.name,
+  description: funding.description,
+  url: `https://ecrcentral.org/fundings/${funding.slug}/`,
+  funder: resolvedFunders.map(f => ({ '@type': 'Organization', name: f.name })),
+})
+---
+
+<BaseLayout
+  title={funding.name}
+  description={funding.description || `Funding opportunity: ${funding.name}. View eligibility, deadlines, and how to apply.`}
+  canonical={`/fundings/${funding.slug}/`}
+  type="article"
+>
+  <script type="application/ld+json" set:html={jsonLd} slot="head" />
+
+  <div class="container">
+    <div class="detail-layout">
+      <!-- Breadcrumb -->
+      <nav class="detail-breadcrumb" aria-label="Breadcrumb">
+        <a href="/">Home</a>
+        <span class="detail-breadcrumb-sep" aria-hidden="true">/</span>
+        <a href="/fundings/">Fundings</a>
+        <span class="detail-breadcrumb-sep" aria-hidden="true">/</span>
+        <span aria-current="page">{funding.name}</span>
+      </nav>
+
+      <!-- Header -->
+      <header class="detail-header">
+        <div class="detail-badges">
+          <span class={`badge ${statusClass[funding.status] || 'badge-draft'}`}>
+            {funding.status}
+          </span>
+          {funding.featured && (
+            <span class="badge badge-featured">
+              <svg width="10" height="10" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+              </svg>
+              Featured
+            </span>
+          )}
+          {funding.review_status === 'pending' && (
+            <span class="badge badge-pending">Pending review</span>
+          )}
+        </div>
+
+        <h1 class="detail-title">{funding.name}</h1>
+
+        {resolvedFunders.length > 0 && (
+          <div class="detail-funders">
+            <span>Offered by</span>
+            {resolvedFunders.map((f, i) => (
+              <span>
+                {i > 0 && <span style="margin-right:4px;">,</span>}
+                {f.funder ? (
+                  <a href={`/funders/${f.slug}/`} class="detail-funder-link">{f.name}</a>
+                ) : (
+                  <span class="font-semibold">{f.name}</span>
+                )}
+              </span>
+            ))}
+          </div>
+        )}
+
+        {funding.legacy_funder_name && resolvedFunders.length === 0 && (
+          <div class="detail-funders">
+            <span>Offered by <strong>{funding.legacy_funder_name}</strong></span>
+          </div>
+        )}
+      </header>
+
+      <!-- Description -->
+      {funding.description && (
+        <blockquote class="detail-description">
+          {funding.description}
+        </blockquote>
+      )}
+
+      <!-- Apply CTA -->
+      <div style="display:flex;gap:12px;flex-wrap:wrap;margin-bottom:32px;">
+        <a
+          href={funding.url}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="btn btn-primary btn-lg"
+          aria-label={`Apply for ${funding.name} (opens in new tab)`}
+        >
+          Apply / Learn More
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
+            <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"/>
+            <polyline points="15 3 21 3 21 9"/>
+            <line x1="10" y1="14" x2="21" y2="3"/>
+          </svg>
+        </a>
+      </div>
+
+      <!-- Key Details -->
+      <section class="detail-section">
+        <h2 class="detail-section-title">Key Details</h2>
+        <div class="detail-grid">
+          {funding.deadline && (
+            <div class="detail-field">
+              <span class="detail-field-label">Deadline</span>
+              <span class="detail-field-value">{formatDeadline(funding.deadline)}</span>
+            </div>
+          )}
+          {funding.deadline_raw && funding.deadline_raw !== funding.deadline && (
+            <div class="detail-field">
+              <span class="detail-field-label">Deadline (as stated)</span>
+              <span class="detail-field-value">{funding.deadline_raw}</span>
+            </div>
+          )}
+          {funding.award && (
+            <div class="detail-field">
+              <span class="detail-field-label">Award Amount</span>
+              <span class="detail-field-value">{funding.award}</span>
+            </div>
+          )}
+          {funding.duration && (
+            <div class="detail-field">
+              <span class="detail-field-label">Duration</span>
+              <span class="detail-field-value">{funding.duration}</span>
+            </div>
+          )}
+          {funding.frequency && (
+            <div class="detail-field">
+              <span class="detail-field-label">Frequency</span>
+              <span class="detail-field-value">{funding.frequency}</span>
+            </div>
+          )}
+          {funding.applicant_country && (
+            <div class="detail-field">
+              <span class="detail-field-label">Eligible Applicant Country</span>
+              <span class="detail-field-value">{funding.applicant_country}</span>
+            </div>
+          )}
+          {funding.host_country && (
+            <div class="detail-field">
+              <span class="detail-field-label">Host Country</span>
+              <span class="detail-field-value">{funding.host_country}</span>
+            </div>
+          )}
+          {funding.years_since_phd && (
+            <div class="detail-field">
+              <span class="detail-field-label">Years Since PhD</span>
+              <span class="detail-field-value">{funding.years_since_phd}</span>
+            </div>
+          )}
+          {funding.academic_level && (
+            <div class="detail-field">
+              <span class="detail-field-label">Academic Level</span>
+              <span class="detail-field-value">{funding.academic_level}</span>
+            </div>
+          )}
+          {funding.mobility_rule && (
+            <div class="detail-field">
+              <span class="detail-field-label">Mobility Rule</span>
+              <span class="detail-field-value">{funding.mobility_rule}</span>
+            </div>
+          )}
+          {funding.research_costs && (
+            <div class="detail-field">
+              <span class="detail-field-label">Research Costs Covered</span>
+              <span class="detail-field-value">{funding.research_costs}</span>
+            </div>
+          )}
+        </div>
+      </section>
+
+      <!-- Career Levels -->
+      {(funding.career_level_names?.length || funding.career_levels.length) > 0 && (
+        <section class="detail-section">
+          <h2 class="detail-section-title">Career Levels</h2>
+          <div class="tags">
+            {(funding.career_level_names || funding.career_levels).map(level => (
+              <span class="tag">{level}</span>
+            ))}
+          </div>
+        </section>
+      )}
+
+      <!-- Funding Purposes -->
+      {(funding.funding_purpose_names?.length || funding.funding_purposes.length) > 0 && (
+        <section class="detail-section">
+          <h2 class="detail-section-title">Funding Purpose</h2>
+          <div class="tags">
+            {(funding.funding_purpose_names || funding.funding_purposes).map(purpose => (
+              <span class="tag">{purpose}</span>
+            ))}
+          </div>
+        </section>
+      )}
+
+      <!-- Subjects / Fields -->
+      {(funding.subject_names?.length || funding.subjects.length) > 0 && (
+        <section class="detail-section">
+          <h2 class="detail-section-title">Subjects / Fields</h2>
+          <div class="tags">
+            {(funding.subject_names || funding.subjects).map(subject => (
+              <span class="tag tag-muted">{subject}</span>
+            ))}
+          </div>
+        </section>
+      )}
+
+      <!-- Fields (fileds field) -->
+      {funding.fileds && (
+        <section class="detail-section">
+          <h2 class="detail-section-title">Fields</h2>
+          <p style="color:var(--color-text);">{funding.fileds}</p>
+        </section>
+      )}
+
+      <!-- Additional Information -->
+      {(funding.benefits || funding.comments || funding.diversity) && (
+        <section class="detail-section">
+          <h2 class="detail-section-title">Additional Information</h2>
+          {funding.benefits && (
+            <div class="detail-field" style="margin-bottom:16px;">
+              <span class="detail-field-label">Benefits</span>
+              <span class="detail-field-value" style="white-space:pre-line;">{funding.benefits}</span>
+            </div>
+          )}
+          {funding.diversity && (
+            <div class="detail-field" style="margin-bottom:16px;">
+              <span class="detail-field-label">Diversity &amp; Inclusion</span>
+              <span class="detail-field-value" style="white-space:pre-line;">{funding.diversity}</span>
+            </div>
+          )}
+          {funding.comments && (
+            <div class="detail-field">
+              <span class="detail-field-label">Comments</span>
+              <span class="detail-field-value" style="white-space:pre-line;">{funding.comments}</span>
+            </div>
+          )}
+        </section>
+      )}
+
+      <!-- Funders detail -->
+      {resolvedFunders.filter(f => f.funder).length > 0 && (
+        <section class="detail-section">
+          <h2 class="detail-section-title">About the Funder{resolvedFunders.length > 1 ? 's' : ''}</h2>
+          <div style="display:flex;flex-direction:column;gap:16px;">
+            {resolvedFunders.filter(f => f.funder).map(({ slug, funder, name }) => (
+              <div style="display:flex;gap:16px;align-items:flex-start;">
+                <a href={`/funders/${slug}/`} class="detail-funder-link font-semibold">{name}</a>
+                {funder?.country && <span class="text-muted text-sm">{funder.country}</span>}
+                {funder?.website && (
+                  <a href={funder.website} target="_blank" rel="noopener noreferrer" class="btn btn-ghost btn-sm" style="margin-left:auto;">
+                    Website ↗
+                  </a>
+                )}
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
+
+      <!-- Metadata footer -->
+      <section class="detail-section">
+        <h2 class="detail-section-title">Record Information</h2>
+        <div class="detail-grid">
+          {funding.last_verified && (
+            <div class="detail-field">
+              <span class="detail-field-label">Last Verified</span>
+              <span class="detail-field-value">
+                {new Date(funding.last_verified).toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' })}
+                {funding.verified_by && ` by ${funding.verified_by}`}
+              </span>
+            </div>
+          )}
+          {funding.created_at && (
+            <div class="detail-field">
+              <span class="detail-field-label">Added</span>
+              <span class="detail-field-value">
+                {new Date(funding.created_at).toLocaleDateString('en-GB', { month: 'long', year: 'numeric' })}
+              </span>
+            </div>
+          )}
+          {funding.updated_at && (
+            <div class="detail-field">
+              <span class="detail-field-label">Last Updated</span>
+              <span class="detail-field-value">
+                {new Date(funding.updated_at).toLocaleDateString('en-GB', { month: 'long', year: 'numeric' })}
+              </span>
+            </div>
+          )}
+          <div class="detail-field">
+            <span class="detail-field-label">Source</span>
+            <span class="detail-field-value">{funding.source}</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- Actions: edit / report -->
+      <div class="detail-actions">
+        <p class="detail-actions-title">Help keep this record accurate</p>
+        <a
+          href={editUrl}
+          class="btn btn-outline btn-sm"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Edit this record on GitHub"
+        >
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <path d="M11 4H4a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2v-7"/>
+            <path d="M18.5 2.5a2.121 2.121 0 013 3L12 15l-4 1 1-4 9.5-9.5z"/>
+          </svg>
+          Edit on GitHub
+        </a>
+        <a
+          href={issueUrl}
+          class="btn btn-ghost btn-sm"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Report an issue with this record"
+        >
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <circle cx="12" cy="12" r="10"/>
+            <line x1="12" y1="8" x2="12" y2="12"/>
+            <line x1="12" y1="16" x2="12.01" y2="16"/>
+          </svg>
+          Report an issue
+        </a>
+      </div>
+    </div>
+  </div>
+</BaseLayout>

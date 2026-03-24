@@ -1,0 +1,46 @@
+id: funding-canon-foundation-fellowship-2
+legacy_id: 32
+slug: canon-foundation-fellowship-2
+name: Canon Foundation Fellowship
+description: Annually, the Canon Foundation in Europe grants up to 15 Fellowships
+  to highly qualified European and Japanese researchers. European Fellows are expected
+  to pursue a period of research in Japan whereas Japanese Fellows are expected to
+  do their research in Europe.
+url: https://www.canonfoundation.org/programmes/research-fellowships
+funders:
+- canon-foundation-for-scientific-research
+legacy_funder_name: Canon Foundation
+host_country: Europe
+applicant_country: Japan
+career_levels:
+- master-students
+years_since_phd: '10'
+duration: '1'
+award: €22,500 - €27,500 per year
+mobility_rule: 'No'
+research_costs: null
+deadline: September
+deadline_month: September
+diversity: n/a
+comments: null
+benefits: null
+frequency: Annual
+fileds: all
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-25T15:01:58Z'
+subjects:
+- all-subjects
+funding_purposes:
+- research
+search_text: Canon Foundation Fellowship Annually, the Canon Foundation in Europe
+  grants up to 15 Fellowships to highly qualified European and Japanese researchers.
+  European Fellows are expected to pursue a period of research in Japan whereas Japanese
+  Fellows are expected to do their research in Europe. Canon Foundation for Scientific
+  Research Master students All subjects Research Europe Japan
+source: legacy-import

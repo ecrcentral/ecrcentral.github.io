@@ -1,0 +1,30 @@
+id: travel-grant-sulsa-postdoctoral-and-early-career-researcher-exchange-scheme
+legacy_id: 60
+slug: sulsa-postdoctoral-and-early-career-researcher-exchange-scheme
+name: SULSA Postdoctoral and Early Career Researcher Exchange Scheme
+url: http://www.sulsa.ac.uk/postdoc-exchanges/
+description: null
+funders: []
+legacy_funder_name: Scottish Universities Life Science Alliance (SULSA)
+applicant_country: ECR must be employed with a SULSA department
+host_country: null
+award: up to £5000
+deadline: currently closed for applications
+deadline_month: null
+membership: null
+membership_time: null
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- collaboration
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: SULSA Postdoctoral and Early Career Researcher Exchange Scheme Collaboration
+  ECR must be employed with a SULSA department
+source: legacy-import

@@ -1,0 +1,48 @@
+id: funding-research-fellowship-competition
+legacy_id: 729
+slug: research-fellowship-competition
+name: Research Fellowship Competition
+description: <p>Research Fellowships are awarded to individuals judged to be the most
+  able with an exceptionally strong academic record who have demonstrated outstanding
+  capacity to conduct original and innovative doctoral research in science or the
+  humanities. Those to whom Research Fellowships are awarded are about to complete
+  or have just completed a PhD thesis or the equivalent. The College entertains applications
+  in all academic disciplines.</p>
+url: https://www.cai.cam.ac.uk/rfc
+funders:
+- university-of-cambridge
+legacy_funder_name: Caius College, University of Cambridge
+host_country: United Kingdom
+applicant_country: null
+career_levels: []
+years_since_phd: <1
+duration: null
+award: null
+mobility_rule: null
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: null
+benefits: null
+frequency: null
+fileds: All
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: '2020-03-16T09:08:45Z'
+updated_at: '2020-05-20T07:11:09Z'
+subjects:
+- all-subjects
+funding_purposes: []
+search_text: Research Fellowship Competition <p>Research Fellowships are awarded to
+  individuals judged to be the most able with an exceptionally strong academic record
+  who have demonstrated outstanding capacity to conduct original and innovative doctoral
+  research in science or the humanities. Those to whom Research Fellowships are awarded
+  are about to complete or have just completed a PhD thesis or the equivalent. The
+  College entertains applications in all academic disciplines.</p> University of Cambridge
+  All subjects United Kingdom
+source: legacy-import

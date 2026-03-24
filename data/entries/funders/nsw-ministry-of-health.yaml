@@ -1,0 +1,20 @@
+id: funder-nsw-ministry-of-health
+legacy_id: 486
+slug: nsw-ministry-of-health
+name: NSW Ministry of Health
+short_name: NSW Ministry of Health
+funder_registry_id: '501100008810'
+country: NA
+website: null
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2020-05-21T09:36:16Z'
+source: legacy-import

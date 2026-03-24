@@ -1,0 +1,40 @@
+id: funding-fundacion-ramon-areces-scholarships-and-grants
+legacy_id: 84
+slug: fundacion-ramon-areces-scholarships-and-grants
+name: Fundación Ramón Areces Scholarships and grants
+description: null
+url: https://www.fundacionareces.es/fundacionareces/en/scholarships-and-grants/call-of-grants/
+funders:
+- fundacion-ramon-areces
+legacy_funder_name: Fundación Ramón Areces
+host_country: Spain
+applicant_country: null
+career_levels: []
+years_since_phd: null
+duration: null
+award: null
+mobility_rule: null
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: Fundación Ramón Areces offers various kinds of scholarships and grants.
+  For more information please visit https://www.fundacionareces.es/fundacionareces/en/scholarships-and-grants/call-of-grants/
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-24T20:54:43Z'
+subjects: []
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: Fundación Ramón Areces Scholarships and grants Fundación Ramón Areces
+  Fellowship, scholarship or training Research Spain
+source: legacy-import

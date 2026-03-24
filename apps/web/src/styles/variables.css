@@ -1,0 +1,108 @@
+:root {
+  /* ── Colors ── */
+  --color-primary: #6FC5A5;
+  --color-primary-dark: #437B86;
+  --color-primary-light: #edf2f9;
+  --color-dark: #12263f;
+  --color-muted: #6e84a3;
+  --color-success: #00d97e;
+  --color-warning: #f6c343;
+  --color-danger: #e63757;
+  --color-bg: #f9fbfd;
+  --color-white: #ffffff;
+  --color-border: #e3ebf6;
+  --color-border-dark: #c5d5e8;
+  --color-text: #12263f;
+  --color-text-muted: #6e84a3;
+  --color-text-light: #95aac9;
+  --color-card-bg: #ffffff;
+  --color-nav-bg: #ECF0F1;
+  --color-nav-text: #12263f;
+  --color-nav-hover: #6FC5A5;
+  --color-footer-bg: #ECF0F1;
+  --color-footer-text: #12263f;
+  --color-hero-gradient-start: #12263f;
+  --color-hero-gradient-end: #1a5db5;
+
+  /* ── Spacing scale ── */
+  --space-1: 0.25rem;   /*  4px */
+  --space-2: 0.5rem;    /*  8px */
+  --space-3: 0.75rem;   /* 12px */
+  --space-4: 1rem;      /* 16px */
+  --space-5: 1.25rem;   /* 20px */
+  --space-6: 1.5rem;    /* 24px */
+  --space-8: 2rem;      /* 32px */
+  --space-10: 2.5rem;   /* 40px */
+  --space-12: 3rem;     /* 48px */
+  --space-16: 4rem;     /* 64px */
+  --space-20: 5rem;     /* 80px */
+  --space-24: 6rem;     /* 96px */
+
+  /* ── Typography ── */
+  --font-sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+    Ubuntu, Cantarell, 'Helvetica Neue', Arial, sans-serif;
+  --font-mono: 'SF Mono', 'Fira Code', 'Fira Mono', 'Roboto Mono',
+    Consolas, 'Courier New', monospace;
+
+  --font-size-xs: 0.75rem;    /* 12px */
+  --font-size-sm: 0.875rem;   /* 14px */
+  --font-size-base: 1rem;     /* 16px */
+  --font-size-lg: 1.125rem;   /* 18px */
+  --font-size-xl: 1.25rem;    /* 20px */
+  --font-size-2xl: 1.5rem;    /* 24px */
+  --font-size-3xl: 1.875rem;  /* 30px */
+  --font-size-4xl: 2.25rem;   /* 36px */
+  --font-size-5xl: 3rem;      /* 48px */
+
+  --font-weight-normal: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 700;
+
+  --line-height-tight: 1.25;
+  --line-height-snug: 1.375;
+  --line-height-normal: 1.5;
+  --line-height-relaxed: 1.625;
+  --line-height-loose: 2;
+
+  /* ── Border radius ── */
+  --radius-sm: 0.25rem;   /*  4px */
+  --radius-md: 0.375rem;  /*  6px */
+  --radius-lg: 0.5rem;    /*  8px */
+  --radius-xl: 0.75rem;   /* 12px */
+  --radius-2xl: 1rem;     /* 16px */
+  --radius-full: 9999px;
+
+  /* ── Shadows ── */
+  --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+  --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.07), 0 2px 4px -2px rgb(0 0 0 / 0.05);
+  --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.08), 0 4px 6px -4px rgb(0 0 0 / 0.05);
+  --shadow-xl: 0 20px 25px -5px rgb(0 0 0 / 0.08), 0 8px 10px -6px rgb(0 0 0 / 0.04);
+  --shadow-card: 0 1px 3px 0 rgb(18 38 63 / 0.08), 0 1px 2px -1px rgb(18 38 63 / 0.06);
+  --shadow-card-hover: 0 4px 12px 0 rgb(18 38 63 / 0.12), 0 2px 4px -1px rgb(18 38 63 / 0.08);
+
+  /* ── Transitions ── */
+  --transition-fast: 100ms ease;
+  --transition-base: 150ms ease;
+  --transition-slow: 250ms ease;
+
+  /* ── Layout ── */
+  --container-max: 1280px;
+  --container-padding: var(--space-4);
+  --nav-height: 64px;
+  --sidebar-width: 260px;
+
+  /* ── Breakpoints (used in JS only; CSS uses media queries directly) ── */
+  --bp-sm: 640px;
+  --bp-md: 768px;
+  --bp-lg: 1024px;
+  --bp-xl: 1280px;
+}
+
+@media (max-width: 768px) {
+  :root {
+    --container-padding: var(--space-4);
+    --font-size-4xl: 1.875rem;
+    --font-size-5xl: 2.25rem;
+  }
+}

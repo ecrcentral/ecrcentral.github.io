@@ -1,0 +1,20 @@
+id: funder-canadian-institutes-of-health-research
+legacy_id: 60
+slug: canadian-institutes-of-health-research
+name: Canadian Institutes of Health Research
+short_name: Canadian Institutes of Health Research
+funder_registry_id: '501100000024'
+country: Canada
+website: null
+logo: null
+dora: true
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2019-01-17T00:40:55Z'
+source: legacy-import

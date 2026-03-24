@@ -1,0 +1,48 @@
+id: funding-pilot-grant-program-2
+legacy_id: 573
+slug: pilot-grant-program-2
+name: Pilot Grant Program
+description: null
+url: http://www.nationalmssociety.org/For-Professionals/Researchers/Society-Funding/Pilot-Research-Grants
+funders:
+- national-multiple-sclerosis-society
+legacy_funder_name: National Multiple Sclerosis Society
+host_country: United States
+applicant_country: null
+career_levels:
+- junior-faculty
+years_since_phd: NA
+duration: null
+award: $50 000
+mobility_rule: 'No'
+research_costs: null
+deadline: January , May, September
+deadline_month: January, May, September
+diversity: null
+comments: The Society funds high-risk pilot grants to test novel ideas that may serve
+  to advance its mission of stopping MS progression, restoring function, improving
+  quality of life, and preventing MS. Funding is provided for one year to test innovative,
+  cutting-edge ideas or untested methods, and to gather sufficient preliminary data
+  to apply for longer-term funding. We welcome applications for studies related to
+  multiple sclerosis that may serve to advance our mission of stopping MS progression,
+  restoring function and improving quality of life, and preventing MS. The Society
+  supports fundamental as well as applied studies, non-clinical or clinical in nature,
+  including projects in patient management, care and rehabilitation.
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T18:26:01Z'
+subjects:
+- medicine-and-health-sciences
+funding_purposes:
+- research
+search_text: Pilot Grant Program National Multiple Sclerosis Society Junior Faculty
+  Medicine and Health Sciences Research United States
+source: legacy-import

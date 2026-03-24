@@ -1,0 +1,36 @@
+id: funding-endeavor-research-fellowship-2
+legacy_id: 16
+slug: endeavor-research-fellowship-2
+name: Endeavor Research Fellowship
+description: null
+url: https://internationaleducation.gov.au/Endeavour%20program/Scholarships-and-Fellowships/Pages/default.aspx
+funders: []
+legacy_funder_name: Australian Government
+host_country: Worldwide
+applicant_country: Australia
+career_levels: []
+years_since_phd: No rule
+duration: 0,5
+award: AU$36,000 per year
+mobility_rule: 'Yes'
+research_costs: travel allowance
+deadline: July
+deadline_month: July
+diversity: n/a
+comments: null
+benefits: 'yes'
+frequency: null
+fileds: all
+featured: false
+review_status: approved
+status: draft
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-25T08:48:43Z'
+subjects:
+- all-subjects
+funding_purposes: []
+search_text: Endeavor Research Fellowship All subjects Worldwide Australia
+source: legacy-import

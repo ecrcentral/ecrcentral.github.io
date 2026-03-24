@@ -1,0 +1,21 @@
+id: resource-learning-bioinformatics-at-home
+legacy_id: 130
+slug: learning-bioinformatics-at-home
+name: Learning bioinformatics at home
+url: https://github.com/harvardinformatics/learning-bioinformatics-at-home
+description: Some resources gathered by the Harvard Informatics group and other contributors
+  to help people learn bioinformatics tools (basic and specialized) at home.
+source_name: Harvard Informatics (on GitHub)
+funders: []
+resource_categories:
+- open-source
+- covid19-resources-guidebooks
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-04-01T09:10:00Z'
+updated_at: '2020-04-01T09:10:59Z'
+source: legacy-import

@@ -1,0 +1,49 @@
+id: funding-prospective-clinical-research-grant
+legacy_id: 336
+slug: prospective-clinical-research-grant
+name: Prospective Clinical Research Grant
+description: Promotes clinical research and provides funding for promising prospective
+  studies (studies that occur over the course of time and typically track the outcomes
+  of a group over that time) in the areas of high clinical importance in orthopaedic
+  surgery.
+url: https://www.oref.org/grants-and-awards/grant-programs/general-grants
+funders:
+- orthopaedic-research-and-education-foundation
+legacy_funder_name: Orthopaedic Research and Education Foundation
+host_country: United States
+applicant_country: null
+career_levels:
+- phd
+- md
+years_since_phd: null
+duration: '3'
+award: $150 000
+mobility_rule: null
+research_costs: null
+deadline: April, July
+deadline_month: April, July
+diversity: null
+comments: null
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-24T15:06:50Z'
+subjects:
+- medicine-and-health-sciences
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: Prospective Clinical Research Grant Promotes clinical research and provides
+  funding for promising prospective studies (studies that occur over the course of
+  time and typically track the outcomes of a group over that time) in the areas of
+  high clinical importance in orthopaedic surgery. Orthopaedic Research and Education
+  Foundation PhD MD Medicine and Health Sciences Fellowship, scholarship or training
+  Research United States
+source: legacy-import

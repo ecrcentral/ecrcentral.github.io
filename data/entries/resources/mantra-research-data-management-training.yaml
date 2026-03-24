@@ -1,0 +1,20 @@
+id: resource-mantra-research-data-management-training
+legacy_id: 85
+slug: mantra-research-data-management-training
+name: MANTRA - Research Data Management Training
+url: https://mantra.edina.ac.uk/
+description: MANTRA is a free online course for those who manage digital data as part
+  of their research project.
+source_name: The University of Edinburgh
+funders: []
+resource_categories:
+- other
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2019-10-12T11:57:00Z'
+updated_at: '2019-10-12T11:58:37Z'
+source: legacy-import

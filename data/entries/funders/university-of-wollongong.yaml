@@ -1,0 +1,20 @@
+id: funder-university-of-wollongong
+legacy_id: 543
+slug: university-of-wollongong
+name: University of Wollongong
+short_name: University of Wollongong
+funder_registry_id: '501100001777'
+country: NA
+website: null
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2020-05-21T09:36:17Z'
+source: legacy-import

@@ -1,0 +1,46 @@
+id: funding-cornell-presidential-postdoctoral-fellowship
+legacy_id: 709
+slug: cornell-presidential-postdoctoral-fellowship
+name: Cornell Presidential Postdoctoral Fellowship
+description: null
+url: https://research.cornell.edu/content/about-program
+funders:
+- cornell-university
+legacy_funder_name: Cornell University
+host_country: United States
+applicant_country: Worldwide
+career_levels:
+- phd
+- md
+years_since_phd: Within 2 years of attaining PhD.
+duration: '3'
+award: $68,000
+mobility_rule: 'No'
+research_costs: Each fellow also receives $5,000 annually for discretionary research
+  expenses, which include travel.
+deadline: September
+deadline_month: September
+diversity: null
+comments: The program supports a steady state of 18 postdoctoral fellows, with six
+  to nine new appointments each year. Depending on the interest and career goals of
+  the postdoctoral fellow, an appointment can include a teaching component. A teaching
+  commitment can be no more than 25 percent averaged over the length of the appointment.
+benefits: Full Cornell University employee fringe benefits.
+frequency: null
+fileds: All areas of research and scholarship
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: '2019-05-11T07:03:41Z'
+updated_at: '2020-05-24T08:54:18Z'
+subjects:
+- all-subjects
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Cornell Presidential Postdoctoral Fellowship Cornell University PhD MD
+  All subjects All subjects Fellowship, scholarship or training United States Worldwide
+source: legacy-import

@@ -1,0 +1,55 @@
+id: funding-hpa-research-grant
+legacy_id: 399
+slug: hpa-research-grant
+name: HPA research grant
+description: "Share|\r\nThe purpose of the Section on Health Policy and Administration\
+  \ Grant Program is to stimulate, encourage and support research activities that\
+  \ enhance the body of knowledge related to health policy, clinical administration,\
+  \ global health, and the use of technology in physical therapy."
+url: http://www.aptahpa.org/page/HPAGrant
+funders:
+- american-physical-therapy-association
+legacy_funder_name: American Physical Therapy Association
+host_country: United States
+applicant_country: null
+career_levels: []
+years_since_phd: New physical therapist investigators. Must be a HPA Section member.
+  HPA Section member may only submit one proposal per year.
+duration: 1 year
+award: $15 000
+mobility_rule: null
+research_costs: null
+deadline: December
+deadline_month: December
+diversity: null
+comments: The purpose of the Section Health Policy and Administration Grant Program
+  is to stimulate, encourage and support research activities that enhance the body
+  of knowledge related to health policy, clinical administration, global health, and
+  the use of technology in physical therapy. The grants provide funding to assist
+  new physical therapist investigators, or established investigators who are embarking
+  on a new research agenda in these areas of physical therapist practice, leadership,
+  administration, or education. Through this grant program, the Section hopes to encourage
+  the development of proposals that will seek financial support from external agencies.
+  1-2 research grant awards of up to $15,000 are available to Section members to assist
+  with a 1-year research study that investigates a question or questions of importance
+  to health policy or clinical administration. Grants may be renewable (no-cost extension)
+  for up to 1 year.
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-18T21:45:24Z'
+subjects: []
+funding_purposes: []
+search_text: "HPA research grant Share|\r\nThe purpose of the Section on Health Policy\
+  \ and Administration Grant Program is to stimulate, encourage and support research\
+  \ activities that enhance the body of knowledge related to health policy, clinical\
+  \ administration, global health, and the use of technology in physical therapy.\
+  \ American Physical Therapy Association United States"
+source: legacy-import

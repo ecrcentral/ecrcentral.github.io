@@ -1,0 +1,71 @@
+id: funding-ukri-future-leader-fellowships
+legacy_id: 23
+slug: ukri-future-leader-fellowships
+name: UKRI Future Leader Fellowships
+description: "This cross-UK Research and Innovation (UKRI) scheme will support early\
+  \ career researchers and innovators with outstanding potential in universities,\
+  \ UK registered businesses, and other research and user environments including research\
+  \ councils' institutes and laboratories.\r\n\r\nThe FLF scheme welcomes applications\
+  \ from both UK and international applicants and individuals should use the person\
+  \ specification to assess and justify their suitability for the scheme. The support\
+  \ of the institution will a be critical component of all fellowships which will\
+  \ enable the fellow to transition to or establish their research/innovation independence\
+  \ in any area supported by UKRI."
+url: http://www.bbsrc.ac.uk/funding/filter/future-leader-fellowship
+funders:
+- biotechnology-and-biological-sciences-research-council-bbsrc
+legacy_funder_name: BBSRC
+host_country: United Kingdom
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: null
+duration: '7'
+award: up to £1.5 million over a four-year period
+mobility_rule: 'No'
+research_costs: null
+deadline: June
+deadline_month: June
+diversity: n/a
+comments: "The support of a UK based host organisation is essential for all applications\
+  \ to the Future Leaders Fellowships scheme. To apply to the FLF scheme, the organisation\
+  \ must be eligible to receive Research Council funding or be a UK based business\
+  \ or Catapult eligible to receive Innovate UK funding. (Further information on organisations\
+  \ eligible to receive funding)\r\n\r\nApplicants from both the UK and elsewhere\
+  \ are welcome to apply for a fellowship supported by a UK host organisation.\r\n\
+  \r\nFuture Leaders Fellowships support applicants from diverse career paths, including\
+  \ those returning from a career break or following time in other roles. We also\
+  \ encourage applications from those wishing to work part-time. Our assessors will\
+  \ take into account time spent outside an active research or innovation environment,\
+  \ whether through career breaks, flexible working or time spent working in other\
+  \ roles. \r\n\r\nThis is a single scheme which covers the entire UK Research and\
+  \ Innovation remit, with no ringfenced budgets for specific areas and no barriers\
+  \ to interdisciplinary or cross-sector research."
+benefits: null
+frequency: Twice a year
+fileds: all
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-25T13:18:54Z'
+subjects:
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: "UKRI Future Leader Fellowships This cross-UK Research and Innovation\
+  \ (UKRI) scheme will support early career researchers and innovators with outstanding\
+  \ potential in universities, UK registered businesses, and other research and user\
+  \ environments including research councils' institutes and laboratories.\r\n\r\n\
+  The FLF scheme welcomes applications from both UK and international applicants and\
+  \ individuals should use the person specification to assess and justify their suitability\
+  \ for the scheme. The support of the institution will a be critical component of\
+  \ all fellowships which will enable the fellow to transition to or establish their\
+  \ research/innovation independence in any area supported by UKRI. Biotechnology\
+  \ and Biological Sciences Research Council - BBSRC PhD All subjects Fellowship,\
+  \ scholarship or training Research United Kingdom Worldwide"
+source: legacy-import

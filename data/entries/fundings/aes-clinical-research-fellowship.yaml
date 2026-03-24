@@ -1,0 +1,58 @@
+id: funding-aes-clinical-research-fellowship
+legacy_id: 642
+slug: aes-clinical-research-fellowship
+name: AES Clinical Research Fellowship
+description: AES Research and Training Fellowships for Clinicians provide mentored
+  support for clinical fellows or recently appointed clinical faculty who intend to
+  pursue a career in epilepsy research. Proposals are welcomed across the spectrum
+  of basic, translational, and clinical research.
+url: https://www.aesnet.org/research/funding for junior investigators/clinical fellowships
+funders:
+- epilepsy-foundation
+- american-epilepsy-society
+legacy_funder_name: Epilepsy Foundation & American Epilepsy Society
+host_country: United States
+applicant_country: Worldwide
+career_levels:
+- phd
+- postdoc
+- md
+years_since_phd: NA
+duration: '1'
+award: USD 50 000
+mobility_rule: 'No'
+research_costs: null
+deadline: January
+deadline_month: January
+diversity: null
+comments: The AES Clinical Research Fellowship provides one year of mentored support
+  for qualified individuals who intend to pursue patient-oriented clinical research
+  in epilepsy, including epidemiologic or behavioral studies, clinical trials, studies
+  of disease mechanisms, the development of new technologies, and health services
+  and outcomes research. Applicants may be epilepsy fellows, postdoctoral fellows,
+  or newly appointed junior faculty and should propose a research project and training
+  program designed to develop clinical and scientific skills and preliminary data
+  in preparation for an independent research career. This award provides up to $50,000
+  for stipend (at least 50% effort) and travel support for one year.
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-24T12:39:22Z'
+subjects:
+- medicine-and-health-sciences
+funding_purposes:
+- research
+search_text: AES Clinical Research Fellowship AES Research and Training Fellowships
+  for Clinicians provide mentored support for clinical fellows or recently appointed
+  clinical faculty who intend to pursue a career in epilepsy research. Proposals are
+  welcomed across the spectrum of basic, translational, and clinical research. Epilepsy
+  Foundation American Epilepsy Society PhD Postdoc MD Medicine and Health Sciences
+  Research United States Worldwide
+source: legacy-import

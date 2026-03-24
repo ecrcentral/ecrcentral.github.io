@@ -1,0 +1,55 @@
+id: funding-cihr-fellowship
+legacy_id: 28
+slug: cihr-fellowship
+name: CIHR Fellowship
+description: "CIHR’s Health Research Training Strategy aims to equip research trainees\
+  \ so that they emerge from their training as scientific, professional, or organizational\
+  \ leaders within and beyond the health research enterprise. Generating Research\
+  \ Leaders of tomorrow is a key objective for CIHR.\r\n\r\nFellowships provide support\
+  \ for highly qualified applicants in all areas of health research at the post-PhD\
+  \ degree or post-health professional degree stages to add to their experience by\
+  \ engaging in health research either in Canada or abroad."
+url: https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?all=1&masterList=true&next=1&org=CIHR&prog=3103&resultCount=25&sort=program&type=EXACT&view=currentOpps&language=E
+funders:
+- canadian-institutes-of-health-research
+legacy_funder_name: Canadian Institutes of Health Research (CIHR)
+host_country: Canada
+applicant_country: Worldwide
+career_levels:
+- phd
+- md
+years_since_phd: null
+duration: '3'
+award: CAD$40,000 per year
+mobility_rule: 'No'
+research_costs: CAD$5,000 per year
+deadline: November
+deadline_month: November
+diversity: n/a
+comments: null
+benefits: null
+frequency: Annual
+fileds: health research
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-25T14:45:22Z'
+subjects:
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: "CIHR Fellowship CIHR’s Health Research Training Strategy aims to equip\
+  \ research trainees so that they emerge from their training as scientific, professional,\
+  \ or organizational leaders within and beyond the health research enterprise. Generating\
+  \ Research Leaders of tomorrow is a key objective for CIHR.\r\n\r\nFellowships provide\
+  \ support for highly qualified applicants in all areas of health research at the\
+  \ post-PhD degree or post-health professional degree stages to add to their experience\
+  \ by engaging in health research either in Canada or abroad. Canadian Institutes\
+  \ of Health Research PhD MD All subjects Fellowship, scholarship or training Research\
+  \ Canada Worldwide"
+source: legacy-import

@@ -1,0 +1,50 @@
+id: funding-febs-long-term-fellowships
+legacy_id: 70
+slug: febs-long-term-fellowships
+name: FEBS Long-term fellowships
+description: FEBS Long-Term Fellowships are awarded to support long-term visits for
+  the purpose of scientific collaboration or advanced training. These Fellowships
+  are originally granted for one year and may be renewed for a further year up to
+  a maximum of three years.
+url: https://www.febs.org/our-activities/fellowships/long-term-fellowships
+funders:
+- federation-of-european-biochemical-societies
+legacy_funder_name: Federation of European Biochemical Societies
+host_country: Europe
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: '3'
+duration: '3'
+award: null
+mobility_rule: 'Yes'
+research_costs: null
+deadline: September
+deadline_month: September
+diversity: null
+comments: In addition, applicants need to be members of a FEBS Constituent Society,
+  to be working in a laboratory in a FEBS country and to be seeking to work in a laboratory
+  in a different FEBS country.
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-26T09:25:00Z'
+subjects:
+- biochemistry-biophysics-and-structural-biology
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: FEBS Long-term fellowships FEBS Long-Term Fellowships are awarded to
+  support long-term visits for the purpose of scientific collaboration or advanced
+  training. These Fellowships are originally granted for one year and may be renewed
+  for a further year up to a maximum of three years. Federation of European Biochemical
+  Societies PhD Biochemistry, Biophysics, and Structural Biology Fellowship, scholarship
+  or training Research Europe Worldwide
+source: legacy-import

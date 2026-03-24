@@ -1,0 +1,50 @@
+id: funding-research-fellowship-in-science-and-engineering
+legacy_id: 167
+slug: research-fellowship-in-science-and-engineering
+name: Research Fellowship in Science and Engineering
+description: 1851 Research Fellowships are intended to give early career scientists
+  or engineers of exceptional promise the opportunity to conduct a research project
+  of their own instigation; an ultimate objective is to contribute to the knowledge
+  base required for a healthy and innovative national culture.
+url: https://www.royalcommission1851.org/awards
+funders:
+- royal-commission-for-the-exhibition-of-1851
+legacy_funder_name: Royal Commission for the Exhibition of 1851
+host_country: United Kingdom
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: Max. 3
+duration: '3'
+award: null
+mobility_rule: null
+research_costs: null
+deadline: February
+deadline_month: February
+diversity: null
+comments: null
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T11:07:28Z'
+subjects:
+- life-sciences
+- physical-sciences-and-mathematics
+- engineering
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Research Fellowship in Science and Engineering 1851 Research Fellowships
+  are intended to give early career scientists or engineers of exceptional promise
+  the opportunity to conduct a research project of their own instigation; an ultimate
+  objective is to contribute to the knowledge base required for a healthy and innovative
+  national culture. Royal Commission for the Exhibition of 1851 PhD Life Sciences
+  Physical Sciences and Mathematics Engineering Fellowship, scholarship or training
+  United Kingdom Worldwide
+source: legacy-import

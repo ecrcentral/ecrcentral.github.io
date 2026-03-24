@@ -1,0 +1,20 @@
+id: funder-mitacs-elevate
+legacy_id: 653
+slug: mitacs-elevate
+name: Mitacs Elevate
+short_name: Mitacs Elevate
+funder_registry_id: mitacs-elevate
+country: Canada
+website: https://www.mitacs.ca/en
+logo: /logos/funders/mitacs-elevate.png
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-06-30T15:15:41Z'
+updated_at: '2020-06-30T15:15:41Z'
+source: legacy-import

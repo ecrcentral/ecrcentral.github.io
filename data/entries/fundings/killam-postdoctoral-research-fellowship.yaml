@@ -1,0 +1,50 @@
+id: funding-killam-postdoctoral-research-fellowship
+legacy_id: 210
+slug: killam-postdoctoral-research-fellowship
+name: Killam Postdoctoral Research Fellowship
+description: The Killam Scholarship and Prize Programmes were established in memory
+  of Izaak Walton Killam through the Will of his wife, Dorothy Johnston Killam, and
+  through gifts made during her lifetime. Their primary purpose is to support advanced
+  education and research at five Canadian universities and the Canada Council for
+  the Arts.
+url: https://www.postdocs.ubc.ca/award/killam-postdoctoral-research-fellowship
+funders:
+- university-of-british-columbia
+legacy_funder_name: Univ British Columbia
+host_country: Canada
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: Max. 2
+duration: '2'
+award: $50,000 annual stipend for a maximum of two years, plus a travel research allowance
+  of $4,000 over two years
+mobility_rule: 'No'
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: Applicants must not have pursued PhD-level studies at any campus of the
+  University of British Columbia
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-24T10:26:15Z'
+subjects:
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Killam Postdoctoral Research Fellowship The Killam Scholarship and Prize
+  Programmes were established in memory of Izaak Walton Killam through the Will of
+  his wife, Dorothy Johnston Killam, and through gifts made during her lifetime. Their
+  primary purpose is to support advanced education and research at five Canadian universities
+  and the Canada Council for the Arts. University of British Columbia PhD All subjects
+  Fellowship, scholarship or training Canada Worldwide
+source: legacy-import

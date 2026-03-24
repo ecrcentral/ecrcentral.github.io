@@ -1,0 +1,29 @@
+id: travel-grant-british-pharmacological-society-grants
+legacy_id: 36
+slug: british-pharmacological-society-grants
+name: British Pharmacological Society Grants
+url: https://www.bps.ac.uk/membership-awards/support-for-members
+description: null
+funders: []
+legacy_funder_name: British Pharmacological Society
+applicant_country: null
+host_country: null
+award: up to £2500
+deadline: 31 January, 31 May and 30 September
+deadline_month: January, May, September
+membership: 'Yes'
+membership_time: null
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: British Pharmacological Society Grants Conference
+source: legacy-import

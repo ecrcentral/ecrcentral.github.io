@@ -1,0 +1,52 @@
+id: funding-dorothy-hodgkin-fellowship
+legacy_id: 169
+slug: dorothy-hodgkin-fellowship
+name: Dorothy Hodgkin Fellowship
+description: This scheme offers a recognised first step into an independent research
+  career for outstanding scientists and engineers at an early stage of their research
+  career who require a flexible working pattern due to personal circumstances, such
+  as parenting or caring responsibilities or health issues.
+url: https://royalsociety.org/grants-schemes-awards/grants/dorothy-hodgkin-fellowship
+funders:
+- the-royal-society
+legacy_funder_name: Royal Society
+host_country: United Kingdom
+applicant_country: Worldwide
+career_levels:
+- phd
+- postdoc
+years_since_phd: Max. 6
+duration: '5'
+award: Full salary of fellow
+mobility_rule: 'No'
+research_costs: Yes, including equipment costs
+deadline: November
+deadline_month: November
+diversity: null
+comments: This fellowship is highly flexible to accommodate for part-time working,
+  sabbaticals and secondments. There is also provision for maternity, paternity, adoptive
+  or extended sick leave.
+benefits: 80% of full economic cost of a postdoctoral research assistant, contribution
+  to a four-year PhD studentship, and support for public engagement and professional
+  development activities
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T11:17:32Z'
+subjects:
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Dorothy Hodgkin Fellowship This scheme offers a recognised first step
+  into an independent research career for outstanding scientists and engineers at
+  an early stage of their research career who require a flexible working pattern due
+  to personal circumstances, such as parenting or caring responsibilities or health
+  issues. The Royal Society PhD Postdoc All subjects Fellowship, scholarship or training
+  United Kingdom Worldwide
+source: legacy-import

@@ -1,0 +1,20 @@
+id: resource-crossroads-of-biology-meetings-courses-program
+legacy_id: 145
+slug: crossroads-of-biology-meetings-courses-program
+name: Crossroads of Biology - Meetings & Courses Program
+url: https://meetings.cshl.edu/meetingshome.aspx
+description: Overview of CSHL conferences, some of which are virtual because of COVID-19
+source_name: Cold Spring Harbor Laboratory
+funders: []
+resource_categories:
+- science-communication
+- covid19-online-events
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-04-26T10:41:00Z'
+updated_at: '2020-04-29T09:22:38Z'
+source: legacy-import

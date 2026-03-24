@@ -1,0 +1,22 @@
+id: resource-mit-commkit
+legacy_id: 2
+slug: mit-commkit
+name: MIT CommKit
+url: http://mitcommlab.mit.edu/broad/use-the-commkit/
+description: Quick guides to technical communication needs including posters, journal
+  articles, and fellowship applications.
+source_name: MIT Communication Lab
+funders: []
+resource_categories:
+- career-development
+- science-communication
+- academic-writing
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2019-01-03T06:53:00Z'
+updated_at: '2019-01-03T07:00:43Z'
+source: legacy-import

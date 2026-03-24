@@ -1,0 +1,20 @@
+id: funder-academia-sinica
+legacy_id: 216
+slug: academia-sinica
+name: Academia Sinica
+short_name: Academia Sinica
+funder_registry_id: '501100001869'
+country: Taiwan
+website: http://daais.sinica.edu.tw/english/pro_pfp.php
+logo: /logos/funders/academia-sinica.png
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2019-05-17T08:16:48Z'
+updated_at: '2019-05-17T08:16:48Z'
+source: legacy-import

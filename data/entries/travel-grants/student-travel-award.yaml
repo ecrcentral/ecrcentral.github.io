@@ -1,0 +1,32 @@
+id: travel-grant-student-travel-award
+legacy_id: 64
+slug: student-travel-award
+name: Student Travel Award
+url: https://www.cancerresearchuk.org/funding-for-researchers/our-funding-schemes/bacrcruk-student-travel-awards
+description: null
+funders:
+- cancer-research-uk
+legacy_funder_name: Cancer Research UK
+applicant_country: Applicant must be based in the UK
+host_country: null
+award: £500 for UK meetings, £1000 for overseas meetings
+deadline: currently closed for applications
+deadline_month: null
+membership: 'No'
+membership_time: 1 year
+purpose_text: null
+career_levels:
+- phd
+subjects: []
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: Student Travel Award Cancer Research UK PhD Conference Applicant must
+  be based in the UK
+source: legacy-import

@@ -1,0 +1,20 @@
+id: resource-software-carpentry
+legacy_id: 16
+slug: software-carpentry
+name: Software Carpentry
+url: https://software-carpentry.org/
+description: A group volunteer instructors who teach foundational coding and data
+  science skills to researchers worldwide for free.
+source_name: Software Carpentry Foundation
+funders: []
+resource_categories:
+- reproducibility
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2019-01-23T17:55:00Z'
+updated_at: '2019-01-25T14:45:32Z'
+source: legacy-import

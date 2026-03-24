@@ -1,0 +1,22 @@
+id: resource-reproducibility-and-replicability-in-science
+legacy_id: 47
+slug: reproducibility-and-replicability-in-science
+name: Reproducibility and Replicability in Science
+url: https://www.nap.edu/read/25303/chapter/1
+description: This report defines reproducibility and replicability and examines the
+  factors that may lead to non-reproducibility and non-replicability in research.
+  It provides recommendations to researchers, academic institutions, journals, and
+  funders on steps they can take to improve reproducibility and replicability in science.
+source_name: National Academies of Sciences, Engineering, and Medicine
+funders: []
+resource_categories:
+- reproducibility
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2019-05-09T06:27:00Z'
+updated_at: '2020-05-28T02:48:06Z'
+source: legacy-import

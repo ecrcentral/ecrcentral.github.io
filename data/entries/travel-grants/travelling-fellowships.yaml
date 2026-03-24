@@ -1,0 +1,32 @@
+id: travel-grant-travelling-fellowships
+legacy_id: 13
+slug: travelling-fellowships
+name: Travelling Fellowships
+url: http://www.biologists.com/travelling-fellowships/
+description: null
+funders:
+- the-company-of-biologists
+legacy_funder_name: The Company of Biologist's journals
+applicant_country: Worldwide
+host_country: null
+award: up to £2500
+deadline: 15 Mar 2019, 31 May 2019, 30 Aug 2019, 29 Nov 2019
+deadline_month: March, May, August, November
+membership: 'Yes'
+membership_time: NA
+purpose_text: null
+career_levels: []
+subjects:
+- life-sciences
+travel_purposes:
+- collaboration
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: Travelling Fellowships The Company of Biologists Life Sciences Collaboration
+  Worldwide
+source: legacy-import

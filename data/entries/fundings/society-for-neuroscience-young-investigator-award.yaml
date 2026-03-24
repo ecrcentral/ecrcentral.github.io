@@ -1,0 +1,59 @@
+id: funding-society-for-neuroscience-young-investigator-award
+legacy_id: 679
+slug: society-for-neuroscience-young-investigator-award
+name: Society for Neuroscience Young Investigator Award
+description: "The Young Investigator Award, supported by Sunovion, recognizes the\
+  \ outstanding achievements and contributions by a young neuroscientist who has demonstrated\
+  \ scholarly independence.\r\n\r\nRecipients receive a $15,000 award and complimentary\
+  \ registration, transportation (economy air or ground), and two nights hotel accommodations\
+  \ for the SfN annual meeting. The SfN president presents the prize at a lecture\
+  \ at the meeting."
+url: https://www.sfn.org/careers/awards/early-career/young-investigator-award
+funders:
+- society-for-neuroscience
+legacy_funder_name: Society for Neuroscience
+host_country: null
+applicant_country: null
+career_levels:
+- phd
+- postdoc
+- md
+years_since_phd: '10'
+duration: null
+award: $15 000
+mobility_rule: null
+research_costs: null
+deadline: May
+deadline_month: May
+diversity: null
+comments: The Young Investigator Award recognizes the outstanding achievements and
+  contributions by a young neuroscientist who has recently received his or her advanced
+  professional degree (within past 10 years). Nominations must be made or endorsed
+  by an SfN member. Nominees do not need to be SfN members. Self-nomination is not
+  permitted. No person may nominate more than one candidate. Current SfN officers
+  and councilors are ineligible for nomination. The recipient receives $15,000 award
+  and economy airfare or ground transportation, two nights hotel accommodations and
+  complimentary registration for the SfN annual meeting.
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-25T15:48:02Z'
+subjects:
+- neuroscience
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: "Society for Neuroscience Young Investigator Award The Young Investigator\
+  \ Award, supported by Sunovion, recognizes the outstanding achievements and contributions\
+  \ by a young neuroscientist who has demonstrated scholarly independence.\r\n\r\n\
+  Recipients receive a $15,000 award and complimentary registration, transportation\
+  \ (economy air or ground), and two nights hotel accommodations for the SfN annual\
+  \ meeting. The SfN president presents the prize at a lecture at the meeting. Society\
+  \ for Neuroscience PhD Postdoc MD Neuroscience Fellowship, scholarship or training"
+source: legacy-import

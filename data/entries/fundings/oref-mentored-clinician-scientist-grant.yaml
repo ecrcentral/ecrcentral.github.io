@@ -1,0 +1,43 @@
+id: funding-oref-mentored-clinician-scientist-grant
+legacy_id: 338
+slug: oref-mentored-clinician-scientist-grant
+name: OREF Mentored Clinician-Scientist Grant
+description: Promotes the development of new clinician scientists who have demonstrated
+  success as both a clinician and a researcher.
+url: http://www.oref.org/grants-and-awards/grant-programs/general-grants
+funders:
+- orthopaedic-research-and-education-foundation
+legacy_funder_name: Orthopaedic Research and Education Foundation
+host_country: United States
+applicant_country: null
+career_levels:
+- md
+years_since_phd: NA
+duration: '5'
+award: $20 000
+mobility_rule: null
+research_costs: null
+deadline: July
+deadline_month: July
+diversity: null
+comments: null
+benefits: null
+frequency: Triannual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-24T15:10:46Z'
+subjects:
+- medicine-and-health-sciences
+funding_purposes:
+- research
+search_text: OREF Mentored Clinician-Scientist Grant Promotes the development of new
+  clinician scientists who have demonstrated success as both a clinician and a researcher.
+  Orthopaedic Research and Education Foundation MD Medicine and Health Sciences Research
+  United States
+source: legacy-import

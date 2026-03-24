@@ -1,0 +1,20 @@
+id: funder-the-allen-institute-for-artificial-intelligence
+legacy_id: 570
+slug: the-allen-institute-for-artificial-intelligence
+name: The Allen Institute for Artificial Intelligence
+short_name: The Allen Institute for Artificial Intelligence
+funder_registry_id: the-allen-institute-for-artificial-intelligence
+country: United States
+website: https://allenai.org/
+logo: /logos/funders/the-allen-institute-for-artificial-intelligence.jpg
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-05-23T05:00:32Z'
+updated_at: '2020-05-23T08:29:49Z'
+source: legacy-import

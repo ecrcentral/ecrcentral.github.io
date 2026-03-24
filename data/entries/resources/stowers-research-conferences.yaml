@@ -1,0 +1,22 @@
+id: resource-stowers-research-conferences
+legacy_id: 152
+slug: stowers-research-conferences
+name: Stowers Research Conferences
+url: https://www.stowers.org/conferences
+description: Stowers Research Conferences are biennial meetings that bring together
+  a diverse group of researchers to inspire creative thought and collaboration in
+  the basic sciences.
+source_name: Stowers Research Conferences
+funders: []
+resource_categories:
+- science-communication
+- covid19-online-events
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-04-29T09:17:00Z'
+updated_at: '2020-04-29T09:18:12Z'
+source: legacy-import

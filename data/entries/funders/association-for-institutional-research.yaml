@@ -1,0 +1,20 @@
+id: funder-association-for-institutional-research
+legacy_id: 250
+slug: association-for-institutional-research
+name: Association for Institutional Research
+short_name: Association for Institutional Research
+funder_registry_id: '100005304'
+country: United States
+website: null
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2020-05-21T09:36:15Z'
+source: legacy-import

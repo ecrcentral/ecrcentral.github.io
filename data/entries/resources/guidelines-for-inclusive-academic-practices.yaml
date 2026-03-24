@@ -1,0 +1,31 @@
+id: resource-guidelines-for-inclusive-academic-practices
+legacy_id: 160
+slug: guidelines-for-inclusive-academic-practices
+name: Guidelines for inclusive academic practices
+url: https://github.com/eLifeAmbassadors/Intersectionality-inclusive-guidelines
+description: 'Group of eLife Ambassadors 2019-2020 within the Intersectionality initiative
+  has identified five current practices that are fundamental to academic science that
+  may be hindering inclusivity in science. These practices include hiring, mentoring,
+  writing reference letters, and reviewing grants and manuscripts. To try and level
+  the playing field and increase inclusivity in science, we have compiled a guideline
+  for each of these practices that are intended to help inform scientists, mentors,
+  funders, and journals on ways to mitigate biases. The overall goal of these guidelines
+  is to make science more inclusive and to limit bias in these core features of academic
+  science. Please use, share and modify! Also available on OSF: https://osf.io/muk7v/'
+source_name: eLife Ambassadors - Intersectionality initiative
+funders: []
+resource_categories:
+- peer-review
+- other
+- open-source
+- diversity-and-inclusion
+- mentoring
+subjects: []
+featured: true
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-05-27T09:52:04Z'
+updated_at: '2020-05-27T09:52:04Z'
+source: legacy-import

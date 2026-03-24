@@ -1,0 +1,56 @@
+id: travel-grant-ddsa-visit-grant
+legacy_id: 171
+slug: ddsa-visit-grant
+name: DDSA Visit Grant
+url: https://ddsa.dk/visitgrants/
+description: "The purpose of the DDSA Visit Grant is to attract students and early\
+  \ career researchers interested in forming a future DDSA fellowship application\
+  \ in collaboration with a potential supervisor from a Danish university or a Danish\
+  \ research institution.\r\n\r\nThe grant contributes up to DKK 15,000 to cover costs\
+  \ for travel, accommodation and related expenses.\r\n\r\nApplication is open to\
+  \ Danish and international students on a bachelor’s degree or a master’s degree\
+  \ programme, PhD students and postdoctoral researchers. You must be enrolled or\
+  \ employed at a university at the time of the planned visit, or your visit must\
+  \ take place within in one year of having completed your enrolment or employment\
+  \ at the university.\r\n\r\nApplications can be submitted all year round and will\
+  \ be processed within 4 weeks."
+funders: []
+legacy_funder_name: Danish Data Science Academy
+applicant_country: null
+host_country: null
+award: null
+deadline: null
+deadline_month: null
+membership: null
+membership_time: null
+purpose_text: null
+career_levels:
+- phd
+- postdoc
+- master-students
+- bachelor-students
+subjects: []
+travel_purposes:
+- collaboration
+- research-visit
+- learn-new-technique
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: "DDSA Visit Grant The purpose of the DDSA Visit Grant is to attract students\
+  \ and early career researchers interested in forming a future DDSA fellowship application\
+  \ in collaboration with a potential supervisor from a Danish university or a Danish\
+  \ research institution.\r\n\r\nThe grant contributes up to DKK 15,000 to cover costs\
+  \ for travel, accommodation and related expenses.\r\n\r\nApplication is open to\
+  \ Danish and international students on a bachelor’s degree or a master’s degree\
+  \ programme, PhD students and postdoctoral researchers. You must be enrolled or\
+  \ employed at a university at the time of the planned visit, or your visit must\
+  \ take place within in one year of having completed your enrolment or employment\
+  \ at the university.\r\n\r\nApplications can be submitted all year round and will\
+  \ be processed within 4 weeks. PhD Postdoc Master students Bachelor students Collaboration\
+  \ Research visit Learn new technique"
+source: legacy-import

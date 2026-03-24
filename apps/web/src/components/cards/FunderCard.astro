@@ -1,0 +1,131 @@
+---
+import type { Funder } from '../../lib/schema'
+
+interface Props {
+  funder: Funder
+}
+
+const { funder } = Astro.props
+
+// Derive initials for logo fallback
+const initials = funder.short_name
+  ? funder.short_name.slice(0, 2).toUpperCase()
+  : funder.name
+      .split(' ')
+      .slice(0, 2)
+      .map(w => w[0])
+      .join('')
+      .toUpperCase()
+
+// Pick a deterministic color based on the first character
+const colorPalette = [
+  '#2c7be5', '#1a5db5', '#00a3cc', '#6f42c1',
+  '#e63757', '#00d97e', '#f6c343', '#fd7e14',
+]
+const colorIndex = funder.name.charCodeAt(0) % colorPalette.length
+const fallbackColor = colorPalette[colorIndex]
+---
+
+<article
+  class="card"
+  data-id={funder.id}
+  data-slug={funder.slug}
+  data-status={funder.status}
+  data-country={funder.country}
+  data-featured={funder.featured ? 'true' : 'false'}
+  data-name={funder.name.toLowerCase()}
+>
+  <div class="card-body">
+    <div style="display:flex;align-items:flex-start;gap:16px;margin-bottom:12px;">
+      <!-- Logo / Fallback -->
+      {funder.logo || funder.legacy_logo_path ? (
+        <img
+          src={funder.logo || `/logos/${funder.legacy_logo_path}`}
+          alt={`${funder.name} logo`}
+          class="funder-logo"
+          loading="lazy"
+          width="48"
+          height="48"
+          onerror="this.style.display='none';this.nextElementSibling.style.display='flex';"
+        />
+        <div
+          class="funder-logo-fallback"
+          style={`background:${fallbackColor};display:none;`}
+          aria-hidden="true"
+        >
+          {initials}
+        </div>
+      ) : (
+        <div
+          class="funder-logo-fallback"
+          style={`background:${fallbackColor};`}
+          aria-hidden="true"
+        >
+          {initials}
+        </div>
+      )}
+
+      <!-- Name + badges -->
+      <div style="flex:1;min-width:0;">
+        <div class="card-header" style="margin-bottom:4px;">
+          <h3 class="card-title" style="font-size:1rem;">
+            <a href={`/funders/${funder.slug}/`}>{funder.name}</a>
+          </h3>
+          {funder.featured && (
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="#f6c343" aria-label="Featured" title="Featured funder">
+              <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+            </svg>
+          )}
+        </div>
+
+        <div style="display:flex;flex-wrap:wrap;gap:6px;align-items:center;">
+          {funder.country && (
+            <span class="card-meta-item text-muted text-sm">
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                <circle cx="12" cy="12" r="10"/>
+                <line x1="2" y1="12" x2="22" y2="12"/>
+                <path d="M12 2a15.3 15.3 0 014 10 15.3 15.3 0 01-4 10 15.3 15.3 0 01-4-10 15.3 15.3 0 014-10z"/>
+              </svg>
+              {funder.country}
+            </span>
+          )}
+          {funder.dora && (
+            <span class="badge badge-dora" title="Signed the San Francisco Declaration on Research Assessment">DORA</span>
+          )}
+        </div>
+      </div>
+    </div>
+
+    <!-- Description snippet -->
+    {funder.description && (
+      <p class="card-description" style="-webkit-line-clamp:2;">{funder.description}</p>
+    )}
+
+    <!-- Counts footer -->
+    <div class="card-footer" style="gap:16px;">
+      <span class="text-sm text-muted" title="Active funding opportunities">
+        <strong style="color:var(--color-dark);">{funder.active_funding_count ?? 0}</strong> fundings
+      </span>
+      <span class="text-sm text-muted" title="Active travel grants">
+        <strong style="color:var(--color-dark);">{funder.active_travel_grant_count ?? 0}</strong> travel grants
+      </span>
+      {funder.website && (
+        <a
+          href={funder.website}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="btn btn-ghost btn-sm"
+          style="margin-left:auto;"
+          aria-label={`Visit ${funder.name} website`}
+        >
+          Website
+          <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
+            <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"/>
+            <polyline points="15 3 21 3 21 9"/>
+            <line x1="10" y1="14" x2="21" y2="3"/>
+          </svg>
+        </a>
+      )}
+    </div>
+  </div>
+</article>

@@ -1,0 +1,57 @@
+id: funding-society-of-fellows
+legacy_id: 231
+slug: society-of-fellows
+name: Society of Fellows
+description: The Michigan Society of Fellows, under the auspices of the Rackham Graduate
+  School, was established in 1970 with endowment grants from the Ford Foundation and
+  the Horace H. and Mary Rackham Funds. Each year the Society selects outstanding
+  applicants for appointment to three-year fellowships in the humanities, the arts,
+  the social, physical, and life sciences, and in the professional schools.  We seek
+  a diverse and international pool of applicants and especially welcome candidates
+  from underrepresented backgrounds.
+url: http://societyoffellows.umich.edu
+funders:
+- university-of-michigan
+legacy_funder_name: University of Michigan
+host_country: United States
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: <5
+duration: '3'
+award: $60,000
+mobility_rule: null
+research_costs: null
+deadline: August
+deadline_month: August
+diversity: null
+comments: null
+benefits: Fellows are eligible for participation in the University health, dental,
+  and life insurance programs.
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-07T21:37:05Z'
+subjects:
+- life-sciences
+- medicine-and-health-sciences
+- physical-sciences-and-mathematics
+- arts-and-humanities
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Society of Fellows The Michigan Society of Fellows, under the auspices
+  of the Rackham Graduate School, was established in 1970 with endowment grants from
+  the Ford Foundation and the Horace H. and Mary Rackham Funds. Each year the Society
+  selects outstanding applicants for appointment to three-year fellowships in the
+  humanities, the arts, the social, physical, and life sciences, and in the professional
+  schools.  We seek a diverse and international pool of applicants and especially
+  welcome candidates from underrepresented backgrounds. University of Michigan PhD
+  Life Sciences Medicine and Health Sciences Physical Sciences and Mathematics Arts
+  and Humanities Fellowship, scholarship or training United States Worldwide
+source: legacy-import

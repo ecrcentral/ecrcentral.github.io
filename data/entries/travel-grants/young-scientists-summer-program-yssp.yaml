@@ -1,0 +1,40 @@
+id: travel-grant-young-scientists-summer-program-yssp
+legacy_id: 109
+slug: young-scientists-summer-program-yssp
+name: Young Scientists Summer Program (YSSP)
+url: https://iiasa.ac.at/web/home/education/yssp/Young_Scientists_Summer_Program.html
+description: "IIASA offers PhD student fellowships to undertake a summer project on\
+  \ a topic related to the IIASA research agenda. \r\nAnnually, from 1 June to 31\
+  \ August, IIASA hosts up to 50 doctoral students from around the world in its Young\
+  \ Scientists Summer Program (YSSP)."
+funders: []
+legacy_funder_name: IIASA
+applicant_country: Global
+host_country: null
+award: null
+deadline: January
+deadline_month: January
+membership: 'No'
+membership_time: null
+purpose_text: null
+career_levels:
+- phd
+subjects:
+- all-subjects
+travel_purposes:
+- collaboration
+- workshop-training-or-course
+- research-visit
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: "Young Scientists Summer Program (YSSP) IIASA offers PhD student fellowships\
+  \ to undertake a summer project on a topic related to the IIASA research agenda.\
+  \ \r\nAnnually, from 1 June to 31 August, IIASA hosts up to 50 doctoral students\
+  \ from around the world in its Young Scientists Summer Program (YSSP). PhD All subjects\
+  \ Collaboration Workshop, training or course Research visit Global"
+source: legacy-import

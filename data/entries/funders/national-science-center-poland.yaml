@@ -1,0 +1,20 @@
+id: funder-national-science-center-poland
+legacy_id: 655
+slug: national-science-center-poland
+name: National Science Center Poland
+short_name: National Science Center Poland
+funder_registry_id: national-science-center-poland
+country: Poland
+website: https://ncn.gov.pl/?language=en
+logo: /logos/funders/national-science-center-poland.png
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-06-30T19:18:46Z'
+updated_at: '2020-06-30T19:18:46Z'
+source: legacy-import

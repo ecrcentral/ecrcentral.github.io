@@ -1,0 +1,50 @@
+id: funding-resident-research-project-grant
+legacy_id: 568
+slug: resident-research-project-grant
+name: Resident Research Project Grant
+description: null
+url: http://www.oref.org/grants-and-awards/grant-programs/general-grants/projectgrant
+funders:
+- orthopaedic-research-and-education-foundation
+legacy_funder_name: Orthopaedic Research and Education Foundation
+host_country: United States
+applicant_country: null
+career_levels:
+- phd
+years_since_phd: NA
+duration: null
+award: $5 000
+mobility_rule: 'No'
+research_costs: $5000
+deadline: December
+deadline_month: December
+diversity: null
+comments: The objective of the OREF Resident Clinician Scientist Training Grant is
+  to prepare residents for a career with research as a major component.  Clinical
+  relevance must be clearly noted in the abstract and specific aims and be obvious
+  from the title and the study design.  Grants of up to $20,000 for one year will
+  be considered for orthopaedic surgery residents or fellows completing an orthopaedic
+  fellowship in approved orthopaedic programs to cover research expenses, but not
+  salary.  The work should clearly be achievable by the resident as a free-standing
+  project even when it is a part of a larger work, and it should potentially lead
+  to publication with the resident as an author.  Both laboratory and clinical projects
+  (e.g., outcome studies) are suitable, but in either case clinical relevance must
+  be explicitly and clearly described.
+benefits: Covers research expenses, but not salary or travel.
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T17:08:14Z'
+subjects:
+- medicine-and-health-sciences
+funding_purposes:
+- research
+search_text: Resident Research Project Grant Orthopaedic Research and Education Foundation
+  PhD Medicine and Health Sciences Research United States
+source: legacy-import

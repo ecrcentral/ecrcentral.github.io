@@ -1,0 +1,33 @@
+id: travel-grant-aai-travel-for-techniques-program
+legacy_id: 1
+slug: aai-travel-for-techniques-program
+name: AAI Travel for Techniques Program
+url: http://www.aai.org/Careers/TfT
+description: null
+funders:
+- american-association-of-immunologists
+legacy_funder_name: American Association of Immunologists
+applicant_country: Worldwide
+host_country: null
+award: $15,00
+deadline: Summer, Fall and Winter
+deadline_month: null
+membership: 'Yes'
+membership_time: 'No'
+purpose_text: null
+career_levels:
+- junior-faculty
+subjects:
+- immunology
+travel_purposes:
+- learn-new-technique
+featured: true
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: AAI Travel for Techniques Program American Association of Immunologists
+  Junior Faculty Immunology Learn new technique Worldwide
+source: legacy-import

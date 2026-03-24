@@ -1,0 +1,20 @@
+id: funder-nanyang-technological-university
+legacy_id: 215
+slug: nanyang-technological-university
+name: Nanyang Technological University
+short_name: Nanyang Technological University
+funder_registry_id: '501100001475'
+country: Singapore
+website: https://www.ntu.edu.sg/ppf/Pages/home.aspx
+logo: /logos/funders/nanyang-technological-university.jpg
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2019-05-17T08:09:59Z'
+updated_at: '2019-05-17T08:09:59Z'
+source: legacy-import

@@ -1,0 +1,58 @@
+id: funding-eppley-foundation-for-research-research-grant
+legacy_id: 62
+slug: eppley-foundation-for-research-research-grant
+name: Eppley Foundation for Research Research Grant
+description: The Eppley Foundation supports advanced, novel, scientific research by
+  PhDs or MDs with an established record of publication in their specialties. Candidates
+  with newly awarded doctorates occasionally, but rarely, meet the Foundation’s requirements
+  for advanced research. Any applicant to the Foundation must be associated with a
+  nonprofit organization with headquarters or a branch office in the US to process
+  the funds. Checks are not issued directly to individuals.
+url: http://fdnweb.org/eppley
+funders:
+- eppley-foundation-for-research
+legacy_funder_name: Eppley Foundation
+host_country: United States
+applicant_country: Worldwide
+career_levels:
+- phd
+- md
+years_since_phd: No rule
+duration: '1'
+award: 20 000$
+mobility_rule: 'No'
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: null
+benefits: null
+frequency: Rolling
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-26T08:52:03Z'
+subjects:
+- medicine-and-health-sciences
+- biology
+- ecology-and-evolutionary-biology
+- diseases
+- chemistry
+- physics
+funding_purposes:
+- research
+search_text: Eppley Foundation for Research Research Grant The Eppley Foundation supports
+  advanced, novel, scientific research by PhDs or MDs with an established record of
+  publication in their specialties. Candidates with newly awarded doctorates occasionally,
+  but rarely, meet the Foundation’s requirements for advanced research. Any applicant
+  to the Foundation must be associated with a nonprofit organization with headquarters
+  or a branch office in the US to process the funds. Checks are not issued directly
+  to individuals. Eppley Foundation for Research PhD MD Medicine and Health Sciences
+  Biology Ecology and Evolutionary Biology Diseases Chemistry Physics Research United
+  States Worldwide
+source: legacy-import

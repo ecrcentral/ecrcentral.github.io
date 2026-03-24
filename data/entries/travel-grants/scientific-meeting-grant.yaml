@@ -1,0 +1,29 @@
+id: travel-grant-scientific-meeting-grant
+legacy_id: 43
+slug: scientific-meeting-grant
+name: Scientific Meeting Grant
+url: http://www.sfam.org.uk/en/grants--awards/supporting-microbiology/scientific-meeting-attend-grant/index.cfm
+description: null
+funders: []
+legacy_funder_name: Society for Applied Microbiology
+applicant_country: null
+host_country: null
+award: £300 (UK)
+deadline: 4 weeks prior to start of event
+deadline_month: null
+membership: 'Yes'
+membership_time: 1 year
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: Scientific Meeting Grant Conference
+source: legacy-import

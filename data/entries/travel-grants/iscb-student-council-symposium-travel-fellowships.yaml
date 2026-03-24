@@ -1,0 +1,34 @@
+id: travel-grant-iscb-student-council-symposium-travel-fellowships
+legacy_id: 76
+slug: iscb-student-council-symposium-travel-fellowships
+name: ISCB Student Council Symposium Travel Fellowships
+url: http://symposium.iscbsc.org/scs2019-travel-fellowship
+description: <p>These travel fellowships are for Ph.D. and Postdocs to attain the
+  annual ISCB Student Council Symposium</p>
+funders: []
+legacy_funder_name: International Society for Computational Biology
+applicant_country: Wordwide
+host_country: null
+award: null
+deadline: May
+deadline_month: May
+membership: 'Yes'
+membership_time: null
+purpose_text: null
+career_levels:
+- phd
+- postdoc
+subjects: []
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: ISCB Student Council Symposium Travel Fellowships <p>These travel fellowships
+  are for Ph.D. and Postdocs to attain the annual ISCB Student Council Symposium</p>
+  PhD Postdoc Conference Wordwide
+source: legacy-import

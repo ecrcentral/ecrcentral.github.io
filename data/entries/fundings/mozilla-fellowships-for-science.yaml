@@ -1,0 +1,43 @@
+id: funding-mozilla-fellowships-for-science
+legacy_id: 131
+slug: mozilla-fellowships-for-science
+name: Mozilla Fellowships for Science
+description: null
+url: https://science.mozilla.org/programs/fellowships
+funders: []
+legacy_funder_name: Mozilla Foundation
+host_country: Worldwide
+applicant_country: Worldwide
+career_levels: []
+years_since_phd: NA
+duration: 10 months
+award: Base stipend of $60,000 USD, plus supplements for childcare and health insurance
+mobility_rule: null
+research_costs: helps pay for research/equipment and books
+deadline: April
+deadline_month: April
+diversity: null
+comments: Fellows are encouraged to continue their personal research for up to 20%
+  of their time during the course of their fellowship (i.e., one day a week)
+benefits: null
+frequency: null
+fileds: All sciences, including physical and natural sciences (biology, chemistry,
+  earth science, physics, astronomy, ecology, etc) and social and library sciences
+featured: false
+review_status: approved
+status: draft
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-30T18:36:21Z'
+subjects:
+- life-sciences
+- physical-sciences-and-mathematics
+- social-and-behavioral-sciences
+- all-subjects
+- earth-sciences
+funding_purposes: []
+search_text: Mozilla Fellowships for Science Life Sciences Physical Sciences and Mathematics
+  Social and Behavioral Sciences All subjects Earth Sciences Worldwide Worldwide
+source: legacy-import

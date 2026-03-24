@@ -1,0 +1,20 @@
+id: funder-banting-research-foundation
+legacy_id: 255
+slug: banting-research-foundation
+name: Banting Research Foundation
+short_name: Banting Research Foundation
+funder_registry_id: '100010231'
+country: Canada
+website: null
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2020-05-21T09:36:15Z'
+source: legacy-import

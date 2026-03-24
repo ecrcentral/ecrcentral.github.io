@@ -1,0 +1,32 @@
+id: travel-grant-newton-mobility-grants
+legacy_id: 29
+slug: newton-mobility-grants
+name: Newton Mobility Grants
+url: https://www.britac.ac.uk/newton-mobility-grants
+description: null
+funders: []
+legacy_funder_name: British Council
+applicant_country: Must be in eligible country, coming to the UK to establish collaboration
+  (Brazil, Malaysia, Mexico, South Africa, Turkey, Thailand, Vietnam)
+host_country: null
+award: null
+deadline: 05-Sep-18
+deadline_month: September
+membership: 'No'
+membership_time: NA
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- collaboration
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: Newton Mobility Grants Collaboration Must be in eligible country, coming
+  to the UK to establish collaboration (Brazil, Malaysia, Mexico, South Africa, Turkey,
+  Thailand, Vietnam)
+source: legacy-import

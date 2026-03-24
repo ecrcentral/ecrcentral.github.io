@@ -1,0 +1,54 @@
+id: funding-postdoctoral-fellowship
+legacy_id: 56
+slug: postdoctoral-fellowship
+name: Postdoctoral Fellowship
+description: The Earth Institute Postdoctoral Research program is the premier program
+  in the world for those dedicated to a better understanding of critical scientific
+  and social issues in global sustainable development. Earth Institute Postdoctoral
+  Researchers will join multidisciplinary teams of outstanding, committed scientists
+  from across the Earth Institute and Columbia University.
+url: http://www.earth.columbia.edu/articles/view/55
+funders:
+- earth-institute-columbia-university
+legacy_funder_name: Earth Institute at Columbia University
+host_country: United States
+applicant_country: Worldwide
+career_levels:
+- phd
+- md
+years_since_phd: '5'
+duration: '2'
+award: annual salary of $67,530
+mobility_rule: 'No'
+research_costs: $12,000 over the two-year term
+deadline: October
+deadline_month: October
+diversity: null
+comments: null
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-26T08:05:49Z'
+subjects:
+- medicine-and-health-sciences
+- engineering
+- social-and-behavioral-sciences
+- biology
+- earth-sciences
+funding_purposes:
+- research
+search_text: Postdoctoral Fellowship The Earth Institute Postdoctoral Research program
+  is the premier program in the world for those dedicated to a better understanding
+  of critical scientific and social issues in global sustainable development. Earth
+  Institute Postdoctoral Researchers will join multidisciplinary teams of outstanding,
+  committed scientists from across the Earth Institute and Columbia University. Earth
+  Institute, Columbia University PhD MD Medicine and Health Sciences Engineering Social
+  and Behavioral Sciences Biology Earth Sciences Research United States Worldwide
+source: legacy-import

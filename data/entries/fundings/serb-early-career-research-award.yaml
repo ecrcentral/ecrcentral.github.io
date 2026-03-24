@@ -1,0 +1,52 @@
+id: funding-serb-early-career-research-award
+legacy_id: 55
+slug: serb-early-career-research-award
+name: SERB Early Career Research Award
+description: Early Career Research Award scheme aims to provide quick research support
+  to the young researchers who are in their early career for pursuing exciting and
+  innovative research in frontier areas of science and engineering.
+url: http://www.serb.gov.in/ecr.php
+funders:
+- science-and-engineering-research-board
+legacy_funder_name: Department of Science & Technology, Government of India
+host_country: India
+applicant_country: India
+career_levels:
+- master-students
+years_since_phd: null
+duration: '3'
+award: 50,00,000 INR
+mobility_rule: 'No'
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: null
+benefits: The research grant covers equipment, manpower, consumables, manpower, travel
+  and contingency apart from overheads.
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-26T08:00:32Z'
+subjects:
+- life-sciences
+- physical-sciences-and-mathematics
+- engineering
+- chemistry
+- earth-sciences
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: SERB Early Career Research Award Early Career Research Award scheme aims
+  to provide quick research support to the young researchers who are in their early
+  career for pursuing exciting and innovative research in frontier areas of science
+  and engineering. Science and Engineering Research Board Master students Life Sciences
+  Physical Sciences and Mathematics Engineering Chemistry Earth Sciences Fellowship,
+  scholarship or training Research India India
+source: legacy-import

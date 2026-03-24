@@ -1,0 +1,44 @@
+id: funding-grant-program
+legacy_id: 531
+slug: grant-program
+name: Grant Program
+description: null
+url: https://www.lungcancerresearchfoundation.org/research/funding-opportunities
+funders: []
+legacy_funder_name: Lung Cancer Research Foundation
+host_country: United States
+applicant_country: null
+career_levels: []
+years_since_phd: 'LCRF provides funds to U.S.-based and international investigators
+  including: Junior investigators (e.g. graduate students, medical students and postdoctoral
+  fellows); Young investigators and'
+duration: null
+award: $150 000
+mobility_rule: null
+research_costs: null
+deadline: July
+deadline_month: July
+diversity: null
+comments: 'The Lung Cancer Research Foundation’s grant program provides funding for
+  innovative research focused on the prevention, diagnosis, treatment and cure of
+  lung cancer. The Foundation encourages applications for projects investigating a
+  wide variety of research topics, including: Prevention and screening for early detection;
+  Identification of new biomarkers and the development of targeted therapies; The
+  development of next-generation chemotherapeutic agents; Supportive measures for
+  people with lung cancer and their families; Quality of care and outcomes research.
+  $150,000 over 2 years'
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2018-12-29T13:58:29Z'
+subjects: []
+funding_purposes: []
+search_text: Grant Program United States
+source: legacy-import

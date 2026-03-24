@@ -1,0 +1,29 @@
+id: travel-grant-gsk-reise-stipendien
+legacy_id: 8
+slug: gsk-reise-stipendien
+name: GSK Reise Stipendien
+url: http://www.gsk-stiftung.de/reise-stipendien/
+description: null
+funders: []
+legacy_funder_name: GlaxoSmithKline Stiftung
+applicant_country: Anyone, but has to work in Germany
+host_country: null
+award: only partial support for registration & travel cost
+deadline: min 8 weeks before end of conference
+deadline_month: null
+membership: 'No'
+membership_time: NA
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: GSK Reise Stipendien Conference Anyone, but has to work in Germany
+source: legacy-import

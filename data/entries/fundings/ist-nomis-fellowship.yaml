@@ -1,0 +1,49 @@
+id: funding-ist-nomis-fellowship
+legacy_id: 812
+slug: ist-nomis-fellowship
+name: IST-NOMIS Fellowship
+description: <p>The NOMIS Fellowship Program at Institute of Science and Technology
+  Austria (ISTA) offers excellent postdoctoral researchers the freedom to work on
+  questions at the intersection of two or more scientific disciplines in a unique
+  scientific environment, while also providing the security of outstanding scientific
+  mentorship from proven leaders in their respective fields. A cross-discipline project
+  proposal, to be co-supervised by two group leaders from different disciplines, identifies
+  projects and fellows who demonstrate great flexibility, creativity and collaboration.</p>
+url: https://ist.ac.at/en/education/postdocs/nomis-fellowship/
+funders: []
+legacy_funder_name: Institute of Science and Technology Austria
+host_country: Austria
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: null
+duration: null
+award: null
+mobility_rule: null
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: null
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 3665
+created_at: '2023-03-24T13:42:26Z'
+updated_at: '2023-03-24T14:58:49Z'
+subjects: []
+funding_purposes: []
+search_text: IST-NOMIS Fellowship <p>The NOMIS Fellowship Program at Institute of
+  Science and Technology Austria (ISTA) offers excellent postdoctoral researchers
+  the freedom to work on questions at the intersection of two or more scientific disciplines
+  in a unique scientific environment, while also providing the security of outstanding
+  scientific mentorship from proven leaders in their respective fields. A cross-discipline
+  project proposal, to be co-supervised by two group leaders from different disciplines,
+  identifies projects and fellows who demonstrate great flexibility, creativity and
+  collaboration.</p> PhD Austria Worldwide
+source: legacy-import

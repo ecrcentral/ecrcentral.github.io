@@ -1,0 +1,48 @@
+id: funding-helse-sr-st-postdoctoral-fellowships
+legacy_id: 95
+slug: helse-sr-st-postdoctoral-fellowships
+name: Helse Sør-Øst Postdoctoral fellowships
+description: A principal investigator may be employed by a hospital / private, ideal
+  hospital in the health region other than the applicant institution. If this is the
+  case, the rights and responsibilities of the principal investigator in relation
+  to the project should be specified in a separate written agreement between the institutions
+  involved.
+url: https://www.helse-sorost.no/helsefaglig/forskning/forskningsmidler/postdoktorstipend
+funders:
+- helse-sr-st-rhf
+legacy_funder_name: Helse Sør-Øst RHF
+host_country: Norway
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: null
+duration: 3 years (100% employment) or 6 years (50% employment)
+award: 1 156 000  NOKs
+mobility_rule: null
+research_costs: Salary, social costs, running costs
+deadline: December
+deadline_month: December
+diversity: null
+comments: null
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-24T21:02:54Z'
+subjects:
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Helse Sør-Øst Postdoctoral fellowships A principal investigator may be
+  employed by a hospital / private, ideal hospital in the health region other than
+  the applicant institution. If this is the case, the rights and responsibilities
+  of the principal investigator in relation to the project should be specified in
+  a separate written agreement between the institutions involved. Helse Sør-Øst RHF
+  PhD All subjects Fellowship, scholarship or training Norway Worldwide
+source: legacy-import

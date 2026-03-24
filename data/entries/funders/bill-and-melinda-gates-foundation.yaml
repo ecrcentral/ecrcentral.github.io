@@ -1,0 +1,20 @@
+id: funder-bill-and-melinda-gates-foundation
+legacy_id: 258
+slug: bill-and-melinda-gates-foundation
+name: Bill and Melinda Gates Foundation
+short_name: Bill and Melinda Gates Foundation
+funder_registry_id: '100000865'
+country: United States
+website: null
+logo: /logos/funders/bill-and-melinda-gates-foundation.png
+dora: true
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2020-05-29T02:07:01Z'
+source: legacy-import

@@ -1,0 +1,33 @@
+id: travel-grant-espr-travel-grants
+legacy_id: 101
+slug: espr-travel-grants
+name: ESPR Travel Grants
+url: https://www.espr.eu/activities-projects/travel_grants.php
+description: <p>This program financially supports ESPR members to attend the joint
+  European Neonatal Societies (jENS) Congress.</p>
+funders: []
+legacy_funder_name: European Society for Paediatric Research
+applicant_country: Worldwide
+host_country: null
+award: EUR 700
+deadline: null
+deadline_month: null
+membership: 'Yes'
+membership_time: null
+purpose_text: null
+career_levels:
+- junior-faculty
+subjects: []
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: ESPR Travel Grants <p>This program financially supports ESPR members
+  to attend the joint European Neonatal Societies (jENS) Congress.</p> Junior Faculty
+  Conference Worldwide
+source: legacy-import

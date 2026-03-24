@@ -1,0 +1,111 @@
+name: Add a Travel Grant
+description: Submit a new travel grant for early career researchers
+title: "[Travel Grant] "
+labels: ["new-entry", "travel-grant", "needs-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for contributing to ECRcentral! Please fill in as much information as possible.
+
+  - type: input
+    id: name
+    attributes:
+      label: "Travel grant name *"
+      placeholder: "e.g., EMBO Short-Term Fellowships"
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: "URL *"
+      placeholder: "https://..."
+    validations:
+      required: true
+
+  - type: input
+    id: funder
+    attributes:
+      label: "Funder / Organization *"
+      placeholder: "e.g., EMBO"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      placeholder: "Describe the purpose and scope of this travel grant"
+
+  - type: checkboxes
+    id: travel_purposes
+    attributes:
+      label: Travel purpose(s)
+      options:
+        - label: Conference
+        - label: Collaboration
+        - label: Workshop, training or course
+        - label: Research visit
+        - label: Field work
+        - label: Learn new technique
+
+  - type: input
+    id: applicant_country
+    attributes:
+      label: Applicant country eligibility
+      placeholder: "e.g., Worldwide, Europe only"
+
+  - type: input
+    id: award
+    attributes:
+      label: Award amount
+      placeholder: "e.g., Up to EUR 1,000"
+
+  - type: input
+    id: deadline
+    attributes:
+      label: Deadline
+      placeholder: "e.g., Rolling, 6 weeks before travel"
+
+  - type: dropdown
+    id: membership
+    attributes:
+      label: Membership required?
+      options:
+        - "No"
+        - "Yes"
+        - "Unknown"
+
+  - type: checkboxes
+    id: career_levels
+    attributes:
+      label: Eligible career levels
+      options:
+        - label: Bachelor students
+        - label: Master students
+        - label: PhD
+        - label: Postdoc
+        - label: Junior Faculty
+        - label: Senior Faculty
+
+  - type: textarea
+    id: subjects
+    attributes:
+      label: Subject areas
+      placeholder: "e.g., Life Sciences, Immunology"
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional notes
+
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: Checklist
+      options:
+        - label: I have verified this travel grant is currently active
+          required: true
+        - label: I have checked that this entry does not already exist on ECRcentral
+          required: true

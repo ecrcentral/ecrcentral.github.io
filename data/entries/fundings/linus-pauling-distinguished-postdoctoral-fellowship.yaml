@@ -1,0 +1,46 @@
+id: funding-linus-pauling-distinguished-postdoctoral-fellowship
+legacy_id: 158
+slug: linus-pauling-distinguished-postdoctoral-fellowship
+name: Linus Pauling Distinguished Postdoctoral Fellowship
+description: PNNL's Linus Pauling Distinguished Postdoctoral Fellowship is designed
+  for the next generation of scientists and engineers who will push the boundaries
+  of science to world-recognized discoveries.
+url: http://www.pnnl.gov/pauling
+funders:
+- pacific-northwest-national-laboratory
+legacy_funder_name: Pacific Northwest National Laboratory
+host_country: United States
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: Max. 3
+duration: Max. 3
+award: Full funding on major research project; highly competitive salary; relocation;
+  availability of extra funding for travel and conferences
+mobility_rule: null
+research_costs: Full funding on major research project
+deadline: null
+deadline_month: null
+diversity: null
+comments: null
+benefits: Full medical/dental benefits
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T10:05:29Z'
+subjects:
+- engineering
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Linus Pauling Distinguished Postdoctoral Fellowship PNNL's Linus Pauling
+  Distinguished Postdoctoral Fellowship is designed for the next generation of scientists
+  and engineers who will push the boundaries of science to world-recognized discoveries.
+  Pacific Northwest National Laboratory PhD Engineering Fellowship, scholarship or
+  training United States Worldwide
+source: legacy-import

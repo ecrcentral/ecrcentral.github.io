@@ -1,0 +1,36 @@
+id: travel-grant-american-society-for-microbiology-travel-awards-for-asm-microbe
+legacy_id: 73
+slug: american-society-for-microbiology-travel-awards-for-asm-microbe
+name: American Society for Microbiology Travel Awards for ASM Microbe
+url: https://asm.org/Browse-By-Content-Type/Travel-Award
+description: <p>Travel awards for ASM Microbe (annual event) plus other ASM sponsored
+  events</p>
+funders: []
+legacy_funder_name: American Society for Microbiology (ASM)
+applicant_country: Worldwide
+host_country: null
+award: $200
+deadline: January 15
+deadline_month: January
+membership: 'Yes'
+membership_time: Not required (newly joined are also eligible)
+purpose_text: null
+career_levels:
+- senior-faculty
+- phd
+- postdoc
+- master-students
+subjects: []
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: American Society for Microbiology Travel Awards for ASM Microbe <p>Travel
+  awards for ASM Microbe (annual event) plus other ASM sponsored events</p> Senior
+  Faculty PhD Postdoc Master students Conference Worldwide
+source: legacy-import

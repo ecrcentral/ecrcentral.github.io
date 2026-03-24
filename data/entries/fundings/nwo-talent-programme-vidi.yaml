@@ -1,0 +1,48 @@
+id: funding-nwo-talent-programme-vidi
+legacy_id: 143
+slug: nwo-talent-programme-vidi
+name: NWO Talent Programme Vidi
+description: This Talent Programme provides three grants for talented, creative researchers
+  who engage in innovative research.
+url: https://www.nwo.nl/en/funding/our-funding-instruments/nwo/innovational-research-incentives-scheme/vidi/cross-divisional/innovational-research-incentives-scheme-vidi-cross-divisional.html
+funders:
+- netherlands-organisation-for-scientific-research
+legacy_funder_name: Netherlands Organization for Scientific Research
+host_country: Netherlands
+applicant_country: Worldwide
+career_levels:
+- postdoc
+- junior-faculty
+years_since_phd: Max. 8
+duration: '5'
+award: €800000
+mobility_rule: 'No'
+research_costs: null
+deadline: October
+deadline_month: October
+diversity: null
+comments: null
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-22T15:02:56Z'
+subjects:
+- life-sciences
+- medicine-and-health-sciences
+- engineering
+- arts-and-humanities
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: NWO Talent Programme Vidi This Talent Programme provides three grants
+  for talented, creative researchers who engage in innovative research. Netherlands
+  Organisation for Scientific Research Postdoc Junior Faculty Life Sciences Medicine
+  and Health Sciences Engineering Arts and Humanities Fellowship, scholarship or training
+  Netherlands Worldwide
+source: legacy-import

@@ -1,0 +1,48 @@
+id: travel-grant-churchill-fellowships
+legacy_id: 97
+slug: churchill-fellowships
+name: Churchill Fellowships
+url: https://www.wcmt.org.uk/
+description: <p>The Winston Churchill Memorial Trust runs the Churchill Fellowships,
+  a unique programme of overseas research grants. These support UK citizens from all
+  parts of society to travel the world in search of innovative solutions for today&rsquo;s
+  most pressing problems. Every year we award 150 Fellowships. These fund outstanding
+  individuals to travel for 4-8 weeks, anywhere in the world, researching a topic
+  of their choice among global leaders in their field. On their return, we help them
+  to share their global learning with professions and communities across the UK.</p>
+funders: []
+legacy_funder_name: Winston Churchill Memorial Trust
+applicant_country: United Kingdom
+host_country: null
+award: Varies
+deadline: See website
+deadline_month: null
+membership: 'No'
+membership_time: null
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- conference
+- collaboration
+- workshop-training-or-course
+- research-visit
+- field-work
+- learn-new-technique
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: Churchill Fellowships <p>The Winston Churchill Memorial Trust runs the
+  Churchill Fellowships, a unique programme of overseas research grants. These support
+  UK citizens from all parts of society to travel the world in search of innovative
+  solutions for today&rsquo;s most pressing problems. Every year we award 150 Fellowships.
+  These fund outstanding individuals to travel for 4-8 weeks, anywhere in the world,
+  researching a topic of their choice among global leaders in their field. On their
+  return, we help them to share their global learning with professions and communities
+  across the UK.</p> Conference Collaboration Workshop, training or course Research
+  visit Field work Learn new technique United Kingdom
+source: legacy-import

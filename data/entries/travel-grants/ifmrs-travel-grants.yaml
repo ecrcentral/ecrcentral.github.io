@@ -1,0 +1,33 @@
+id: travel-grant-ifmrs-travel-grants
+legacy_id: 100
+slug: ifmrs-travel-grants
+name: IFMRS Travel Grants
+url: http://www.ifmrs.org/grants-awards/travel-grants/
+description: <p>IFMRS travel grants are available for members of IFMRS member societies
+  to attend any IFMRS member society or affiliated event.</p>
+funders: []
+legacy_funder_name: International Federation of Musculoskeletal Societies
+applicant_country: Worldwide
+host_country: null
+award: $500
+deadline: null
+deadline_month: null
+membership: 'Yes'
+membership_time: NA
+purpose_text: null
+career_levels:
+- phd
+subjects: []
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: IFMRS Travel Grants <p>IFMRS travel grants are available for members
+  of IFMRS member societies to attend any IFMRS member society or affiliated event.</p>
+  PhD Conference Worldwide
+source: legacy-import

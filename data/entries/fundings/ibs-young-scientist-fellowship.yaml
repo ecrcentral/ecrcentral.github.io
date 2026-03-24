@@ -1,0 +1,45 @@
+id: funding-ibs-young-scientist-fellowship
+legacy_id: 704
+slug: ibs-young-scientist-fellowship
+name: IBS Young Scientist Fellowship
+description: null
+url: https://www.ibs.re.kr/eng/sub04_04_04.do
+funders:
+- institute-for-basic-science
+legacy_funder_name: Institute for Basic Science
+host_country: South Korea
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: Within 7 years of attaining PhD
+duration: '3'
+award: KRW 150-300M per year
+mobility_rule: null
+research_costs: KRW 150-300M per year(150M for theoritical fields & 300M for experimental
+  ones)
+deadline: May 31, 2020
+deadline_month: May
+diversity: null
+comments: "Within 7 years of obtaining a PhD or under the age of 40 with a PhD (born\
+  \ no earlier than January 1, 1979).\r\nSelected YSF researchers must commence their\
+  \ research between 1 January 2021 and 31 December 2021"
+benefits: Salary KRW 60-70M per year
+frequency: Annual
+fileds: Mathematics, Theoretical Physics, Experimental Physics, Life Sciences
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: '2019-04-12T21:23:49Z'
+updated_at: '2020-05-23T17:09:02Z'
+subjects:
+- life-sciences
+- mathematics
+- physics
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: IBS Young Scientist Fellowship Institute for Basic Science PhD Life Sciences
+  Mathematics Physics Fellowship, scholarship or training South Korea Worldwide
+source: legacy-import

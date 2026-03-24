@@ -1,0 +1,20 @@
+id: funder-american-college-of-gastroenterology
+legacy_id: 19
+slug: american-college-of-gastroenterology
+name: American College of Gastroenterology
+short_name: American College of Gastroenterology
+funder_registry_id: '100007827'
+country: United States
+website: null
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2019-01-17T00:40:55Z'
+source: legacy-import

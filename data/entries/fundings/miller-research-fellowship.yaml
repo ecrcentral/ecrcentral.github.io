@@ -1,0 +1,59 @@
+id: funding-miller-research-fellowship
+legacy_id: 205
+slug: miller-research-fellowship
+name: Miller Research fellowship
+description: The Miller Institute for Basic Research in Science invites department
+  chairs, faculty advisors, professors and research scientists at institutions around
+  the world to submit online nominations for Miller Research Fellowships in the basic
+  sciences. The Miller Institute seeks to discover and encourage individuals of outstanding
+  talent, and to provide them with the opportunity to pursue their research on the
+  Berkeley campus. Fellows are selected on the basis of their academic achievement
+  and the promise of their scientific research. Miller Fellows also have a keen curiosity
+  about all science and share an appreciation for an interdisciplinary experience.
+url: http://miller.berkeley.edu/fellowship
+funders:
+- university-of-california-berkeley
+legacy_funder_name: UC Berkeley
+host_country: United States
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: Max. 2
+duration: '3'
+award: Stipend of $68,000 with annual increases
+mobility_rule: 'No'
+research_costs: $10,000 per annum
+deadline: September
+deadline_month: September
+diversity: null
+comments: null
+benefits: "Benefits including medical, dental, vision, short term disability and life\
+  \ insurance are provided, with Miller Fellows making a small contribution towards\
+  \ the premium. Long term disability is voluntary.\r\nThere is provision for travel\
+  \ to (but not away from) Berkeley for Miller Fellows and their immediate families.\
+  \ An additional allowance of $3,000 is allowed for the transport of personal belongings."
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-24T08:21:02Z'
+subjects:
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Miller Research fellowship The Miller Institute for Basic Research in
+  Science invites department chairs, faculty advisors, professors and research scientists
+  at institutions around the world to submit online nominations for Miller Research
+  Fellowships in the basic sciences. The Miller Institute seeks to discover and encourage
+  individuals of outstanding talent, and to provide them with the opportunity to pursue
+  their research on the Berkeley campus. Fellows are selected on the basis of their
+  academic achievement and the promise of their scientific research. Miller Fellows
+  also have a keen curiosity about all science and share an appreciation for an interdisciplinary
+  experience. University of California Berkeley PhD All subjects Fellowship, scholarship
+  or training United States Worldwide
+source: legacy-import

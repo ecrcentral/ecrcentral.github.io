@@ -1,0 +1,20 @@
+id: funder-wallenberg-foundation
+legacy_id: 644
+slug: wallenberg-foundation
+name: Wallenberg Foundation
+short_name: Wallenberg Foundation
+funder_registry_id: wallenberg-foundation
+country: Stockholm
+website: https://kaw.wallenberg.org/en
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-06-20T04:37:50Z'
+updated_at: '2020-06-20T04:37:50Z'
+source: legacy-import

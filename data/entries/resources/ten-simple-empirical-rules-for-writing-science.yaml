@@ -1,0 +1,20 @@
+id: resource-ten-simple-empirical-rules-for-writing-science
+legacy_id: 171
+slug: ten-simple-empirical-rules-for-writing-science
+name: Ten Simple (Empirical) Rules for Writing Science
+url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004205
+description: Tips for writing research papers
+source_name: PLoS Computational Biology
+funders: []
+resource_categories:
+- academic-writing
+- publishing
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2022-12-09T14:37:30Z'
+updated_at: '2022-12-09T14:37:30Z'
+source: legacy-import

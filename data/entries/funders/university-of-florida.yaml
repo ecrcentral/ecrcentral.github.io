@@ -1,0 +1,20 @@
+id: funder-university-of-florida
+legacy_id: 187
+slug: university-of-florida
+name: University of Florida
+short_name: University of Florida
+funder_registry_id: '100007698'
+country: United States
+website: null
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2019-01-17T00:40:55Z'
+source: legacy-import

@@ -1,0 +1,20 @@
+id: funder-national-socio-environmental-synthesis-center
+legacy_id: 583
+slug: national-socio-environmental-synthesis-center
+name: National Socio-Environmental Synthesis Center
+short_name: National Socio-Environmental Synthesis Center
+funder_registry_id: '100014262'
+country: United States
+website: http://www.sesync.org
+logo: /logos/funders/national-socio-environmental-synthesis-center.png
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-05-23T15:08:24Z'
+updated_at: '2020-05-23T15:08:24Z'
+source: legacy-import

@@ -1,0 +1,39 @@
+id: travel-grant-european-skin-science-travel-award
+legacy_id: 88
+slug: european-skin-science-travel-award
+name: European Skin Science Travel Award
+url: http://esdr.org/awards/european-skin-science-travel-awards
+description: <p>European Society for Dermatological Research (ESDR) is offering opportunities
+  to apply for travel awards within Europe to further dermatological research.</p>
+funders: []
+legacy_funder_name: European Society for Dermatological Research
+applicant_country: ESDR member based in Europe
+host_country: null
+award: € 10,000
+deadline: 1 June
+deadline_month: June
+membership: 'Yes'
+membership_time: null
+purpose_text: null
+career_levels:
+- phd
+- postdoc
+subjects: []
+travel_purposes:
+- collaboration
+- workshop-training-or-course
+- research-visit
+- field-work
+- learn-new-technique
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: European Skin Science Travel Award <p>European Society for Dermatological
+  Research (ESDR) is offering opportunities to apply for travel awards within Europe
+  to further dermatological research.</p> PhD Postdoc Collaboration Workshop, training
+  or course Research visit Field work Learn new technique ESDR member based in Europe
+source: legacy-import

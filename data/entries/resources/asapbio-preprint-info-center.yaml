@@ -1,0 +1,23 @@
+id: resource-asapbio-preprint-info-center
+legacy_id: 36
+slug: asapbio-preprint-info-center
+name: ASAPbio Preprint Info Center
+url: http://asapbio.org/preprint-info
+description: Learn more about preprints, keep up to date and take action to support
+  preprinting in the life sciences via ASAPbio's Preprint Info Center. ASAPbio is
+  a scientist-driven non-profit promoting transparency and innovation in life science
+  communication, including preprints and transparent peer review.
+source_name: ASAPbio
+funders: []
+resource_categories:
+- preprints
+- peer-review
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2019-02-08T14:11:00Z'
+updated_at: '2020-05-25T23:05:42Z'
+source: legacy-import

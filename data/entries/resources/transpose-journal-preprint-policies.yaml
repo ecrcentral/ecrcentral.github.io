@@ -1,0 +1,21 @@
+id: resource-transpose-journal-preprint-policies
+legacy_id: 8
+slug: transpose-journal-preprint-policies
+name: TRANSPOSE Journal Preprint Policies
+url: http://asapbio.org/transpose-preprints
+description: A grassroots initiative to build a crowdsourced database of journal policies.
+source_name: TRANSPOSE and ASAPbio
+funders: []
+resource_categories:
+- policy
+- publishing
+- preprints
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2019-01-15T23:09:00Z'
+updated_at: '2019-02-10T17:10:07Z'
+source: legacy-import

@@ -1,0 +1,183 @@
+---
+import BaseLayout from '../../components/layout/BaseLayout.astro'
+import { resources, getFunderBySlug } from '../../lib/data'
+import type { GetStaticPaths } from 'astro'
+
+export const getStaticPaths: GetStaticPaths = async () => {
+  return resources.map(r => ({
+    params: { slug: r.slug },
+    props: { resource: r },
+  }))
+}
+
+const { resource } = Astro.props
+
+const resolvedFunders = resource.funders.map(slug => ({
+  slug,
+  funder: getFunderBySlug(slug),
+  name: (resource.funder_names || [])[resource.funders.indexOf(slug)] || slug,
+}))
+
+const githubRepo = 'https://github.com/ecrcentral/ecrcentral.github.io'
+const editUrl = `${githubRepo}/edit/main/data/entries/resources/${resource.slug}.yaml`
+const issueUrl = `${githubRepo}/issues/new?template=report_issue.yml&title=Issue+with+resource:+${encodeURIComponent(resource.name)}&labels=resource`
+
+const statusClass: Record<string, string> = {
+  active: 'badge-active',
+  expired: 'badge-expired',
+  archived: 'badge-archived',
+  draft: 'badge-draft',
+}
+---
+
+<BaseLayout
+  title={resource.name}
+  description={resource.description || `Resource: ${resource.name}. ${resource.source_name ? `From ${resource.source_name}.` : ''}`}
+  canonical={`/resources/${resource.slug}/`}
+  type="article"
+>
+  <div class="container">
+    <div class="detail-layout">
+      <!-- Breadcrumb -->
+      <nav class="detail-breadcrumb" aria-label="Breadcrumb">
+        <a href="/">Home</a>
+        <span class="detail-breadcrumb-sep" aria-hidden="true">/</span>
+        <a href="/resources/">Resources</a>
+        <span class="detail-breadcrumb-sep" aria-hidden="true">/</span>
+        <span aria-current="page">{resource.name}</span>
+      </nav>
+
+      <!-- Header -->
+      <header class="detail-header">
+        <div class="detail-badges">
+          <span class={`badge ${statusClass[resource.status] || 'badge-draft'}`}>{resource.status}</span>
+          {resource.featured && <span class="badge badge-featured">Featured</span>}
+        </div>
+
+        <h1 class="detail-title">{resource.name}</h1>
+
+        {resource.source_name && (
+          <div class="detail-funders">
+            <span>From <strong>{resource.source_name}</strong></span>
+          </div>
+        )}
+
+        {resolvedFunders.length > 0 && (
+          <div class="detail-funders" style="margin-top:8px;">
+            <span>Associated with</span>
+            {resolvedFunders.map((f, i) => (
+              <span>
+                {i > 0 && <span style="margin-right:4px;">,</span>}
+                {f.funder
+                  ? <a href={`/funders/${f.slug}/`} class="detail-funder-link">{f.name}</a>
+                  : <span class="font-semibold">{f.name}</span>
+                }
+              </span>
+            ))}
+          </div>
+        )}
+      </header>
+
+      <!-- Description -->
+      {resource.description && (
+        <blockquote class="detail-description">{resource.description}</blockquote>
+      )}
+
+      <!-- Visit resource CTA -->
+      <div style="display:flex;gap:12px;flex-wrap:wrap;margin-bottom:32px;">
+        <a
+          href={resource.url}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="btn btn-primary btn-lg"
+          aria-label={`Visit ${resource.name} (opens in new tab)`}
+        >
+          Visit Resource
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
+            <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"/>
+            <polyline points="15 3 21 3 21 9"/>
+            <line x1="10" y1="14" x2="21" y2="3"/>
+          </svg>
+        </a>
+      </div>
+
+      <!-- Categories -->
+      {(resource.resource_category_names?.length || resource.resource_categories.length) > 0 && (
+        <section class="detail-section">
+          <h2 class="detail-section-title">Categories</h2>
+          <div class="tags">
+            {(resource.resource_category_names || resource.resource_categories).map(cat => (
+              <span class="tag">{cat}</span>
+            ))}
+          </div>
+        </section>
+      )}
+
+      <!-- Subjects -->
+      {(resource.subject_names?.length || resource.subjects.length) > 0 && (
+        <section class="detail-section">
+          <h2 class="detail-section-title">Subjects / Fields</h2>
+          <div class="tags">
+            {(resource.subject_names || resource.subjects).map(subject => (
+              <span class="tag tag-muted">{subject}</span>
+            ))}
+          </div>
+        </section>
+      )}
+
+      <!-- Record info -->
+      <section class="detail-section">
+        <h2 class="detail-section-title">Record Information</h2>
+        <div class="detail-grid">
+          {resource.last_verified && (
+            <div class="detail-field">
+              <span class="detail-field-label">Last Verified</span>
+              <span class="detail-field-value">
+                {new Date(resource.last_verified).toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' })}
+                {resource.verified_by && ` by ${resource.verified_by}`}
+              </span>
+            </div>
+          )}
+          {resource.created_at && (
+            <div class="detail-field">
+              <span class="detail-field-label">Added</span>
+              <span class="detail-field-value">
+                {new Date(resource.created_at).toLocaleDateString('en-GB', { month: 'long', year: 'numeric' })}
+              </span>
+            </div>
+          )}
+          <div class="detail-field">
+            <span class="detail-field-label">Source</span>
+            <span class="detail-field-value">{resource.source}</span>
+          </div>
+          <div class="detail-field">
+            <span class="detail-field-label">URL</span>
+            <span class="detail-field-value">
+              <a href={resource.url} target="_blank" rel="noopener noreferrer">{resource.url}</a>
+            </span>
+          </div>
+        </div>
+      </section>
+
+      <!-- Actions -->
+      <div class="detail-actions">
+        <p class="detail-actions-title">Help keep this record accurate</p>
+        <a href={editUrl} class="btn btn-outline btn-sm" target="_blank" rel="noopener noreferrer">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <path d="M11 4H4a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2v-7"/>
+            <path d="M18.5 2.5a2.121 2.121 0 013 3L12 15l-4 1 1-4 9.5-9.5z"/>
+          </svg>
+          Edit on GitHub
+        </a>
+        <a href={issueUrl} class="btn btn-ghost btn-sm" target="_blank" rel="noopener noreferrer">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <circle cx="12" cy="12" r="10"/>
+            <line x1="12" y1="8" x2="12" y2="12"/>
+            <line x1="12" y1="16" x2="12.01" y2="16"/>
+          </svg>
+          Report an issue
+        </a>
+      </div>
+    </div>
+  </div>
+</BaseLayout>

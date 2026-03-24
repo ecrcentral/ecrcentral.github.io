@@ -1,0 +1,51 @@
+id: funding-the-british-academy-postdoctoral-fellowship
+legacy_id: 26
+slug: the-british-academy-postdoctoral-fellowship
+name: The British Academy Postdoctoral Fellowship
+description: The British Academy Postdoctoral Fellowships is a three year award made
+  to an annual cohort of outstanding early career researchers in the humanities or
+  social sciences.
+url: http://www.britac.ac.uk/british-academy-postdoctoral-fellowships
+funders:
+- british-academy
+legacy_funder_name: British Academy
+host_country: United Kingdom
+applicant_country: UK and from the European Economic Area
+career_levels:
+- phd
+- md
+years_since_phd: <3
+duration: '3'
+award: null
+mobility_rule: 'No'
+research_costs: £6,000
+deadline: February
+deadline_month: February
+diversity: n/a
+comments: wards are offered on a Full Economic Costing basis. There is no fixed amount
+  awarded for the Fellowships and the value of award will vary depending on the host
+  institution. Awards support the salary of the Postdoctoral Fellow to work full-time
+  on the Fellowship, small-scale research expenses (up to a maximum of £6,000 across
+  the duration of the award), costs towards the time of a mentor (equivalent to one
+  hour per month for the 36 months of the Fellowship) and the host institution's estates
+  and indirect costs.
+benefits: null
+frequency: Twice a year
+fileds: all
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-25T13:33:28Z'
+subjects:
+- all-subjects
+funding_purposes:
+- research
+search_text: The British Academy Postdoctoral Fellowship The British Academy Postdoctoral
+  Fellowships is a three year award made to an annual cohort of outstanding early
+  career researchers in the humanities or social sciences. British Academy PhD MD
+  All subjects Research United Kingdom UK and from the European Economic Area
+source: legacy-import

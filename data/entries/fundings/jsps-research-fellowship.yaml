@@ -1,0 +1,50 @@
+id: funding-jsps-research-fellowship
+legacy_id: 113
+slug: jsps-research-fellowship
+name: JSPS Research fellowship
+description: Awarded to excellent young researchers, these fellowships offer the fellows
+  an opportunity to focus on a freely chosen research topic based on their own innovative
+  ideas. Ultimately, the program works to foster and secure excellent researchers.
+url: http://www.jsps.go.jp/english/e-pd/index.html
+funders:
+- japan-society-for-the-promotion-of-science
+legacy_funder_name: Japan Society for the Promotion of Science
+host_country: Japan
+applicant_country: Worldwide
+career_levels:
+- phd
+- master-students
+years_since_phd: '5'
+duration: '3'
+award: null
+mobility_rule: 'Yes'
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: Full detail information should consult Japanese version of the funding website.
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-28T19:41:52Z'
+subjects:
+- arts-and-humanities
+- social-and-behavioral-sciences
+- natural-sciences
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: JSPS Research fellowship Awarded to excellent young researchers, these
+  fellowships offer the fellows an opportunity to focus on a freely chosen research
+  topic based on their own innovative ideas. Ultimately, the program works to foster
+  and secure excellent researchers. Japan Society for the Promotion of Science PhD
+  Master students Arts and Humanities Social and Behavioral Sciences Natural Sciences
+  Fellowship, scholarship or training Research Japan Worldwide
+source: legacy-import

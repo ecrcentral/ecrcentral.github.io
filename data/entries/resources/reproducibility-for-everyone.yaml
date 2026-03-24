@@ -1,0 +1,20 @@
+id: resource-reproducibility-for-everyone
+legacy_id: 53
+slug: reproducibility-for-everyone
+name: Reproducibility for Everyone
+url: https://www.repro4everyone.org/
+description: Visit the website for reproducibility resources and events, or to join
+  their community!
+source_name: Reproducibility for Everyone
+funders: []
+resource_categories:
+- reproducibility
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2019-05-10T18:12:00Z'
+updated_at: '2019-06-21T13:22:03Z'
+source: legacy-import

@@ -1,0 +1,20 @@
+id: funder-federation-of-european-biochemical-societies
+legacy_id: 311
+slug: federation-of-european-biochemical-societies
+name: Federation of European Biochemical Societies
+short_name: Federation of European Biochemical Societies
+funder_registry_id: '100012623'
+country: United Kingdom
+website: null
+logo: /logos/funders/federation-of-european-biochemical-societies.png
+dora: true
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2020-05-27T16:55:40Z'
+source: legacy-import

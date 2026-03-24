@@ -1,0 +1,20 @@
+id: funder-fondation-pour-laide-a-la-recherche-sur-la-sclerose-en-plaques
+legacy_id: 213
+slug: fondation-pour-laide-a-la-recherche-sur-la-sclerose-en-plaques
+name: Fondation pour l'Aide à la Recherche sur la Sclérose en Plaques
+short_name: Fondation pour l'Aide à la Recherche sur la Sclérose en Plaques
+funder_registry_id: '100007379'
+country: France
+website: https://www.arsep.org/
+logo: /logos/funders/fondation-pour-laide-a-la-recherche-sur-la-sclerose-en-plaques.png
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2019-05-16T10:26:19Z'
+updated_at: '2019-05-16T10:27:28Z'
+source: legacy-import

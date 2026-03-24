@@ -1,0 +1,20 @@
+id: funder-center-for-research-and-interdisciplinarity
+legacy_id: 622
+slug: center-for-research-and-interdisciplinarity
+name: Center for Research and Interdisciplinarity
+short_name: Center for Research and Interdisciplinarity
+funder_registry_id: center-for-research-and-interdisciplinarity
+country: France
+website: https://www.cri-paris.org/en
+logo: /logos/funders/center-for-research-and-interdisciplinarity.png
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-05-25T15:08:57Z'
+updated_at: '2020-05-25T15:08:57Z'
+source: legacy-import

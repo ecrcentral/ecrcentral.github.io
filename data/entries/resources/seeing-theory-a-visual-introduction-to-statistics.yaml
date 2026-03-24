@@ -1,0 +1,20 @@
+id: resource-seeing-theory-a-visual-introduction-to-statistics
+legacy_id: 15
+slug: seeing-theory-a-visual-introduction-to-statistics
+name: Seeing Theory - A visual introduction to statistics
+url: https://seeing-theory.brown.edu/
+description: A very useful website which makes probability and statistics more accessible
+  through interactive visualizations
+source_name: Daniel Kunin
+funders: []
+resource_categories:
+- science-communication
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2019-01-23T16:11:00Z'
+updated_at: '2019-01-23T16:12:11Z'
+source: legacy-import

@@ -1,0 +1,20 @@
+id: funder-sundance-institute
+legacy_id: 624
+slug: sundance-institute
+name: Sundance Institute
+short_name: Sundance Institute
+funder_registry_id: sundance-institute
+country: USA
+website: https://www.sundance.org/
+logo: /logos/funders/sundance-institute.png
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-05-25T15:51:28Z'
+updated_at: '2020-05-25T15:51:28Z'
+source: legacy-import

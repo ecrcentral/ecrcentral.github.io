@@ -1,0 +1,20 @@
+id: funder-american-sleep-medicine-foundation
+legacy_id: 38
+slug: american-sleep-medicine-foundation
+name: American Sleep Medicine Foundation
+short_name: American Sleep Medicine Foundation
+funder_registry_id: '100002600'
+country: United States
+website: null
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2019-01-17T00:40:55Z'
+source: legacy-import

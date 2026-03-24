@@ -1,0 +1,31 @@
+id: travel-grant-afox-travel-grant
+legacy_id: 55
+slug: afox-travel-grant
+name: AfOx Travel Grant
+url: http://www.afox.ox.ac.uk/grants/
+description: null
+funders: []
+legacy_funder_name: Africa-Oxford Initiative
+applicant_country: Joint application between member of staff at Oxford with collaborator
+  in Africa
+host_country: null
+award: up to £5000
+deadline: Any time
+deadline_month: null
+membership: 'No'
+membership_time: N/A
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- collaboration
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: AfOx Travel Grant Collaboration Joint application between member of staff
+  at Oxford with collaborator in Africa
+source: legacy-import

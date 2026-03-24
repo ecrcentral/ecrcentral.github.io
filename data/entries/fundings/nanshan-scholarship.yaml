@@ -1,0 +1,41 @@
+id: funding-nanshan-scholarship
+legacy_id: 90
+slug: nanshan-scholarship
+name: Nanshan Scholarship
+description: null
+url: http://www.gzcancer.com/cn/index.aspx
+funders: []
+legacy_funder_name: Guangzhou Medical University
+host_country: China
+applicant_country: Worldwide
+career_levels: []
+years_since_phd: No rule
+duration: null
+award: 300-400K RMBs/yr plus 500K or 1000k RMBs lodging stipend
+mobility_rule: null
+research_costs: 1.0 million RMB
+deadline: No limitation
+deadline_month: null
+diversity: null
+comments: "Link does not have relevant information\r\nEmail: guangyiq2018@163.com\
+  \ (?)"
+benefits: null
+frequency: null
+fileds: Immunology, Biology, Cancer, Virology, bioinformatics,
+featured: false
+review_status: approved
+status: draft
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-24T22:49:52Z'
+subjects:
+- immunology
+- bioinformatics
+- biology
+- diseases
+funding_purposes: []
+search_text: Nanshan Scholarship Immunology Bioinformatics Biology Diseases China
+  Worldwide
+source: legacy-import

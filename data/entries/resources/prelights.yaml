@@ -1,0 +1,20 @@
+id: resource-prelights
+legacy_id: 20
+slug: prelights
+name: preLights
+url: https://prelights.biologists.com/
+description: Highlight and comment on preprints of particular interest to the biological
+  community by a group of early-career researchers.
+source_name: The Company of Biologists
+funders: []
+resource_categories:
+- preprints
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2019-01-27T22:21:00Z'
+updated_at: '2019-01-27T22:23:27Z'
+source: legacy-import

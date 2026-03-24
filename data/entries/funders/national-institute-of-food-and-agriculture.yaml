@@ -1,0 +1,20 @@
+id: funder-national-institute-of-food-and-agriculture
+legacy_id: 480
+slug: national-institute-of-food-and-agriculture
+name: National Institute of Food and Agriculture
+short_name: National Institute of Food and Agriculture
+funder_registry_id: '100005825'
+country: United States
+website: null
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2020-05-21T09:36:16Z'
+source: legacy-import

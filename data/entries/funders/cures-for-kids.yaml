@@ -1,0 +1,20 @@
+id: funder-cures-for-kids
+legacy_id: 284
+slug: cures-for-kids
+name: Cures for Kids
+short_name: Cures for Kids
+funder_registry_id: '100011157'
+country: Canada
+website: null
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2020-05-21T09:36:15Z'
+source: legacy-import

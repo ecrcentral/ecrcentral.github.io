@@ -1,0 +1,39 @@
+id: funding-socio-environmental-synthesis-fellowships
+legacy_id: 181
+slug: socio-environmental-synthesis-fellowships
+name: Socio-environmental synthesis fellowships
+description: Check website for up-to-date funding opportunities
+url: http://www.sesync.org/opportunities
+funders:
+- national-socio-environmental-synthesis-center
+legacy_funder_name: SESYNC
+host_country: United States
+applicant_country: null
+career_levels: []
+years_since_phd: null
+duration: null
+award: null
+mobility_rule: null
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: null
+benefits: null
+frequency: Rolling
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T15:09:21Z'
+subjects: []
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Socio-environmental synthesis fellowships Check website for up-to-date
+  funding opportunities National Socio-Environmental Synthesis Center Fellowship,
+  scholarship or training United States
+source: legacy-import

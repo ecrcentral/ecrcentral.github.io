@@ -1,0 +1,23 @@
+id: resource-list-of-virtual-talks-seminars-forums
+legacy_id: 143
+slug: list-of-virtual-talks-seminars-forums
+name: List of virtual talks, seminars, forums
+url: https://thenode.biologists.com/list-of-virtual-talks-seminars-forums/events/
+description: Various organisations and looser assemblies of locked down researchers
+  have begun to put together online seminar and talk series, many of which are open
+  to anyone (usually with registration), and many of which also have previous talks
+  recorded.
+source_name: The Node
+funders: []
+resource_categories:
+- science-communication
+- covid19-online-events
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-04-26T10:37:09Z'
+updated_at: '2020-04-26T10:37:09Z'
+source: legacy-import

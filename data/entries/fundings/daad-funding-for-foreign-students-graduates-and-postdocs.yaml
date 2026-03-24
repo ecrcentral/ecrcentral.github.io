@@ -1,0 +1,48 @@
+id: funding-daad-funding-for-foreign-students-graduates-and-postdocs
+legacy_id: 44
+slug: daad-funding-for-foreign-students-graduates-and-postdocs
+name: DAAD funding for foreign students, graduates and postdocs
+description: DAAD funding for foreign students, graduates and postdocs as well as
+  on funding offered by other selected organisations.
+url: https://www.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=2&origin=&subjectGrps=&daad=&q=&page=1&back=1
+funders:
+- deutscher-akademischer-austauschdienst
+legacy_funder_name: DAAD
+host_country: Germany
+applicant_country: Worldwide
+career_levels:
+- phd
+- postdoc
+- junior-faculty
+- master-students
+- md
+- bachelor-students
+years_since_phd: n/a
+duration: Varies
+award: null
+mobility_rule: null
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: There are multiple funding opportunities with varying amounts funded and
+  varying requirements. Please refer to the website for more details.
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-25T20:53:08Z'
+subjects:
+- all-subjects
+funding_purposes: []
+search_text: DAAD funding for foreign students, graduates and postdocs DAAD funding
+  for foreign students, graduates and postdocs as well as on funding offered by other
+  selected organisations. Deutscher Akademischer Austauschdienst PhD Postdoc Junior
+  Faculty Master students MD Bachelor students All subjects Germany Worldwide
+source: legacy-import

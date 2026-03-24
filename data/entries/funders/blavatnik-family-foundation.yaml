@@ -1,0 +1,20 @@
+id: funder-blavatnik-family-foundation
+legacy_id: 607
+slug: blavatnik-family-foundation
+name: Blavatnik Family Foundation
+short_name: Blavatnik Family Foundation
+funder_registry_id: '100011643'
+country: United States
+website: http://blavatnikfoundation.org/
+logo: /logos/funders/blavatnik-family-foundation.jpg
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-05-24T13:20:55Z'
+updated_at: '2020-05-24T13:20:55Z'
+source: legacy-import

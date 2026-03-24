@@ -1,0 +1,43 @@
+id: travel-grant-international-early-career-physiologist-travel-awards
+legacy_id: 93
+slug: international-early-career-physiologist-travel-awards
+name: International Early Career Physiologist Travel Awards
+url: https://www.the-aps.org/professional-development/awards/researchers/IECP?SSO=Y
+description: <p>The International Early Career Physiologist (IECP) Travel Awards are
+  presented to graduate students, post-doctoral fellows and junior faculty members
+  who work outside the United States. This initiative of the International Physiology
+  Committee is designed to assist with travel expenses that international early career
+  physiologists incur in attending the Experimental Biology Meeting in order to present
+  their work.</p>
+funders: []
+legacy_funder_name: American Physiological Society
+applicant_country: Worldwide
+host_country: null
+award: $ 1000
+deadline: 15 November
+deadline_month: November
+membership: 'Yes'
+membership_time: null
+purpose_text: null
+career_levels:
+- phd
+- postdoc
+- junior-faculty
+subjects: []
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: International Early Career Physiologist Travel Awards <p>The International
+  Early Career Physiologist (IECP) Travel Awards are presented to graduate students,
+  post-doctoral fellows and junior faculty members who work outside the United States.
+  This initiative of the International Physiology Committee is designed to assist
+  with travel expenses that international early career physiologists incur in attending
+  the Experimental Biology Meeting in order to present their work.</p> PhD Postdoc
+  Junior Faculty Conference Worldwide
+source: legacy-import

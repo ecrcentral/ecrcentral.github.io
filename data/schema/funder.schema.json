@@ -1,0 +1,30 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Funder",
+  "type": "object",
+  "required": ["id", "slug", "name", "country", "status", "review_status", "source"],
+  "properties": {
+    "id": {"type": "string"},
+    "legacy_id": {"type": ["integer", "null"]},
+    "slug": {"type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"},
+    "name": {"type": "string", "minLength": 1},
+    "short_name": {"type": ["string", "null"]},
+    "funder_registry_id": {"type": ["string", "null"]},
+    "country": {"type": "string", "minLength": 1},
+    "website": {"type": ["string", "null"]},
+    "logo": {"type": ["string", "null"]},
+    "legacy_logo_path": {"type": ["string", "null"]},
+    "dora": {"type": "boolean"},
+    "aliases": {"type": "array", "items": {"type": "string"}},
+    "description": {"type": ["string", "null"]},
+    "status": {"type": "string", "enum": ["active", "inactive", "archived", "draft"]},
+    "featured": {"type": "boolean"},
+    "review_status": {"type": "string", "enum": ["approved", "pending", "rejected"]},
+    "last_verified": {"type": ["string", "null"]},
+    "verified_by": {"type": ["string", "null"]},
+    "created_at": {"type": ["string", "null"]},
+    "updated_at": {"type": ["string", "null"]},
+    "source": {"type": "string"}
+  },
+  "additionalProperties": false
+}

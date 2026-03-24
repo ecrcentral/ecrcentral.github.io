@@ -1,0 +1,30 @@
+id: travel-grant-travel-subsidies
+legacy_id: 10
+slug: travel-subsidies
+name: Travel Subsidies
+url: http://www.fritz-thyssen-stiftung.de/foerderung/foerderarten/reisebeihilfen/
+description: null
+funders: []
+legacy_funder_name: Fritz Thyssen Stiftung für Wissenschaftsörderung
+applicant_country: Anyone, but has to be German or work at a German research institute
+host_country: null
+award: null
+deadline: any time; decisions reached in 8 weeks
+deadline_month: null
+membership: 'Yes'
+membership_time: NA
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- research-visit
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: Travel Subsidies Research visit Anyone, but has to be German or work
+  at a German research institute
+source: legacy-import

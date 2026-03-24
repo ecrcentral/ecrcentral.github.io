@@ -1,0 +1,22 @@
+id: resource-lab-carpentry
+legacy_id: 79
+slug: lab-carpentry
+name: Lab Carpentry
+url: http://labcarpentry.org/
+description: Lab Carpentry provides training resources and example documents for lab
+  management to busy scientists.
+source_name: Lab Carpentry
+funders: []
+resource_categories:
+- career-development
+- science-communication
+- other
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2019-07-17T21:17:00Z'
+updated_at: '2019-07-17T21:17:54Z'
+source: legacy-import

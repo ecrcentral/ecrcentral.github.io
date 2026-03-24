@@ -1,0 +1,22 @@
+id: resource-a-library-of-free-biology-icons
+legacy_id: 48
+slug: a-library-of-free-biology-icons
+name: A library of Free Biology icons
+url: https://reactome.org/icon-lib
+description: A free library of 1,300 unique biology icons available under CC-BY.
+source_name: Reactome
+funders: []
+resource_categories:
+- science-communication
+- teaching
+- other
+- open-source
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2019-05-10T02:23:00Z'
+updated_at: '2019-05-10T02:35:50Z'
+source: legacy-import

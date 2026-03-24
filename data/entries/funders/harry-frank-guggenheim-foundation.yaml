@@ -1,0 +1,20 @@
+id: funder-harry-frank-guggenheim-foundation
+legacy_id: 643
+slug: harry-frank-guggenheim-foundation
+name: Harry Frank Guggenheim Foundation
+short_name: Harry Frank Guggenheim Foundation
+funder_registry_id: harry-frank-guggenheim-foundation
+country: USA
+website: https://www.hfg.org/index.html
+logo: /logos/funders/harry-frank-guggenheim-foundation.gif
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-06-10T22:42:07Z'
+updated_at: '2020-06-10T22:42:07Z'
+source: legacy-import

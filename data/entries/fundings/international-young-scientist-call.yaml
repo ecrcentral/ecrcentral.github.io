@@ -1,0 +1,35 @@
+id: funding-international-young-scientist-call
+legacy_id: 135
+slug: international-young-scientist-call
+name: International Young Scientist Call
+description: null
+url: http://www.nsfc.gov.cn/publish/portal0/tab87/info53732.htm
+funders: []
+legacy_funder_name: National Natural Science Foundation of China
+host_country: China
+applicant_country: Worldwide
+career_levels: []
+years_since_phd: Age <40
+duration: '2'
+award: null
+mobility_rule: null
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: The url is no longer valid.
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: draft
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-30T19:02:29Z'
+subjects: []
+funding_purposes: []
+search_text: International Young Scientist Call China Worldwide
+source: legacy-import

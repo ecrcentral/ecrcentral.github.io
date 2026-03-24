@@ -1,0 +1,20 @@
+id: funder-eth-zurich
+legacy_id: 638
+slug: eth-zurich
+name: ETH Zurich
+short_name: ETH Zurich
+funder_registry_id: '501100012652'
+country: Switzerland
+website: https://ethz.ch/en.html
+logo: /logos/funders/eth-zurich.png
+dora: true
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-05-26T09:00:22Z'
+updated_at: '2020-05-27T04:01:10Z'
+source: legacy-import

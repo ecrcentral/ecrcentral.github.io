@@ -1,0 +1,22 @@
+id: resource-a-list-successful-job-applications-and-grants
+legacy_id: 19
+slug: a-list-successful-job-applications-and-grants
+name: A list successful job applications and grants
+url: https://github.com/RILAB/statements
+description: Examples of successful grants as well as cover letters, CVs, research
+  and teaching statements for job applications.
+source_name: Ross-Ibarra Lab
+funders: []
+resource_categories:
+- career-development
+- science-communication
+- academic-writing
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2019-01-25T15:23:00Z'
+updated_at: '2019-01-25T15:23:50Z'
+source: legacy-import

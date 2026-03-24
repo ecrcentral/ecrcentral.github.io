@@ -1,0 +1,20 @@
+id: funder-arvo-foundation
+legacy_id: 569
+slug: arvo-foundation
+name: ARVO Foundation
+short_name: ARVO Foundation
+funder_registry_id: '100006325'
+country: United States
+website: https://www.arvo.org/
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-05-22T19:18:03Z'
+updated_at: '2020-05-22T19:18:03Z'
+source: legacy-import

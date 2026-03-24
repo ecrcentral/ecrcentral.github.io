@@ -1,0 +1,29 @@
+id: travel-grant-rstmh-travel-grant
+legacy_id: 56
+slug: rstmh-travel-grant
+name: RSTMH Travel Grant
+url: https://rstmh.org/grants/2017-18-grants-round
+description: null
+funders: []
+legacy_funder_name: Royal Society of Tropical Medicine and Hygiene (RSTMH)
+applicant_country: null
+host_country: null
+award: £5000
+deadline: currently closed for applications
+deadline_month: null
+membership: null
+membership_time: null
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- field-work
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: RSTMH Travel Grant Field work
+source: legacy-import

@@ -1,0 +1,30 @@
+id: travel-grant-travel-support
+legacy_id: 17
+slug: travel-support
+name: Travel support
+url: http://www.arthritisresearchuk.org/research/information-for-award-holders/open-access-and-travel-support/travel-support.aspx
+description: null
+funders: []
+legacy_funder_name: Arthritis Research UK
+applicant_country: Research needs to be funded by Arthritis Research UK
+host_country: null
+award: £500-£1500
+deadline: 1 month before date of the meeting
+deadline_month: null
+membership: 'Yes'
+membership_time: NA
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: Travel support Conference Research needs to be funded by Arthritis Research
+  UK
+source: legacy-import

@@ -1,0 +1,47 @@
+id: funding-sir-henry-dale-fellowship
+legacy_id: 170
+slug: sir-henry-dale-fellowship
+name: Sir Henry Dale Fellowship
+description: This scheme provides support for postdoctoral researchers who aim to
+  become independent scientists leading their own groups. The scheme is a partnership
+  between the Royal Society and the Wellcome Trust.
+url: https://wellcome.ac.uk/grant-funding/schemes/sir-henry-dale-fellowships
+funders:
+- the-royal-society
+- wellcome-trust
+legacy_funder_name: Royal Society & Wellcome Trust
+host_country: United Kingdom
+applicant_country: Worldwide
+career_levels:
+- phd
+- postdoc
+years_since_phd: N/A
+duration: '5'
+award: £1.2 million
+mobility_rule: 'No'
+research_costs: 'Yes'
+deadline: November, May
+deadline_month: November, May
+diversity: null
+comments: null
+benefits: null
+frequency: Twice a year
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T11:22:22Z'
+subjects:
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Sir Henry Dale Fellowship This scheme provides support for postdoctoral
+  researchers who aim to become independent scientists leading their own groups. The
+  scheme is a partnership between the Royal Society and the Wellcome Trust. The Royal
+  Society Wellcome Trust PhD Postdoc All subjects Fellowship, scholarship or training
+  United Kingdom Worldwide
+source: legacy-import

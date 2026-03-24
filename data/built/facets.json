@@ -1,0 +1,3948 @@
+{
+  "fundings": {
+    "funder": [
+      {
+        "value": "national-institutes-of-health-nih",
+        "label": "National Institutes of Health (NIH)",
+        "count": 63
+      },
+      {
+        "value": "american-gastroenterological-association",
+        "label": "American Gastroenterological Association",
+        "count": 9
+      },
+      {
+        "value": "orthopaedic-research-and-education-foundation",
+        "label": "Orthopaedic Research and Education Foundation",
+        "count": 7
+      },
+      {
+        "value": "american-psychological-foundation",
+        "label": "American Psychological Foundation",
+        "count": 6
+      },
+      {
+        "value": "wellcome-trust",
+        "label": "Wellcome Trust",
+        "count": 6
+      },
+      {
+        "value": "whitehall-foundation",
+        "label": "Whitehall Foundation",
+        "count": 6
+      },
+      {
+        "value": "american-association-for-cancer-research",
+        "label": "American Association for Cancer Research",
+        "count": 6
+      },
+      {
+        "value": "the-royal-society",
+        "label": "The Royal Society",
+        "count": 4
+      },
+      {
+        "value": "h2020-marie-skodowska-curie-actions",
+        "label": "H2020 Marie Skłodowska-Curie Actions",
+        "count": 4
+      },
+      {
+        "value": "fulbright-program",
+        "label": "Fulbright Program",
+        "count": 4
+      },
+      {
+        "value": "national-science-foundation",
+        "label": "National Science Foundation",
+        "count": 4
+      },
+      {
+        "value": "burroughs-wellcome-fund",
+        "label": "Burroughs Wellcome Fund",
+        "count": 4
+      },
+      {
+        "value": "american-society-of-nephrology",
+        "label": "American Society of Nephrology",
+        "count": 4
+      },
+      {
+        "value": "deutscher-akademischer-austauschdienst",
+        "label": "Deutscher Akademischer Austauschdienst",
+        "count": 4
+      },
+      {
+        "value": "european-molecular-biology-organization-embo",
+        "label": "European Molecular Biology Organization (EMBO)",
+        "count": 3
+      },
+      {
+        "value": "university-of-cambridge",
+        "label": "University of Cambridge",
+        "count": 3
+      },
+      {
+        "value": "alexander-von-humboldt-stiftung",
+        "label": "Alexander von Humboldt-Stiftung",
+        "count": 3
+      },
+      {
+        "value": "pew-charitable-trusts",
+        "label": "Pew Charitable Trusts",
+        "count": 3
+      },
+      {
+        "value": "american-association-of-university-women",
+        "label": "American Association of University Women",
+        "count": 3
+      },
+      {
+        "value": "academy-of-finland",
+        "label": "Academy of Finland",
+        "count": 3
+      },
+      {
+        "value": "american-chemical-society",
+        "label": "American Chemical Society",
+        "count": 3
+      },
+      {
+        "value": "melanoma-research-alliance",
+        "label": "Melanoma Research Alliance",
+        "count": 3
+      },
+      {
+        "value": "american-foundation-for-suicide-prevention",
+        "label": "American Foundation for Suicide Prevention",
+        "count": 3
+      },
+      {
+        "value": "swiss-national-science-foundation",
+        "label": "Swiss National Science Foundation",
+        "count": 3
+      },
+      {
+        "value": "american-cancer-society",
+        "label": "American Cancer Society",
+        "count": 3
+      },
+      {
+        "value": "national-multiple-sclerosis-society",
+        "label": "National Multiple Sclerosis Society",
+        "count": 3
+      },
+      {
+        "value": "us-department-of-defense",
+        "label": "U.S. Department of Defense",
+        "count": 3
+      },
+      {
+        "value": "cornell-university",
+        "label": "Cornell University",
+        "count": 3
+      },
+      {
+        "value": "juvenile-diabetes-research-foundation",
+        "label": "Juvenile Diabetes Research Foundation",
+        "count": 3
+      },
+      {
+        "value": "ovarian-cancer-research-fund-alliance",
+        "label": "Ovarian Cancer Research Fund Alliance",
+        "count": 3
+      },
+      {
+        "value": "national-academies-of-sciences-engineering-and-medicine",
+        "label": "National Academies of Sciences, Engineering, and Medicine",
+        "count": 3
+      },
+      {
+        "value": "american-federation-for-aging-research",
+        "label": "American Federation for Aging Research",
+        "count": 3
+      },
+      {
+        "value": "australian-research-council",
+        "label": "Australian Research Council",
+        "count": 3
+      },
+      {
+        "value": "australian-government",
+        "label": "Australian Government",
+        "count": 3
+      },
+      {
+        "value": "biotechnology-and-biological-sciences-research-council-bbsrc",
+        "label": "Biotechnology and Biological Sciences Research Council - BBSRC",
+        "count": 3
+      },
+      {
+        "value": "simons-foundation-autism-research-initiative",
+        "label": "Simons Foundation Autism Research Initiative",
+        "count": 3
+      },
+      {
+        "value": "european-molecular-biology-laboratory-embl",
+        "label": "European Molecular Biology Laboratory (EMBL)",
+        "count": 3
+      },
+      {
+        "value": "human-frontier-science-program-hfsp",
+        "label": "Human Frontier Science Program (HFSP)",
+        "count": 2
+      },
+      {
+        "value": "fondation-pour-laide-a-la-recherche-sur-la-sclerose-en-plaques",
+        "label": "Fondation pour l'Aide à la Recherche sur la Sclérose en Plaques",
+        "count": 2
+      },
+      {
+        "value": "medical-research-council",
+        "label": "Medical Research Council",
+        "count": 2
+      },
+      {
+        "value": "elsa-u-pardee-foundation",
+        "label": "Elsa U. Pardee Foundation",
+        "count": 2
+      },
+      {
+        "value": "netherlands-organisation-for-scientific-research",
+        "label": "Netherlands Organisation for Scientific Research",
+        "count": 2
+      },
+      {
+        "value": "american-academy-of-child-and-adolescent-psychiatry",
+        "label": "American Academy of Child and Adolescent Psychiatry",
+        "count": 2
+      },
+      {
+        "value": "scoliosis-research-society",
+        "label": "Scoliosis Research Society",
+        "count": 2
+      },
+      {
+        "value": "arvo-foundation",
+        "label": "ARVO Foundation",
+        "count": 2
+      },
+      {
+        "value": "american-australian-association",
+        "label": "American Australian Association",
+        "count": 2
+      },
+      {
+        "value": "fundacion-ramon-areces",
+        "label": "Fundación Ramón Areces",
+        "count": 2
+      },
+      {
+        "value": "american-foundation-for-surgery-of-the-hand",
+        "label": "American Foundation for Surgery of the Hand",
+        "count": 2
+      },
+      {
+        "value": "american-society-for-surgery-of-the-hand",
+        "label": "American Society for Surgery of the Hand",
+        "count": 2
+      },
+      {
+        "value": "angelman-syndrome-foundation",
+        "label": "Angelman Syndrome Foundation",
+        "count": 2
+      },
+      {
+        "value": "university-of-british-columbia",
+        "label": "University of British Columbia",
+        "count": 2
+      },
+      {
+        "value": "simons-foundation",
+        "label": "Simons Foundation",
+        "count": 2
+      },
+      {
+        "value": "university-of-california",
+        "label": "University of California",
+        "count": 2
+      },
+      {
+        "value": "flinders-university",
+        "label": "Flinders University",
+        "count": 2
+      },
+      {
+        "value": "royal-society-of-new-zealand",
+        "label": "Royal Society of New Zealand",
+        "count": 2
+      },
+      {
+        "value": "russell-sage-foundation",
+        "label": "Russell Sage Foundation",
+        "count": 2
+      },
+      {
+        "value": "american-society-for-clinical-oncology",
+        "label": "American Society for Clinical Oncology",
+        "count": 2
+      },
+      {
+        "value": "greenwall-foundation",
+        "label": "Greenwall Foundation",
+        "count": 2
+      },
+      {
+        "value": "american-heart-association",
+        "label": "American Heart Association",
+        "count": 2
+      },
+      {
+        "value": "epilepsy-foundation",
+        "label": "Epilepsy Foundation",
+        "count": 2
+      },
+      {
+        "value": "american-epilepsy-society",
+        "label": "American Epilepsy Society",
+        "count": 2
+      },
+      {
+        "value": "edward-mallinckrodt-jr-foundation",
+        "label": "Edward Mallinckrodt, Jr. Foundation",
+        "count": 2
+      },
+      {
+        "value": "james-s-mcdonnell-foundation",
+        "label": "James S. McDonnell Foundation",
+        "count": 2
+      },
+      {
+        "value": "american-academy-of-family-physicians-foundation",
+        "label": "American Academy of Family Physicians Foundation",
+        "count": 2
+      },
+      {
+        "value": "brain-research-foundation",
+        "label": "Brain Research Foundation",
+        "count": 2
+      },
+      {
+        "value": "brain-and-behavior-research-foundation",
+        "label": "Brain and Behavior Research Foundation",
+        "count": 2
+      },
+      {
+        "value": "american-sleep-medicine-foundation",
+        "label": "American Sleep Medicine Foundation",
+        "count": 2
+      },
+      {
+        "value": "national-institute-of-food-and-agriculture",
+        "label": "National Institute of Food and Agriculture",
+        "count": 2
+      },
+      {
+        "value": "canadian-institutes-of-health-research",
+        "label": "Canadian Institutes of Health Research",
+        "count": 2
+      },
+      {
+        "value": "canon-foundation-for-scientific-research",
+        "label": "Canon Foundation for Scientific Research",
+        "count": 2
+      },
+      {
+        "value": "killam-trusts",
+        "label": "Killam Trusts",
+        "count": 2
+      },
+      {
+        "value": "howard-hughes-medical-institute",
+        "label": "Howard Hughes Medical Institute",
+        "count": 2
+      },
+      {
+        "value": "helmholtz-association",
+        "label": "Helmholtz Association",
+        "count": 2
+      },
+      {
+        "value": "deutsche-forschungsgemeinschaft",
+        "label": "Deutsche Forschungsgemeinschaft",
+        "count": 2
+      },
+      {
+        "value": "science-and-engineering-research-board",
+        "label": "Science and Engineering Research Board",
+        "count": 2
+      },
+      {
+        "value": "federation-of-european-biochemical-societies",
+        "label": "Federation of European Biochemical Societies",
+        "count": 2
+      },
+      {
+        "value": "parkinsons-disease-foundation",
+        "label": "Parkinson's Disease Foundation",
+        "count": 2
+      },
+      {
+        "value": "doris-duke-charitable-foundation",
+        "label": "Doris Duke Charitable Foundation",
+        "count": 2
+      },
+      {
+        "value": "university-of-melbourne",
+        "label": "University of Melbourne",
+        "count": 2
+      },
+      {
+        "value": "japan-society-for-the-promotion-of-science",
+        "label": "Japan Society for the Promotion of Science",
+        "count": 2
+      },
+      {
+        "value": "la-caixa-fundation",
+        "label": "La Caixa Fundation",
+        "count": 2
+      },
+      {
+        "value": "natural-sciences-and-engineering-research-council-of-canada",
+        "label": "Natural Sciences and Engineering Research Council of Canada",
+        "count": 2
+      },
+      {
+        "value": "european-research-council",
+        "label": "European Research Council",
+        "count": 1
+      },
+      {
+        "value": "alfred-p-sloan-foundation",
+        "label": "Alfred P. Sloan Foundation",
+        "count": 1
+      },
+      {
+        "value": "yale-university",
+        "label": "Yale University",
+        "count": 1
+      },
+      {
+        "value": "academia-sinica",
+        "label": "Academia Sinica",
+        "count": 1
+      },
+      {
+        "value": "stanford-university",
+        "label": "Stanford University",
+        "count": 1
+      },
+      {
+        "value": "march-of-dimes-canada",
+        "label": "March of Dimes Canada",
+        "count": 1
+      },
+      {
+        "value": "alliance-for-cancer-gene-therapy",
+        "label": "Alliance for Cancer Gene Therapy",
+        "count": 1
+      },
+      {
+        "value": "national-aeronautics-and-space-administration",
+        "label": "National Aeronautics and Space Administration",
+        "count": 1
+      },
+      {
+        "value": "new-york-university",
+        "label": "New York University",
+        "count": 1
+      },
+      {
+        "value": "alpha-1-foundation",
+        "label": "Alpha-1 Foundation",
+        "count": 1
+      },
+      {
+        "value": "mq-transforming-mental-health",
+        "label": "MQ: Transforming Mental Health",
+        "count": 1
+      },
+      {
+        "value": "hartwell-foundation",
+        "label": "Hartwell Foundation",
+        "count": 1
+      },
+      {
+        "value": "research-corporation-for-science-advancement",
+        "label": "Research Corporation for Science Advancement",
+        "count": 1
+      },
+      {
+        "value": "national-institute-for-mathematical-and-biological-synthesis",
+        "label": "National Institute for Mathematical and Biological Synthesis",
+        "count": 1
+      },
+      {
+        "value": "university-corporation-for-atmospheric-research",
+        "label": "University Corporation for Atmospheric Research",
+        "count": 1
+      },
+      {
+        "value": "american-society-for-clinical-pharmacology-and-therapeutics",
+        "label": "American Society for Clinical Pharmacology and Therapeutics",
+        "count": 1
+      },
+      {
+        "value": "northeastern-university",
+        "label": "Northeastern University",
+        "count": 1
+      },
+      {
+        "value": "the-international-society-for-optics-and-photonics",
+        "label": "The International Society for Optics and Photonics",
+        "count": 1
+      },
+      {
+        "value": "american-psychiatric-association",
+        "label": "American Psychiatric Association",
+        "count": 1
+      },
+      {
+        "value": "foundation-for-child-development",
+        "label": "Foundation for Child Development",
+        "count": 1
+      },
+      {
+        "value": "agencia-estatal-de-investigacion",
+        "label": "Agencia Estatal de Investigación",
+        "count": 1
+      },
+      {
+        "value": "american-academy-of-orthopaedic-surgeons",
+        "label": "American Academy of Orthopaedic Surgeons",
+        "count": 1
+      },
+      {
+        "value": "environmental-leadership-program",
+        "label": "Environmental Leadership Program",
+        "count": 1
+      },
+      {
+        "value": "st-baldricks-foundation",
+        "label": "St. Baldrick's Foundation",
+        "count": 1
+      },
+      {
+        "value": "when-everyone-survives-foundation-wes-leukemia-research-foundation",
+        "label": "When Everyone Survives Foundation (WES Leukemia Research Foundation)",
+        "count": 1
+      },
+      {
+        "value": "lasker-foundation",
+        "label": "Lasker Foundation",
+        "count": 1
+      },
+      {
+        "value": "the-allen-institute-for-artificial-intelligence",
+        "label": "The Allen Institute for Artificial Intelligence",
+        "count": 1
+      },
+      {
+        "value": "american-association-for-the-advancement-of-science",
+        "label": "American Association for the Advancement of Science",
+        "count": 1
+      },
+      {
+        "value": "pacific-northwest-national-laboratory",
+        "label": "Pacific Northwest National Laboratory",
+        "count": 1
+      },
+      {
+        "value": "peter-und-traudl-engelhorn-stiftung",
+        "label": "Peter und Traudl Engelhorn Stiftung",
+        "count": 1
+      },
+      {
+        "value": "research-foundation-flanders",
+        "label": "Research Foundation Flanders",
+        "count": 1
+      },
+      {
+        "value": "oxalosis-and-hyperoxaluria-foundation",
+        "label": "Oxalosis and Hyperoxaluria Foundation",
+        "count": 1
+      },
+      {
+        "value": "resources-for-the-future",
+        "label": "Resources for the Future",
+        "count": 1
+      },
+      {
+        "value": "rice-university",
+        "label": "Rice University",
+        "count": 1
+      },
+      {
+        "value": "rmit-university",
+        "label": "RMIT University",
+        "count": 1
+      },
+      {
+        "value": "royal-academy-of-engineering",
+        "label": "Royal Academy of Engineering",
+        "count": 1
+      },
+      {
+        "value": "royal-commission-for-the-exhibition-of-1851",
+        "label": "Royal Commission for the Exhibition of 1851",
+        "count": 1
+      },
+      {
+        "value": "jane-ja-aatos-erkon-saatio",
+        "label": "Jane ja Aatos Erkon Säätiö",
+        "count": 1
+      },
+      {
+        "value": "actelion-pharmaceuticals",
+        "label": "Actelion Pharmaceuticals",
+        "count": 1
+      },
+      {
+        "value": "santa-fe-institute",
+        "label": "Santa Fe Institute",
+        "count": 1
+      },
+      {
+        "value": "society-of-interventional-radiology",
+        "label": "Society of Interventional Radiology",
+        "count": 1
+      },
+      {
+        "value": "schlumberger-foundation",
+        "label": "Schlumberger Foundation",
+        "count": 1
+      },
+      {
+        "value": "rhodes-trust",
+        "label": "Rhodes Trust",
+        "count": 1
+      },
+      {
+        "value": "science-and-technology-facilities-council",
+        "label": "Science and Technology Facilities Council",
+        "count": 1
+      },
+      {
+        "value": "american-society-for-mass-spectrometry",
+        "label": "American Society for Mass Spectrometry",
+        "count": 1
+      },
+      {
+        "value": "science-and-industry-endowment-fund",
+        "label": "Science and Industry Endowment Fund",
+        "count": 1
+      },
+      {
+        "value": "national-socio-environmental-synthesis-center",
+        "label": "National Socio-Environmental Synthesis Center",
+        "count": 1
+      },
+      {
+        "value": "smithsonian-tropical-research-institute",
+        "label": "Smithsonian Tropical Research Institute",
+        "count": 1
+      },
+      {
+        "value": "smithsonian-institution",
+        "label": "Smithsonian Institution",
+        "count": 1
+      },
+      {
+        "value": "branco-weiss-fellowship-society-in-science",
+        "label": "Branco Weiss Fellowship – Society in Science",
+        "count": 1
+      },
+      {
+        "value": "fundacao-de-amparo-a-pesquisa-do-estado-de-sao-paulo",
+        "label": "Fundação de Amparo à Pesquisa do Estado de São Paulo",
+        "count": 1
+      },
+      {
+        "value": "technische-universitat-berlin",
+        "label": "Technische Universität Berlin",
+        "count": 1
+      },
+      {
+        "value": "john-templeton-foundation",
+        "label": "John Templeton Foundation",
+        "count": 1
+      },
+      {
+        "value": "american-astronomical-society",
+        "label": "American Astronomical Society",
+        "count": 1
+      },
+      {
+        "value": "nanyang-technological-university",
+        "label": "Nanyang Technological University",
+        "count": 1
+      },
+      {
+        "value": "grass-foundation",
+        "label": "Grass Foundation",
+        "count": 1
+      },
+      {
+        "value": "japan-foundation-center-for-global-partnership",
+        "label": "Japan Foundation Center for Global Partnership",
+        "count": 1
+      },
+      {
+        "value": "oncology-nursing-society-foundation",
+        "label": "Oncology Nursing Society Foundation",
+        "count": 1
+      },
+      {
+        "value": "institute-for-basic-science",
+        "label": "Institute for Basic Science",
+        "count": 1
+      },
+      {
+        "value": "the-baltimore-pkd-research-and-clinical-core-center",
+        "label": "The Baltimore PKD Research and Clinical Core Center",
+        "count": 1
+      },
+      {
+        "value": "lymphoma-research-foundation",
+        "label": "Lymphoma Research Foundation",
+        "count": 1
+      },
+      {
+        "value": "american-society-for-engineering-education",
+        "label": "American Society for Engineering Education",
+        "count": 1
+      },
+      {
+        "value": "american-speech-language-hearing-association",
+        "label": "American Speech-Language-Hearing Association",
+        "count": 1
+      },
+      {
+        "value": "eberhard-karls-universitat-tubingen",
+        "label": "Eberhard Karls Universität Tübingen",
+        "count": 1
+      },
+      {
+        "value": "scleroderma-foundation",
+        "label": "Scleroderma Foundation",
+        "count": 1
+      },
+      {
+        "value": "thrasher-research-fund",
+        "label": "Thrasher Research Fund",
+        "count": 1
+      },
+      {
+        "value": "university-of-bristol",
+        "label": "University of Bristol",
+        "count": 1
+      },
+      {
+        "value": "university-of-chicago",
+        "label": "University of Chicago",
+        "count": 1
+      },
+      {
+        "value": "curtin-university-of-technology",
+        "label": "Curtin University of Technology",
+        "count": 1
+      },
+      {
+        "value": "lalor-foundation",
+        "label": "Lalor Foundation",
+        "count": 1
+      },
+      {
+        "value": "nature-conservancy",
+        "label": "Nature Conservancy",
+        "count": 1
+      },
+      {
+        "value": "research-council-of-norway",
+        "label": "Research Council of Norway",
+        "count": 1
+      },
+      {
+        "value": "university-of-california-berkeley",
+        "label": "University of California Berkeley",
+        "count": 1
+      },
+      {
+        "value": "university-of-california-davis",
+        "label": "University of California, Davis",
+        "count": 1
+      },
+      {
+        "value": "university-of-california-institute-for-mexico-and-the-united-states",
+        "label": "University of California Institute for Mexico and the United States",
+        "count": 1
+      },
+      {
+        "value": "university-of-massachusetts-amherst",
+        "label": "University of Massachusetts Amherst",
+        "count": 1
+      },
+      {
+        "value": "fund-for-scientific-research-frsfnrs",
+        "label": "Fund for Scientific Research (F.R.S.–FNRS)",
+        "count": 1
+      },
+      {
+        "value": "frnt-quebec",
+        "label": "FRNT Quebec",
+        "count": 1
+      },
+      {
+        "value": "american-council-of-learned-societies",
+        "label": "American Council of Learned Societies",
+        "count": 1
+      },
+      {
+        "value": "national-academy-of-sciences",
+        "label": "National Academy of Sciences",
+        "count": 1
+      },
+      {
+        "value": "association-for-women-in-mathematics",
+        "label": "Association for Women in Mathematics",
+        "count": 1
+      },
+      {
+        "value": "fund-for-astrophysical-research",
+        "label": "Fund for Astrophysical Research",
+        "count": 1
+      },
+      {
+        "value": "american-academy-of-neurology",
+        "label": "American Academy of Neurology",
+        "count": 1
+      },
+      {
+        "value": "national-ataxia-foundation",
+        "label": "National Ataxia Foundation",
+        "count": 1
+      },
+      {
+        "value": "blavatnik-family-foundation",
+        "label": "Blavatnik Family Foundation",
+        "count": 1
+      },
+      {
+        "value": "kinship-foundation",
+        "label": "Kinship Foundation",
+        "count": 1
+      },
+      {
+        "value": "american-society-of-health-system-pharmacists-foundation",
+        "label": "American Society of Health-System Pharmacists Foundation",
+        "count": 1
+      },
+      {
+        "value": "woodrow-wilson-national-fellowship-foundation",
+        "label": "Woodrow Wilson National Fellowship Foundation",
+        "count": 1
+      },
+      {
+        "value": "council-on-foreign-relations",
+        "label": "Council on Foreign Relations",
+        "count": 1
+      },
+      {
+        "value": "graham-foundation",
+        "label": "Graham Foundation",
+        "count": 1
+      },
+      {
+        "value": "aniara-diagnostica",
+        "label": "Aniara Diagnostica",
+        "count": 1
+      },
+      {
+        "value": "francis-family-foundation",
+        "label": "Francis Family Foundation",
+        "count": 1
+      },
+      {
+        "value": "nathan-cummings-foundation",
+        "label": "Nathan Cummings Foundation",
+        "count": 1
+      },
+      {
+        "value": "smith-richardson-foundation",
+        "label": "Smith Richardson Foundation",
+        "count": 1
+      },
+      {
+        "value": "childrens-leukemia-research-association",
+        "label": "Children’s Leukemia Research Association",
+        "count": 1
+      },
+      {
+        "value": "us-israel-binational-science-foundation-bsf",
+        "label": "U.S.-Israel Binational Science Foundation (BSF)",
+        "count": 1
+      },
+      {
+        "value": "leukemia-and-lymphoma-society",
+        "label": "Leukemia and Lymphoma Society",
+        "count": 1
+      },
+      {
+        "value": "national-marfan-foundation",
+        "label": "National Marfan Foundation",
+        "count": 1
+      },
+      {
+        "value": "alexs-lemonade-stand-foundation-for-childhood-cancer",
+        "label": "Alex's Lemonade Stand Foundation for Childhood Cancer",
+        "count": 1
+      },
+      {
+        "value": "harrington-discovery-institute",
+        "label": "Harrington Discovery Institute",
+        "count": 1
+      },
+      {
+        "value": "university-of-florida",
+        "label": "University of Florida",
+        "count": 1
+      },
+      {
+        "value": "griffith-university",
+        "label": "Griffith University",
+        "count": 1
+      },
+      {
+        "value": "university-of-groningen",
+        "label": "University of Groningen",
+        "count": 1
+      },
+      {
+        "value": "lungevity-foundation",
+        "label": "LUNGevity Foundation",
+        "count": 1
+      },
+      {
+        "value": "fundacion-alfonso-martin-escudero",
+        "label": "Fundación Alfonso Martín Escudero",
+        "count": 1
+      },
+      {
+        "value": "bayer-healthcare",
+        "label": "Bayer HealthCare",
+        "count": 1
+      },
+      {
+        "value": "elizabeth-george-foundation",
+        "label": "Elizabeth George Foundation",
+        "count": 1
+      },
+      {
+        "value": "government-of-canada",
+        "label": "Government of Canada",
+        "count": 1
+      },
+      {
+        "value": "gruss-lipper",
+        "label": "Gruss Lipper",
+        "count": 1
+      },
+      {
+        "value": "national-psoriasis-foundation",
+        "label": "National Psoriasis Foundation",
+        "count": 1
+      },
+      {
+        "value": "american-museum-of-natural-history",
+        "label": "American Museum of Natural History",
+        "count": 1
+      },
+      {
+        "value": "auckland-medical-research-foundation",
+        "label": "Auckland Medical Research Foundation",
+        "count": 1
+      },
+      {
+        "value": "austrian-science-fund",
+        "label": "Austrian Science Fund",
+        "count": 1
+      },
+      {
+        "value": "axa-research-fund",
+        "label": "AXA Research Fund",
+        "count": 1
+      },
+      {
+        "value": "british-academy",
+        "label": "British Academy",
+        "count": 1
+      },
+      {
+        "value": "cambridge-philosophical-society",
+        "label": "Cambridge Philosophical Society",
+        "count": 1
+      },
+      {
+        "value": "center-for-research-and-interdisciplinarity",
+        "label": "Center for Research and Interdisciplinarity",
+        "count": 1
+      },
+      {
+        "value": "university-of-colorado-boulder",
+        "label": "University of Colorado Boulder",
+        "count": 1
+      },
+      {
+        "value": "hope-for-vision",
+        "label": "Hope For Vision",
+        "count": 1
+      },
+      {
+        "value": "cogito-foundation",
+        "label": "Cogito Foundation",
+        "count": 1
+      },
+      {
+        "value": "osteogenesis-imperfecta-foundation",
+        "label": "Osteogenesis Imperfecta Foundation",
+        "count": 1
+      },
+      {
+        "value": "princess-grace-foundation-usa",
+        "label": "Princess Grace Foundation-USA",
+        "count": 1
+      },
+      {
+        "value": "college-of-food-agricultural-and-natural-resource-sciences",
+        "label": "College of Food, Agricultural and Natural Resource Sciences",
+        "count": 1
+      },
+      {
+        "value": "society-for-neuroscience",
+        "label": "Society for Neuroscience",
+        "count": 1
+      },
+      {
+        "value": "sundance-institute",
+        "label": "Sundance Institute",
+        "count": 1
+      },
+      {
+        "value": "the-milstein-awards",
+        "label": "The Milstein Awards",
+        "count": 1
+      },
+      {
+        "value": "croucher-foundation-limited",
+        "label": "Croucher Foundation Limited",
+        "count": 1
+      },
+      {
+        "value": "the-gruber-foundation",
+        "label": "The Gruber Foundation",
+        "count": 1
+      },
+      {
+        "value": "phi-beta-psi-sorority",
+        "label": "Phi Beta Psi Sorority",
+        "count": 1
+      },
+      {
+        "value": "council-of-scientific-and-industrial-research-india",
+        "label": "Council of Scientific and Industrial Research, India",
+        "count": 1
+      },
+      {
+        "value": "csl",
+        "label": "CSL",
+        "count": 1
+      },
+      {
+        "value": "gabrielles-angel-foundation-for-cancer-research",
+        "label": "Gabrielle’s Angel Foundation for Cancer Research",
+        "count": 1
+      },
+      {
+        "value": "w-m-keck-foundation",
+        "label": "W. M. Keck Foundation",
+        "count": 1
+      },
+      {
+        "value": "singapore-mit-alliance-for-research-and-technology-centre",
+        "label": "Singapore-MIT Alliance for Research and Technology Centre",
+        "count": 1
+      },
+      {
+        "value": "dartmouth-college",
+        "label": "Dartmouth College",
+        "count": 1
+      },
+      {
+        "value": "government-of-catalonia",
+        "label": "Government of Catalonia",
+        "count": 1
+      },
+      {
+        "value": "deakin-university",
+        "label": "Deakin University",
+        "count": 1
+      },
+      {
+        "value": "university-of-toronto",
+        "label": "University of Toronto",
+        "count": 1
+      },
+      {
+        "value": "staatssekretariat-fur-bildung-forschung-und-innovation",
+        "label": "Staatssekretariat für Bildung, Forschung und Innovation",
+        "count": 1
+      },
+      {
+        "value": "les-amis-des-instituts-pasteur-a-bruxelles",
+        "label": "Les Amis des Instituts Pasteur à Bruxelles",
+        "count": 1
+      },
+      {
+        "value": "biometrika",
+        "label": "Biometrika",
+        "count": 1
+      },
+      {
+        "value": "jane-coffin-childs-memorial-fund-for-cancer-research",
+        "label": "Jane Coffin Childs Memorial Fund for Cancer Research",
+        "count": 1
+      },
+      {
+        "value": "michael-smith-foundation-for-health-research",
+        "label": "Michael Smith Foundation for Health Research",
+        "count": 1
+      },
+      {
+        "value": "riken",
+        "label": "RIKEN",
+        "count": 1
+      },
+      {
+        "value": "earth-institute-columbia-university",
+        "label": "Earth Institute, Columbia University",
+        "count": 1
+      },
+      {
+        "value": "eppley-foundation-for-research",
+        "label": "Eppley Foundation for Research",
+        "count": 1
+      },
+      {
+        "value": "engineering-and-physical-sciences-research-council",
+        "label": "Engineering and Physical Sciences Research Council",
+        "count": 1
+      },
+      {
+        "value": "eth-zurich",
+        "label": "ETH Zurich",
+        "count": 1
+      },
+      {
+        "value": "emil-aaltonen-foundation",
+        "label": "Emil Aaltonen Foundation",
+        "count": 1
+      },
+      {
+        "value": "conicet",
+        "label": "CONICET",
+        "count": 1
+      },
+      {
+        "value": "map-fund",
+        "label": "MAP Fund",
+        "count": 1
+      },
+      {
+        "value": "pulmonary-fibrosis-foundation",
+        "label": "Pulmonary Fibrosis Foundation",
+        "count": 1
+      },
+      {
+        "value": "national-blood-foundation",
+        "label": "National Blood Foundation",
+        "count": 1
+      },
+      {
+        "value": "american-college-of-gastroenterology",
+        "label": "American College of Gastroenterology",
+        "count": 1
+      },
+      {
+        "value": "american-tinnitus-association",
+        "label": "American Tinnitus Association",
+        "count": 1
+      },
+      {
+        "value": "citizens-united-for-research-in-epilepsy",
+        "label": "Citizens United for Research in Epilepsy",
+        "count": 1
+      },
+      {
+        "value": "desmoid-tumor-research-foundation",
+        "label": "Desmoid Tumor Research Foundation",
+        "count": 1
+      },
+      {
+        "value": "university-of-illinois-at-urbana-champaign",
+        "label": "University of Illinois at Urbana-Champaign",
+        "count": 1
+      },
+      {
+        "value": "university-of-michigan",
+        "label": "University of Michigan",
+        "count": 1
+      },
+      {
+        "value": "university-of-nebraska-lincoln",
+        "label": "University of Nebraska-Lincoln",
+        "count": 1
+      },
+      {
+        "value": "university-of-new-england",
+        "label": "University of New England",
+        "count": 1
+      },
+      {
+        "value": "university-of-north-carolina-at-chapel-hill",
+        "label": "University of North Carolina at Chapel Hill",
+        "count": 1
+      },
+      {
+        "value": "university-of-nottingham",
+        "label": "University of Nottingham",
+        "count": 1
+      },
+      {
+        "value": "university-of-pennsylvania",
+        "label": "University of Pennsylvania",
+        "count": 1
+      },
+      {
+        "value": "university-of-technology-sydney",
+        "label": "University of Technology Sydney",
+        "count": 1
+      },
+      {
+        "value": "helen-hay-whitney-foundation",
+        "label": "Helen Hay Whitney Foundation",
+        "count": 1
+      },
+      {
+        "value": "society-for-conservation-biology",
+        "label": "Society for Conservation Biology",
+        "count": 1
+      },
+      {
+        "value": "radcliffe-institute-for-advanced-study-harvard-university",
+        "label": "Radcliffe Institute for Advanced Study, Harvard University",
+        "count": 1
+      },
+      {
+        "value": "cystic-fibrosis-foundation",
+        "label": "Cystic Fibrosis Foundation",
+        "count": 1
+      },
+      {
+        "value": "guarantors-of-brain",
+        "label": "Guarantors of Brain",
+        "count": 1
+      },
+      {
+        "value": "harry-frank-guggenheim-foundation",
+        "label": "Harry Frank Guggenheim Foundation",
+        "count": 1
+      },
+      {
+        "value": "harvard-university",
+        "label": "Harvard University",
+        "count": 1
+      },
+      {
+        "value": "university-of-victoria",
+        "label": "University of Victoria",
+        "count": 1
+      },
+      {
+        "value": "james-marston-fitch-charitable-foundation",
+        "label": "James Marston Fitch Charitable Foundation",
+        "count": 1
+      },
+      {
+        "value": "plastic-surgery-foundation",
+        "label": "Plastic Surgery Foundation",
+        "count": 1
+      },
+      {
+        "value": "american-political-science-association",
+        "label": "American Political Science Association",
+        "count": 1
+      },
+      {
+        "value": "radiological-society-of-north-america",
+        "label": "Radiological Society of North America",
+        "count": 1
+      },
+      {
+        "value": "open-society-foundations",
+        "label": "Open Society Foundations",
+        "count": 1
+      },
+      {
+        "value": "damon-runyon-cancer-research-foundation",
+        "label": "Damon Runyon Cancer Research Foundation",
+        "count": 1
+      },
+      {
+        "value": "american-head-and-neck-society",
+        "label": "American Head and Neck Society",
+        "count": 1
+      },
+      {
+        "value": "american-lung-association",
+        "label": "American Lung Association",
+        "count": 1
+      },
+      {
+        "value": "american-physical-therapy-association",
+        "label": "American Physical Therapy Association",
+        "count": 1
+      },
+      {
+        "value": "united-states-japan-foundation",
+        "label": "United States-Japan Foundation",
+        "count": 1
+      },
+      {
+        "value": "university-of-wollongong",
+        "label": "University of Wollongong",
+        "count": 1
+      },
+      {
+        "value": "vetenskapsradet",
+        "label": "Vetenskapsrådet",
+        "count": 1
+      },
+      {
+        "value": "wallenberg-foundation",
+        "label": "Wallenberg Foundation",
+        "count": 1
+      },
+      {
+        "value": "helse-sr-st-rhf",
+        "label": "Helse Sør-Øst RHF",
+        "count": 1
+      },
+      {
+        "value": "alexander-von-humboldt-foundation",
+        "label": "Alexander von Humboldt Foundation",
+        "count": 1
+      },
+      {
+        "value": "international-institute-for-applied-systems-analysis",
+        "label": "International Institute for Applied Systems Analysis",
+        "count": 1
+      },
+      {
+        "value": "imperial-college-london",
+        "label": "Imperial College London",
+        "count": 1
+      },
+      {
+        "value": "indo-us-science-and-technology-forum",
+        "label": "Indo-US Science and Technology Forum",
+        "count": 1
+      },
+      {
+        "value": "jacobs-foundation",
+        "label": "Jacobs Foundation",
+        "count": 1
+      },
+      {
+        "value": "fundation-loreal",
+        "label": "Fundation L'ORÉAL",
+        "count": 1
+      },
+      {
+        "value": "leverhulme-trust",
+        "label": "Leverhulme Trust",
+        "count": 1
+      },
+      {
+        "value": "liber-ero-post-doctoral-fellowship-program",
+        "label": "Liber Ero post-doctoral fellowship program",
+        "count": 1
+      },
+      {
+        "value": "life-sciences-research-foundation",
+        "label": "Life Sciences Research Foundation",
+        "count": 1
+      },
+      {
+        "value": "ludwig-maximilians-universitat-munchen",
+        "label": "Ludwig-Maximilians-Universität München",
+        "count": 1
+      },
+      {
+        "value": "macquarie-university",
+        "label": "Macquarie University",
+        "count": 1
+      },
+      {
+        "value": "max-planck-society",
+        "label": "Max Planck Society",
+        "count": 1
+      },
+      {
+        "value": "national-institute-of-water-and-atmospheric-research",
+        "label": "National Institute of Water and Atmospheric Research",
+        "count": 1
+      },
+      {
+        "value": "national-research-foundation-singapore",
+        "label": "National Research Foundation Singapore",
+        "count": 1
+      },
+      {
+        "value": "natural-environment-research-council",
+        "label": "Natural Environment Research Council",
+        "count": 1
+      },
+      {
+        "value": "giract",
+        "label": "Giract",
+        "count": 1
+      },
+      {
+        "value": "mitacs-elevate",
+        "label": "Mitacs Elevate",
+        "count": 1
+      },
+      {
+        "value": "national-centre-for-the-replacement-refinement-and-reduction-of-animals-in-research",
+        "label": "National Centre for the Replacement Refinement and Reduction of Animals in Research",
+        "count": 1
+      },
+      {
+        "value": "ohio-state-university",
+        "label": "Ohio State University",
+        "count": 1
+      },
+      {
+        "value": "robert-wood-johnson-foundation",
+        "label": "Robert Wood Johnson Foundation",
+        "count": 1
+      },
+      {
+        "value": "american-diabetes-association",
+        "label": "American Diabetes Association",
+        "count": 1
+      },
+      {
+        "value": "sobran",
+        "label": "SoBran",
+        "count": 1
+      },
+      {
+        "value": "gettysburg-college",
+        "label": "Gettysburg College",
+        "count": 1
+      },
+      {
+        "value": "chan-zuckerberg-initiative",
+        "label": "Chan Zuckerberg Initiative",
+        "count": 1
+      },
+      {
+        "value": "durham-university",
+        "label": "Durham University",
+        "count": 1
+      },
+      {
+        "value": "university-of-leeds",
+        "label": "University of Leeds",
+        "count": 1
+      },
+      {
+        "value": "association-of-womens-health-obstetric-and-neonatal-nurses",
+        "label": "Association of Women's Health, Obstetric and Neonatal Nurses",
+        "count": 1
+      },
+      {
+        "value": "national-science-center-poland",
+        "label": "National Science Center Poland",
+        "count": 1
+      },
+      {
+        "value": "fondazione-umberto-veronesi",
+        "label": "Fondazione Umberto Veronesi",
+        "count": 1
+      }
+    ],
+    "applicant_country": [
+      {
+        "value": "Worldwide",
+        "label": "Worldwide",
+        "count": 262
+      },
+      {
+        "value": "United States",
+        "label": "United States",
+        "count": 96
+      },
+      {
+        "value": "Developing countries",
+        "label": "Developing countries",
+        "count": 9
+      },
+      {
+        "value": "United Kingdom",
+        "label": "United Kingdom",
+        "count": 7
+      },
+      {
+        "value": "Australia",
+        "label": "Australia",
+        "count": 7
+      },
+      {
+        "value": "India",
+        "label": "India",
+        "count": 5
+      },
+      {
+        "value": "Canada",
+        "label": "Canada",
+        "count": 4
+      },
+      {
+        "value": "Spain",
+        "label": "Spain",
+        "count": 4
+      },
+      {
+        "value": "Any",
+        "label": "Any",
+        "count": 4
+      },
+      {
+        "value": "USA, Canada",
+        "label": "USA, Canada",
+        "count": 3
+      },
+      {
+        "value": "Pakistan",
+        "label": "Pakistan",
+        "count": 2
+      },
+      {
+        "value": "NA",
+        "label": "NA",
+        "count": 2
+      },
+      {
+        "value": "Switzerland",
+        "label": "Switzerland",
+        "count": 2
+      },
+      {
+        "value": "USA/Canada",
+        "label": "USA/Canada",
+        "count": 2
+      },
+      {
+        "value": "Israel",
+        "label": "Israel",
+        "count": 2
+      },
+      {
+        "value": "Europe",
+        "label": "Europe",
+        "count": 2
+      },
+      {
+        "value": "Latin America",
+        "label": "Latin America",
+        "count": 2
+      },
+      {
+        "value": "Australia, India",
+        "label": "Australia, India",
+        "count": 2
+      },
+      {
+        "value": "all",
+        "label": "all",
+        "count": 2
+      },
+      {
+        "value": "USA",
+        "label": "USA",
+        "count": 2
+      },
+      {
+        "value": "INDIA",
+        "label": "INDIA",
+        "count": 2
+      },
+      {
+        "value": "UK or Ireland",
+        "label": "UK or Ireland",
+        "count": 1
+      },
+      {
+        "value": "USA, Canada, and permanent residents of the USA",
+        "label": "USA, Canada, and permanent residents of the USA",
+        "count": 1
+      },
+      {
+        "value": "No restrictions",
+        "label": "No restrictions",
+        "count": 1
+      },
+      {
+        "value": "USA and legal permanent residents of the USA",
+        "label": "USA and legal permanent residents of the USA",
+        "count": 1
+      },
+      {
+        "value": "USA, Permanent residents of the USA",
+        "label": "USA, Permanent residents of the USA",
+        "count": 1
+      },
+      {
+        "value": "USA and permanent residents of the USA",
+        "label": "USA and permanent residents of the USA",
+        "count": 1
+      },
+      {
+        "value": "Finland",
+        "label": "Finland",
+        "count": 1
+      },
+      {
+        "value": "Emerging countries",
+        "label": "Emerging countries",
+        "count": 1
+      },
+      {
+        "value": "Netherlands",
+        "label": "Netherlands",
+        "count": 1
+      },
+      {
+        "value": "USA/Japan",
+        "label": "USA/Japan",
+        "count": 1
+      },
+      {
+        "value": "USA / Canada / UK / Ireland",
+        "label": "USA / Canada / UK / Ireland",
+        "count": 1
+      },
+      {
+        "value": "Worldwide except Australia and New Zealand",
+        "label": "Worldwide except Australia and New Zealand",
+        "count": 1
+      },
+      {
+        "value": "Mexico, USA",
+        "label": "Mexico, USA",
+        "count": 1
+      },
+      {
+        "value": "USA / Canada",
+        "label": "USA / Canada",
+        "count": 1
+      },
+      {
+        "value": "USA, Canada, Mexico (or hold a Green Card)",
+        "label": "USA, Canada, Mexico (or hold a Green Card)",
+        "count": 1
+      },
+      {
+        "value": "New Zealand",
+        "label": "New Zealand",
+        "count": 1
+      },
+      {
+        "value": "UK and from the European Economic Area",
+        "label": "UK and from the European Economic Area",
+        "count": 1
+      },
+      {
+        "value": "Japan",
+        "label": "Japan",
+        "count": 1
+      },
+      {
+        "value": "Hong Kong",
+        "label": "Hong Kong",
+        "count": 1
+      },
+      {
+        "value": "Germany, Austria and Switzerland",
+        "label": "Germany, Austria and Switzerland",
+        "count": 1
+      },
+      {
+        "value": "Austria & Switzerland",
+        "label": "Austria & Switzerland",
+        "count": 1
+      },
+      {
+        "value": "Finnland",
+        "label": "Finnland",
+        "count": 1
+      },
+      {
+        "value": "USA and Canada",
+        "label": "USA and Canada",
+        "count": 1
+      },
+      {
+        "value": "Sweden",
+        "label": "Sweden",
+        "count": 1
+      },
+      {
+        "value": "Developing country, emerging economy or transition state (excluding the People’s Republic of China and India)",
+        "label": "Developing country, emerging economy or transition state (excluding the People’s Republic of China and India)",
+        "count": 1
+      },
+      {
+        "value": "Developing or transition country",
+        "label": "Developing or transition country",
+        "count": 1
+      },
+      {
+        "value": "All countries",
+        "label": "All countries",
+        "count": 1
+      },
+      {
+        "value": "Africa, Asia, Latin America",
+        "label": "Africa, Asia, Latin America",
+        "count": 1
+      },
+      {
+        "value": "Low and Middle income countries",
+        "label": "Low and Middle income countries",
+        "count": 1
+      },
+      {
+        "value": "UK",
+        "label": "UK",
+        "count": 1
+      },
+      {
+        "value": "All",
+        "label": "All",
+        "count": 1
+      },
+      {
+        "value": "Global",
+        "label": "Global",
+        "count": 1
+      },
+      {
+        "value": "Africa, Asia or Latin America",
+        "label": "Africa, Asia or Latin America",
+        "count": 1
+      },
+      {
+        "value": "Wordwide",
+        "label": "Wordwide",
+        "count": 1
+      },
+      {
+        "value": "MENA region",
+        "label": "MENA region",
+        "count": 1
+      },
+      {
+        "value": "USA / Israel",
+        "label": "USA / Israel",
+        "count": 1
+      },
+      {
+        "value": "Italy",
+        "label": "Italy",
+        "count": 1
+      },
+      {
+        "value": "UK & Egypt",
+        "label": "UK & Egypt",
+        "count": 1
+      },
+      {
+        "value": "International",
+        "label": "International",
+        "count": 1
+      },
+      {
+        "value": "China",
+        "label": "China",
+        "count": 1
+      }
+    ],
+    "host_country": [
+      {
+        "value": "United States",
+        "label": "United States",
+        "count": 451
+      },
+      {
+        "value": "Worldwide",
+        "label": "Worldwide",
+        "count": 43
+      },
+      {
+        "value": "United Kingdom",
+        "label": "United Kingdom",
+        "count": 41
+      },
+      {
+        "value": "Germany",
+        "label": "Germany",
+        "count": 35
+      },
+      {
+        "value": "Australia",
+        "label": "Australia",
+        "count": 30
+      },
+      {
+        "value": "Canada",
+        "label": "Canada",
+        "count": 17
+      },
+      {
+        "value": "Europe",
+        "label": "Europe",
+        "count": 11
+      },
+      {
+        "value": "India",
+        "label": "India",
+        "count": 8
+      },
+      {
+        "value": "France",
+        "label": "France",
+        "count": 7
+      },
+      {
+        "value": "USA, Canada",
+        "label": "USA, Canada",
+        "count": 7
+      },
+      {
+        "value": "Belgium",
+        "label": "Belgium",
+        "count": 6
+      },
+      {
+        "value": "Spain",
+        "label": "Spain",
+        "count": 6
+      },
+      {
+        "value": "Japan",
+        "label": "Japan",
+        "count": 5
+      },
+      {
+        "value": "Switzerland",
+        "label": "Switzerland",
+        "count": 5
+      },
+      {
+        "value": "Austria",
+        "label": "Austria",
+        "count": 5
+      },
+      {
+        "value": "Finland",
+        "label": "Finland",
+        "count": 4
+      },
+      {
+        "value": "New Zealand",
+        "label": "New Zealand",
+        "count": 4
+      },
+      {
+        "value": "China",
+        "label": "China",
+        "count": 4
+      },
+      {
+        "value": "Sweden",
+        "label": "Sweden",
+        "count": 3
+      },
+      {
+        "value": "Brazil",
+        "label": "Brazil",
+        "count": 3
+      },
+      {
+        "value": "Norway",
+        "label": "Norway",
+        "count": 3
+      },
+      {
+        "value": "Netherlands",
+        "label": "Netherlands",
+        "count": 3
+      },
+      {
+        "value": "UK",
+        "label": "UK",
+        "count": 3
+      },
+      {
+        "value": "Singapore",
+        "label": "Singapore",
+        "count": 3
+      },
+      {
+        "value": "Ireland",
+        "label": "Ireland",
+        "count": 2
+      },
+      {
+        "value": "India, Australia",
+        "label": "India, Australia",
+        "count": 2
+      },
+      {
+        "value": "U.S.A",
+        "label": "U.S.A",
+        "count": 2
+      },
+      {
+        "value": "INDIA",
+        "label": "INDIA",
+        "count": 2
+      },
+      {
+        "value": "Pakistan",
+        "label": "Pakistan",
+        "count": 1
+      },
+      {
+        "value": "Kenya",
+        "label": "Kenya",
+        "count": 1
+      },
+      {
+        "value": "Malaysia",
+        "label": "Malaysia",
+        "count": 1
+      },
+      {
+        "value": "Mexico",
+        "label": "Mexico",
+        "count": 1
+      },
+      {
+        "value": "South Africa",
+        "label": "South Africa",
+        "count": 1
+      },
+      {
+        "value": "Thailand",
+        "label": "Thailand",
+        "count": 1
+      },
+      {
+        "value": "No rule",
+        "label": "No rule",
+        "count": 1
+      },
+      {
+        "value": "Taiwan",
+        "label": "Taiwan",
+        "count": 1
+      },
+      {
+        "value": "USA, Europe",
+        "label": "USA, Europe",
+        "count": 1
+      },
+      {
+        "value": "Denmark",
+        "label": "Denmark",
+        "count": 1
+      },
+      {
+        "value": "Not active",
+        "label": "Not active",
+        "count": 1
+      },
+      {
+        "value": "NA",
+        "label": "NA",
+        "count": 1
+      },
+      {
+        "value": "Germany, Austria, Switzerland",
+        "label": "Germany, Austria, Switzerland",
+        "count": 1
+      },
+      {
+        "value": "Worldvide",
+        "label": "Worldvide",
+        "count": 1
+      },
+      {
+        "value": "STRI Facility",
+        "label": "STRI Facility",
+        "count": 1
+      },
+      {
+        "value": "USA/Japan/Other",
+        "label": "USA/Japan/Other",
+        "count": 1
+      },
+      {
+        "value": "South Korea",
+        "label": "South Korea",
+        "count": 1
+      },
+      {
+        "value": "USA/Canada",
+        "label": "USA/Canada",
+        "count": 1
+      },
+      {
+        "value": "USA/India",
+        "label": "USA/India",
+        "count": 1
+      },
+      {
+        "value": "USA, Mexico",
+        "label": "USA, Mexico",
+        "count": 1
+      },
+      {
+        "value": "USA, Canada, Mexico",
+        "label": "USA, Canada, Mexico",
+        "count": 1
+      },
+      {
+        "value": "USA/South America/Latin Ameria or Nordic Countries",
+        "label": "USA/South America/Latin Ameria or Nordic Countries",
+        "count": 1
+      },
+      {
+        "value": "Argentina",
+        "label": "Argentina",
+        "count": 1
+      },
+      {
+        "value": "USA",
+        "label": "USA",
+        "count": 1
+      },
+      {
+        "value": "European countries (EU28, Russia, Turkey)",
+        "label": "European countries (EU28, Russia, Turkey)",
+        "count": 1
+      },
+      {
+        "value": "Selected EU and EEA Countries",
+        "label": "Selected EU and EEA Countries",
+        "count": 1
+      },
+      {
+        "value": "Any except Cuba and Iran",
+        "label": "Any except Cuba and Iran",
+        "count": 1
+      },
+      {
+        "value": "Belgium, France, Slovenia, Spain, Sweden, United Kingdom",
+        "label": "Belgium, France, Slovenia, Spain, Sweden, United Kingdom",
+        "count": 1
+      },
+      {
+        "value": "N/A",
+        "label": "N/A",
+        "count": 1
+      },
+      {
+        "value": "France, Belgium, United Kindgom, Spain, Sweden, Slovenia",
+        "label": "France, Belgium, United Kindgom, Spain, Sweden, Slovenia",
+        "count": 1
+      },
+      {
+        "value": "MENA region",
+        "label": "MENA region",
+        "count": 1
+      },
+      {
+        "value": "Wales",
+        "label": "Wales",
+        "count": 1
+      },
+      {
+        "value": "Poland",
+        "label": "Poland",
+        "count": 1
+      },
+      {
+        "value": "UK & Egypt",
+        "label": "UK & Egypt",
+        "count": 1
+      },
+      {
+        "value": "Italy",
+        "label": "Italy",
+        "count": 1
+      },
+      {
+        "value": "P. R. China",
+        "label": "P. R. China",
+        "count": 1
+      }
+    ],
+    "career_levels": [
+      {
+        "value": "phd",
+        "label": "phd",
+        "count": 307
+      },
+      {
+        "value": "md",
+        "label": "md",
+        "count": 108
+      },
+      {
+        "value": "postdoc",
+        "label": "postdoc",
+        "count": 105
+      },
+      {
+        "value": "junior-faculty",
+        "label": "junior-faculty",
+        "count": 105
+      },
+      {
+        "value": "master-students",
+        "label": "master-students",
+        "count": 25
+      },
+      {
+        "value": "senior-faculty",
+        "label": "senior-faculty",
+        "count": 15
+      },
+      {
+        "value": "bachelor-students",
+        "label": "bachelor-students",
+        "count": 10
+      }
+    ],
+    "subjects": [
+      {
+        "value": "medicine-and-health-sciences",
+        "label": "medicine-and-health-sciences",
+        "count": 186
+      },
+      {
+        "value": "life-sciences",
+        "label": "life-sciences",
+        "count": 150
+      },
+      {
+        "value": "all-subjects",
+        "label": "all-subjects",
+        "count": 101
+      },
+      {
+        "value": "physical-sciences-and-mathematics",
+        "label": "physical-sciences-and-mathematics",
+        "count": 38
+      },
+      {
+        "value": "engineering",
+        "label": "engineering",
+        "count": 36
+      },
+      {
+        "value": "arts-and-humanities",
+        "label": "arts-and-humanities",
+        "count": 31
+      },
+      {
+        "value": "social-and-behavioral-sciences",
+        "label": "social-and-behavioral-sciences",
+        "count": 20
+      },
+      {
+        "value": "biology",
+        "label": "biology",
+        "count": 14
+      },
+      {
+        "value": "natural-sciences",
+        "label": "natural-sciences",
+        "count": 12
+      },
+      {
+        "value": "ecology-and-evolutionary-biology",
+        "label": "ecology-and-evolutionary-biology",
+        "count": 11
+      },
+      {
+        "value": "chemistry",
+        "label": "chemistry",
+        "count": 11
+      },
+      {
+        "value": "environmental-sciences",
+        "label": "environmental-sciences",
+        "count": 7
+      },
+      {
+        "value": "psychology",
+        "label": "psychology",
+        "count": 7
+      },
+      {
+        "value": "physics",
+        "label": "physics",
+        "count": 7
+      },
+      {
+        "value": "neuroscience",
+        "label": "neuroscience",
+        "count": 7
+      },
+      {
+        "value": "earth-sciences",
+        "label": "earth-sciences",
+        "count": 7
+      },
+      {
+        "value": "mathematics",
+        "label": "mathematics",
+        "count": 6
+      },
+      {
+        "value": "computer-sciences",
+        "label": "computer-sciences",
+        "count": 5
+      },
+      {
+        "value": "astrophysics-and-astronomy",
+        "label": "astrophysics-and-astronomy",
+        "count": 5
+      },
+      {
+        "value": "anthropology",
+        "label": "anthropology",
+        "count": 5
+      },
+      {
+        "value": "agriculture",
+        "label": "agriculture",
+        "count": 5
+      },
+      {
+        "value": "bioinformatics",
+        "label": "bioinformatics",
+        "count": 4
+      },
+      {
+        "value": "other-life-sciences",
+        "label": "other-life-sciences",
+        "count": 4
+      },
+      {
+        "value": "food-science",
+        "label": "food-science",
+        "count": 4
+      },
+      {
+        "value": "business",
+        "label": "business",
+        "count": 3
+      },
+      {
+        "value": "environmental-studies",
+        "label": "environmental-studies",
+        "count": 3
+      },
+      {
+        "value": "public-health",
+        "label": "public-health",
+        "count": 3
+      },
+      {
+        "value": "genetics-and-genomics",
+        "label": "genetics-and-genomics",
+        "count": 3
+      },
+      {
+        "value": "biochemistry-biophysics-and-structural-biology",
+        "label": "biochemistry-biophysics-and-structural-biology",
+        "count": 3
+      },
+      {
+        "value": "economics",
+        "label": "economics",
+        "count": 3
+      },
+      {
+        "value": "theatre-and-performance-studies",
+        "label": "theatre-and-performance-studies",
+        "count": 3
+      },
+      {
+        "value": "immunology",
+        "label": "immunology",
+        "count": 3
+      },
+      {
+        "value": "diseases",
+        "label": "diseases",
+        "count": 3
+      },
+      {
+        "value": "molecular-biology",
+        "label": "molecular-biology",
+        "count": 2
+      },
+      {
+        "value": "psychiatry-and-psychology",
+        "label": "psychiatry-and-psychology",
+        "count": 2
+      },
+      {
+        "value": "computer-engineering",
+        "label": "computer-engineering",
+        "count": 2
+      },
+      {
+        "value": "artificial-intelligence",
+        "label": "artificial-intelligence",
+        "count": 2
+      },
+      {
+        "value": "pharmacy-and-pharmaceutical-sciences",
+        "label": "pharmacy-and-pharmaceutical-sciences",
+        "count": 2
+      },
+      {
+        "value": "plant-sciences",
+        "label": "plant-sciences",
+        "count": 2
+      },
+      {
+        "value": "veterinary-medicine",
+        "label": "veterinary-medicine",
+        "count": 2
+      },
+      {
+        "value": "marine-biology",
+        "label": "marine-biology",
+        "count": 2
+      },
+      {
+        "value": "philosophy",
+        "label": "philosophy",
+        "count": 2
+      },
+      {
+        "value": "religion",
+        "label": "religion",
+        "count": 2
+      },
+      {
+        "value": "sociology",
+        "label": "sociology",
+        "count": 2
+      },
+      {
+        "value": "architecture",
+        "label": "architecture",
+        "count": 2
+      },
+      {
+        "value": "paleontology",
+        "label": "paleontology",
+        "count": 2
+      },
+      {
+        "value": "computational-biology",
+        "label": "computational-biology",
+        "count": 2
+      },
+      {
+        "value": "zoology",
+        "label": "zoology",
+        "count": 2
+      },
+      {
+        "value": "science-and-technology-studies",
+        "label": "science-and-technology-studies",
+        "count": 2
+      },
+      {
+        "value": "technology-and-innovation",
+        "label": "technology-and-innovation",
+        "count": 2
+      },
+      {
+        "value": "physiology",
+        "label": "physiology",
+        "count": 2
+      },
+      {
+        "value": "film-and-media-studies",
+        "label": "film-and-media-studies",
+        "count": 2
+      },
+      {
+        "value": "education",
+        "label": "education",
+        "count": 2
+      },
+      {
+        "value": "microbiology",
+        "label": "microbiology",
+        "count": 2
+      },
+      {
+        "value": "energy",
+        "label": "energy",
+        "count": 2
+      },
+      {
+        "value": "laboratory-and-basic-life-science-research",
+        "label": "laboratory-and-basic-life-science-research",
+        "count": 2
+      },
+      {
+        "value": "technical-sciences",
+        "label": "technical-sciences",
+        "count": 1
+      },
+      {
+        "value": "engineering-science-and-materials",
+        "label": "engineering-science-and-materials",
+        "count": 1
+      },
+      {
+        "value": "educational-psychology",
+        "label": "educational-psychology",
+        "count": 1
+      },
+      {
+        "value": "computational-engineering",
+        "label": "computational-engineering",
+        "count": 1
+      },
+      {
+        "value": "chemicals-and-drugs",
+        "label": "chemicals-and-drugs",
+        "count": 1
+      },
+      {
+        "value": "medical-sciences",
+        "label": "medical-sciences",
+        "count": 1
+      },
+      {
+        "value": "research-methods-in-life-sciences",
+        "label": "research-methods-in-life-sciences",
+        "count": 1
+      },
+      {
+        "value": "dentistry",
+        "label": "dentistry",
+        "count": 1
+      },
+      {
+        "value": "other-medicine-and-health-sciences",
+        "label": "other-medicine-and-health-sciences",
+        "count": 1
+      },
+      {
+        "value": "nursing",
+        "label": "nursing",
+        "count": 1
+      },
+      {
+        "value": "biodiversity",
+        "label": "biodiversity",
+        "count": 1
+      },
+      {
+        "value": "pharmacology-toxicology-and-environmental-health",
+        "label": "pharmacology-toxicology-and-environmental-health",
+        "count": 1
+      },
+      {
+        "value": "english-language-and-literature",
+        "label": "english-language-and-literature",
+        "count": 1
+      },
+      {
+        "value": "public-affairs-public-policy-and-public-administration",
+        "label": "public-affairs-public-policy-and-public-administration",
+        "count": 1
+      },
+      {
+        "value": "fine-arts",
+        "label": "fine-arts",
+        "count": 1
+      },
+      {
+        "value": "food-studies",
+        "label": "food-studies",
+        "count": 1
+      },
+      {
+        "value": "creative-writing",
+        "label": "creative-writing",
+        "count": 1
+      },
+      {
+        "value": "ethology",
+        "label": "ethology",
+        "count": 1
+      },
+      {
+        "value": "logic",
+        "label": "logic",
+        "count": 1
+      },
+      {
+        "value": "epistemology",
+        "label": "epistemology",
+        "count": 1
+      },
+      {
+        "value": "archaeology",
+        "label": "archaeology",
+        "count": 1
+      },
+      {
+        "value": "cell-and-developmental-biology",
+        "label": "cell-and-developmental-biology",
+        "count": 1
+      },
+      {
+        "value": "biomedical-engineering-and-bioengineering",
+        "label": "biomedical-engineering-and-bioengineering",
+        "count": 1
+      },
+      {
+        "value": "proteomics",
+        "label": "proteomics",
+        "count": 1
+      },
+      {
+        "value": "stem-cell-biology",
+        "label": "stem-cell-biology",
+        "count": 1
+      },
+      {
+        "value": "systems-biology",
+        "label": "systems-biology",
+        "count": 1
+      },
+      {
+        "value": "bioresource-and-agricultural-engineering",
+        "label": "bioresource-and-agricultural-engineering",
+        "count": 1
+      },
+      {
+        "value": "infectious-disease",
+        "label": "infectious-disease",
+        "count": 1
+      },
+      {
+        "value": "translational-medical-research",
+        "label": "translational-medical-research",
+        "count": 1
+      },
+      {
+        "value": "urban-studies-and-planning",
+        "label": "urban-studies-and-planning",
+        "count": 1
+      },
+      {
+        "value": "materials-science-and-engineering",
+        "label": "materials-science-and-engineering",
+        "count": 1
+      },
+      {
+        "value": "statistics-and-probability",
+        "label": "statistics-and-probability",
+        "count": 1
+      },
+      {
+        "value": "history",
+        "label": "history",
+        "count": 1
+      },
+      {
+        "value": "history-of-art-architecture-and-archaeology",
+        "label": "history-of-art-architecture-and-archaeology",
+        "count": 1
+      },
+      {
+        "value": "communication",
+        "label": "communication",
+        "count": 1
+      },
+      {
+        "value": "literature-and-languages",
+        "label": "literature-and-languages",
+        "count": 1
+      },
+      {
+        "value": "oceanography-and-atmospheric-sciences-and-meteorology",
+        "label": "oceanography-and-atmospheric-sciences-and-meteorology",
+        "count": 1
+      },
+      {
+        "value": "chemical-engineering",
+        "label": "chemical-engineering",
+        "count": 1
+      },
+      {
+        "value": "library-and-information-science",
+        "label": "library-and-information-science",
+        "count": 1
+      }
+    ],
+    "funding_purposes": [
+      {
+        "value": "research",
+        "label": "research",
+        "count": 220
+      },
+      {
+        "value": "fellowship-scholarship-or-training",
+        "label": "fellowship-scholarship-or-training",
+        "count": 199
+      },
+      {
+        "value": "award",
+        "label": "award",
+        "count": 20
+      },
+      {
+        "value": "collaboration",
+        "label": "collaboration",
+        "count": 14
+      },
+      {
+        "value": "equipment",
+        "label": "equipment",
+        "count": 11
+      },
+      {
+        "value": "publishing-and-editorial",
+        "label": "publishing-and-editorial",
+        "count": 7
+      },
+      {
+        "value": "feasibility-studies",
+        "label": "feasibility-studies",
+        "count": 2
+      }
+    ],
+    "deadline_month": [
+      {
+        "value": "September",
+        "label": "September",
+        "count": 56
+      },
+      {
+        "value": "December",
+        "label": "December",
+        "count": 53
+      },
+      {
+        "value": "February, June, October",
+        "label": "February, June, October",
+        "count": 47
+      },
+      {
+        "value": "October",
+        "label": "October",
+        "count": 42
+      },
+      {
+        "value": "June",
+        "label": "June",
+        "count": 41
+      },
+      {
+        "value": "March",
+        "label": "March",
+        "count": 40
+      },
+      {
+        "value": "January",
+        "label": "January",
+        "count": 40
+      },
+      {
+        "value": "November",
+        "label": "November",
+        "count": 35
+      },
+      {
+        "value": "July",
+        "label": "July",
+        "count": 34
+      },
+      {
+        "value": "February",
+        "label": "February",
+        "count": 29
+      },
+      {
+        "value": "August",
+        "label": "August",
+        "count": 29
+      },
+      {
+        "value": "April",
+        "label": "April",
+        "count": 28
+      },
+      {
+        "value": "May",
+        "label": "May",
+        "count": 27
+      },
+      {
+        "value": "March, September",
+        "label": "March, September",
+        "count": 7
+      },
+      {
+        "value": "January, April, October",
+        "label": "January, April, October",
+        "count": 6
+      },
+      {
+        "value": "February, August",
+        "label": "February, August",
+        "count": 5
+      },
+      {
+        "value": "April, October",
+        "label": "April, October",
+        "count": 4
+      },
+      {
+        "value": "January, May, September",
+        "label": "January, May, September",
+        "count": 3
+      },
+      {
+        "value": "February, March",
+        "label": "February, March",
+        "count": 2
+      },
+      {
+        "value": "February, May",
+        "label": "February, May",
+        "count": 2
+      },
+      {
+        "value": "March, April",
+        "label": "March, April",
+        "count": 2
+      },
+      {
+        "value": "December, April, August",
+        "label": "December, April, August",
+        "count": 2
+      },
+      {
+        "value": "June, September",
+        "label": "June, September",
+        "count": 2
+      },
+      {
+        "value": "September, December",
+        "label": "September, December",
+        "count": 2
+      },
+      {
+        "value": "October, November",
+        "label": "October, November",
+        "count": 2
+      },
+      {
+        "value": "April, July",
+        "label": "April, July",
+        "count": 2
+      },
+      {
+        "value": "December, February",
+        "label": "December, February",
+        "count": 2
+      },
+      {
+        "value": "July, September",
+        "label": "July, September",
+        "count": 1
+      },
+      {
+        "value": "February, October",
+        "label": "February, October",
+        "count": 1
+      },
+      {
+        "value": "February, September",
+        "label": "February, September",
+        "count": 1
+      },
+      {
+        "value": "April, May",
+        "label": "April, May",
+        "count": 1
+      },
+      {
+        "value": "March, October",
+        "label": "March, October",
+        "count": 1
+      },
+      {
+        "value": "February, December",
+        "label": "February, December",
+        "count": 1
+      },
+      {
+        "value": "January, July, March, September",
+        "label": "January, July, March, September",
+        "count": 1
+      },
+      {
+        "value": "September, March",
+        "label": "September, March",
+        "count": 1
+      },
+      {
+        "value": "April, September",
+        "label": "April, September",
+        "count": 1
+      },
+      {
+        "value": "June, October",
+        "label": "June, October",
+        "count": 1
+      },
+      {
+        "value": "November, May",
+        "label": "November, May",
+        "count": 1
+      },
+      {
+        "value": "January, September",
+        "label": "January, September",
+        "count": 1
+      },
+      {
+        "value": "March, September, December",
+        "label": "March, September, December",
+        "count": 1
+      },
+      {
+        "value": "September, January",
+        "label": "September, January",
+        "count": 1
+      },
+      {
+        "value": "March, November",
+        "label": "March, November",
+        "count": 1
+      },
+      {
+        "value": "February, May, October",
+        "label": "February, May, October",
+        "count": 1
+      },
+      {
+        "value": "August, March",
+        "label": "August, March",
+        "count": 1
+      },
+      {
+        "value": "May, October",
+        "label": "May, October",
+        "count": 1
+      },
+      {
+        "value": "April, September, November",
+        "label": "April, September, November",
+        "count": 1
+      },
+      {
+        "value": "May, November",
+        "label": "May, November",
+        "count": 1
+      },
+      {
+        "value": "October, February",
+        "label": "October, February",
+        "count": 1
+      },
+      {
+        "value": "November, February",
+        "label": "November, February",
+        "count": 1
+      },
+      {
+        "value": "January, March",
+        "label": "January, March",
+        "count": 1
+      },
+      {
+        "value": "January, April",
+        "label": "January, April",
+        "count": 1
+      },
+      {
+        "value": "May, December",
+        "label": "May, December",
+        "count": 1
+      },
+      {
+        "value": "December, April",
+        "label": "December, April",
+        "count": 1
+      },
+      {
+        "value": "February, April",
+        "label": "February, April",
+        "count": 1
+      },
+      {
+        "value": "October, April",
+        "label": "October, April",
+        "count": 1
+      },
+      {
+        "value": "April, November",
+        "label": "April, November",
+        "count": 1
+      },
+      {
+        "value": "31 October 2022, 11:00 am (Konstanz time)",
+        "label": "31 October 2022, 11:00 am (Konstanz time)",
+        "count": 1
+      },
+      {
+        "value": "April, June",
+        "label": "April, June",
+        "count": 1
+      },
+      {
+        "value": "January, July",
+        "label": "January, July",
+        "count": 1
+      }
+    ],
+    "frequency": [
+      {
+        "value": "Annual",
+        "label": "Annual",
+        "count": 243
+      },
+      {
+        "value": "Rolling",
+        "label": "Rolling",
+        "count": 34
+      },
+      {
+        "value": "Twice a year",
+        "label": "Twice a year",
+        "count": 23
+      },
+      {
+        "value": "Triannual",
+        "label": "Triannual",
+        "count": 8
+      },
+      {
+        "value": "Biennial",
+        "label": "Biennial",
+        "count": 3
+      }
+    ],
+    "status": [
+      {
+        "value": "active",
+        "label": "active",
+        "count": 676
+      },
+      {
+        "value": "draft",
+        "label": "draft",
+        "count": 72
+      },
+      {
+        "value": "expired",
+        "label": "expired",
+        "count": 24
+      }
+    ],
+    "featured": [
+      {
+        "value": "true",
+        "label": "Featured",
+        "count": 8
+      },
+      {
+        "value": "false",
+        "label": "Not Featured",
+        "count": 764
+      }
+    ],
+    "diversity": [
+      {
+        "value": "yes",
+        "label": "Has Diversity Info",
+        "count": 31
+      },
+      {
+        "value": "no",
+        "label": "No Diversity Info",
+        "count": 741
+      }
+    ]
+  },
+  "travel_grants": {
+    "funder": [
+      {
+        "value": "the-royal-society",
+        "label": "The Royal Society",
+        "count": 4
+      },
+      {
+        "value": "cancer-research-uk",
+        "label": "Cancer Research UK",
+        "count": 3
+      },
+      {
+        "value": "american-association-of-immunologists",
+        "label": "American Association of Immunologists",
+        "count": 1
+      },
+      {
+        "value": "open-bioinformatics-foundation",
+        "label": "Open Bioinformatics Foundation",
+        "count": 1
+      },
+      {
+        "value": "european-molecular-biology-organization-embo",
+        "label": "European Molecular Biology Organization (EMBO)",
+        "count": 1
+      },
+      {
+        "value": "fulbright-program",
+        "label": "Fulbright Program",
+        "count": 1
+      },
+      {
+        "value": "biotechnology-and-biological-sciences-research-council-bbsrc",
+        "label": "Biotechnology and Biological Sciences Research Council - BBSRC",
+        "count": 1
+      },
+      {
+        "value": "springer-nature",
+        "label": "Springer Nature",
+        "count": 1
+      },
+      {
+        "value": "the-company-of-biologists",
+        "label": "The Company of Biologists",
+        "count": 1
+      },
+      {
+        "value": "elife",
+        "label": "eLife",
+        "count": 1
+      }
+    ],
+    "applicant_country": [
+      {
+        "value": "Worldwide",
+        "label": "Worldwide",
+        "count": 16
+      },
+      {
+        "value": "Anyone, but work in UK",
+        "label": "Anyone, but work in UK",
+        "count": 4
+      },
+      {
+        "value": "UK",
+        "label": "UK",
+        "count": 4
+      },
+      {
+        "value": "NA",
+        "label": "NA",
+        "count": 3
+      },
+      {
+        "value": "Applicant must be based in the UK",
+        "label": "Applicant must be based in the UK",
+        "count": 3
+      },
+      {
+        "value": "Wordwide",
+        "label": "Wordwide",
+        "count": 2
+      },
+      {
+        "value": "United Kingdom",
+        "label": "United Kingdom",
+        "count": 2
+      },
+      {
+        "value": "Europe",
+        "label": "Europe",
+        "count": 2
+      },
+      {
+        "value": "Joint application between member of staff at Oxford with collaborator in Africa",
+        "label": "Joint application between member of staff at Oxford with collaborator in Africa",
+        "count": 1
+      },
+      {
+        "value": "US or Europe",
+        "label": "US or Europe",
+        "count": 1
+      },
+      {
+        "value": "Everyone, but non-European citizens have to work in or travel in Europe",
+        "label": "Everyone, but non-European citizens have to work in or travel in Europe",
+        "count": 1
+      },
+      {
+        "value": "Legal resident of USA, Canada or UK",
+        "label": "Legal resident of USA, Canada or UK",
+        "count": 1
+      },
+      {
+        "value": "global - see details on website",
+        "label": "global - see details on website",
+        "count": 1
+      },
+      {
+        "value": "Any",
+        "label": "Any",
+        "count": 1
+      },
+      {
+        "value": "Anyone, but work at UCL",
+        "label": "Anyone, but work at UCL",
+        "count": 1
+      },
+      {
+        "value": "Must have PhD or MD, from Egypt, Israel, Jordan, Lebanon, Palestinian Territories, UK",
+        "label": "Must have PhD or MD, from Egypt, Israel, Jordan, Lebanon, Palestinian Territories, UK",
+        "count": 1
+      },
+      {
+        "value": "EMBO Member States, Associated Member states or Cooperation partners",
+        "label": "EMBO Member States, Associated Member states or Cooperation partners",
+        "count": 1
+      },
+      {
+        "value": "Applicants must be a member of the SID (in good standing) and active in investigative dermatology in an US-based department, laboratory, or institution.",
+        "label": "Applicants must be a member of the SID (in good standing) and active in investigative dermatology in an US-based department, laboratory, or institution.",
+        "count": 1
+      },
+      {
+        "value": "Scientists working in a country with high GDP are not eligible",
+        "label": "Scientists working in a country with high GDP are not eligible",
+        "count": 1
+      },
+      {
+        "value": "ESDR member based in Europe",
+        "label": "ESDR member based in Europe",
+        "count": 1
+      },
+      {
+        "value": "Developing Countries",
+        "label": "Developing Countries",
+        "count": 1
+      },
+      {
+        "value": "US",
+        "label": "US",
+        "count": 1
+      },
+      {
+        "value": "Anyone, but has to work in Germany",
+        "label": "Anyone, but has to work in Germany",
+        "count": 1
+      },
+      {
+        "value": "UK-based, any nationality",
+        "label": "UK-based, any nationality",
+        "count": 1
+      },
+      {
+        "value": "Resident in UK, non-student, hold established position",
+        "label": "Resident in UK, non-student, hold established position",
+        "count": 1
+      },
+      {
+        "value": "Anyone",
+        "label": "Anyone",
+        "count": 1
+      },
+      {
+        "value": "Bosnia-Herzegovina, Bulgaria, Cyprus, Czech Republic, Estonia, Croatia, Hungary, Lithuania, Latvia, Luxembourg, Malta, Montenegro, Poland, Portugal, Slovenia, Slovakia, the former Yugoslav Re",
+        "label": "Bosnia-Herzegovina, Bulgaria, Cyprus, Czech Republic, Estonia, Croatia, Hungary, Lithuania, Latvia, Luxembourg, Malta, Montenegro, Poland, Portugal, Slovenia, Slovakia, the former Yugoslav Re",
+        "count": 1
+      },
+      {
+        "value": "Australian",
+        "label": "Australian",
+        "count": 1
+      },
+      {
+        "value": "UK-based to go abroad, non-UK-based to go to UK",
+        "label": "UK-based to go abroad, non-UK-based to go to UK",
+        "count": 1
+      },
+      {
+        "value": "Denmark",
+        "label": "Denmark",
+        "count": 1
+      },
+      {
+        "value": "Applicants must be attending U.S. institutions",
+        "label": "Applicants must be attending U.S. institutions",
+        "count": 1
+      },
+      {
+        "value": "Must be in eligible country, coming to the UK to establish collaboration (Brazil, Malaysia, Mexico, South Africa, Turkey, Thailand, Vietnam)",
+        "label": "Must be in eligible country, coming to the UK to establish collaboration (Brazil, Malaysia, Mexico, South Africa, Turkey, Thailand, Vietnam)",
+        "count": 1
+      },
+      {
+        "value": "Norway",
+        "label": "Norway",
+        "count": 1
+      },
+      {
+        "value": "Worlwide",
+        "label": "Worlwide",
+        "count": 1
+      },
+      {
+        "value": "Anyone, but visited institute should be outside UK",
+        "label": "Anyone, but visited institute should be outside UK",
+        "count": 1
+      },
+      {
+        "value": "(co)-author of PLOS publication",
+        "label": "(co)-author of PLOS publication",
+        "count": 1
+      },
+      {
+        "value": "Anyone, but for congress organization the organising committee should include professors from at least two universities from the Wallonia-Brussels Federation",
+        "label": "Anyone, but for congress organization the organising committee should include professors from at least two universities from the Wallonia-Brussels Federation",
+        "count": 1
+      },
+      {
+        "value": "applicant must be in the temporary employment of a Dutch institute",
+        "label": "applicant must be in the temporary employment of a Dutch institute",
+        "count": 1
+      },
+      {
+        "value": "See funder's website",
+        "label": "See funder's website",
+        "count": 1
+      },
+      {
+        "value": "Resident in UK for at least 5 years, hold a degree from UK instutitution, studying at UK institution",
+        "label": "Resident in UK for at least 5 years, hold a degree from UK instutitution, studying at UK institution",
+        "count": 1
+      },
+      {
+        "value": "ECR must be employed with a SULSA department",
+        "label": "ECR must be employed with a SULSA department",
+        "count": 1
+      },
+      {
+        "value": "From ICGEB Member States (http://www.icgeb.org/member-states.html)",
+        "label": "From ICGEB Member States (http://www.icgeb.org/member-states.html)",
+        "count": 1
+      },
+      {
+        "value": "ICGEB Member States",
+        "label": "ICGEB Member States",
+        "count": 1
+      },
+      {
+        "value": "Be attending a GRC, working in the US, Hispanic or Latino, American Indian or Alaska Native, Black or African American, Native Hawaiian or Other Pacific Islander",
+        "label": "Be attending a GRC, working in the US, Hispanic or Latino, American Indian or Alaska Native, Black or African American, Native Hawaiian or Other Pacific Islander",
+        "count": 1
+      },
+      {
+        "value": "From nation affected by the health problem of the meeting topic",
+        "label": "From nation affected by the health problem of the meeting topic",
+        "count": 1
+      },
+      {
+        "value": "Anyone, but has to be German or work at a German research institute",
+        "label": "Anyone, but has to be German or work at a German research institute",
+        "count": 1
+      },
+      {
+        "value": "Research needs to be funded by Arthritis Research UK",
+        "label": "Research needs to be funded by Arthritis Research UK",
+        "count": 1
+      },
+      {
+        "value": "Lead applicant should be based in UK",
+        "label": "Lead applicant should be based in UK",
+        "count": 1
+      },
+      {
+        "value": "Click grant URL for list of eligible countries",
+        "label": "Click grant URL for list of eligible countries",
+        "count": 1
+      },
+      {
+        "value": "Global",
+        "label": "Global",
+        "count": 1
+      }
+    ],
+    "career_levels": [
+      {
+        "value": "phd",
+        "label": "phd",
+        "count": 30
+      },
+      {
+        "value": "postdoc",
+        "label": "postdoc",
+        "count": 24
+      },
+      {
+        "value": "junior-faculty",
+        "label": "junior-faculty",
+        "count": 8
+      },
+      {
+        "value": "master-students",
+        "label": "master-students",
+        "count": 4
+      },
+      {
+        "value": "senior-faculty",
+        "label": "senior-faculty",
+        "count": 2
+      },
+      {
+        "value": "bachelor-students",
+        "label": "bachelor-students",
+        "count": 1
+      }
+    ],
+    "subjects": [
+      {
+        "value": "life-sciences",
+        "label": "life-sciences",
+        "count": 7
+      },
+      {
+        "value": "all-subjects",
+        "label": "all-subjects",
+        "count": 4
+      },
+      {
+        "value": "immunology",
+        "label": "immunology",
+        "count": 1
+      },
+      {
+        "value": "bioinformatics",
+        "label": "bioinformatics",
+        "count": 1
+      },
+      {
+        "value": "medicine-and-health-sciences",
+        "label": "medicine-and-health-sciences",
+        "count": 1
+      },
+      {
+        "value": "chemistry",
+        "label": "chemistry",
+        "count": 1
+      },
+      {
+        "value": "physics",
+        "label": "physics",
+        "count": 1
+      }
+    ],
+    "travel_purposes": [
+      {
+        "value": "conference",
+        "label": "conference",
+        "count": 72
+      },
+      {
+        "value": "collaboration",
+        "label": "collaboration",
+        "count": 29
+      },
+      {
+        "value": "learn-new-technique",
+        "label": "learn-new-technique",
+        "count": 25
+      },
+      {
+        "value": "workshop-training-or-course",
+        "label": "workshop-training-or-course",
+        "count": 19
+      },
+      {
+        "value": "research-visit",
+        "label": "research-visit",
+        "count": 17
+      },
+      {
+        "value": "field-work",
+        "label": "field-work",
+        "count": 7
+      }
+    ],
+    "membership": [
+      {
+        "value": "yes",
+        "label": "Membership Required",
+        "count": 93
+      },
+      {
+        "value": "no",
+        "label": "No Membership",
+        "count": 14
+      }
+    ],
+    "deadline_month": [
+      {
+        "value": "March, June, September, December",
+        "label": "March, June, September, December",
+        "count": 5
+      },
+      {
+        "value": "September",
+        "label": "September",
+        "count": 5
+      },
+      {
+        "value": "February",
+        "label": "February",
+        "count": 4
+      },
+      {
+        "value": "November",
+        "label": "November",
+        "count": 4
+      },
+      {
+        "value": "January",
+        "label": "January",
+        "count": 2
+      },
+      {
+        "value": "February, June, October",
+        "label": "February, June, October",
+        "count": 2
+      },
+      {
+        "value": "June",
+        "label": "June",
+        "count": 2
+      },
+      {
+        "value": "June, December",
+        "label": "June, December",
+        "count": 2
+      },
+      {
+        "value": "May",
+        "label": "May",
+        "count": 2
+      },
+      {
+        "value": "April, August, December",
+        "label": "April, August, December",
+        "count": 1
+      },
+      {
+        "value": "May, November",
+        "label": "May, November",
+        "count": 1
+      },
+      {
+        "value": "January, May, September",
+        "label": "January, May, September",
+        "count": 1
+      },
+      {
+        "value": "February, March, August, November",
+        "label": "February, March, August, November",
+        "count": 1
+      },
+      {
+        "value": "September, November",
+        "label": "September, November",
+        "count": 1
+      },
+      {
+        "value": "June, May",
+        "label": "June, May",
+        "count": 1
+      },
+      {
+        "value": "February, April, June, August, October, December",
+        "label": "February, April, June, August, October, December",
+        "count": 1
+      },
+      {
+        "value": "December, June",
+        "label": "December, June",
+        "count": 1
+      },
+      {
+        "value": "April, October",
+        "label": "April, October",
+        "count": 1
+      },
+      {
+        "value": "August",
+        "label": "August",
+        "count": 1
+      },
+      {
+        "value": "August, December",
+        "label": "August, December",
+        "count": 1
+      },
+      {
+        "value": "March, May, August, November",
+        "label": "March, May, August, November",
+        "count": 1
+      },
+      {
+        "value": "December",
+        "label": "December",
+        "count": 1
+      },
+      {
+        "value": "March, June, September",
+        "label": "March, June, September",
+        "count": 1
+      }
+    ],
+    "status": [
+      {
+        "value": "active",
+        "label": "active",
+        "count": 105
+      },
+      {
+        "value": "draft",
+        "label": "draft",
+        "count": 1
+      },
+      {
+        "value": "archived",
+        "label": "archived",
+        "count": 1
+      }
+    ]
+  },
+  "resources": {
+    "resource_categories": [
+      {
+        "value": "career-development",
+        "label": "career-development",
+        "count": 46
+      },
+      {
+        "value": "science-communication",
+        "label": "science-communication",
+        "count": 42
+      },
+      {
+        "value": "covid19-resources-guidebooks",
+        "label": "covid19-resources-guidebooks",
+        "count": 24
+      },
+      {
+        "value": "covid19-online-events",
+        "label": "covid19-online-events",
+        "count": 22
+      },
+      {
+        "value": "academic-writing",
+        "label": "academic-writing",
+        "count": 17
+      },
+      {
+        "value": "publishing",
+        "label": "publishing",
+        "count": 17
+      },
+      {
+        "value": "public-involvement-in-research",
+        "label": "public-involvement-in-research",
+        "count": 16
+      },
+      {
+        "value": "reproducibility",
+        "label": "reproducibility",
+        "count": 14
+      },
+      {
+        "value": "covid19-requests-for-help",
+        "label": "covid19-requests-for-help",
+        "count": 12
+      },
+      {
+        "value": "peer-review",
+        "label": "peer-review",
+        "count": 11
+      },
+      {
+        "value": "preprints",
+        "label": "preprints",
+        "count": 11
+      },
+      {
+        "value": "teaching",
+        "label": "teaching",
+        "count": 10
+      },
+      {
+        "value": "diversity-and-inclusion",
+        "label": "diversity-and-inclusion",
+        "count": 9
+      },
+      {
+        "value": "policy",
+        "label": "policy",
+        "count": 8
+      },
+      {
+        "value": "other",
+        "label": "other",
+        "count": 8
+      },
+      {
+        "value": "open-source",
+        "label": "open-source",
+        "count": 7
+      },
+      {
+        "value": "mental-health",
+        "label": "mental-health",
+        "count": 3
+      },
+      {
+        "value": "mentoring",
+        "label": "mentoring",
+        "count": 2
+      },
+      {
+        "value": "conflict-management",
+        "label": "conflict-management",
+        "count": 1
+      }
+    ],
+    "subjects": [],
+    "featured": [
+      {
+        "value": "true",
+        "label": "Featured",
+        "count": 3
+      },
+      {
+        "value": "false",
+        "label": "Not Featured",
+        "count": 160
+      }
+    ],
+    "status": [
+      {
+        "value": "active",
+        "label": "active",
+        "count": 163
+      }
+    ]
+  },
+  "funders": {
+    "country": [
+      {
+        "value": "United States",
+        "label": "United States",
+        "count": 309
+      },
+      {
+        "value": "United Kingdom",
+        "label": "United Kingdom",
+        "count": 63
+      },
+      {
+        "value": "NA",
+        "label": "NA",
+        "count": 38
+      },
+      {
+        "value": "Germany",
+        "label": "Germany",
+        "count": 16
+      },
+      {
+        "value": "Australia",
+        "label": "Australia",
+        "count": 15
+      },
+      {
+        "value": "Canada",
+        "label": "Canada",
+        "count": 15
+      },
+      {
+        "value": "USA",
+        "label": "USA",
+        "count": 9
+      },
+      {
+        "value": "France",
+        "label": "France",
+        "count": 8
+      },
+      {
+        "value": "India",
+        "label": "India",
+        "count": 6
+      },
+      {
+        "value": "Switzerland",
+        "label": "Switzerland",
+        "count": 5
+      },
+      {
+        "value": "Spain",
+        "label": "Spain",
+        "count": 5
+      },
+      {
+        "value": "China",
+        "label": "China",
+        "count": 5
+      },
+      {
+        "value": "Japan",
+        "label": "Japan",
+        "count": 5
+      },
+      {
+        "value": "Singapore",
+        "label": "Singapore",
+        "count": 4
+      },
+      {
+        "value": "Belgium",
+        "label": "Belgium",
+        "count": 4
+      },
+      {
+        "value": "New Zealand",
+        "label": "New Zealand",
+        "count": 3
+      },
+      {
+        "value": "European Union",
+        "label": "European Union",
+        "count": 3
+      },
+      {
+        "value": "Norway",
+        "label": "Norway",
+        "count": 3
+      },
+      {
+        "value": "Finland",
+        "label": "Finland",
+        "count": 3
+      },
+      {
+        "value": "Austria",
+        "label": "Austria",
+        "count": 2
+      },
+      {
+        "value": "Italy",
+        "label": "Italy",
+        "count": 2
+      },
+      {
+        "value": "Netherlands",
+        "label": "Netherlands",
+        "count": 2
+      },
+      {
+        "value": "Sweden",
+        "label": "Sweden",
+        "count": 1
+      },
+      {
+        "value": "Korea",
+        "label": "Korea",
+        "count": 1
+      },
+      {
+        "value": "Taiwan",
+        "label": "Taiwan",
+        "count": 1
+      },
+      {
+        "value": "Egypt",
+        "label": "Egypt",
+        "count": 1
+      },
+      {
+        "value": "Portugal",
+        "label": "Portugal",
+        "count": 1
+      },
+      {
+        "value": "Denmark",
+        "label": "Denmark",
+        "count": 1
+      },
+      {
+        "value": "Pakistan",
+        "label": "Pakistan",
+        "count": 1
+      },
+      {
+        "value": "Brazil",
+        "label": "Brazil",
+        "count": 1
+      },
+      {
+        "value": "Switserland",
+        "label": "Switserland",
+        "count": 1
+      },
+      {
+        "value": "USA, Israel",
+        "label": "USA, Israel",
+        "count": 1
+      },
+      {
+        "value": "Israel",
+        "label": "Israel",
+        "count": 1
+      },
+      {
+        "value": "Oman",
+        "label": "Oman",
+        "count": 1
+      },
+      {
+        "value": "People's Republic of China",
+        "label": "People's Republic of China",
+        "count": 1
+      },
+      {
+        "value": "Unites States",
+        "label": "Unites States",
+        "count": 1
+      },
+      {
+        "value": "Argentina",
+        "label": "Argentina",
+        "count": 1
+      },
+      {
+        "value": "Austrialia",
+        "label": "Austrialia",
+        "count": 1
+      },
+      {
+        "value": "The Netherlands",
+        "label": "The Netherlands",
+        "count": 1
+      },
+      {
+        "value": "Stockholm",
+        "label": "Stockholm",
+        "count": 1
+      },
+      {
+        "value": "Poland",
+        "label": "Poland",
+        "count": 1
+      }
+    ],
+    "featured": [
+      {
+        "value": "false",
+        "label": "Not Featured",
+        "count": 544
+      }
+    ],
+    "status": [
+      {
+        "value": "active",
+        "label": "active",
+        "count": 544
+      }
+    ],
+    "dora": [
+      {
+        "value": "true",
+        "label": "DORA Signatory",
+        "count": 30
+      },
+      {
+        "value": "false",
+        "label": "Not DORA",
+        "count": 514
+      }
+    ]
+  }
+}

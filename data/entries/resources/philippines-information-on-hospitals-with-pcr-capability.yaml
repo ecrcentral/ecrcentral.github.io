@@ -1,0 +1,21 @@
+id: resource-philippines-information-on-hospitals-with-pcr-capability
+legacy_id: 101
+slug: philippines-information-on-hospitals-with-pcr-capability
+name: Philippines - information on hospitals with PCR capability
+url: https://twitter.com/PadayonUP/status/1240508846197493761
+description: 'They are developing COVID-19 testing kits, and would like tho following
+  info from Filipino hospitals: 1. Name of Hospital 2. Location 3. Brand of PCR unit
+  4. Contact Number and Contact Person'
+source_name: UP Padayon Public Service Office
+funders: []
+resource_categories:
+- covid19-requests-for-help
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-03-20T15:07:00Z'
+updated_at: '2020-03-20T15:07:34Z'
+source: legacy-import

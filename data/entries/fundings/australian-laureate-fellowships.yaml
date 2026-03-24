@@ -1,0 +1,58 @@
+id: funding-australian-laureate-fellowships
+legacy_id: 19
+slug: australian-laureate-fellowships
+name: Australian Laureate Fellowships
+description: "The Australian Laureate Fellowships scheme reflects the Australian Government’s\
+  \ commitment to excellence in research by supporting world-class researchers to\
+  \ conduct research in Australia.\r\n\r\nOpen to applications from the highest-quality\
+  \ researchers of international repute, the Australian Laureate Fellowships scheme\
+  \ encourages applications involving Australian or international researchers by providing\
+  \ eligible Australian Laureate Fellows with project funding in addition to a salary\
+  \ supplement and salary-related (on-cost) support."
+url: https://www.arc.gov.au/grants/discovery-program/australian-laureate-fellowships
+funders:
+- australian-research-council
+- australian-government
+legacy_funder_name: Australian Research Council
+host_country: Australia
+applicant_country: Worldwide
+career_levels:
+- senior-faculty
+years_since_phd: No rule
+duration: '5'
+award: $300,000 per annum project funding
+mobility_rule: 'No'
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: p to 17 five-year Australian Laureate Fellowships may be awarded each year,
+  providing a salary supplement, in addition to a Level E professorial salary provided
+  by the Administering Organisation; funding for up to two Postdoctoral Research Associates
+  (five years) and two Postgraduate Researchers (four years); and up to $300,000 per
+  annum project funding.
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-25T09:26:31Z'
+subjects:
+- all-subjects
+funding_purposes:
+- award
+search_text: "Australian Laureate Fellowships The Australian Laureate Fellowships\
+  \ scheme reflects the Australian Government’s commitment to excellence in research\
+  \ by supporting world-class researchers to conduct research in Australia.\r\n\r\n\
+  Open to applications from the highest-quality researchers of international repute,\
+  \ the Australian Laureate Fellowships scheme encourages applications involving Australian\
+  \ or international researchers by providing eligible Australian Laureate Fellows\
+  \ with project funding in addition to a salary supplement and salary-related (on-cost)\
+  \ support. Australian Research Council Australian Government Senior Faculty All\
+  \ subjects Award Australia Worldwide"
+source: legacy-import

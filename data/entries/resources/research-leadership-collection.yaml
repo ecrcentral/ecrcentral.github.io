@@ -1,0 +1,20 @@
+id: resource-research-leadership-collection
+legacy_id: 80
+slug: research-leadership-collection
+name: Research Leadership Collection
+url: https://www.nature.com/collections/cigjfacfbg
+description: A collection of articles on a range of topics related to careers in research
+  science for early career researchers
+source_name: Nature
+funders: []
+resource_categories:
+- career-development
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2019-07-31T20:53:00Z'
+updated_at: '2019-07-31T21:36:33Z'
+source: legacy-import

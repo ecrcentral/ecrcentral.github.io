@@ -1,0 +1,45 @@
+id: funding-nwo-talent-programme-veni
+legacy_id: 142
+slug: nwo-talent-programme-veni
+name: NWO Talent Programme Veni
+description: NWO Talent Programme Veni is a grant for researchers who have recently
+  obtained their PhD.
+url: https://www.nwo.nl/en/funding/our-funding-instruments/nwo/innovational-research-incentives-scheme/veni/index.html
+funders: []
+legacy_funder_name: Netherlands Organization for Scientific Research
+host_country: Netherlands
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: <3
+duration: '3'
+award: €250000
+mobility_rule: 'No'
+research_costs: null
+deadline: January
+deadline_month: January
+diversity: null
+comments: null
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-22T14:55:01Z'
+subjects:
+- life-sciences
+- medicine-and-health-sciences
+- engineering
+- arts-and-humanities
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: NWO Talent Programme Veni NWO Talent Programme Veni is a grant for researchers
+  who have recently obtained their PhD. PhD Life Sciences Medicine and Health Sciences
+  Engineering Arts and Humanities Fellowship, scholarship or training Netherlands
+  Worldwide
+source: legacy-import

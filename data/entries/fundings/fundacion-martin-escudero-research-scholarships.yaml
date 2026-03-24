@@ -1,0 +1,53 @@
+id: funding-fundacion-martin-escudero-research-scholarships
+legacy_id: 83
+slug: fundacion-martin-escudero-research-scholarships
+name: Fundación Martín Escudero research scholarships
+description: "The Alfonso Martín Escudero Foundation announces 40 scholarships to\
+  \ carry out research work at universities or research centers abroad, on topics\
+  \ that fall within one of the following areas:\r\n\r\n• Agriculture and livestock\r\
+  \n• Marine sciences \r\n• Health sciences\r\n• Food technology"
+url: http://www.fundame.org/bases-de-la-convocatoria-de-becas-de-investigacion-en-universidades-o-centros-en-el-extranjero/
+funders:
+- fundacion-alfonso-martin-escudero
+legacy_funder_name: Fundación Martín Escudero
+host_country: Spain
+applicant_country: Spain
+career_levels:
+- phd
+years_since_phd: No rule
+duration: 1-2
+award: 1900-3000€ / month
+mobility_rule: 'Yes'
+research_costs: null
+deadline: May
+deadline_month: May
+diversity: null
+comments: Award is depending on the host country
+benefits: "a) Aid for transfers and installation for a total amount of 3,100 euros.\r\
+  \nb) Health and accident insurance underwritten by the Alfonso Martín Escudero Foundation\
+  \ and, where appropriate, that required by the foreign center."
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-24T19:21:56Z'
+subjects:
+- medicine-and-health-sciences
+- agriculture
+- food-science
+- marine-biology
+- food-studies
+funding_purposes:
+- research
+search_text: "Fundación Martín Escudero research scholarships The Alfonso Martín Escudero\
+  \ Foundation announces 40 scholarships to carry out research work at universities\
+  \ or research centers abroad, on topics that fall within one of the following areas:\r\
+  \n\r\n• Agriculture and livestock\r\n• Marine sciences \r\n• Health sciences\r\n\
+  • Food technology Fundación Alfonso Martín Escudero PhD Medicine and Health Sciences\
+  \ Agriculture Food Science Marine Biology Food Studies Research Spain Spain"
+source: legacy-import

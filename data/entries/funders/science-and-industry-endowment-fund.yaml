@@ -1,0 +1,20 @@
+id: funder-science-and-industry-endowment-fund
+legacy_id: 168
+slug: science-and-industry-endowment-fund
+name: Science and Industry Endowment Fund
+short_name: Science and Industry Endowment Fund
+funder_registry_id: '100008716'
+country: Australia
+website: null
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2019-01-17T00:40:55Z'
+source: legacy-import

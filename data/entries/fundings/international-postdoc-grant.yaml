@@ -1,0 +1,46 @@
+id: funding-international-postdoc-grant
+legacy_id: 244
+slug: international-postdoc-grant
+name: International postdoc grant
+description: The purpose of the grant is to give newly qualified researchers with
+  a doctoral degree from a Swedish higher education institution (HEI) the opportunity
+  to expand their networks and their competences by working abroad under secure employment
+  conditions.
+url: https://www.vr.se/english/applying-for-funding/calls/2019-11-14-international-postdoc-grant.html
+funders:
+- vetenskapsradet
+legacy_funder_name: Vetenskapsrådet
+host_country: Worldwide
+applicant_country: Sweden
+career_levels:
+- phd
+years_since_phd: <2
+duration: '3'
+award: null
+mobility_rule: null
+research_costs: null
+deadline: July
+deadline_month: July
+diversity: null
+comments: null
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-19T04:03:15Z'
+subjects: []
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: International postdoc grant The purpose of the grant is to give newly
+  qualified researchers with a doctoral degree from a Swedish higher education institution
+  (HEI) the opportunity to expand their networks and their competences by working
+  abroad under secure employment conditions. Vetenskapsrådet PhD Fellowship, scholarship
+  or training Research Worldwide Sweden
+source: legacy-import

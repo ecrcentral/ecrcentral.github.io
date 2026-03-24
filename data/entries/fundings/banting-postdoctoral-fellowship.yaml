@@ -1,0 +1,57 @@
+id: funding-banting-postdoctoral-fellowship
+legacy_id: 87
+slug: banting-postdoctoral-fellowship
+name: Banting Postdoctoral Fellowship
+description: "The Banting Postdoctoral Fellowships program provides funding to the\
+  \ very best postdoctoral applicants, both nationally and internationally, who will\
+  \ positively contribute to the country's economic, social and research-based growth.\r\
+  \n\r\nThe objective of the Banting Postdoctoral Fellowships program is to:\r\n\r\
+  \n1. attract and retain top-tier postdoctoral talent, both nationally and internationally\r\
+  \n2. develop their leadership potential\r\n3. position them for success as research\
+  \ leaders of tomorrow"
+url: http://banting.fellowships-bourses.gc.ca
+funders:
+- government-of-canada
+legacy_funder_name: Government of Canada
+host_country: Canada
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: <3
+duration: '2'
+award: 70K Canadian Dollars
+mobility_rule: 'Yes'
+research_costs: Salary+travel+field research
+deadline: September
+deadline_month: September
+diversity: null
+comments: null
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-24T21:54:29Z'
+subjects:
+- medicine-and-health-sciences
+- engineering
+- arts-and-humanities
+- social-and-behavioral-sciences
+- natural-sciences
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: "Banting Postdoctoral Fellowship The Banting Postdoctoral Fellowships\
+  \ program provides funding to the very best postdoctoral applicants, both nationally\
+  \ and internationally, who will positively contribute to the country's economic,\
+  \ social and research-based growth.\r\n\r\nThe objective of the Banting Postdoctoral\
+  \ Fellowships program is to:\r\n\r\n1. attract and retain top-tier postdoctoral\
+  \ talent, both nationally and internationally\r\n2. develop their leadership potential\r\
+  \n3. position them for success as research leaders of tomorrow Government of Canada\
+  \ PhD Medicine and Health Sciences Engineering Arts and Humanities Social and Behavioral\
+  \ Sciences Natural Sciences Fellowship, scholarship or training Canada Worldwide"
+source: legacy-import

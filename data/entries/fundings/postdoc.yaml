@@ -1,0 +1,35 @@
+id: funding-postdoc
+legacy_id: 124
+slug: postdoc
+name: Postdoc
+description: null
+url: http://www.lsrf.org/apply/application-instructions
+funders: []
+legacy_funder_name: Life Sciences Research Foundation
+host_country: United States
+applicant_country: Worldwide
+career_levels: []
+years_since_phd: <5
+duration: '3'
+award: null
+mobility_rule: null
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: Duplicate entry (same as ID 124)
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: draft
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-30T13:53:50Z'
+subjects: []
+funding_purposes: []
+search_text: Postdoc United States Worldwide
+source: legacy-import

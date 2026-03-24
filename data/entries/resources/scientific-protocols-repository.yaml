@@ -1,0 +1,20 @@
+id: resource-scientific-protocols-repository
+legacy_id: 26
+slug: scientific-protocols-repository
+name: Scientific protocols repository
+url: https://www.protocols.io/
+description: An open access and crowd-sourced repository for science methods/protocols
+  for researchers to make your science more reproducible.
+source_name: Protocols.io
+funders: []
+resource_categories:
+- reproducibility
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2019-01-30T09:46:00Z'
+updated_at: '2019-01-30T09:47:00Z'
+source: legacy-import

@@ -1,0 +1,53 @@
+id: funding-hope-for-vision-grant
+legacy_id: 674
+slug: hope-for-vision-grant
+name: Hope For Vision Grant
+description: "Hope for Vision supports research aimed at developing treatments and\
+  \ cures for retinal degenerative diseases.\r\n\r\nGrants are awarded annually, generally\
+  \ for a period of one-year.  Awards range from $25,000 to $50,000, and the grant\
+  \ amount is based on the current or potential value of the research to the field\
+  \ of retinal degeneration. Please email a one page or less summary statement that\
+  \ expresses the goals and objectives of your proposal."
+url: http://hopeforvision.org/grant-application/
+funders:
+- hope-for-vision
+legacy_funder_name: Hope for Vision
+host_country: null
+applicant_country: null
+career_levels:
+- phd
+- md
+years_since_phd: null
+duration: '1'
+award: USD 25 000 - USD 50 000
+mobility_rule: 'No'
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: Please refer to the website and email grants@hopeforvision.org for more
+  details.
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-25T15:32:30Z'
+subjects:
+- life-sciences
+- medicine-and-health-sciences
+funding_purposes:
+- research
+search_text: "Hope For Vision Grant Hope for Vision supports research aimed at developing\
+  \ treatments and cures for retinal degenerative diseases.\r\n\r\nGrants are awarded\
+  \ annually, generally for a period of one-year.  Awards range from $25,000 to $50,000,\
+  \ and the grant amount is based on the current or potential value of the research\
+  \ to the field of retinal degeneration. Please email a one page or less summary\
+  \ statement that expresses the goals and objectives of your proposal. Hope For Vision\
+  \ PhD MD Life Sciences Medicine and Health Sciences Research"
+source: legacy-import

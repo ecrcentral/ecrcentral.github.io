@@ -1,0 +1,53 @@
+id: funding-nih-pathway-to-independence-award-k99-r00
+legacy_id: 299
+slug: nih-pathway-to-independence-award-k99-r00
+name: NIH Pathway to Independence Award (K99-R00)
+description: The NIH Pathway to Independence Award will provide up to five years of
+  support consisting of two phases.
+url: https://www.nlm.nih.gov/ep/pathway.html
+funders:
+- national-institutes-of-health-nih
+legacy_funder_name: National Institutes of Health
+host_country: United States
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: '4'
+duration: '5'
+award: $1 245 000
+mobility_rule: 'No'
+research_costs: null
+deadline: February, June, October
+deadline_month: February, June, October
+diversity: null
+comments: The overall goal of the NIH Research Career Development program is to help
+  ensure that a diverse pool of highly trained scientists is available in appropriate
+  scientific disciplines to address the Nation's biomedical, behavioral, and clinical
+  research needs. In addition to this opportunity, NIH Institutes and Centers (ICs)
+  support a variety of other mentored career development programs designed to foster
+  the transition of new investigators to research independence. These other programs
+  may be more suitable for particular candidates.  NIH also supports non-mentored
+  career development programs for independent investigators.
+benefits: null
+frequency: Triannual
+fileds: null
+featured: true
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-10T04:43:11Z'
+subjects:
+- life-sciences
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+- publishing-and-editorial
+- equipment
+search_text: NIH Pathway to Independence Award (K99-R00) The NIH Pathway to Independence
+  Award will provide up to five years of support consisting of two phases. National
+  Institutes of Health (NIH) PhD Life Sciences Fellowship, scholarship or training
+  Research Publishing and editorial Equipment United States Worldwide
+source: legacy-import

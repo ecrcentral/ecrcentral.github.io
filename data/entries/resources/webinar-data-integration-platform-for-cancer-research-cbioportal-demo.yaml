@@ -1,0 +1,25 @@
+id: resource-webinar-data-integration-platform-for-cancer-research-cbioportal-demo
+legacy_id: 109
+slug: webinar-data-integration-platform-for-cancer-research-cbioportal-demo
+name: 'Webinar: Data-integration platform for cancer research: cBioportal demo'
+url: https://www.corbel-project.eu/webinars/data-integration-platform-for-cancer-research-cbioportal-demo.html
+description: The CORBEL webinar series continues with a presentation by Noriko A.
+  Cassman, from the Netherlands Cancer Institute (NKI). Participants will be introduced
+  to the data-integration platform cBioPortal. Here, different sources of research
+  data (clinical, imaging, biosample and experimental) of a study are integrated,
+  enabling viewing, querying and analysis. This webinar is aimed at data managers,
+  researchers, PhD students and postdocs involved in clinical, translational and biomedical
+  research.
+source_name: CORBEL
+funders: []
+resource_categories:
+- covid19-online-events
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-03-20T15:41:00Z'
+updated_at: '2020-03-20T15:41:18Z'
+source: legacy-import

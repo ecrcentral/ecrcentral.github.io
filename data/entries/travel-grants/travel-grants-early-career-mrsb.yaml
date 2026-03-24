@@ -1,0 +1,30 @@
+id: travel-grant-travel-grants-early-career-mrsb
+legacy_id: 32
+slug: travel-grants-early-career-mrsb
+name: Travel grants (Early Career MRSB)
+url: https://www.rsb.org.uk/get-involved/grants/travel-grants/travel-grants-early-career
+description: null
+funders: []
+legacy_funder_name: Royal Society of Biology
+applicant_country: null
+host_country: null
+award: UK £500
+deadline: currently closed for applications
+deadline_month: null
+membership: 'Yes'
+membership_time: NA
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- conference
+- collaboration
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: Travel grants (Early Career MRSB) Conference Collaboration
+source: legacy-import

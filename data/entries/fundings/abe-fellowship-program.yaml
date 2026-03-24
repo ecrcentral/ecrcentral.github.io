@@ -1,0 +1,53 @@
+id: funding-abe-fellowship-program
+legacy_id: 565
+slug: abe-fellowship-program
+name: Abe Fellowship Program
+description: null
+url: http://www.ssrc.org/fellowships/view/abe-fellowship/
+funders:
+- japan-foundation-center-for-global-partnership
+legacy_funder_name: Social Science Research Council (SSRC) and the Japan Foundation
+  Center for Global Partnership (CGP)
+host_country: USA/Japan/Other
+applicant_country: USA/Japan
+career_levels:
+- phd
+years_since_phd: NA
+duration: 0.4-1
+award: 3 to 12 months of salary support
+mobility_rule: 'No'
+research_costs: null
+deadline: September
+deadline_month: September
+diversity: null
+comments: 'The Abe Fellowship is designed to encourage international multidisciplinary
+  research on topics of pressing global concern. The program seeks to foster the development
+  of a new generation of researchers who are interested in policy-relevant topics
+  of long-range importance and who are willing to become key members of a bilateral
+  and global research network built around such topics. It strives especially to promote
+  a new level of intellectual cooperation between the Japanese and American academic
+  and professional communities committed to and trained for advancing global understanding
+  and problem solving. The themes are: 1) Threats to Personal, Societal, and International
+  Security; 2) Growth and Sustainable Development; 3) Social, Scientific, and Cultural
+  Trends and Transformations; 4) Governance, Empowerment, and Participation. The program
+  provides Abe Fellows with a minimum of 3 and maximum of 12 months of full-time support
+  over a 24-month period.'
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T16:51:34Z'
+subjects:
+- social-and-behavioral-sciences
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Abe Fellowship Program Japan Foundation Center for Global Partnership
+  PhD Social and Behavioral Sciences Fellowship, scholarship or training USA/Japan/Other
+  USA/Japan
+source: legacy-import

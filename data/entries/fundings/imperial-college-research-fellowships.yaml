@@ -1,0 +1,53 @@
+id: funding-imperial-college-research-fellowships
+legacy_id: 106
+slug: imperial-college-research-fellowships
+name: Imperial College Research Fellowships
+description: If you are an outstanding early-career scientist looking for an opportunity
+  to focus on research and establish your scientific independence on a competitive
+  salary, then the Imperial College Research Fellowship scheme could help you consolidate
+  your standing in the scientific community and make the leap from post-doc to permanent
+  lecturer.
+url: https://www.imperial.ac.uk/research-fellowships/icrf/
+funders:
+- imperial-college-london
+legacy_funder_name: Imperial College London
+host_country: United Kingdom
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: '4'
+duration: '3'
+award: null
+mobility_rule: null
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: null
+benefits: research and travel costs up to £45,000
+frequency: Rolling
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-25T22:33:54Z'
+subjects:
+- medicine-and-health-sciences
+- engineering
+- business
+- natural-sciences
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: Imperial College Research Fellowships If you are an outstanding early-career
+  scientist looking for an opportunity to focus on research and establish your scientific
+  independence on a competitive salary, then the Imperial College Research Fellowship
+  scheme could help you consolidate your standing in the scientific community and
+  make the leap from post-doc to permanent lecturer. Imperial College London PhD Medicine
+  and Health Sciences Engineering Business Natural Sciences Fellowship, scholarship
+  or training Research United Kingdom Worldwide
+source: legacy-import

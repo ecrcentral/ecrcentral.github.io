@@ -1,0 +1,54 @@
+id: funding-german-research-foundation-dfg-research-grant
+legacy_id: 53
+slug: german-research-foundation-dfg-research-grant
+name: 'German Research Foundation (DFG): Research Grant'
+description: The grants enable scientists and academics to conduct research projects
+  with clearly defined topics and a limited duration. Researchers from any subject
+  working in Germany or at a German research institution abroad who have completed
+  their academic training (usually a doctorate) are welcome to apply for the DFG Research
+  Grants. Only internationally competitive research projects of high scientific quality
+  and originality are eligible for submission. The funding generally covers a maximum
+  period of three years. After this, however, candidates can apply for the funding
+  to be renewed.
+url: https://www.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=2&origin=&subjectGrps=&daad=&q=&page=10&detail=10000161
+funders:
+- deutscher-akademischer-austauschdienst
+legacy_funder_name: Deutsche Forschungsgemeinschaft
+host_country: Germany
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: null
+duration: '3'
+award: null
+mobility_rule: 'No'
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: null
+benefits: null
+frequency: Rolling
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-26T07:46:03Z'
+subjects:
+- all-subjects
+funding_purposes:
+- research
+search_text: 'German Research Foundation (DFG): Research Grant The grants enable scientists
+  and academics to conduct research projects with clearly defined topics and a limited
+  duration. Researchers from any subject working in Germany or at a German research
+  institution abroad who have completed their academic training (usually a doctorate)
+  are welcome to apply for the DFG Research Grants. Only internationally competitive
+  research projects of high scientific quality and originality are eligible for submission.
+  The funding generally covers a maximum period of three years. After this, however,
+  candidates can apply for the funding to be renewed. Deutscher Akademischer Austauschdienst
+  PhD All subjects Research Germany Worldwide'
+source: legacy-import

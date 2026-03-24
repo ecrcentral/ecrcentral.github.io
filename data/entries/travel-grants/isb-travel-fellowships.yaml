@@ -1,0 +1,30 @@
+id: travel-grant-isb-travel-fellowships
+legacy_id: 69
+slug: isb-travel-fellowships
+name: ISB Travel Fellowships
+url: https://www.biocuration.org/biocuration-2018-travel-fellowships/
+description: null
+funders: []
+legacy_funder_name: The International Society for Biocuration
+applicant_country: Worldwide
+host_country: null
+award: $ 1,000
+deadline: February
+deadline_month: February
+membership: 'Yes'
+membership_time: null
+purpose_text: null
+career_levels: []
+subjects:
+- life-sciences
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: ISB Travel Fellowships Life Sciences Conference Worldwide
+source: legacy-import

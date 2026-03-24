@@ -1,0 +1,32 @@
+id: travel-grant-plos-early-career-travel-award
+legacy_id: 90
+slug: plos-early-career-travel-award
+name: PLOS Early Career Travel Award
+url: https://www.plos.org/ecr-travel-awards
+description: <p>Applicants must be listed as an author on a PLOS journal article with
+  a publication date on or before the date the application is submitted.</p>
+funders: []
+legacy_funder_name: PLoS
+applicant_country: Worldwide
+host_country: null
+award: $ 500
+deadline: null
+deadline_month: null
+membership: 'No'
+membership_time: null
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: PLOS Early Career Travel Award <p>Applicants must be listed as an author
+  on a PLOS journal article with a publication date on or before the date the application
+  is submitted.</p> Conference Worldwide
+source: legacy-import

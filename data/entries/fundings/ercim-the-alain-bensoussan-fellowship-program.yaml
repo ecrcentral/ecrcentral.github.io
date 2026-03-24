@@ -1,0 +1,43 @@
+id: funding-ercim-the-alain-bensoussan-fellowship-program
+legacy_id: 744
+slug: ercim-the-alain-bensoussan-fellowship-program
+name: ERCIM The Alain Bensoussan fellowship program
+description: "ERCIM, the European Research Consortium for Informatics and Mathematics,\
+  \ offers fellowships for PhD holders from all over the world. Topics cover most\
+  \ disciplines in\r\nComputer Science, Information Technology, and Applied Mathematics.\
+  \  Fellows are hosted in leading European Research Institutes."
+url: https://fellowship.ercim.eu/
+funders: []
+legacy_funder_name: ERCIM
+host_country: Selected EU and EEA Countries
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: null
+duration: null
+award: Fellowship
+mobility_rule: 'Yes'
+research_costs: null
+deadline: 30 April 2021
+deadline_month: April
+diversity: null
+comments: null
+benefits: null
+frequency: null
+fileds: Mathematics, Computer Science, Information Science
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: '2021-03-01T13:52:47Z'
+updated_at: '2021-10-08T09:58:01Z'
+subjects: []
+funding_purposes: []
+search_text: "ERCIM The Alain Bensoussan fellowship program ERCIM, the European Research\
+  \ Consortium for Informatics and Mathematics, offers fellowships for PhD holders\
+  \ from all over the world. Topics cover most disciplines in\r\nComputer Science,\
+  \ Information Technology, and Applied Mathematics.  Fellows are hosted in leading\
+  \ European Research Institutes. PhD Selected EU and EEA Countries Worldwide"
+source: legacy-import

@@ -1,0 +1,296 @@
+---
+import BaseLayout from '../../components/layout/BaseLayout.astro'
+import FundingCard from '../../components/cards/FundingCard.astro'
+import TravelGrantCard from '../../components/cards/TravelGrantCard.astro'
+import { funders, getFunderFundings, getFunderTravelGrants } from '../../lib/data'
+import type { GetStaticPaths } from 'astro'
+
+export const getStaticPaths: GetStaticPaths = async () => {
+  return funders.map(f => ({
+    params: { slug: f.slug },
+    props: { funder: f },
+  }))
+}
+
+const { funder } = Astro.props
+
+const activeFundings = getFunderFundings(funder.slug)
+const activeTravelGrants = getFunderTravelGrants(funder.slug)
+
+const githubRepo = 'https://github.com/ecrcentral/ecrcentral.github.io'
+const editUrl = `${githubRepo}/edit/main/data/entries/funders/${funder.slug}.yaml`
+const issueUrl = `${githubRepo}/issues/new?template=report_issue.yml&title=Issue+with+funder:+${encodeURIComponent(funder.name)}&labels=funder`
+
+// Fallback initials
+const initials = funder.short_name
+  ? funder.short_name.slice(0, 2).toUpperCase()
+  : funder.name.split(' ').slice(0, 2).map(w => w[0]).join('').toUpperCase()
+
+const colorPalette = ['#2c7be5','#1a5db5','#00a3cc','#6f42c1','#e63757','#00d97e','#f6c343','#fd7e14']
+const fallbackColor = colorPalette[funder.name.charCodeAt(0) % colorPalette.length]
+
+const statusClass: Record<string, string> = {
+  active: 'badge-active',
+  inactive: 'badge-expired',
+  archived: 'badge-archived',
+  draft: 'badge-draft',
+}
+
+const jsonLd = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: funder.name,
+  url: funder.website,
+  description: funder.description,
+  address: { '@type': 'PostalAddress', addressCountry: funder.country },
+})
+---
+
+<BaseLayout
+  title={funder.name}
+  description={funder.description || `${funder.name} — funding organization based in ${funder.country}. View their active fundings and travel grants.`}
+  canonical={`/funders/${funder.slug}/`}
+  type="article"
+>
+  <script type="application/ld+json" set:html={jsonLd} slot="head" />
+
+  <div class="container">
+    <div class="detail-layout">
+      <!-- Breadcrumb -->
+      <nav class="detail-breadcrumb" aria-label="Breadcrumb">
+        <a href="/">Home</a>
+        <span class="detail-breadcrumb-sep" aria-hidden="true">/</span>
+        <a href="/funders/">Funders</a>
+        <span class="detail-breadcrumb-sep" aria-hidden="true">/</span>
+        <span aria-current="page">{funder.name}</span>
+      </nav>
+
+      <!-- Header -->
+      <header class="detail-header">
+        <div style="display:flex;align-items:flex-start;gap:24px;flex-wrap:wrap;">
+          <!-- Logo -->
+          {funder.logo || funder.legacy_logo_path ? (
+            <div>
+              <img
+                src={funder.logo || `/logos/${funder.legacy_logo_path}`}
+                alt={`${funder.name} logo`}
+                class="funder-logo funder-logo-lg"
+                loading="eager"
+                width="80"
+                height="80"
+                onerror="this.style.display='none';this.nextElementSibling.style.display='flex';"
+              />
+              <div
+                class="funder-logo-fallback funder-logo-lg"
+                style={`background:${fallbackColor};display:none;`}
+                aria-hidden="true"
+              >
+                {initials}
+              </div>
+            </div>
+          ) : (
+            <div
+              class="funder-logo-fallback funder-logo-lg"
+              style={`background:${fallbackColor};`}
+              aria-hidden="true"
+            >
+              {initials}
+            </div>
+          )}
+
+          <div style="flex:1;">
+            <div class="detail-badges">
+              <span class={`badge ${statusClass[funder.status] || 'badge-draft'}`}>{funder.status}</span>
+              {funder.dora && (
+                <span class="badge badge-dora" title="Signed the San Francisco Declaration on Research Assessment (DORA)">DORA signatory</span>
+              )}
+              {funder.featured && (
+                <span class="badge badge-featured">Featured</span>
+              )}
+            </div>
+
+            <h1 class="detail-title" style="margin-top:8px;">{funder.name}</h1>
+            {funder.short_name && funder.short_name !== funder.name && (
+              <p class="text-muted" style="margin-top:-8px;margin-bottom:12px;font-size:1.1rem;">({funder.short_name})</p>
+            )}
+
+            <div class="card-meta" style="flex-wrap:wrap;gap:16px;">
+              {funder.country && (
+                <span class="card-meta-item">
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                    <circle cx="12" cy="12" r="10"/>
+                    <line x1="2" y1="12" x2="22" y2="12"/>
+                    <path d="M12 2a15.3 15.3 0 014 10 15.3 15.3 0 01-4 10 15.3 15.3 0 01-4-10 15.3 15.3 0 014-10z"/>
+                  </svg>
+                  {funder.country}
+                </span>
+              )}
+              {funder.website && (
+                <a
+                  href={funder.website}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="card-meta-item text-primary"
+                  style="text-decoration:none;font-size:var(--font-size-sm);"
+                >
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                    <path d="M10 13a5 5 0 007.54.54l3-3a5 5 0 00-7.07-7.07l-1.72 1.71"/>
+                    <path d="M14 11a5 5 0 00-7.54-.54l-3 3a5 5 0 007.07 7.07l1.71-1.71"/>
+                  </svg>
+                  Official website
+                </a>
+              )}
+            </div>
+          </div>
+        </div>
+      </header>
+
+      <!-- Description -->
+      {funder.description && (
+        <blockquote class="detail-description">{funder.description}</blockquote>
+      )}
+
+      <!-- Funder Registry -->
+      {funder.funder_registry_id && (
+        <section class="detail-section">
+          <h2 class="detail-section-title">Open Funder Registry</h2>
+          <div class="detail-field">
+            <span class="detail-field-label">Funder Registry ID</span>
+            <span class="detail-field-value">
+              <a
+                href={`https://api.crossref.org/funders/${funder.funder_registry_id}`}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                {funder.funder_registry_id}
+              </a>
+            </span>
+          </div>
+        </section>
+      )}
+
+      <!-- DORA info -->
+      {funder.dora && (
+        <div class="alert alert-info" style="margin-bottom:32px;">
+          <strong>DORA signatory:</strong> This organization has signed the
+          <a href="https://sfdora.org/" target="_blank" rel="noopener noreferrer">San Francisco Declaration on Research Assessment</a>,
+          committing to responsible research evaluation practices.
+        </div>
+      )}
+
+      <!-- Aliases -->
+      {funder.aliases.length > 0 && (
+        <section class="detail-section">
+          <h2 class="detail-section-title">Also Known As</h2>
+          <div class="tags">
+            {funder.aliases.map(alias => (
+              <span class="tag tag-muted">{alias}</span>
+            ))}
+          </div>
+        </section>
+      )}
+
+      <!-- Active Fundings -->
+      <section class="detail-section">
+        <div class="section-header">
+          <h2 class="detail-section-title" style="border:none;padding:0;margin:0;">
+            Active Funding Opportunities
+            <span style="font-weight:400;font-size:1rem;color:var(--color-muted);">({activeFundings.length})</span>
+          </h2>
+          {activeFundings.length > 0 && (
+            <a href={`/fundings/?funder=${funder.slug}`} class="section-view-all">
+              View all
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
+                <path d="M5 12h14M12 5l7 7-7 7"/>
+              </svg>
+            </a>
+          )}
+        </div>
+        <div style="margin-top:16px;">
+          {activeFundings.length > 0 ? (
+            <div class="cards-grid">
+              {activeFundings.slice(0, 6).map(f => <FundingCard funding={f} compact={true} />)}
+            </div>
+          ) : (
+            <p class="text-muted">No active funding opportunities from this funder.</p>
+          )}
+        </div>
+      </section>
+
+      <!-- Active Travel Grants -->
+      <section class="detail-section">
+        <div class="section-header">
+          <h2 class="detail-section-title" style="border:none;padding:0;margin:0;">
+            Active Travel Grants
+            <span style="font-weight:400;font-size:1rem;color:var(--color-muted);">({activeTravelGrants.length})</span>
+          </h2>
+          {activeTravelGrants.length > 0 && (
+            <a href={`/travel-grants/?funder=${funder.slug}`} class="section-view-all">
+              View all
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
+                <path d="M5 12h14M12 5l7 7-7 7"/>
+              </svg>
+            </a>
+          )}
+        </div>
+        <div style="margin-top:16px;">
+          {activeTravelGrants.length > 0 ? (
+            <div class="cards-grid">
+              {activeTravelGrants.slice(0, 6).map(g => <TravelGrantCard grant={g} compact={true} />)}
+            </div>
+          ) : (
+            <p class="text-muted">No active travel grants from this funder.</p>
+          )}
+        </div>
+      </section>
+
+      <!-- Record info -->
+      <section class="detail-section">
+        <h2 class="detail-section-title">Record Information</h2>
+        <div class="detail-grid">
+          {funder.last_verified && (
+            <div class="detail-field">
+              <span class="detail-field-label">Last Verified</span>
+              <span class="detail-field-value">
+                {new Date(funder.last_verified).toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' })}
+                {funder.verified_by && ` by ${funder.verified_by}`}
+              </span>
+            </div>
+          )}
+          {funder.created_at && (
+            <div class="detail-field">
+              <span class="detail-field-label">Added</span>
+              <span class="detail-field-value">
+                {new Date(funder.created_at).toLocaleDateString('en-GB', { month: 'long', year: 'numeric' })}
+              </span>
+            </div>
+          )}
+          <div class="detail-field">
+            <span class="detail-field-label">Source</span>
+            <span class="detail-field-value">{funder.source}</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- Actions -->
+      <div class="detail-actions">
+        <p class="detail-actions-title">Help keep this record accurate</p>
+        <a href={editUrl} class="btn btn-outline btn-sm" target="_blank" rel="noopener noreferrer">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <path d="M11 4H4a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2v-7"/>
+            <path d="M18.5 2.5a2.121 2.121 0 013 3L12 15l-4 1 1-4 9.5-9.5z"/>
+          </svg>
+          Edit on GitHub
+        </a>
+        <a href={issueUrl} class="btn btn-ghost btn-sm" target="_blank" rel="noopener noreferrer">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <circle cx="12" cy="12" r="10"/>
+            <line x1="12" y1="8" x2="12" y2="12"/>
+            <line x1="12" y1="16" x2="12.01" y2="16"/>
+          </svg>
+          Report an issue
+        </a>
+      </div>
+    </div>
+  </div>
+</BaseLayout>

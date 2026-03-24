@@ -1,0 +1,20 @@
+id: funder-cold-spring-harbor-laboratory
+legacy_id: 280
+slug: cold-spring-harbor-laboratory
+name: Cold Spring Harbor Laboratory
+short_name: Cold Spring Harbor Laboratory
+funder_registry_id: '100013356'
+country: United States
+website: null
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2020-05-21T09:36:15Z'
+source: legacy-import

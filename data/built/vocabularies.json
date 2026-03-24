@@ -1,0 +1,2884 @@
+{
+  "career_levels": [
+    {
+      "id": "career-level-bachelor-students",
+      "legacy_id": 7,
+      "slug": "bachelor-students",
+      "name": "Bachelor students",
+      "created_at": "2020-05-23T09:55:14Z",
+      "updated_at": "2020-05-23T09:55:14Z"
+    },
+    {
+      "id": "career-level-junior-faculty",
+      "legacy_id": 3,
+      "slug": "junior-faculty",
+      "name": "Junior Faculty",
+      "created_at": "2019-09-04T13:44:57Z",
+      "updated_at": "2019-09-04T13:44:57Z"
+    },
+    {
+      "id": "career-level-master-students",
+      "legacy_id": 5,
+      "slug": "master-students",
+      "name": "Master students",
+      "created_at": "2019-09-04T13:45:27Z",
+      "updated_at": "2019-09-04T13:45:27Z"
+    },
+    {
+      "id": "career-level-md",
+      "legacy_id": 6,
+      "slug": "md",
+      "name": "MD",
+      "created_at": "2020-05-22T19:12:46Z",
+      "updated_at": "2020-05-22T19:12:46Z"
+    },
+    {
+      "id": "career-level-phd",
+      "legacy_id": 1,
+      "slug": "phd",
+      "name": "PhD",
+      "created_at": "2019-09-04T13:36:56Z",
+      "updated_at": "2019-09-04T13:36:56Z"
+    },
+    {
+      "id": "career-level-postdoc",
+      "legacy_id": 2,
+      "slug": "postdoc",
+      "name": "Postdoc",
+      "created_at": "2019-09-04T13:37:07Z",
+      "updated_at": "2019-09-04T13:37:07Z"
+    },
+    {
+      "id": "career-level-senior-faculty",
+      "legacy_id": 4,
+      "slug": "senior-faculty",
+      "name": "Senior Faculty",
+      "created_at": "2019-09-04T13:45:08Z",
+      "updated_at": "2019-09-04T13:45:08Z"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "subject-accounting",
+      "legacy_id": 205,
+      "slug": "accounting",
+      "name": "Accounting",
+      "parent_id": 10,
+      "parent_slug": "business",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:27Z"
+    },
+    {
+      "id": "subject-adult-and-continuing-education",
+      "legacy_id": 147,
+      "slug": "adult-and-continuing-education",
+      "name": "Adult and Continuing Education",
+      "parent_id": 7,
+      "parent_slug": "education",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:06Z"
+    },
+    {
+      "id": "subject-advertising-and-promotion-management",
+      "legacy_id": 206,
+      "slug": "advertising-and-promotion-management",
+      "name": "Advertising and Promotion Management",
+      "parent_id": 10,
+      "parent_slug": "business",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:28Z"
+    },
+    {
+      "id": "subject-aeronautics",
+      "legacy_id": 255,
+      "slug": "aeronautics",
+      "name": "Aeronautics",
+      "parent_id": null,
+      "parent_slug": null,
+      "created_at": "2020-06-11T21:08:14Z",
+      "updated_at": "2020-06-11T21:08:14Z"
+    },
+    {
+      "id": "subject-aerospace-engineering",
+      "legacy_id": 77,
+      "slug": "aerospace-engineering",
+      "name": "Aerospace Engineering",
+      "parent_id": 4,
+      "parent_slug": "engineering",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:41Z"
+    },
+    {
+      "id": "subject-african-languages-and-societies",
+      "legacy_id": 97,
+      "slug": "african-languages-and-societies",
+      "name": "African Languages and Societies",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:48Z"
+    },
+    {
+      "id": "subject-agribusiness",
+      "legacy_id": 207,
+      "slug": "agribusiness",
+      "name": "Agribusiness",
+      "parent_id": 10,
+      "parent_slug": "business",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:28Z"
+    },
+    {
+      "id": "subject-agriculture",
+      "legacy_id": 15,
+      "slug": "agriculture",
+      "name": "Agriculture",
+      "parent_id": 1,
+      "parent_slug": "life-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T02:31:19Z"
+    },
+    {
+      "id": "subject-all-subjects",
+      "legacy_id": 14,
+      "slug": "all-subjects",
+      "name": "All subjects",
+      "parent_id": null,
+      "parent_slug": null,
+      "created_at": "2019-05-15T10:09:50Z",
+      "updated_at": "2019-05-15T10:09:50Z"
+    },
+    {
+      "id": "subject-alternative-and-complementary-medicine",
+      "legacy_id": 38,
+      "slug": "alternative-and-complementary-medicine",
+      "name": "Alternative and Complementary Medicine",
+      "parent_id": 2,
+      "parent_slug": "medicine-and-health-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:27Z"
+    },
+    {
+      "id": "subject-american-studies",
+      "legacy_id": 98,
+      "slug": "american-studies",
+      "name": "American Studies",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:49Z"
+    },
+    {
+      "id": "subject-analytical-diagnostic-and-therapeutic-techniques-and-equipment",
+      "legacy_id": 39,
+      "slug": "analytical-diagnostic-and-therapeutic-techniques-and-equipment",
+      "name": "Analytical, Diagnostic and Therapeutic Techniques and Equipment",
+      "parent_id": 2,
+      "parent_slug": "medicine-and-health-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:28Z"
+    },
+    {
+      "id": "subject-anatomy",
+      "legacy_id": 40,
+      "slug": "anatomy",
+      "name": "Anatomy",
+      "parent_id": 2,
+      "parent_slug": "medicine-and-health-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:28Z"
+    },
+    {
+      "id": "subject-anthropology",
+      "legacy_id": 182,
+      "slug": "anthropology",
+      "name": "Anthropology",
+      "parent_id": 9,
+      "parent_slug": "social-and-behavioral-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:19Z"
+    },
+    {
+      "id": "subject-appalachian-studies",
+      "legacy_id": 99,
+      "slug": "appalachian-studies",
+      "name": "Appalachian Studies",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:49Z"
+    },
+    {
+      "id": "subject-applied-mathematics",
+      "legacy_id": 66,
+      "slug": "applied-mathematics",
+      "name": "Applied Mathematics",
+      "parent_id": 3,
+      "parent_slug": "physical-sciences-and-mathematics",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:37Z"
+    },
+    {
+      "id": "subject-archaeology",
+      "legacy_id": 245,
+      "slug": "archaeology",
+      "name": "Archaeology",
+      "parent_id": null,
+      "parent_slug": null,
+      "created_at": "2020-05-24T21:07:07Z",
+      "updated_at": "2020-05-24T21:07:07Z"
+    },
+    {
+      "id": "subject-architecture",
+      "legacy_id": 6,
+      "slug": "architecture",
+      "name": "Architecture",
+      "parent_id": null,
+      "parent_slug": null,
+      "created_at": "2018-02-17T21:37:01Z",
+      "updated_at": "2018-12-20T10:35:19Z"
+    },
+    {
+      "id": "subject-art-and-design",
+      "legacy_id": 100,
+      "slug": "art-and-design",
+      "name": "Art and Design",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:49Z"
+    },
+    {
+      "id": "subject-art-education",
+      "legacy_id": 148,
+      "slug": "art-education",
+      "name": "Art Education",
+      "parent_id": 7,
+      "parent_slug": "education",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:06Z"
+    },
+    {
+      "id": "subject-art-practice",
+      "legacy_id": 101,
+      "slug": "art-practice",
+      "name": "Art Practice",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:50Z"
+    },
+    {
+      "id": "subject-artificial-intelligence",
+      "legacy_id": 241,
+      "slug": "artificial-intelligence",
+      "name": "Artificial intelligence",
+      "parent_id": null,
+      "parent_slug": null,
+      "created_at": "2020-05-22T19:26:21Z",
+      "updated_at": "2020-05-22T19:26:21Z"
+    },
+    {
+      "id": "subject-arts-and-humanities",
+      "legacy_id": 5,
+      "slug": "arts-and-humanities",
+      "name": "Arts and Humanities",
+      "parent_id": null,
+      "parent_slug": null,
+      "created_at": "2018-02-17T21:36:48Z",
+      "updated_at": "2018-12-20T10:34:46Z"
+    },
+    {
+      "id": "subject-arts-management",
+      "legacy_id": 208,
+      "slug": "arts-management",
+      "name": "Arts Management",
+      "parent_id": 10,
+      "parent_slug": "business",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:28Z"
+    },
+    {
+      "id": "subject-astrophysics-and-astronomy",
+      "legacy_id": 67,
+      "slug": "astrophysics-and-astronomy",
+      "name": "Astrophysics and Astronomy",
+      "parent_id": 3,
+      "parent_slug": "physical-sciences-and-mathematics",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:38Z"
+    },
+    {
+      "id": "subject-audio-arts-and-acoustics",
+      "legacy_id": 102,
+      "slug": "audio-arts-and-acoustics",
+      "name": "Audio Arts and Acoustics",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:50Z"
+    },
+    {
+      "id": "subject-australian-studies",
+      "legacy_id": 103,
+      "slug": "australian-studies",
+      "name": "Australian Studies",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:50Z"
+    },
+    {
+      "id": "subject-automotive-engineering",
+      "legacy_id": 78,
+      "slug": "automotive-engineering",
+      "name": "Automotive Engineering",
+      "parent_id": 4,
+      "parent_slug": "engineering",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:41Z"
+    },
+    {
+      "id": "subject-aviation",
+      "legacy_id": 79,
+      "slug": "aviation",
+      "name": "Aviation",
+      "parent_id": 4,
+      "parent_slug": "engineering",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:42Z"
+    },
+    {
+      "id": "subject-basque-studies",
+      "legacy_id": 104,
+      "slug": "basque-studies",
+      "name": "Basque Studies",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:51Z"
+    },
+    {
+      "id": "subject-bilingual-multilingual-and-multicultural-education",
+      "legacy_id": 149,
+      "slug": "bilingual-multilingual-and-multicultural-education",
+      "name": "Bilingual, Multilingual, and Multicultural Education",
+      "parent_id": 7,
+      "parent_slug": "education",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:07Z"
+    },
+    {
+      "id": "subject-biochemistry-biophysics-and-structural-biology",
+      "legacy_id": 16,
+      "slug": "biochemistry-biophysics-and-structural-biology",
+      "name": "Biochemistry, Biophysics, and Structural Biology",
+      "parent_id": 1,
+      "parent_slug": "life-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:20Z"
+    },
+    {
+      "id": "subject-biodiversity",
+      "legacy_id": 17,
+      "slug": "biodiversity",
+      "name": "Biodiversity",
+      "parent_id": 1,
+      "parent_slug": "life-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:20Z"
+    },
+    {
+      "id": "subject-bioethics-and-medical-ethics",
+      "legacy_id": 41,
+      "slug": "bioethics-and-medical-ethics",
+      "name": "Bioethics and Medical Ethics",
+      "parent_id": 2,
+      "parent_slug": "medicine-and-health-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:28Z"
+    },
+    {
+      "id": "subject-bioinformatics",
+      "legacy_id": 18,
+      "slug": "bioinformatics",
+      "name": "Bioinformatics",
+      "parent_id": 1,
+      "parent_slug": "life-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:20Z"
+    },
+    {
+      "id": "subject-biology",
+      "legacy_id": 19,
+      "slug": "biology",
+      "name": "Biology",
+      "parent_id": 1,
+      "parent_slug": "life-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:21Z"
+    },
+    {
+      "id": "subject-biomedical-engineering-and-bioengineering",
+      "legacy_id": 80,
+      "slug": "biomedical-engineering-and-bioengineering",
+      "name": "Biomedical Engineering and Bioengineering",
+      "parent_id": 4,
+      "parent_slug": "engineering",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:42Z"
+    },
+    {
+      "id": "subject-bioresource-and-agricultural-engineering",
+      "legacy_id": 81,
+      "slug": "bioresource-and-agricultural-engineering",
+      "name": "Bioresource and Agricultural Engineering",
+      "parent_id": 4,
+      "parent_slug": "engineering",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:42Z"
+    },
+    {
+      "id": "subject-biotechnology",
+      "legacy_id": 20,
+      "slug": "biotechnology",
+      "name": "Biotechnology",
+      "parent_id": 1,
+      "parent_slug": "life-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:21Z"
+    },
+    {
+      "id": "subject-business-administration-management-and-operations",
+      "legacy_id": 209,
+      "slug": "business-administration-management-and-operations",
+      "name": "Business Administration, Management, and Operations",
+      "parent_id": 10,
+      "parent_slug": "business",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:29Z"
+    },
+    {
+      "id": "subject-business-and-corporate-communications",
+      "legacy_id": 210,
+      "slug": "business-and-corporate-communications",
+      "name": "Business and Corporate Communications",
+      "parent_id": 10,
+      "parent_slug": "business",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:29Z"
+    },
+    {
+      "id": "subject-business-intelligence",
+      "legacy_id": 211,
+      "slug": "business-intelligence",
+      "name": "Business Intelligence",
+      "parent_id": 10,
+      "parent_slug": "business",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:30Z"
+    },
+    {
+      "id": "subject-business-law-public-responsibility-and-ethics-business",
+      "legacy_id": 212,
+      "slug": "business-law-public-responsibility-and-ethics-business",
+      "name": "Business Law, Public Responsibility, and Ethics Business",
+      "parent_id": 10,
+      "parent_slug": "business",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:30Z"
+    },
+    {
+      "id": "subject-business",
+      "legacy_id": 10,
+      "slug": "business",
+      "name": "Business",
+      "parent_id": null,
+      "parent_slug": null,
+      "created_at": "2018-12-20T10:36:50Z",
+      "updated_at": "2018-12-20T10:36:50Z"
+    },
+    {
+      "id": "subject-cell-and-developmental-biology",
+      "legacy_id": 21,
+      "slug": "cell-and-developmental-biology",
+      "name": "Cell and Developmental Biology",
+      "parent_id": 1,
+      "parent_slug": "life-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:21Z"
+    },
+    {
+      "id": "subject-celtic-studies",
+      "legacy_id": 105,
+      "slug": "celtic-studies",
+      "name": "Celtic Studies",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:51Z"
+    },
+    {
+      "id": "subject-chemical-engineering",
+      "legacy_id": 82,
+      "slug": "chemical-engineering",
+      "name": "Chemical Engineering",
+      "parent_id": 4,
+      "parent_slug": "engineering",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:43Z"
+    },
+    {
+      "id": "subject-chemicals-and-drugs",
+      "legacy_id": 42,
+      "slug": "chemicals-and-drugs",
+      "name": "Chemicals and Drugs",
+      "parent_id": 2,
+      "parent_slug": "medicine-and-health-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:29Z"
+    },
+    {
+      "id": "subject-chemistry",
+      "legacy_id": 68,
+      "slug": "chemistry",
+      "name": "Chemistry",
+      "parent_id": 3,
+      "parent_slug": "physical-sciences-and-mathematics",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:38Z"
+    },
+    {
+      "id": "subject-civil-and-environmental-engineering",
+      "legacy_id": 83,
+      "slug": "civil-and-environmental-engineering",
+      "name": "Civil and Environmental Engineering",
+      "parent_id": 4,
+      "parent_slug": "engineering",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:43Z"
+    },
+    {
+      "id": "subject-classics",
+      "legacy_id": 106,
+      "slug": "classics",
+      "name": "Classics",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:51Z"
+    },
+    {
+      "id": "subject-communication-sciences-and-disorders",
+      "legacy_id": 43,
+      "slug": "communication-sciences-and-disorders",
+      "name": "Communication Sciences and Disorders",
+      "parent_id": 2,
+      "parent_slug": "medicine-and-health-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:29Z"
+    },
+    {
+      "id": "subject-communication",
+      "legacy_id": 183,
+      "slug": "communication",
+      "name": "Communication",
+      "parent_id": 9,
+      "parent_slug": "social-and-behavioral-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:19Z"
+    },
+    {
+      "id": "subject-community-college-leadership",
+      "legacy_id": 150,
+      "slug": "community-college-leadership",
+      "name": "Community College Leadership",
+      "parent_id": 7,
+      "parent_slug": "education",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:07Z"
+    },
+    {
+      "id": "subject-comparative-literature",
+      "legacy_id": 107,
+      "slug": "comparative-literature",
+      "name": "Comparative Literature",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:52Z"
+    },
+    {
+      "id": "subject-computational-biology",
+      "legacy_id": 248,
+      "slug": "computational-biology",
+      "name": "Computational Biology",
+      "parent_id": null,
+      "parent_slug": null,
+      "created_at": "2020-05-24T22:04:01Z",
+      "updated_at": "2020-05-24T22:04:01Z"
+    },
+    {
+      "id": "subject-computational-engineering",
+      "legacy_id": 84,
+      "slug": "computational-engineering",
+      "name": "Computational Engineering",
+      "parent_id": 4,
+      "parent_slug": "engineering",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:43Z"
+    },
+    {
+      "id": "subject-computer-engineering",
+      "legacy_id": 85,
+      "slug": "computer-engineering",
+      "name": "Computer Engineering",
+      "parent_id": 4,
+      "parent_slug": "engineering",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:44Z"
+    },
+    {
+      "id": "subject-computer-sciences",
+      "legacy_id": 69,
+      "slug": "computer-sciences",
+      "name": "Computer Sciences",
+      "parent_id": 3,
+      "parent_slug": "physical-sciences-and-mathematics",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:38Z"
+    },
+    {
+      "id": "subject-corporate-finance",
+      "legacy_id": 213,
+      "slug": "corporate-finance",
+      "name": "Corporate Finance",
+      "parent_id": 10,
+      "parent_slug": "business",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:31Z"
+    },
+    {
+      "id": "subject-counseling",
+      "legacy_id": 184,
+      "slug": "counseling",
+      "name": "Counseling",
+      "parent_id": 9,
+      "parent_slug": "social-and-behavioral-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:19Z"
+    },
+    {
+      "id": "subject-creative-writing",
+      "legacy_id": 108,
+      "slug": "creative-writing",
+      "name": "Creative Writing",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:52Z"
+    },
+    {
+      "id": "subject-curriculum-and-instruction",
+      "legacy_id": 151,
+      "slug": "curriculum-and-instruction",
+      "name": "Curriculum and Instruction",
+      "parent_id": 7,
+      "parent_slug": "education",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:07Z"
+    },
+    {
+      "id": "subject-curriculum-and-social-inquiry",
+      "legacy_id": 152,
+      "slug": "curriculum-and-social-inquiry",
+      "name": "Curriculum and Social Inquiry",
+      "parent_id": 7,
+      "parent_slug": "education",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:08Z"
+    },
+    {
+      "id": "subject-dentistry",
+      "legacy_id": 44,
+      "slug": "dentistry",
+      "name": "Dentistry",
+      "parent_id": 2,
+      "parent_slug": "medicine-and-health-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:29Z"
+    },
+    {
+      "id": "subject-dietetics-and-clinical-nutrition",
+      "legacy_id": 45,
+      "slug": "dietetics-and-clinical-nutrition",
+      "name": "Dietetics and Clinical Nutrition",
+      "parent_id": 2,
+      "parent_slug": "medicine-and-health-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:30Z"
+    },
+    {
+      "id": "subject-digital-humanities",
+      "legacy_id": 109,
+      "slug": "digital-humanities",
+      "name": "Digital Humanities",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:52Z"
+    },
+    {
+      "id": "subject-disability-and-equity-in-education",
+      "legacy_id": 153,
+      "slug": "disability-and-equity-in-education",
+      "name": "Disability and Equity in Education",
+      "parent_id": 7,
+      "parent_slug": "education",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:08Z"
+    },
+    {
+      "id": "subject-diseases",
+      "legacy_id": 46,
+      "slug": "diseases",
+      "name": "Diseases",
+      "parent_id": 2,
+      "parent_slug": "medicine-and-health-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:30Z"
+    },
+    {
+      "id": "subject-dutch-studies",
+      "legacy_id": 110,
+      "slug": "dutch-studies",
+      "name": "Dutch Studies",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:53Z"
+    },
+    {
+      "id": "subject-e-commerce",
+      "legacy_id": 214,
+      "slug": "e-commerce",
+      "name": "E-Commerce",
+      "parent_id": 10,
+      "parent_slug": "business",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:31Z"
+    },
+    {
+      "id": "subject-early-childhood-education",
+      "legacy_id": 154,
+      "slug": "early-childhood-education",
+      "name": "Early Childhood Education",
+      "parent_id": 7,
+      "parent_slug": "education",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:08Z"
+    },
+    {
+      "id": "subject-earth-sciences",
+      "legacy_id": 70,
+      "slug": "earth-sciences",
+      "name": "Earth Sciences",
+      "parent_id": 3,
+      "parent_slug": "physical-sciences-and-mathematics",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:39Z"
+    },
+    {
+      "id": "subject-east-asian-languages-and-societies",
+      "legacy_id": 111,
+      "slug": "east-asian-languages-and-societies",
+      "name": "East Asian Languages and Societies",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:53Z"
+    },
+    {
+      "id": "subject-ecology-and-evolutionary-biology",
+      "legacy_id": 22,
+      "slug": "ecology-and-evolutionary-biology",
+      "name": "Ecology and Evolutionary Biology",
+      "parent_id": 1,
+      "parent_slug": "life-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:22Z"
+    },
+    {
+      "id": "subject-economics",
+      "legacy_id": 185,
+      "slug": "economics",
+      "name": "Economics",
+      "parent_id": 9,
+      "parent_slug": "social-and-behavioral-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:20Z"
+    },
+    {
+      "id": "subject-education-economics",
+      "legacy_id": 160,
+      "slug": "education-economics",
+      "name": "Education Economics",
+      "parent_id": 7,
+      "parent_slug": "education",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:11Z"
+    },
+    {
+      "id": "subject-education",
+      "legacy_id": 7,
+      "slug": "education",
+      "name": "Education",
+      "parent_id": null,
+      "parent_slug": null,
+      "created_at": "2018-02-17T21:37:14Z",
+      "updated_at": "2018-12-20T10:35:38Z"
+    },
+    {
+      "id": "subject-educational-administration-and-supervision",
+      "legacy_id": 155,
+      "slug": "educational-administration-and-supervision",
+      "name": "Educational Administration and Supervision",
+      "parent_id": 7,
+      "parent_slug": "education",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:09Z"
+    },
+    {
+      "id": "subject-educational-assessment-evaluation-and-research",
+      "legacy_id": 156,
+      "slug": "educational-assessment-evaluation-and-research",
+      "name": "Educational Assessment, Evaluation, and Research",
+      "parent_id": 7,
+      "parent_slug": "education",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:09Z"
+    },
+    {
+      "id": "subject-educational-leadership",
+      "legacy_id": 157,
+      "slug": "educational-leadership",
+      "name": "Educational Leadership",
+      "parent_id": 7,
+      "parent_slug": "education",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:09Z"
+    },
+    {
+      "id": "subject-educational-methods",
+      "legacy_id": 158,
+      "slug": "educational-methods",
+      "name": "Educational Methods",
+      "parent_id": 7,
+      "parent_slug": "education",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:10Z"
+    },
+    {
+      "id": "subject-educational-psychology",
+      "legacy_id": 159,
+      "slug": "educational-psychology",
+      "name": "Educational Psychology",
+      "parent_id": 7,
+      "parent_slug": "education",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:10Z"
+    },
+    {
+      "id": "subject-electrical-and-computer-engineering",
+      "legacy_id": 86,
+      "slug": "electrical-and-computer-engineering",
+      "name": "Electrical and Computer Engineering",
+      "parent_id": 4,
+      "parent_slug": "engineering",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:44Z"
+    },
+    {
+      "id": "subject-elementary-education",
+      "legacy_id": 161,
+      "slug": "elementary-education",
+      "name": "Elementary Education",
+      "parent_id": 7,
+      "parent_slug": "education",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:11Z"
+    },
+    {
+      "id": "subject-energy",
+      "legacy_id": 252,
+      "slug": "energy",
+      "name": "Energy",
+      "parent_id": null,
+      "parent_slug": null,
+      "created_at": "2020-05-26T08:54:18Z",
+      "updated_at": "2020-05-26T08:54:18Z"
+    },
+    {
+      "id": "subject-engineering-education",
+      "legacy_id": 87,
+      "slug": "engineering-education",
+      "name": "Engineering Education",
+      "parent_id": 4,
+      "parent_slug": "engineering",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:45Z"
+    },
+    {
+      "id": "subject-engineering-science-and-materials",
+      "legacy_id": 88,
+      "slug": "engineering-science-and-materials",
+      "name": "Engineering Science and Materials",
+      "parent_id": 4,
+      "parent_slug": "engineering",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:45Z"
+    },
+    {
+      "id": "subject-engineering",
+      "legacy_id": 4,
+      "slug": "engineering",
+      "name": "Engineering",
+      "parent_id": null,
+      "parent_slug": null,
+      "created_at": "2018-02-17T21:36:29Z",
+      "updated_at": "2018-12-20T10:34:17Z"
+    },
+    {
+      "id": "subject-english-language-and-literature",
+      "legacy_id": 112,
+      "slug": "english-language-and-literature",
+      "name": "English Language and Literature",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:53Z"
+    },
+    {
+      "id": "subject-entomology",
+      "legacy_id": 23,
+      "slug": "entomology",
+      "name": "Entomology",
+      "parent_id": 1,
+      "parent_slug": "life-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:22Z"
+    },
+    {
+      "id": "subject-entrepreneurial-and-small-business-operations",
+      "legacy_id": 215,
+      "slug": "entrepreneurial-and-small-business-operations",
+      "name": "Entrepreneurial and Small Business Operations",
+      "parent_id": 10,
+      "parent_slug": "business",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:31Z"
+    },
+    {
+      "id": "subject-environmental-sciences",
+      "legacy_id": 71,
+      "slug": "environmental-sciences",
+      "name": "Environmental Sciences",
+      "parent_id": 3,
+      "parent_slug": "physical-sciences-and-mathematics",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:39Z"
+    },
+    {
+      "id": "subject-environmental-studies",
+      "legacy_id": 186,
+      "slug": "environmental-studies",
+      "name": "Environmental Studies",
+      "parent_id": 9,
+      "parent_slug": "social-and-behavioral-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:20Z"
+    },
+    {
+      "id": "subject-epistemology",
+      "legacy_id": 244,
+      "slug": "epistemology",
+      "name": "Epistemology",
+      "parent_id": null,
+      "parent_slug": null,
+      "created_at": "2020-05-24T21:06:41Z",
+      "updated_at": "2020-05-24T21:06:41Z"
+    },
+    {
+      "id": "subject-ethology",
+      "legacy_id": 242,
+      "slug": "ethology",
+      "name": "Ethology",
+      "parent_id": null,
+      "parent_slug": null,
+      "created_at": "2020-05-24T21:03:54Z",
+      "updated_at": "2020-05-24T21:03:54Z"
+    },
+    {
+      "id": "subject-european-languages-and-societies",
+      "legacy_id": 113,
+      "slug": "european-languages-and-societies",
+      "name": "European Languages and Societies",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:54Z"
+    },
+    {
+      "id": "subject-fashion-business",
+      "legacy_id": 216,
+      "slug": "fashion-business",
+      "name": "Fashion Business",
+      "parent_id": 10,
+      "parent_slug": "business",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:32Z"
+    },
+    {
+      "id": "subject-feminist-gender-and-sexuality-studies",
+      "legacy_id": 114,
+      "slug": "feminist-gender-and-sexuality-studies",
+      "name": "Feminist, Gender, and Sexuality Studies",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:54Z"
+    },
+    {
+      "id": "subject-film-and-media-studies",
+      "legacy_id": 115,
+      "slug": "film-and-media-studies",
+      "name": "Film and Media Studies",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:55Z"
+    },
+    {
+      "id": "subject-finance-and-financial-management",
+      "legacy_id": 217,
+      "slug": "finance-and-financial-management",
+      "name": "Finance and Financial Management",
+      "parent_id": 10,
+      "parent_slug": "business",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:32Z"
+    },
+    {
+      "id": "subject-fine-arts",
+      "legacy_id": 116,
+      "slug": "fine-arts",
+      "name": "Fine Arts",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:55Z"
+    },
+    {
+      "id": "subject-food-science",
+      "legacy_id": 24,
+      "slug": "food-science",
+      "name": "Food Science",
+      "parent_id": 1,
+      "parent_slug": "life-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:22Z"
+    },
+    {
+      "id": "subject-food-studies",
+      "legacy_id": 187,
+      "slug": "food-studies",
+      "name": "Food Studies",
+      "parent_id": 9,
+      "parent_slug": "social-and-behavioral-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:21Z"
+    },
+    {
+      "id": "subject-forest-sciences",
+      "legacy_id": 25,
+      "slug": "forest-sciences",
+      "name": "Forest Sciences",
+      "parent_id": 1,
+      "parent_slug": "life-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:23Z"
+    },
+    {
+      "id": "subject-french-and-francophone-language-and-literature",
+      "legacy_id": 117,
+      "slug": "french-and-francophone-language-and-literature",
+      "name": "French and Francophone Language and Literature",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:55Z"
+    },
+    {
+      "id": "subject-genetics-and-genomics",
+      "legacy_id": 26,
+      "slug": "genetics-and-genomics",
+      "name": "Genetics and Genomics",
+      "parent_id": 1,
+      "parent_slug": "life-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:23Z"
+    },
+    {
+      "id": "subject-geography",
+      "legacy_id": 188,
+      "slug": "geography",
+      "name": "Geography",
+      "parent_id": 9,
+      "parent_slug": "social-and-behavioral-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:21Z"
+    },
+    {
+      "id": "subject-german-language-and-literature",
+      "legacy_id": 118,
+      "slug": "german-language-and-literature",
+      "name": "German Language and Literature",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:56Z"
+    },
+    {
+      "id": "subject-gifted-education",
+      "legacy_id": 162,
+      "slug": "gifted-education",
+      "name": "Gifted Education",
+      "parent_id": 7,
+      "parent_slug": "education",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:11Z"
+    },
+    {
+      "id": "subject-health-and-medical-administration",
+      "legacy_id": 47,
+      "slug": "health-and-medical-administration",
+      "name": "Health and Medical Administration",
+      "parent_id": 2,
+      "parent_slug": "medicine-and-health-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:30Z"
+    },
+    {
+      "id": "subject-health-and-physical-education",
+      "legacy_id": 163,
+      "slug": "health-and-physical-education",
+      "name": "Health and Physical Education",
+      "parent_id": 7,
+      "parent_slug": "education",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:12Z"
+    },
+    {
+      "id": "subject-health-information-technology",
+      "legacy_id": 48,
+      "slug": "health-information-technology",
+      "name": "Health Information Technology",
+      "parent_id": 2,
+      "parent_slug": "medicine-and-health-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:31Z"
+    },
+    {
+      "id": "subject-higher-education",
+      "legacy_id": 164,
+      "slug": "higher-education",
+      "name": "Higher Education",
+      "parent_id": 7,
+      "parent_slug": "education",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:12Z"
+    },
+    {
+      "id": "subject-history-of-art-architecture-and-archaeology",
+      "legacy_id": 120,
+      "slug": "history-of-art-architecture-and-archaeology",
+      "name": "History of Art, Architecture, and Archaeology",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:56Z"
+    },
+    {
+      "id": "subject-history",
+      "legacy_id": 119,
+      "slug": "history",
+      "name": "History",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:56Z"
+    },
+    {
+      "id": "subject-home-economics",
+      "legacy_id": 165,
+      "slug": "home-economics",
+      "name": "Home Economics",
+      "parent_id": 7,
+      "parent_slug": "education",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:12Z"
+    },
+    {
+      "id": "subject-hospitality-administration-and-management",
+      "legacy_id": 218,
+      "slug": "hospitality-administration-and-management",
+      "name": "Hospitality Administration and Management",
+      "parent_id": 10,
+      "parent_slug": "business",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:32Z"
+    },
+    {
+      "id": "subject-human-resources-management",
+      "legacy_id": 219,
+      "slug": "human-resources-management",
+      "name": "Human Resources Management",
+      "parent_id": 10,
+      "parent_slug": "business",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:33Z"
+    },
+    {
+      "id": "subject-humane-education",
+      "legacy_id": 166,
+      "slug": "humane-education",
+      "name": "Humane Education",
+      "parent_id": 7,
+      "parent_slug": "education",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:13Z"
+    },
+    {
+      "id": "subject-immunology",
+      "legacy_id": 11,
+      "slug": "immunology",
+      "name": "Immunology",
+      "parent_id": 1,
+      "parent_slug": "life-sciences",
+      "created_at": "2018-12-20T10:45:54Z",
+      "updated_at": "2018-12-20T10:47:04Z"
+    },
+    {
+      "id": "subject-indigenous-education",
+      "legacy_id": 167,
+      "slug": "indigenous-education",
+      "name": "Indigenous Education",
+      "parent_id": 7,
+      "parent_slug": "education",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:13Z"
+    },
+    {
+      "id": "subject-infectious-disease",
+      "legacy_id": 27,
+      "slug": "infectious-disease",
+      "name": "Infectious Disease",
+      "parent_id": 1,
+      "parent_slug": "life-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:23Z"
+    },
+    {
+      "id": "subject-instructional-media-design",
+      "legacy_id": 168,
+      "slug": "instructional-media-design",
+      "name": "Instructional Media Design",
+      "parent_id": 7,
+      "parent_slug": "education",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:13Z"
+    },
+    {
+      "id": "subject-insurance",
+      "legacy_id": 220,
+      "slug": "insurance",
+      "name": "Insurance",
+      "parent_id": 10,
+      "parent_slug": "business",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:33Z"
+    },
+    {
+      "id": "subject-international-and-area-studies",
+      "legacy_id": 189,
+      "slug": "international-and-area-studies",
+      "name": "International and Area Studies",
+      "parent_id": 9,
+      "parent_slug": "social-and-behavioral-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:21Z"
+    },
+    {
+      "id": "subject-international-and-comparative-education",
+      "legacy_id": 169,
+      "slug": "international-and-comparative-education",
+      "name": "International and Comparative Education",
+      "parent_id": 7,
+      "parent_slug": "education",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:14Z"
+    },
+    {
+      "id": "subject-international-business",
+      "legacy_id": 221,
+      "slug": "international-business",
+      "name": "International Business",
+      "parent_id": 10,
+      "parent_slug": "business",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:34Z"
+    },
+    {
+      "id": "subject-italian-language-and-literature",
+      "legacy_id": 121,
+      "slug": "italian-language-and-literature",
+      "name": "Italian Language and Literature",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:57Z"
+    },
+    {
+      "id": "subject-jewish-studies",
+      "legacy_id": 122,
+      "slug": "jewish-studies",
+      "name": "Jewish Studies",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:57Z"
+    },
+    {
+      "id": "subject-kinesiology",
+      "legacy_id": 28,
+      "slug": "kinesiology",
+      "name": "Kinesiology",
+      "parent_id": 1,
+      "parent_slug": "life-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:24Z"
+    },
+    {
+      "id": "subject-labor-relations",
+      "legacy_id": 222,
+      "slug": "labor-relations",
+      "name": "Labor Relations",
+      "parent_id": 10,
+      "parent_slug": "business",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:34Z"
+    },
+    {
+      "id": "subject-laboratory-and-basic-life-science-research",
+      "legacy_id": 29,
+      "slug": "laboratory-and-basic-life-science-research",
+      "name": "Laboratory and Basic Life Science Research",
+      "parent_id": 1,
+      "parent_slug": "life-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:24Z"
+    },
+    {
+      "id": "subject-language-and-literacy-education",
+      "legacy_id": 170,
+      "slug": "language-and-literacy-education",
+      "name": "Language and Literacy Education",
+      "parent_id": 7,
+      "parent_slug": "education",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:14Z"
+    },
+    {
+      "id": "subject-latin-american-languages-and-societies",
+      "legacy_id": 123,
+      "slug": "latin-american-languages-and-societies",
+      "name": "Latin American Languages and Societies",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:57Z"
+    },
+    {
+      "id": "subject-law",
+      "legacy_id": 8,
+      "slug": "law",
+      "name": "Law",
+      "parent_id": null,
+      "parent_slug": null,
+      "created_at": "2018-12-20T10:35:51Z",
+      "updated_at": "2018-12-20T10:35:51Z"
+    },
+    {
+      "id": "subject-leadership-studies",
+      "legacy_id": 190,
+      "slug": "leadership-studies",
+      "name": "Leadership Studies",
+      "parent_id": 9,
+      "parent_slug": "social-and-behavioral-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:22Z"
+    },
+    {
+      "id": "subject-legal-studies",
+      "legacy_id": 191,
+      "slug": "legal-studies",
+      "name": "Legal Studies",
+      "parent_id": 9,
+      "parent_slug": "social-and-behavioral-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:22Z"
+    },
+    {
+      "id": "subject-leisure-studies",
+      "legacy_id": 192,
+      "slug": "leisure-studies",
+      "name": "Leisure Studies",
+      "parent_id": 9,
+      "parent_slug": "social-and-behavioral-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:22Z"
+    },
+    {
+      "id": "subject-liberal-studies",
+      "legacy_id": 171,
+      "slug": "liberal-studies",
+      "name": "Liberal Studies",
+      "parent_id": 7,
+      "parent_slug": "education",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:15Z"
+    },
+    {
+      "id": "subject-library-and-information-science",
+      "legacy_id": 193,
+      "slug": "library-and-information-science",
+      "name": "Library and Information Science",
+      "parent_id": 9,
+      "parent_slug": "social-and-behavioral-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:23Z"
+    },
+    {
+      "id": "subject-life-sciences",
+      "legacy_id": 1,
+      "slug": "life-sciences",
+      "name": "Life Sciences",
+      "parent_id": 14,
+      "parent_slug": "all-subjects",
+      "created_at": "2018-02-17T21:35:24Z",
+      "updated_at": "2019-05-15T10:10:15Z"
+    },
+    {
+      "id": "subject-linguistics",
+      "legacy_id": 194,
+      "slug": "linguistics",
+      "name": "Linguistics",
+      "parent_id": 9,
+      "parent_slug": "social-and-behavioral-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:23Z"
+    },
+    {
+      "id": "subject-literature-and-languages",
+      "legacy_id": 256,
+      "slug": "literature-and-languages",
+      "name": "Literature and Languages",
+      "parent_id": null,
+      "parent_slug": null,
+      "created_at": "2020-06-30T18:44:23Z",
+      "updated_at": "2020-06-30T18:44:23Z"
+    },
+    {
+      "id": "subject-logic",
+      "legacy_id": 243,
+      "slug": "logic",
+      "name": "Logic",
+      "parent_id": null,
+      "parent_slug": null,
+      "created_at": "2020-05-24T21:06:16Z",
+      "updated_at": "2020-05-24T21:06:16Z"
+    },
+    {
+      "id": "subject-management-information-systems",
+      "legacy_id": 223,
+      "slug": "management-information-systems",
+      "name": "Management Information Systems",
+      "parent_id": 10,
+      "parent_slug": "business",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:34Z"
+    },
+    {
+      "id": "subject-management-sciences-and-quantitative-methods",
+      "legacy_id": 224,
+      "slug": "management-sciences-and-quantitative-methods",
+      "name": "Management Sciences and Quantitative Methods",
+      "parent_id": 10,
+      "parent_slug": "business",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:35Z"
+    },
+    {
+      "id": "subject-marine-biology",
+      "legacy_id": 30,
+      "slug": "marine-biology",
+      "name": "Marine Biology",
+      "parent_id": 1,
+      "parent_slug": "life-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:24Z"
+    },
+    {
+      "id": "subject-marketing",
+      "legacy_id": 225,
+      "slug": "marketing",
+      "name": "Marketing",
+      "parent_id": 10,
+      "parent_slug": "business",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:35Z"
+    },
+    {
+      "id": "subject-materials-science-and-engineering",
+      "legacy_id": 89,
+      "slug": "materials-science-and-engineering",
+      "name": "Materials Science and Engineering",
+      "parent_id": 4,
+      "parent_slug": "engineering",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:45Z"
+    },
+    {
+      "id": "subject-mathematics",
+      "legacy_id": 72,
+      "slug": "mathematics",
+      "name": "Mathematics",
+      "parent_id": 3,
+      "parent_slug": "physical-sciences-and-mathematics",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:39Z"
+    },
+    {
+      "id": "subject-mechanical-engineering",
+      "legacy_id": 90,
+      "slug": "mechanical-engineering",
+      "name": "Mechanical Engineering",
+      "parent_id": 4,
+      "parent_slug": "engineering",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:46Z"
+    },
+    {
+      "id": "subject-medical-education",
+      "legacy_id": 49,
+      "slug": "medical-education",
+      "name": "Medical Education",
+      "parent_id": 2,
+      "parent_slug": "medicine-and-health-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:31Z"
+    },
+    {
+      "id": "subject-medical-humanities",
+      "legacy_id": 50,
+      "slug": "medical-humanities",
+      "name": "Medical Humanities",
+      "parent_id": 2,
+      "parent_slug": "medicine-and-health-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:31Z"
+    },
+    {
+      "id": "subject-medical-sciences",
+      "legacy_id": 51,
+      "slug": "medical-sciences",
+      "name": "Medical Sciences",
+      "parent_id": 2,
+      "parent_slug": "medicine-and-health-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:32Z"
+    },
+    {
+      "id": "subject-medical-specialties",
+      "legacy_id": 52,
+      "slug": "medical-specialties",
+      "name": "Medical Specialties",
+      "parent_id": 2,
+      "parent_slug": "medicine-and-health-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:32Z"
+    },
+    {
+      "id": "subject-medicine-and-health-sciences",
+      "legacy_id": 2,
+      "slug": "medicine-and-health-sciences",
+      "name": "Medicine and Health Sciences",
+      "parent_id": null,
+      "parent_slug": null,
+      "created_at": "2018-02-17T21:35:40Z",
+      "updated_at": "2018-12-20T10:33:10Z"
+    },
+    {
+      "id": "subject-medieval-studies",
+      "legacy_id": 124,
+      "slug": "medieval-studies",
+      "name": "Medieval Studies",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:58Z"
+    },
+    {
+      "id": "subject-mental-and-social-health",
+      "legacy_id": 53,
+      "slug": "mental-and-social-health",
+      "name": "Mental and Social Health",
+      "parent_id": 2,
+      "parent_slug": "medicine-and-health-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:33Z"
+    },
+    {
+      "id": "subject-microbiology",
+      "legacy_id": 12,
+      "slug": "microbiology",
+      "name": "Microbiology",
+      "parent_id": 1,
+      "parent_slug": "life-sciences",
+      "created_at": "2018-12-20T10:48:19Z",
+      "updated_at": "2018-12-20T10:48:19Z"
+    },
+    {
+      "id": "subject-mining-engineering",
+      "legacy_id": 91,
+      "slug": "mining-engineering",
+      "name": "Mining Engineering",
+      "parent_id": 4,
+      "parent_slug": "engineering",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:46Z"
+    },
+    {
+      "id": "subject-modern-languages",
+      "legacy_id": 125,
+      "slug": "modern-languages",
+      "name": "Modern Languages",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:58Z"
+    },
+    {
+      "id": "subject-modern-literature",
+      "legacy_id": 126,
+      "slug": "modern-literature",
+      "name": "Modern Literature",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:59Z"
+    },
+    {
+      "id": "subject-molecular-biology",
+      "legacy_id": 249,
+      "slug": "molecular-biology",
+      "name": "Molecular Biology",
+      "parent_id": null,
+      "parent_slug": null,
+      "created_at": "2020-05-24T22:04:28Z",
+      "updated_at": "2020-05-24T22:04:28Z"
+    },
+    {
+      "id": "subject-museum-studies",
+      "legacy_id": 127,
+      "slug": "museum-studies",
+      "name": "Museum Studies",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:59Z"
+    },
+    {
+      "id": "subject-music",
+      "legacy_id": 128,
+      "slug": "music",
+      "name": "Music",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:59Z"
+    },
+    {
+      "id": "subject-nanoscience-and-nanotechnology",
+      "legacy_id": 92,
+      "slug": "nanoscience-and-nanotechnology",
+      "name": "Nanoscience and Nanotechnology",
+      "parent_id": 4,
+      "parent_slug": "engineering",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:46Z"
+    },
+    {
+      "id": "subject-nanotechnology",
+      "legacy_id": 54,
+      "slug": "nanotechnology",
+      "name": "Nanotechnology",
+      "parent_id": 2,
+      "parent_slug": "medicine-and-health-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:33Z"
+    },
+    {
+      "id": "subject-natural-sciences",
+      "legacy_id": 239,
+      "slug": "natural-sciences",
+      "name": "Natural Sciences",
+      "parent_id": null,
+      "parent_slug": null,
+      "created_at": "2020-05-22T15:37:16Z",
+      "updated_at": "2020-05-22T15:37:16Z"
+    },
+    {
+      "id": "subject-near-eastern-languages-and-societies",
+      "legacy_id": 129,
+      "slug": "near-eastern-languages-and-societies",
+      "name": "Near Eastern Languages and Societies",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:00Z"
+    },
+    {
+      "id": "subject-neurophysiology",
+      "legacy_id": 254,
+      "slug": "neurophysiology",
+      "name": "Neurophysiology",
+      "parent_id": null,
+      "parent_slug": null,
+      "created_at": "2020-06-10T22:37:28Z",
+      "updated_at": "2020-06-10T22:39:23Z"
+    },
+    {
+      "id": "subject-neuroscience",
+      "legacy_id": 13,
+      "slug": "neuroscience",
+      "name": "Neuroscience",
+      "parent_id": 1,
+      "parent_slug": "life-sciences",
+      "created_at": "2018-12-20T10:48:47Z",
+      "updated_at": "2018-12-20T10:48:47Z"
+    },
+    {
+      "id": "subject-nonprofit-administration-and-management",
+      "legacy_id": 226,
+      "slug": "nonprofit-administration-and-management",
+      "name": "Nonprofit Administration and Management",
+      "parent_id": 10,
+      "parent_slug": "business",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:36Z"
+    },
+    {
+      "id": "subject-nuclear-engineering",
+      "legacy_id": 93,
+      "slug": "nuclear-engineering",
+      "name": "Nuclear Engineering",
+      "parent_id": 4,
+      "parent_slug": "engineering",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:47Z"
+    },
+    {
+      "id": "subject-nursing",
+      "legacy_id": 55,
+      "slug": "nursing",
+      "name": "Nursing",
+      "parent_id": 2,
+      "parent_slug": "medicine-and-health-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:33Z"
+    },
+    {
+      "id": "subject-nutrition",
+      "legacy_id": 31,
+      "slug": "nutrition",
+      "name": "Nutrition",
+      "parent_id": 1,
+      "parent_slug": "life-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:25Z"
+    },
+    {
+      "id": "subject-oceanography-and-atmospheric-sciences-and-meteorology",
+      "legacy_id": 73,
+      "slug": "oceanography-and-atmospheric-sciences-and-meteorology",
+      "name": "Oceanography and Atmospheric Sciences and Meteorology",
+      "parent_id": 3,
+      "parent_slug": "physical-sciences-and-mathematics",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:40Z"
+    },
+    {
+      "id": "subject-online-and-distance-education",
+      "legacy_id": 172,
+      "slug": "online-and-distance-education",
+      "name": "Online and Distance Education",
+      "parent_id": 7,
+      "parent_slug": "education",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:15Z"
+    },
+    {
+      "id": "subject-operations-and-supply-chain-management",
+      "legacy_id": 227,
+      "slug": "operations-and-supply-chain-management",
+      "name": "Operations and Supply Chain Management",
+      "parent_id": 10,
+      "parent_slug": "business",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:36Z"
+    },
+    {
+      "id": "subject-operations-research-systems-engineering-and-industrial-engineering",
+      "legacy_id": 94,
+      "slug": "operations-research-systems-engineering-and-industrial-engineering",
+      "name": "Operations Research, Systems Engineering and Industrial Engineering",
+      "parent_id": 4,
+      "parent_slug": "engineering",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:47Z"
+    },
+    {
+      "id": "subject-optometry",
+      "legacy_id": 56,
+      "slug": "optometry",
+      "name": "Optometry",
+      "parent_id": 2,
+      "parent_slug": "medicine-and-health-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:34Z"
+    },
+    {
+      "id": "subject-organisms",
+      "legacy_id": 57,
+      "slug": "organisms",
+      "name": "Organisms",
+      "parent_id": 2,
+      "parent_slug": "medicine-and-health-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:34Z"
+    },
+    {
+      "id": "subject-organization-development",
+      "legacy_id": 195,
+      "slug": "organization-development",
+      "name": "Organization Development",
+      "parent_id": 9,
+      "parent_slug": "social-and-behavioral-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:23Z"
+    },
+    {
+      "id": "subject-organizational-behavior-and-theory",
+      "legacy_id": 228,
+      "slug": "organizational-behavior-and-theory",
+      "name": "Organizational Behavior and Theory",
+      "parent_id": 10,
+      "parent_slug": "business",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:36Z"
+    },
+    {
+      "id": "subject-other-arts-and-humanities",
+      "legacy_id": 144,
+      "slug": "other-arts-and-humanities",
+      "name": "Other Arts and Humanities",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:05Z"
+    },
+    {
+      "id": "subject-other-business",
+      "legacy_id": 238,
+      "slug": "other-business",
+      "name": "Other Business",
+      "parent_id": 10,
+      "parent_slug": "business",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:40Z"
+    },
+    {
+      "id": "subject-other-education",
+      "legacy_id": 181,
+      "slug": "other-education",
+      "name": "Other Education",
+      "parent_id": 7,
+      "parent_slug": "education",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:18Z"
+    },
+    {
+      "id": "subject-other-engineering",
+      "legacy_id": 96,
+      "slug": "other-engineering",
+      "name": "Other Engineering",
+      "parent_id": 4,
+      "parent_slug": "engineering",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:48Z"
+    },
+    {
+      "id": "subject-other-languages-societies-and-cultures",
+      "legacy_id": 145,
+      "slug": "other-languages-societies-and-cultures",
+      "name": "Other Languages, Societies, and Cultures",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:05Z"
+    },
+    {
+      "id": "subject-other-life-sciences",
+      "legacy_id": 37,
+      "slug": "other-life-sciences",
+      "name": "Other Life Sciences",
+      "parent_id": 1,
+      "parent_slug": "life-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:27Z"
+    },
+    {
+      "id": "subject-other-medicine-and-health-sciences",
+      "legacy_id": 65,
+      "slug": "other-medicine-and-health-sciences",
+      "name": "Other Medicine and Health Sciences",
+      "parent_id": 2,
+      "parent_slug": "medicine-and-health-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:37Z"
+    },
+    {
+      "id": "subject-other-physical-sciences-and-mathematics",
+      "legacy_id": 76,
+      "slug": "other-physical-sciences-and-mathematics",
+      "name": "Other Physical Sciences and Mathematics",
+      "parent_id": 3,
+      "parent_slug": "physical-sciences-and-mathematics",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:41Z"
+    },
+    {
+      "id": "subject-other-social-and-behavioral-sciences",
+      "legacy_id": 204,
+      "slug": "other-social-and-behavioral-sciences",
+      "name": "Other Social and Behavioral Sciences",
+      "parent_id": 9,
+      "parent_slug": "social-and-behavioral-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:27Z"
+    },
+    {
+      "id": "subject-outdoor-education",
+      "legacy_id": 173,
+      "slug": "outdoor-education",
+      "name": "Outdoor Education",
+      "parent_id": 7,
+      "parent_slug": "education",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:15Z"
+    },
+    {
+      "id": "subject-pacific-islands-languages-and-societies",
+      "legacy_id": 130,
+      "slug": "pacific-islands-languages-and-societies",
+      "name": "Pacific Islands Languages and Societies",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:00Z"
+    },
+    {
+      "id": "subject-paleontology",
+      "legacy_id": 246,
+      "slug": "paleontology",
+      "name": "Paleontology",
+      "parent_id": null,
+      "parent_slug": null,
+      "created_at": "2020-05-24T21:08:19Z",
+      "updated_at": "2020-05-24T21:08:19Z"
+    },
+    {
+      "id": "subject-pharmacology-toxicology-and-environmental-health",
+      "legacy_id": 32,
+      "slug": "pharmacology-toxicology-and-environmental-health",
+      "name": "Pharmacology, Toxicology and Environmental Health",
+      "parent_id": 1,
+      "parent_slug": "life-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:25Z"
+    },
+    {
+      "id": "subject-pharmacy-and-pharmaceutical-sciences",
+      "legacy_id": 58,
+      "slug": "pharmacy-and-pharmaceutical-sciences",
+      "name": "Pharmacy and Pharmaceutical Sciences",
+      "parent_id": 2,
+      "parent_slug": "medicine-and-health-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:34Z"
+    },
+    {
+      "id": "subject-philosophy",
+      "legacy_id": 131,
+      "slug": "philosophy",
+      "name": "Philosophy",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:00Z"
+    },
+    {
+      "id": "subject-photography",
+      "legacy_id": 132,
+      "slug": "photography",
+      "name": "Photography",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:01Z"
+    },
+    {
+      "id": "subject-physical-sciences-and-mathematics",
+      "legacy_id": 3,
+      "slug": "physical-sciences-and-mathematics",
+      "name": "Physical Sciences and Mathematics",
+      "parent_id": null,
+      "parent_slug": null,
+      "created_at": "2018-02-17T21:36:08Z",
+      "updated_at": "2018-12-20T10:33:48Z"
+    },
+    {
+      "id": "subject-physics",
+      "legacy_id": 74,
+      "slug": "physics",
+      "name": "Physics",
+      "parent_id": 3,
+      "parent_slug": "physical-sciences-and-mathematics",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:40Z"
+    },
+    {
+      "id": "subject-physiology",
+      "legacy_id": 33,
+      "slug": "physiology",
+      "name": "Physiology",
+      "parent_id": 1,
+      "parent_slug": "life-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:26Z"
+    },
+    {
+      "id": "subject-plant-sciences",
+      "legacy_id": 34,
+      "slug": "plant-sciences",
+      "name": "Plant Sciences",
+      "parent_id": 1,
+      "parent_slug": "life-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:26Z"
+    },
+    {
+      "id": "subject-political-science",
+      "legacy_id": 196,
+      "slug": "political-science",
+      "name": "Political Science",
+      "parent_id": 9,
+      "parent_slug": "social-and-behavioral-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:24Z"
+    },
+    {
+      "id": "subject-portfolio-and-security-analysis",
+      "legacy_id": 229,
+      "slug": "portfolio-and-security-analysis",
+      "name": "Portfolio and Security Analysis",
+      "parent_id": 10,
+      "parent_slug": "business",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:37Z"
+    },
+    {
+      "id": "subject-proteomics",
+      "legacy_id": 247,
+      "slug": "proteomics",
+      "name": "Proteomics",
+      "parent_id": null,
+      "parent_slug": null,
+      "created_at": "2020-05-24T22:03:25Z",
+      "updated_at": "2020-05-24T22:03:25Z"
+    },
+    {
+      "id": "subject-psychiatry-and-psychology",
+      "legacy_id": 59,
+      "slug": "psychiatry-and-psychology",
+      "name": "Psychiatry and Psychology",
+      "parent_id": 2,
+      "parent_slug": "medicine-and-health-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:35Z"
+    },
+    {
+      "id": "subject-psychology-2",
+      "legacy_id": 253,
+      "slug": "psychology-2",
+      "name": "Psychology",
+      "parent_id": 2,
+      "parent_slug": "medicine-and-health-sciences",
+      "created_at": "2020-06-07T13:01:17Z",
+      "updated_at": "2020-06-07T13:01:17Z"
+    },
+    {
+      "id": "subject-psychology",
+      "legacy_id": 197,
+      "slug": "psychology",
+      "name": "Psychology",
+      "parent_id": 9,
+      "parent_slug": "social-and-behavioral-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:24Z"
+    },
+    {
+      "id": "subject-public-affairs-public-policy-and-public-administration",
+      "legacy_id": 198,
+      "slug": "public-affairs-public-policy-and-public-administration",
+      "name": "Public Affairs, Public Policy and Public Administration",
+      "parent_id": 9,
+      "parent_slug": "social-and-behavioral-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:25Z"
+    },
+    {
+      "id": "subject-public-health",
+      "legacy_id": 60,
+      "slug": "public-health",
+      "name": "Public Health",
+      "parent_id": 2,
+      "parent_slug": "medicine-and-health-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:35Z"
+    },
+    {
+      "id": "subject-race-ethnicity-and-post-colonial-studies",
+      "legacy_id": 133,
+      "slug": "race-ethnicity-and-post-colonial-studies",
+      "name": "Race, Ethnicity and Post-Colonial Studies",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:01Z"
+    },
+    {
+      "id": "subject-radio",
+      "legacy_id": 134,
+      "slug": "radio",
+      "name": "Radio",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:01Z"
+    },
+    {
+      "id": "subject-reading-and-language",
+      "legacy_id": 135,
+      "slug": "reading-and-language",
+      "name": "Reading and Language",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:02Z"
+    },
+    {
+      "id": "subject-real-estate",
+      "legacy_id": 230,
+      "slug": "real-estate",
+      "name": "Real Estate",
+      "parent_id": 10,
+      "parent_slug": "business",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:37Z"
+    },
+    {
+      "id": "subject-recreation-business",
+      "legacy_id": 231,
+      "slug": "recreation-business",
+      "name": "Recreation Business",
+      "parent_id": 10,
+      "parent_slug": "business",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:37Z"
+    },
+    {
+      "id": "subject-rehabilitation-and-therapy",
+      "legacy_id": 61,
+      "slug": "rehabilitation-and-therapy",
+      "name": "Rehabilitation and Therapy",
+      "parent_id": 2,
+      "parent_slug": "medicine-and-health-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:35Z"
+    },
+    {
+      "id": "subject-religion",
+      "legacy_id": 136,
+      "slug": "religion",
+      "name": "Religion",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:02Z"
+    },
+    {
+      "id": "subject-research-methods-in-life-sciences",
+      "legacy_id": 35,
+      "slug": "research-methods-in-life-sciences",
+      "name": "Research Methods in Life Sciences",
+      "parent_id": 1,
+      "parent_slug": "life-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:26Z"
+    },
+    {
+      "id": "subject-rhetoric-and-composition",
+      "legacy_id": 137,
+      "slug": "rhetoric-and-composition",
+      "name": "Rhetoric and Composition",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:02Z"
+    },
+    {
+      "id": "subject-risk-analysis",
+      "legacy_id": 95,
+      "slug": "risk-analysis",
+      "name": "Risk Analysis",
+      "parent_id": 4,
+      "parent_slug": "engineering",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:47Z"
+    },
+    {
+      "id": "subject-sales-and-merchandising",
+      "legacy_id": 232,
+      "slug": "sales-and-merchandising",
+      "name": "Sales and Merchandising",
+      "parent_id": 10,
+      "parent_slug": "business",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:38Z"
+    },
+    {
+      "id": "subject-scandinavian-studies",
+      "legacy_id": 146,
+      "slug": "scandinavian-studies",
+      "name": "Scandinavian Studies",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:05Z"
+    },
+    {
+      "id": "subject-science-and-mathematics-education",
+      "legacy_id": 174,
+      "slug": "science-and-mathematics-education",
+      "name": "Science and Mathematics Education",
+      "parent_id": 7,
+      "parent_slug": "education",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:16Z"
+    },
+    {
+      "id": "subject-science-and-technology-studies",
+      "legacy_id": 199,
+      "slug": "science-and-technology-studies",
+      "name": "Science and Technology Studies",
+      "parent_id": 9,
+      "parent_slug": "social-and-behavioral-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:25Z"
+    },
+    {
+      "id": "subject-secondary-education",
+      "legacy_id": 175,
+      "slug": "secondary-education",
+      "name": "Secondary Education",
+      "parent_id": 7,
+      "parent_slug": "education",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:16Z"
+    },
+    {
+      "id": "subject-slavic-languages-and-societies",
+      "legacy_id": 138,
+      "slug": "slavic-languages-and-societies",
+      "name": "Slavic Languages and Societies",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:03Z"
+    },
+    {
+      "id": "subject-social-and-behavioral-sciences",
+      "legacy_id": 9,
+      "slug": "social-and-behavioral-sciences",
+      "name": "Social and Behavioral Sciences",
+      "parent_id": null,
+      "parent_slug": null,
+      "created_at": "2018-12-20T10:36:34Z",
+      "updated_at": "2018-12-20T10:36:34Z"
+    },
+    {
+      "id": "subject-social-and-philosophical-foundations-of-education",
+      "legacy_id": 176,
+      "slug": "social-and-philosophical-foundations-of-education",
+      "name": "Social and Philosophical Foundations of Education",
+      "parent_id": 7,
+      "parent_slug": "education",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:16Z"
+    },
+    {
+      "id": "subject-social-statistics",
+      "legacy_id": 200,
+      "slug": "social-statistics",
+      "name": "Social Statistics",
+      "parent_id": 9,
+      "parent_slug": "social-and-behavioral-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:26Z"
+    },
+    {
+      "id": "subject-sociology",
+      "legacy_id": 201,
+      "slug": "sociology",
+      "name": "Sociology",
+      "parent_id": 9,
+      "parent_slug": "social-and-behavioral-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:26Z"
+    },
+    {
+      "id": "subject-south-and-southeast-asian-languages-and-societies",
+      "legacy_id": 139,
+      "slug": "south-and-southeast-asian-languages-and-societies",
+      "name": "South and Southeast Asian Languages and Societies",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:03Z"
+    },
+    {
+      "id": "subject-spanish-and-portuguese-language-and-literature",
+      "legacy_id": 140,
+      "slug": "spanish-and-portuguese-language-and-literature",
+      "name": "Spanish and Portuguese Language and Literature",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:03Z"
+    },
+    {
+      "id": "subject-special-education-and-teaching",
+      "legacy_id": 177,
+      "slug": "special-education-and-teaching",
+      "name": "Special Education and Teaching",
+      "parent_id": 7,
+      "parent_slug": "education",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:17Z"
+    },
+    {
+      "id": "subject-sports-management",
+      "legacy_id": 233,
+      "slug": "sports-management",
+      "name": "Sports Management",
+      "parent_id": 10,
+      "parent_slug": "business",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:38Z"
+    },
+    {
+      "id": "subject-sports-sciences",
+      "legacy_id": 62,
+      "slug": "sports-sciences",
+      "name": "Sports Sciences",
+      "parent_id": 2,
+      "parent_slug": "medicine-and-health-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:36Z"
+    },
+    {
+      "id": "subject-sports-studies",
+      "legacy_id": 202,
+      "slug": "sports-studies",
+      "name": "Sports Studies",
+      "parent_id": 9,
+      "parent_slug": "social-and-behavioral-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:26Z"
+    },
+    {
+      "id": "subject-statistics-and-probability",
+      "legacy_id": 75,
+      "slug": "statistics-and-probability",
+      "name": "Statistics and Probability",
+      "parent_id": 3,
+      "parent_slug": "physical-sciences-and-mathematics",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:40Z"
+    },
+    {
+      "id": "subject-stem-cell-biology",
+      "legacy_id": 250,
+      "slug": "stem-cell-biology",
+      "name": "Stem Cell Biology",
+      "parent_id": null,
+      "parent_slug": null,
+      "created_at": "2020-05-24T22:04:56Z",
+      "updated_at": "2020-05-24T22:04:56Z"
+    },
+    {
+      "id": "subject-strategic-management-policy",
+      "legacy_id": 234,
+      "slug": "strategic-management-policy",
+      "name": "Strategic Management Policy",
+      "parent_id": 10,
+      "parent_slug": "business",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:39Z"
+    },
+    {
+      "id": "subject-student-counseling-and-personnel-services",
+      "legacy_id": 178,
+      "slug": "student-counseling-and-personnel-services",
+      "name": "Student Counseling and Personnel Services",
+      "parent_id": 7,
+      "parent_slug": "education",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:17Z"
+    },
+    {
+      "id": "subject-systems-biology",
+      "legacy_id": 36,
+      "slug": "systems-biology",
+      "name": "Systems Biology",
+      "parent_id": 1,
+      "parent_slug": "life-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:27Z"
+    },
+    {
+      "id": "subject-taxation",
+      "legacy_id": 235,
+      "slug": "taxation",
+      "name": "Taxation",
+      "parent_id": 10,
+      "parent_slug": "business",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:39Z"
+    },
+    {
+      "id": "subject-teacher-education-and-professional-development",
+      "legacy_id": 179,
+      "slug": "teacher-education-and-professional-development",
+      "name": "Teacher Education and Professional Development",
+      "parent_id": 7,
+      "parent_slug": "education",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:17Z"
+    },
+    {
+      "id": "subject-technical-and-professional-writing",
+      "legacy_id": 141,
+      "slug": "technical-and-professional-writing",
+      "name": "Technical and Professional Writing",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:04Z"
+    },
+    {
+      "id": "subject-technical-sciences",
+      "legacy_id": 240,
+      "slug": "technical-sciences",
+      "name": "Technical Sciences",
+      "parent_id": null,
+      "parent_slug": null,
+      "created_at": "2020-05-22T15:37:28Z",
+      "updated_at": "2020-05-22T15:37:28Z"
+    },
+    {
+      "id": "subject-technology-and-innovation",
+      "legacy_id": 236,
+      "slug": "technology-and-innovation",
+      "name": "Technology and Innovation",
+      "parent_id": 10,
+      "parent_slug": "business",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:39Z"
+    },
+    {
+      "id": "subject-television",
+      "legacy_id": 142,
+      "slug": "television",
+      "name": "Television",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:04Z"
+    },
+    {
+      "id": "subject-theatre-and-performance-studies",
+      "legacy_id": 143,
+      "slug": "theatre-and-performance-studies",
+      "name": "Theatre and Performance Studies",
+      "parent_id": 5,
+      "parent_slug": "arts-and-humanities",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:04Z"
+    },
+    {
+      "id": "subject-tourism-and-travel",
+      "legacy_id": 237,
+      "slug": "tourism-and-travel",
+      "name": "Tourism and Travel",
+      "parent_id": 10,
+      "parent_slug": "business",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:40Z"
+    },
+    {
+      "id": "subject-translational-medical-research",
+      "legacy_id": 63,
+      "slug": "translational-medical-research",
+      "name": "Translational Medical Research",
+      "parent_id": 2,
+      "parent_slug": "medicine-and-health-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:36Z"
+    },
+    {
+      "id": "subject-urban-studies-and-planning",
+      "legacy_id": 203,
+      "slug": "urban-studies-and-planning",
+      "name": "Urban Studies and Planning",
+      "parent_id": 9,
+      "parent_slug": "social-and-behavioral-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:27Z"
+    },
+    {
+      "id": "subject-veterinary-medicine",
+      "legacy_id": 64,
+      "slug": "veterinary-medicine",
+      "name": "Veterinary Medicine",
+      "parent_id": 2,
+      "parent_slug": "medicine-and-health-sciences",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:06:36Z"
+    },
+    {
+      "id": "subject-vocational-education",
+      "legacy_id": 180,
+      "slug": "vocational-education",
+      "name": "Vocational Education",
+      "parent_id": 7,
+      "parent_slug": "education",
+      "created_at": null,
+      "updated_at": "2020-05-17T03:07:18Z"
+    },
+    {
+      "id": "subject-zoology",
+      "legacy_id": 251,
+      "slug": "zoology",
+      "name": "Zoology",
+      "parent_id": null,
+      "parent_slug": null,
+      "created_at": "2020-05-25T08:06:02Z",
+      "updated_at": "2020-05-25T08:06:02Z"
+    }
+  ],
+  "funding_purposes": [
+    {
+      "id": "funding-purpose-award",
+      "legacy_id": 6,
+      "slug": "award",
+      "name": "Award",
+      "created_at": "2020-05-23T14:23:52Z",
+      "updated_at": "2020-05-23T14:23:52Z"
+    },
+    {
+      "id": "funding-purpose-collaboration",
+      "legacy_id": 3,
+      "slug": "collaboration",
+      "name": "Collaboration",
+      "created_at": "2020-05-22T01:36:54Z",
+      "updated_at": "2020-05-22T01:36:54Z"
+    },
+    {
+      "id": "funding-purpose-equipment",
+      "legacy_id": 5,
+      "slug": "equipment",
+      "name": "Equipment",
+      "created_at": "2020-05-22T01:49:33Z",
+      "updated_at": "2020-05-22T01:49:33Z"
+    },
+    {
+      "id": "funding-purpose-feasibility-studies",
+      "legacy_id": 7,
+      "slug": "feasibility-studies",
+      "name": "Feasibility Studies",
+      "created_at": "2020-05-23T14:24:14Z",
+      "updated_at": "2020-05-23T14:24:14Z"
+    },
+    {
+      "id": "funding-purpose-fellowship-scholarship-or-training",
+      "legacy_id": 1,
+      "slug": "fellowship-scholarship-or-training",
+      "name": "Fellowship, scholarship or training",
+      "created_at": "2020-05-22T01:36:00Z",
+      "updated_at": "2020-05-22T02:02:54Z"
+    },
+    {
+      "id": "funding-purpose-publishing-and-editorial",
+      "legacy_id": 4,
+      "slug": "publishing-and-editorial",
+      "name": "Publishing and editorial",
+      "created_at": "2020-05-22T01:48:29Z",
+      "updated_at": "2020-05-22T01:48:29Z"
+    },
+    {
+      "id": "funding-purpose-research",
+      "legacy_id": 2,
+      "slug": "research",
+      "name": "Research",
+      "created_at": "2020-05-22T01:36:36Z",
+      "updated_at": "2020-05-22T01:36:36Z"
+    }
+  ],
+  "travel_purposes": [
+    {
+      "id": "travel-purpose-collaboration",
+      "legacy_id": 2,
+      "slug": "collaboration",
+      "name": "Collaboration",
+      "created_at": "2018-12-31T13:09:48Z",
+      "updated_at": "2018-12-31T13:09:48Z"
+    },
+    {
+      "id": "travel-purpose-conference",
+      "legacy_id": 1,
+      "slug": "conference",
+      "name": "Conference",
+      "created_at": "2018-12-31T13:01:45Z",
+      "updated_at": "2018-12-31T13:01:45Z"
+    },
+    {
+      "id": "travel-purpose-field-work",
+      "legacy_id": 5,
+      "slug": "field-work",
+      "name": "Field work",
+      "created_at": "2018-12-31T13:11:39Z",
+      "updated_at": "2018-12-31T13:11:39Z"
+    },
+    {
+      "id": "travel-purpose-learn-new-technique",
+      "legacy_id": 6,
+      "slug": "learn-new-technique",
+      "name": "Learn new technique",
+      "created_at": "2018-12-31T13:12:18Z",
+      "updated_at": "2018-12-31T13:12:18Z"
+    },
+    {
+      "id": "travel-purpose-research-visit",
+      "legacy_id": 4,
+      "slug": "research-visit",
+      "name": "Research visit",
+      "created_at": "2018-12-31T13:11:08Z",
+      "updated_at": "2018-12-31T13:11:08Z"
+    },
+    {
+      "id": "travel-purpose-workshop-training-or-course",
+      "legacy_id": 3,
+      "slug": "workshop-training-or-course",
+      "name": "Workshop, training or course",
+      "created_at": "2018-12-31T13:10:38Z",
+      "updated_at": "2018-12-31T13:10:38Z"
+    }
+  ],
+  "resource_categories": [
+    {
+      "id": "resource-category-academic-writing",
+      "legacy_id": 4,
+      "slug": "academic-writing",
+      "name": "Academic writing",
+      "created_at": "2019-01-02T20:37:22Z",
+      "updated_at": "2019-01-02T20:37:22Z"
+    },
+    {
+      "id": "resource-category-career-development",
+      "legacy_id": 1,
+      "slug": "career-development",
+      "name": "Career development",
+      "created_at": "2019-01-02T20:35:00Z",
+      "updated_at": "2019-01-03T07:03:52Z"
+    },
+    {
+      "id": "resource-category-conflict-management",
+      "legacy_id": 19,
+      "slug": "conflict-management",
+      "name": "Conflict management",
+      "created_at": "2022-12-09T15:35:10Z",
+      "updated_at": "2022-12-09T15:35:10Z"
+    },
+    {
+      "id": "resource-category-covid19-online-events",
+      "legacy_id": 14,
+      "slug": "covid19-online-events",
+      "name": "COVID19 Online events",
+      "created_at": "2020-03-20T11:47:00Z",
+      "updated_at": "2020-03-20T14:50:31Z"
+    },
+    {
+      "id": "resource-category-covid19-requests-for-help",
+      "legacy_id": 16,
+      "slug": "covid19-requests-for-help",
+      "name": "COVID19 Requests for help",
+      "created_at": "2020-03-20T11:48:00Z",
+      "updated_at": "2020-03-20T14:50:02Z"
+    },
+    {
+      "id": "resource-category-covid19-resources-guidebooks",
+      "legacy_id": 15,
+      "slug": "covid19-resources-guidebooks",
+      "name": "COVID19 Resources & guidebooks",
+      "created_at": "2020-03-20T11:47:00Z",
+      "updated_at": "2020-03-20T14:51:13Z"
+    },
+    {
+      "id": "resource-category-diversity-and-inclusion",
+      "legacy_id": 13,
+      "slug": "diversity-and-inclusion",
+      "name": "Diversity and inclusion",
+      "created_at": "2019-07-04T08:24:54Z",
+      "updated_at": "2019-07-04T08:24:54Z"
+    },
+    {
+      "id": "resource-category-mental-health",
+      "legacy_id": 17,
+      "slug": "mental-health",
+      "name": "Mental Health",
+      "created_at": "2020-04-25T10:28:54Z",
+      "updated_at": "2020-04-25T10:28:54Z"
+    },
+    {
+      "id": "resource-category-mentoring",
+      "legacy_id": 18,
+      "slug": "mentoring",
+      "name": "Mentoring",
+      "created_at": "2020-05-27T09:52:30Z",
+      "updated_at": "2020-05-27T09:52:30Z"
+    },
+    {
+      "id": "resource-category-open-source",
+      "legacy_id": 11,
+      "slug": "open-source",
+      "name": "Open source",
+      "created_at": "2019-05-10T02:34:24Z",
+      "updated_at": "2019-05-10T02:34:24Z"
+    },
+    {
+      "id": "resource-category-other",
+      "legacy_id": 10,
+      "slug": "other",
+      "name": "Other",
+      "created_at": "2019-05-10T02:33:58Z",
+      "updated_at": "2019-05-10T02:33:58Z"
+    },
+    {
+      "id": "resource-category-peer-review",
+      "legacy_id": 8,
+      "slug": "peer-review",
+      "name": "Peer review",
+      "created_at": "2019-01-23T15:48:57Z",
+      "updated_at": "2019-01-23T15:48:57Z"
+    },
+    {
+      "id": "resource-category-policy",
+      "legacy_id": 5,
+      "slug": "policy",
+      "name": "Policy",
+      "created_at": "2019-01-03T07:01:53Z",
+      "updated_at": "2019-01-03T07:01:53Z"
+    },
+    {
+      "id": "resource-category-preprints",
+      "legacy_id": 6,
+      "slug": "preprints",
+      "name": "Preprints",
+      "created_at": "2019-01-03T07:02:45Z",
+      "updated_at": "2019-01-03T07:02:45Z"
+    },
+    {
+      "id": "resource-category-public-involvement-in-research",
+      "legacy_id": 12,
+      "slug": "public-involvement-in-research",
+      "name": "Public Involvement in Research",
+      "created_at": "2019-05-29T08:19:37Z",
+      "updated_at": "2019-05-29T08:19:37Z"
+    },
+    {
+      "id": "resource-category-publishing",
+      "legacy_id": 7,
+      "slug": "publishing",
+      "name": "Publishing",
+      "created_at": "2019-01-15T23:11:07Z",
+      "updated_at": "2019-01-15T23:11:07Z"
+    },
+    {
+      "id": "resource-category-reproducibility",
+      "legacy_id": 2,
+      "slug": "reproducibility",
+      "name": "Reproducibility",
+      "created_at": "2019-01-02T20:36:04Z",
+      "updated_at": "2019-01-02T20:36:04Z"
+    },
+    {
+      "id": "resource-category-science-communication",
+      "legacy_id": 3,
+      "slug": "science-communication",
+      "name": "Science Communication",
+      "created_at": "2019-01-02T20:36:30Z",
+      "updated_at": "2019-01-02T20:36:30Z"
+    },
+    {
+      "id": "resource-category-teaching",
+      "legacy_id": 9,
+      "slug": "teaching",
+      "name": "Teaching",
+      "created_at": "2019-05-04T11:57:20Z",
+      "updated_at": "2019-05-04T11:57:20Z"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+id: travel-grant-adi-conference-travel-bursary
+legacy_id: 105
+slug: adi-conference-travel-bursary
+name: ADI conference travel bursary
+url: https://adiconference.org/registration
+description: The fund is open to those with a research focus on Alzheimer’s Disease
+  or dementia, who began their research career within the last five years or are currently
+  studying for a PhD.  This will  help provide researchers the opportunity to attend
+  Alzheimer's Disease International's (ADI's) conference on dementia, the longest
+  running and one of the largest conferences in the field.
+funders: []
+legacy_funder_name: Alzheimer's Disease International
+applicant_country: Wordwide
+host_country: Wordwide
+award: SGD 700 - 2000
+deadline: February
+deadline_month: February
+membership: 'No'
+membership_time: null
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: ADI conference travel bursary The fund is open to those with a research
+  focus on Alzheimer’s Disease or dementia, who began their research career within
+  the last five years or are currently studying for a PhD.  This will  help provide
+  researchers the opportunity to attend Alzheimer's Disease International's (ADI's)
+  conference on dementia, the longest running and one of the largest conferences in
+  the field. Conference Wordwide
+source: legacy-import

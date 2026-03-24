@@ -1,0 +1,49 @@
+id: funding-hubert-h-humphrey-fellowship
+legacy_id: 735
+slug: hubert-h-humphrey-fellowship
+name: Hubert H. Humphrey Fellowship
+description: The Hubert H. Humphrey Fellowship Program brings accomplished mid-career
+  professionals with demonstrated leadership potential to the United States for a
+  year of graduate-level non-degree academic coursework and professional development
+  activities.
+url: https://www.usefpakistan.org/Programs/Humphrey.cfm?Tab=Programs
+funders:
+- fulbright-program
+legacy_funder_name: Fulbright
+host_country: United States
+applicant_country: Pakistan
+career_levels:
+- phd
+- junior-faculty
+- master-students
+years_since_phd: '2'
+duration: '1'
+award: null
+mobility_rule: 'Yes'
+research_costs: null
+deadline: June
+deadline_month: June
+diversity: null
+comments: null
+benefits: The grant funds tuition, airfare, textbooks, a living stipend, and health
+  insurance.
+frequency: Annual
+fileds: null
+featured: true
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: '2020-05-29T07:50:25Z'
+updated_at: '2020-06-09T17:38:32Z'
+subjects:
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Hubert H. Humphrey Fellowship The Hubert H. Humphrey Fellowship Program
+  brings accomplished mid-career professionals with demonstrated leadership potential
+  to the United States for a year of graduate-level non-degree academic coursework
+  and professional development activities. Fulbright Program PhD Junior Faculty Master
+  students All subjects Fellowship, scholarship or training United States Pakistan
+source: legacy-import

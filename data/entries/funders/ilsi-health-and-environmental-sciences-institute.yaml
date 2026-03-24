@@ -1,0 +1,20 @@
+id: funder-ilsi-health-and-environmental-sciences-institute
+legacy_id: 337
+slug: ilsi-health-and-environmental-sciences-institute
+name: ILSI Health and Environmental Sciences Institute
+short_name: ILSI Health and Environmental Sciences Institute
+funder_registry_id: '100008663'
+country: United States
+website: null
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2020-05-21T09:36:16Z'
+source: legacy-import

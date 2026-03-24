@@ -1,0 +1,738 @@
+{
+  "featured_fundings": [
+    {
+      "id": "funding-sloan-research-fellowships",
+      "type": "funding",
+      "_type": "funding",
+      "slug": "sloan-research-fellowships",
+      "name": "Sloan Research Fellowships",
+      "description": "These two-year, $75,000 fellowships are awarded yearly to 126 researchers in recognition of distinguished performance and a unique potential to make substantial contributions to their field.",
+      "url": "https://sloan.org/fellowships",
+      "status": "active",
+      "featured": true,
+      "updated_at": "2022-01-16T16:42:22Z",
+      "funder_names": [
+        "Alfred P. Sloan Foundation"
+      ],
+      "funders": [
+        "alfred-p-sloan-foundation"
+      ],
+      "applicant_country": "",
+      "host_country": "United States",
+      "career_levels": [
+        "junior-faculty"
+      ],
+      "career_level_names": [
+        "Junior Faculty"
+      ],
+      "deadline": "September",
+      "deadline_month": "September",
+      "award": "$70 000",
+      "subjects": [
+        "life-sciences"
+      ],
+      "funding_purposes": [
+        "fellowship-scholarship-or-training"
+      ],
+      "search_text": "Sloan Research Fellowships These two-year, $75,000 fellowships are awarded yearly to 126 researchers in recognition of distinguished performance and a unique potential to make substantial contributions to their field. Alfred P. Sloan Foundation Junior Faculty Life Sciences Fellowship, scholarship or training United States",
+      "legacy_funder_name": "Alfred P. Sloan Foundation",
+      "frequency": "Annual"
+    },
+    {
+      "id": "funding-hfsp-long-term-fellowships",
+      "type": "funding",
+      "_type": "funding",
+      "slug": "hfsp-long-term-fellowships",
+      "name": "HFSP Long-Term Fellowships",
+      "description": "The HFSP fellowship program supports proposals for frontier, potentially transformative research in the life sciences. Applications for high-risk projects are particularly encouraged. The projects sho…",
+      "url": "http://www.hfsp.org/funding/postdoctoral-fellowships",
+      "status": "active",
+      "featured": true,
+      "updated_at": "2020-06-10T04:47:23Z",
+      "funder_names": [
+        "Human Frontier Science Program (HFSP)"
+      ],
+      "funders": [
+        "human-frontier-science-program-hfsp"
+      ],
+      "applicant_country": "Worldwide",
+      "host_country": "Worldwide",
+      "career_levels": [
+        "phd"
+      ],
+      "career_level_names": [
+        "PhD"
+      ],
+      "deadline": "August",
+      "deadline_month": "August",
+      "award": "300K USD",
+      "subjects": [
+        "life-sciences"
+      ],
+      "funding_purposes": [
+        "fellowship-scholarship-or-training"
+      ],
+      "search_text": "HFSP Long-Term Fellowships Human Frontier Science Program (HFSP) PhD Life Sciences Fellowship, scholarship or training Worldwide Worldwide",
+      "legacy_funder_name": "Human Frontiers in Science Program",
+      "frequency": "Annual"
+    },
+    {
+      "id": "funding-nih-pathway-to-independence-award-k99-r00",
+      "type": "funding",
+      "_type": "funding",
+      "slug": "nih-pathway-to-independence-award-k99-r00",
+      "name": "NIH Pathway to Independence Award (K99-R00)",
+      "description": "The NIH Pathway to Independence Award will provide up to five years of support consisting of two phases.",
+      "url": "https://www.nlm.nih.gov/ep/pathway.html",
+      "status": "active",
+      "featured": true,
+      "updated_at": "2020-06-10T04:43:11Z",
+      "funder_names": [
+        "National Institutes of Health (NIH)"
+      ],
+      "funders": [
+        "national-institutes-of-health-nih"
+      ],
+      "applicant_country": "Worldwide",
+      "host_country": "United States",
+      "career_levels": [
+        "phd"
+      ],
+      "career_level_names": [
+        "PhD"
+      ],
+      "deadline": "February, June, October",
+      "deadline_month": "February, June, October",
+      "award": "$1 245 000",
+      "subjects": [
+        "life-sciences"
+      ],
+      "funding_purposes": [
+        "fellowship-scholarship-or-training",
+        "research",
+        "publishing-and-editorial",
+        "equipment"
+      ],
+      "search_text": "NIH Pathway to Independence Award (K99-R00) The NIH Pathway to Independence Award will provide up to five years of support consisting of two phases. National Institutes of Health (NIH) PhD Life Sciences Fellowship, scholarship or training Research Publishing and editorial Equipment United States Worldwide",
+      "legacy_funder_name": "National Institutes of Health",
+      "frequency": "Triannual"
+    },
+    {
+      "id": "funding-hubert-h-humphrey-fellowship",
+      "type": "funding",
+      "_type": "funding",
+      "slug": "hubert-h-humphrey-fellowship",
+      "name": "Hubert H. Humphrey Fellowship",
+      "description": "The Hubert H. Humphrey Fellowship Program brings accomplished mid-career professionals with demonstrated leadership potential to the United States for a year of graduate-level non-degree academic cour…",
+      "url": "https://www.usefpakistan.org/Programs/Humphrey.cfm?Tab=Programs",
+      "status": "active",
+      "featured": true,
+      "updated_at": "2020-06-09T17:38:32Z",
+      "funder_names": [
+        "Fulbright Program"
+      ],
+      "funders": [
+        "fulbright-program"
+      ],
+      "applicant_country": "Pakistan",
+      "host_country": "United States",
+      "career_levels": [
+        "phd",
+        "junior-faculty",
+        "master-students"
+      ],
+      "career_level_names": [
+        "PhD",
+        "Junior Faculty",
+        "Master students"
+      ],
+      "deadline": "June",
+      "deadline_month": "June",
+      "award": "",
+      "subjects": [
+        "all-subjects"
+      ],
+      "funding_purposes": [
+        "fellowship-scholarship-or-training"
+      ],
+      "search_text": "Hubert H. Humphrey Fellowship The Hubert H. Humphrey Fellowship Program brings accomplished mid-career professionals with demonstrated leadership potential to the United States for a year of graduate-level non-degree academic coursework and professional development activities. Fulbright Program PhD Junior Faculty Master students All subjects Fellowship, scholarship or training United States Pakistan",
+      "legacy_funder_name": "Fulbright",
+      "frequency": "Annual"
+    },
+    {
+      "id": "funding-erc-starting-grant",
+      "type": "funding",
+      "_type": "funding",
+      "slug": "erc-starting-grant",
+      "name": "ERC starting grant",
+      "description": "ERC Starting Grant is for the talented early-career scientists who have already produced excellent supervised work and ready to work independently and shows potential to be a research leader. ERC Star…",
+      "url": "https://erc.europa.eu/funding/starting-grants",
+      "status": "active",
+      "featured": true,
+      "updated_at": "2020-06-09T17:37:08Z",
+      "funder_names": [
+        "European Research Council"
+      ],
+      "funders": [
+        "european-research-council"
+      ],
+      "applicant_country": "Worldwide",
+      "host_country": "Europe",
+      "career_levels": [
+        "phd"
+      ],
+      "career_level_names": [
+        "PhD"
+      ],
+      "deadline": "February",
+      "deadline_month": "February",
+      "award": "€ 1.5 million for a period of 5 years",
+      "subjects": [
+        "life-sciences",
+        "physical-sciences-and-mathematics",
+        "engineering",
+        "social-and-behavioral-sciences",
+        "all-subjects"
+      ],
+      "funding_purposes": [],
+      "search_text": "ERC starting grant ERC Starting Grant is for the talented early-career scientists who have already produced excellent supervised work and ready to work independently and shows potential to be a research leader. ERC Starting Grant is open for researchers in any field of any nationality with 2-7 years of experience since completion of PhD, a scientific track record showing great promise and an excellent research proposal. European Research Council PhD Life Sciences Physical Sciences and Mathematics Engineering Social and Behavioral Sciences All subjects Europe Worldwide",
+      "legacy_funder_name": "European Research Council",
+      "frequency": "Annual"
+    },
+    {
+      "id": "funding-embo-postdoctoral-fellowships",
+      "type": "funding",
+      "_type": "funding",
+      "slug": "embo-postdoctoral-fellowships",
+      "name": "EMBO Postdoctoral Fellowships",
+      "description": "The EMBO Postdoctoral Fellowships are awarded for a period of up to two years and support excellent postdoctoral researchers in laboratories throughout Europe and the world. International exchange is…",
+      "url": "https://www.embo.org/funding-awards/fellowships/postdoctoral-fellowships",
+      "status": "active",
+      "featured": true,
+      "updated_at": "2020-05-30T23:38:54Z",
+      "funder_names": [
+        "European Molecular Biology Organization (EMBO)"
+      ],
+      "funders": [
+        "european-molecular-biology-organization-embo"
+      ],
+      "applicant_country": "Worldwide",
+      "host_country": "Europe",
+      "career_levels": [
+        "phd",
+        "md"
+      ],
+      "career_level_names": [
+        "PhD",
+        "MD"
+      ],
+      "deadline": "February, August",
+      "deadline_month": "February, August",
+      "award": "Country specific stipend",
+      "subjects": [
+        "life-sciences",
+        "molecular-biology"
+      ],
+      "funding_purposes": [
+        "fellowship-scholarship-or-training",
+        "research"
+      ],
+      "search_text": "EMBO Postdoctoral Fellowships The EMBO Postdoctoral Fellowships are awarded for a period of up to two years and support excellent postdoctoral researchers in laboratories throughout Europe and the world. International exchange is a key requirement. Now awarding grants for employment contracts in EMBC countries, EMBO Postdoctoral Fellowships also support the career development of the fellows through leadership courses and networking opportunities European Molecular Biology Organization (EMBO) PhD MD Life Sciences Molecular Biology Fellowship, scholarship or training Research Europe Worldwide",
+      "legacy_funder_name": "EMBO",
+      "frequency": "Rolling"
+    }
+  ],
+  "featured_travel_grants": [
+    {
+      "id": "travel-grant-aai-travel-for-techniques-program",
+      "type": "travel_grant",
+      "_type": "travel_grant",
+      "slug": "aai-travel-for-techniques-program",
+      "name": "AAI Travel for Techniques Program",
+      "description": null,
+      "url": "http://www.aai.org/Careers/TfT",
+      "status": "active",
+      "featured": true,
+      "updated_at": "",
+      "funder_names": [
+        "American Association of Immunologists"
+      ],
+      "funders": [
+        "american-association-of-immunologists"
+      ],
+      "applicant_country": "Worldwide",
+      "career_levels": [
+        "junior-faculty"
+      ],
+      "career_level_names": [
+        "Junior Faculty"
+      ],
+      "deadline": "Summer, Fall and Winter",
+      "award": "$15,00"
+    },
+    {
+      "id": "travel-grant-open-bioinformatics-foundation-travel-fellowships",
+      "type": "travel_grant",
+      "_type": "travel_grant",
+      "slug": "open-bioinformatics-foundation-travel-fellowships",
+      "name": "Open Bioinformatics Foundation Travel Fellowships",
+      "description": "<p>OBF Travel Fellowship program aimed at increasing diverse participation at events promoting open source bioinformatics software development and open science in the biological research community.</p…",
+      "url": "https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md",
+      "status": "active",
+      "featured": true,
+      "updated_at": "",
+      "funder_names": [
+        "Open Bioinformatics Foundation"
+      ],
+      "funders": [
+        "open-bioinformatics-foundation"
+      ],
+      "applicant_country": "Worldwide",
+      "career_levels": [
+        "phd",
+        "postdoc",
+        "master-students"
+      ],
+      "career_level_names": [
+        "PhD",
+        "Postdoc",
+        "Master students"
+      ],
+      "deadline": "April, August, December",
+      "award": "USD 1,000"
+    },
+    {
+      "id": "travel-grant-royal-society-of-chemistry-international-exchanges-award",
+      "type": "travel_grant",
+      "_type": "travel_grant",
+      "slug": "royal-society-of-chemistry-international-exchanges-award",
+      "name": "Royal Society of Chemistry International Exchanges Award",
+      "description": null,
+      "url": "https://royalsociety.org/grants-schemes-awards/grants/international-exchanges/",
+      "status": "active",
+      "featured": true,
+      "updated_at": "",
+      "funder_names": [
+        "The Royal Society"
+      ],
+      "funders": [
+        "the-royal-society"
+      ],
+      "applicant_country": "Anyone, but work in UK",
+      "career_levels": [],
+      "career_level_names": [],
+      "deadline": "currently closed for applications",
+      "award": "UK £3k-12k"
+    }
+  ],
+  "featured_resources": [
+    {
+      "id": "resource-guidelines-for-inclusive-academic-practices",
+      "type": "resource",
+      "_type": "resource",
+      "slug": "guidelines-for-inclusive-academic-practices",
+      "name": "Guidelines for inclusive academic practices",
+      "description": "Group of eLife Ambassadors 2019-2020 within the Intersectionality initiative has identified five current practices that are fundamental to academic science that may be hindering inclusivity in science…",
+      "url": "https://github.com/eLifeAmbassadors/Intersectionality-inclusive-guidelines",
+      "status": "active",
+      "featured": true,
+      "updated_at": "2020-05-27T09:52:04Z",
+      "funder_names": [],
+      "funders": [],
+      "resource_categories": [
+        "peer-review",
+        "other",
+        "open-source",
+        "diversity-and-inclusion",
+        "mentoring"
+      ],
+      "resource_category_names": [
+        "Peer review",
+        "Other",
+        "Open source",
+        "Diversity and inclusion",
+        "Mentoring"
+      ],
+      "subjects": [],
+      "subject_names": []
+    },
+    {
+      "id": "resource-the-open-grants-list",
+      "type": "resource",
+      "_type": "resource",
+      "slug": "the-open-grants-list",
+      "name": "The Open Grants List",
+      "description": "A list of grants that are openly available which can help with learning grantsmanship, understanding particular funders and their programs, and communicating science.",
+      "url": "https://www.ogrants.org/",
+      "status": "active",
+      "featured": true,
+      "updated_at": "2019-02-05T21:07:44Z",
+      "funder_names": [],
+      "funders": [],
+      "resource_categories": [
+        "career-development",
+        "science-communication",
+        "academic-writing"
+      ],
+      "resource_category_names": [
+        "Career development",
+        "Science Communication",
+        "Academic writing"
+      ],
+      "subjects": [],
+      "subject_names": []
+    },
+    {
+      "id": "resource-broad-commkit",
+      "type": "resource",
+      "_type": "resource",
+      "slug": "broad-commkit",
+      "name": "Broad CommKit",
+      "description": "A collection of guides to successful communication in the biological sciences, written by the BRCL Fellows.",
+      "url": "http://mitcommlab.mit.edu/broad/use-the-commkit/",
+      "status": "active",
+      "featured": true,
+      "updated_at": "2019-01-03T20:30:08Z",
+      "funder_names": [],
+      "funders": [],
+      "resource_categories": [
+        "career-development",
+        "science-communication",
+        "academic-writing",
+        "policy"
+      ],
+      "resource_category_names": [
+        "Career development",
+        "Science Communication",
+        "Academic writing",
+        "Policy"
+      ],
+      "subjects": [],
+      "subject_names": []
+    }
+  ],
+  "featured_funders": [],
+  "recently_updated": [
+    {
+      "id": "funding-gingko-grants-programme",
+      "type": "funding",
+      "_type": "funding",
+      "slug": "gingko-grants-programme",
+      "name": "GINGKO Grants Programme",
+      "description": "<p>GINGKO provides grants to support academic research into the history, art history and religions of MENA. GINGKO also offers grants for people organising transformative interfaith and intercultural…",
+      "url": "https://www.gingko.org.uk/grants/",
+      "status": "active",
+      "featured": false,
+      "updated_at": "2025-04-07T11:36:36Z",
+      "funder_names": [],
+      "funders": [],
+      "applicant_country": "MENA region",
+      "host_country": "MENA region",
+      "career_levels": [
+        "phd",
+        "postdoc",
+        "junior-faculty",
+        "senior-faculty"
+      ],
+      "career_level_names": [
+        "PhD",
+        "Postdoc",
+        "Junior Faculty",
+        "Senior Faculty"
+      ],
+      "deadline": "April",
+      "deadline_month": "April",
+      "award": "£3,000 – £10,000",
+      "subjects": [],
+      "funding_purposes": [],
+      "search_text": "GINGKO Grants Programme <p>GINGKO provides grants to support academic research into the history, art history and religions of MENA. GINGKO also offers grants for people organising transformative interfaith and intercultural encounters between people from MENA and the West. The Werner Mark Linz Memorial Grant (WMLM) is a medium-scale award to fund academic research projects, conferences or symposiums on one or more of GINGKO&rsquo;s academic subject areas &ndash; the history, art history or religions of the MENA region &ndash; in any time period. GINGKO awards up to one WMLM Grant per year, normally up to a maximum of &pound;10,000 for each grant. The Research Grant is a small-scale award to fund academic research, conferences or symposiums on one or more of GINGKO&rsquo;s academic subject areas &ndash; the history, art history or religions of the MENA region &ndash; in any time period. GINGKO awards up to three Research Grants per year, normally up to a maximum of &pound;3,000 for each grant. The Encounters can be but need not be academic in nature. They must aim to improve mutual understanding between MENA and the West. GINGKO awards up to three Encounter Grants per year, normally up to a maximum of &pound;3,000 for each grant.</p> PhD Postdoc Junior Faculty Senior Faculty MENA region MENA region",
+      "legacy_funder_name": "GINGKO",
+      "frequency": "Annual"
+    },
+    {
+      "id": "funding-junior-resarch-fellowships-at-the-hanse-wissenschaftskolleg",
+      "type": "funding",
+      "_type": "funding",
+      "slug": "junior-resarch-fellowships-at-the-hanse-wissenschaftskolleg",
+      "name": "Junior Resarch Fellowships at the Hanse-Wissenschaftskolleg",
+      "description": "<p data-pm-slice=\"1 1 []\">The Hanse-Wissenschaftskolleg (HWK) in Delmenhorst is a leading Institute for Advanced Study located in Northwest Germany, dedicated to fostering exceptional research across…",
+      "url": "https://hanse-ias.de/apply?mtm_campaign=Annual%20Call%202025&mtm_kwd=Application%20Page&mtm_source=ECRCentral&mtm_medium=Website%20profile&mtm_cid=ac2025_euraxess&mtm_group=Annual%20Call%20Campaigns",
+      "status": "active",
+      "featured": false,
+      "updated_at": "2025-04-07T11:32:06Z",
+      "funder_names": [],
+      "funders": [],
+      "applicant_country": "Any",
+      "host_country": "Germany",
+      "career_levels": [
+        "junior-faculty",
+        "senior-faculty",
+        "md"
+      ],
+      "career_level_names": [
+        "Junior Faculty",
+        "Senior Faculty",
+        "MD"
+      ],
+      "deadline": "15 July",
+      "deadline_month": "July",
+      "award": "Funded fellowship",
+      "subjects": [],
+      "funding_purposes": [],
+      "search_text": "Junior Resarch Fellowships at the Hanse-Wissenschaftskolleg <p data-pm-slice=\"1 1 []\">The Hanse-Wissenschaftskolleg (HWK) in Delmenhorst is a leading Institute for Advanced Study located in Northwest Germany, dedicated to fostering exceptional research across all academic disciplines. Through its prestigious Fellowship program, HWK offers talented scholars&mdash;from postdoctoral to senior researchers&mdash;the opportunity to concentrate deeply on their projects, free from daily academic distractions. Fellows enjoy a vibrant, interdisciplinary community that promotes rich intellectual exchange and international collaboration. Regular Fellowships are designed for experienced researchers, while Junior Fellowships support early career academics, each ranging from 3 to 10 months. Applicants worldwide, excluding those based in Northwestern Germany, are encouraged to pursue innovative research projects, either building upon existing work or exploring entirely new avenues, including interdisciplinary approaches. HWK provides an ideal environment for groundbreaking research and collaboration.</p>\r\n<p>&nbsp;</p> Junior Faculty Senior Faculty MD Germany Any",
+      "legacy_funder_name": "Hanse-Wissenschaftskolleg - Institute for Advanced Study (HWK)",
+      "frequency": "Annual"
+    },
+    {
+      "id": "funding-mopga-visiting-research-fellowships-in-france",
+      "type": "funding",
+      "_type": "funding",
+      "slug": "mopga-visiting-research-fellowships-in-france",
+      "name": "MOPGA Visiting Research Fellowships in France",
+      "description": "The MOPGA  visiting fellowship program supports significant scientific projects addressing issues related to the environment and climate change.\r\n\r\nThis program, implemented by Campus France and funde…",
+      "url": "https://www.campusfrance.org/en/mopga-2026",
+      "status": "active",
+      "featured": false,
+      "updated_at": "2024-10-21T18:35:26Z",
+      "funder_names": [],
+      "funders": [],
+      "applicant_country": "Wordwide",
+      "host_country": "France",
+      "career_levels": [
+        "postdoc"
+      ],
+      "career_level_names": [
+        "Postdoc"
+      ],
+      "deadline": "December 5, 2024",
+      "deadline_month": "December",
+      "award": "",
+      "subjects": [],
+      "funding_purposes": [],
+      "search_text": "MOPGA 2025: Visiting Research Fellowships in France The MOPGA  visiting fellowship program supports significant scientific projects addressing issues related to the environment and climate change.\r\n\r\nThis program, implemented by Campus France and funded by the French Ministry of Europe and Foreign Affairs in partnership with the Ministry of Higher Education and Research, aims to facilitate the mobility of early career international researchers, thereby promoting their collaboration with leading French research institutions.\r\n\r\nRESEARCH THEMES\r\nEarth systems\r\nClimate change and sustainability\r\nEnergy transition\r\nSocietal challenges of environmental issues\r\nHuman, animal and ecosystem health as part as a \"One Health\" approach.\r\n\r\nWHO MAY APPLY\r\nIndividuals fitting the following criteria are eligible to apply:\r\nApplicants who do NOT hold French citizenship\r\nForeign researchers holding a doctoral degree for less than 5 years\r\nForeign researchers who have not resided in France more than 90 days between September 5 and December 5, 2024. Postdoc France Any",
+      "legacy_funder_name": "Campus France",
+      "frequency": ""
+    },
+    {
+      "id": "funding-2025-stengl-wyer-scholars",
+      "type": "funding",
+      "_type": "funding",
+      "slug": "2025-stengl-wyer-scholars",
+      "name": "2025 Stengl-Wyer Scholars",
+      "description": "<p>Stengl-Wyer, the largest endowment in the history of the College of Natural Sciences, offers premier support for postdoctoral scientists to serve as Stengl-Wyer Scholars. Each scholar researches br…",
+      "url": "https://cns.utexas.edu/research/research-initiatives/stengl-wyer-scholars",
+      "status": "active",
+      "featured": false,
+      "updated_at": "2024-09-06T23:03:07Z",
+      "funder_names": [],
+      "funders": [],
+      "applicant_country": "",
+      "host_country": "United States",
+      "career_levels": [
+        "postdoc"
+      ],
+      "career_level_names": [
+        "Postdoc"
+      ],
+      "deadline": "12/9/24",
+      "deadline_month": "",
+      "award": "$10,000",
+      "subjects": [],
+      "funding_purposes": [
+        "research"
+      ],
+      "search_text": "2025 Stengl-Wyer Scholars <p>Stengl-Wyer, the largest endowment in the history of the College of Natural Sciences, offers premier support for postdoctoral scientists to serve as Stengl-Wyer Scholars. Each scholar researches broadly the diversity of life and interactions between living things and their natural environments.</p>\r\n<p>Recent Ph.D.s are invited to apply for distinguished postdoctoral positions to study the diversity of life and/or organisms in their natural environments at The University of Texas at Austin (UT), one of the top campuses in the country for this area of research.</p>\r\n<p>Stengl-Wyer Scholars Program provides up to three years of support for talented postdoctoral researchers in the broad area of the diversity of life and/or organisms in their natural environments.</p>\r\n<p>Scholars may study any group of organisms at levels from genes to populations to communities to ecosystems and may use any combination of approaches. Applications that advance research within the Texas Field Station Network or UT Biodiversity Collections are highly encouraged given the Stengl-Wyer Endowment&rsquo;s mission.</p> Postdoc Research United States",
+      "legacy_funder_name": "The University of Texas - Austin",
+      "frequency": ""
+    },
+    {
+      "id": "funding-australia-india-women-researchers-exchange-aiwe-program",
+      "type": "funding",
+      "_type": "funding",
+      "slug": "australia-india-women-researchers-exchange-aiwe-program",
+      "name": "Australia India Women Researchers’ Exchange (AIWE) Program",
+      "description": "<p>The Australia India Women Researchers&rsquo; Exchange (AIWE) Program is an initiative aimed at strengthening collaboration between Australia and India while addressing gender equity in STEM researc…",
+      "url": "https://arch-india.org/australia-india-women-researchers-exchange-program",
+      "status": "active",
+      "featured": false,
+      "updated_at": "2024-09-06T22:57:30Z",
+      "funder_names": [],
+      "funders": [],
+      "applicant_country": "Australia, India",
+      "host_country": "India, Australia",
+      "career_levels": [
+        "postdoc"
+      ],
+      "career_level_names": [
+        "Postdoc"
+      ],
+      "deadline": "September 30",
+      "deadline_month": "September",
+      "award": "$9,000-$12,000",
+      "subjects": [],
+      "funding_purposes": [],
+      "search_text": "Australia India Women Researchers’ Exchange (AIWE) Program <p>The Australia India Women Researchers&rsquo; Exchange (AIWE) Program is an initiative aimed at strengthening collaboration between Australia and India while addressing gender equity in STEM research. The AIWE program offers 10 fellowships for early-career postdoctoral researchers in STEM disciplines. Each fellowship supports a 6 to 8-week research exchange between Australia and India, to be completed by 31 May 2025. - Five fellowships will be awarded to Indian women researchers from central and state public universities in Tier 2 and Tier 3 cities. - Five fellowships will be awarded to Australian women researchers from universities in regional centres. The AIWE Program is administered by the Australia India Institute and funded by the Australian Government Department of Education.</p> Postdoc India, Australia Australia, India",
+      "legacy_funder_name": "Australia India Institute",
+      "frequency": ""
+    },
+    {
+      "id": "funding-nc3rs-project-grants",
+      "type": "funding",
+      "_type": "funding",
+      "slug": "nc3rs-project-grants",
+      "name": "NC3Rs- Project grants",
+      "description": "<h2 id=\"scheme-at-a-glance\" style=\"box-sizing: inherit; margin: 35px 0px 0px; color: #1a1a1a; line-height: 1.2; letter-spacing: -0.5px; font-size: 26px; font-family: Arial, Helvetica, 'Nimbus Sans L',…",
+      "url": "https://www.nc3rs.org.uk/our-funding-schemes/project-grants﻿",
+      "status": "active",
+      "featured": false,
+      "updated_at": "2024-02-14T09:19:23Z",
+      "funder_names": [],
+      "funders": [],
+      "applicant_country": "",
+      "host_country": "",
+      "career_levels": [],
+      "career_level_names": [],
+      "deadline": "",
+      "deadline_month": "",
+      "award": "",
+      "subjects": [],
+      "funding_purposes": [],
+      "search_text": "NC3Rs- Project grants <h2 id=\"scheme-at-a-glance\" style=\"box-sizing: inherit; margin: 35px 0px 0px; color: #1a1a1a; line-height: 1.2; letter-spacing: -0.5px; font-size: 26px; font-family: Arial, Helvetica, 'Nimbus Sans L', sans-serif;\">Scheme at a glance</h2>\r\n<div class=\"s8080-component text--width-limit\" style=\"box-sizing: inherit; margin-top: 25px; max-width: 760px; caret-color: #444342; color: #444342; font-family: Arial, Helvetica, 'Nimbus Sans L', sans-serif; font-size: 18px;\">\r\n<p style=\"box-sizing: inherit; margin: 0px; line-height: 1.4;\">A Project grant is a research project which supports the development of new 3Rs approaches and technologies.&nbsp;Applications from any area of medical, biological or veterinary research are within remit &ndash; those that integrate a range of disciplines or include an industrial partner are particularly encouraged.</p>\r\n<p style=\"box-sizing: inherit; margin: 20px 0px 0px; line-height: 1.4;\">The amount requested should be dependent on the science. Awards are for up to 36 months and funded at 80% of the full economic cost (fEC).</p>\r\n</div>\r\n<h2 id=\"key-dates\" style=\"box-sizing: inherit; margin: 35px 0px 0px; color: #1a1a1a; line-height: 1.2; letter-spacing: -0.5px; font-size: 26px; font-family: Arial, Helvetica, 'Nimbus Sans L', sans-serif;\">Key dates</h2>\r\n<div class=\"s8080-component text--width-limit\" style=\"box-sizing: inherit; margin-top: 25px; max-width: 760px; caret-color: #444342; color: #444342; font-family: Arial, Helvetica, 'Nimbus Sans L', sans-serif; font-size: 18px;\">\r\n<div class=\"text--highlight\" style=\"box-sizing: inherit; margin: 30px 0px; padding: 20px; background-color: #f4f4f4;\">\r\n<table style=\"box-sizing: inherit; width: 634.984375px; line-height: 1.2; border-collapse: collapse; margin: 10px 0px 0px;\">\r\n<thead style=\"box-sizing: inherit;\">\r\n<tr style=\"box-sizing: inherit; border-bottom-width: 0px;\">\r\n<th style=\"box-sizing: inherit; padding: 15px 10px; vertical-align: top; color: #ffffff; background-color: #0080be;\">Key date</th>\r\n<th style=\"box-sizing: inherit; padding: 15px 10px; vertical-align: top; color: #ffffff; background-color: #0080be;\">Details</th>\r\n</tr>\r\n</thead>\r\n<tbody style=\"box-sizing: inherit;\">\r\n<tr style=\"box-sizing: inherit; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #cdcdcd;\">\r\n<td style=\"box-sizing: inherit; padding: 15px 10px; vertical-align: top;\">19 October 2023</td>\r\n<td style=\"box-sizing: inherit; padding: 15px 10px; vertical-align: top;\">Outline application form available on&nbsp;the new Funding Service (TFS)</td>\r\n</tr>\r\n<tr style=\"box-sizing: inherit; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #cdcdcd; background-color: #e8f0f8;\">\r\n<td style=\"box-sizing: inherit; padding: 15px 10px; vertical-align: top;\">16.00, 11&nbsp;January 2024&nbsp;</td>\r\n<td style=\"box-sizing: inherit; padding: 15px 10px; vertical-align: top;\">Deadline for submitting outline on TFS</td>\r\n</tr>\r\n<tr style=\"box-sizing: inherit; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #cdcdcd;\">\r\n<td style=\"box-sizing: inherit; padding: 15px 10px; vertical-align: top;\">March 2024</td>\r\n<td style=\"box-sizing: inherit; padding: 15px 10px; vertical-align: top;\">Outline assessment meeting</td>\r\n</tr>\r\n<tr style=\"box-sizing: inherit; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #cdcdcd; background-color: #e8f0f8;\">\r\n<td style=\"box-sizing: inherit; padding: 15px 10px; vertical-align: top;\">Mid-March 2024</td>\r\n<td style=\"box-sizing: inherit; padding: 15px 10px; vertical-align: top;\">Applicants notified of outcome</td>\r\n</tr>\r\n<tr style=\"box-sizing: inherit; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #cdcdcd;\">\r\n<td style=\"box-sizing: inherit; padding: 15px 10px; vertical-align: top;\">March 2024</td>\r\n<td style=\"box-sizing: inherit; padding: 15px 10px; vertical-align: top;\">Applicant workshop for those invited to submit full application</td>\r\n</tr>\r\n<tr style=\"box-sizing: inherit; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #cdcdcd; background-color: #e8f0f8;\">\r\n<td style=\"box-sizing: inherit; padding: 15px 10px; vertical-align: top;\">16.00, 18 April 2024</td>\r\n<td style=\"box-sizing: inherit; padding: 15px 10px; vertical-align: top;\">Full application deadline on TFS</td>\r\n</tr>\r\n<tr style=\"box-sizing: inherit; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #cdcdcd;\">\r\n<td style=\"box-sizing: inherit; padding: 15px 10px; vertical-align: top;\">July 2024</td>\r\n<td style=\"box-sizing: inherit; padding: 15px 10px; vertical-align: top;\">Panel meeting for full applications</td>\r\n</tr>\r\n<tr style=\"box-sizing: inherit; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #cdcdcd; background-color: #e8f0f8;\">\r\n<td style=\"box-sizing: inherit; padding: 15px 10px; vertical-align: top;\">Late July 2024</td>\r\n<td style=\"box-sizing: inherit; padding: 15px 10px; vertical-align: top;\">Applicants notified of outcome</td>\r\n</tr>\r\n<tr style=\"box-sizing: inherit; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #cdcdcd;\">\r\n<td style=\"box-sizing: inherit; padding: 15px 10px; vertical-align: top;\">September 2024</td>\r\n<td style=\"box-sizing: inherit; padding: 15px 10px; vertical-align: top;\">Grant holder introductory meeting</td>\r\n</tr>\r\n<tr style=\"box-sizing: inherit; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #cdcdcd; background-color: #e8f0f8;\">\r\n<td style=\"box-sizing: inherit; padding: 15px 10px; vertical-align: top;\">1 October 2024</td>\r\n<td style=\"box-sizing: inherit; padding: 15px 10px; vertical-align: top;\">Last date for commencing projects</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n</div>\r\n</div>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span style=\"font-size: 10pt; font-family: Arial, sans-serif;\"><u></u>&nbsp;<u></u></span></p>\r\n<h2 id=\"who-can-apply?\" style=\"box-sizing: inherit; margin: 35px 0px 0px; color: #1a1a1a; line-height: 1.2; letter-spacing: -0.5px; font-size: 26px;\">Who can apply?</h2>\r\n<div class=\"s8080-component text--width-limit\" style=\"caret-color: #000000; color: #000000; box-sizing: inherit; margin-top: 25px; max-width: 760px;\">\r\n<h3 style=\"box-sizing: inherit; margin: 0px; color: #1a1a1a; line-height: 1.2; letter-spacing: -0.5px; font-size: 24px; font-family: Arial, Helvetica, 'Nimbus Sans L', sans-serif;\">Establishment eligibility</h3>\r\n<p style=\"box-sizing: inherit; margin: 20px 0px 0px; font-size: 18px; line-height: 1.4; caret-color: #444342; color: #444342; font-family: Arial, Helvetica, 'Nimbus Sans L', sans-serif;\">Any UK research establishment including:</p>\r\n<ul style=\"box-sizing: inherit; font-size: 18px; line-height: 1.5; list-style: square; caret-color: #444342; color: #444342; font-family: Arial, Helvetica, 'Nimbus Sans L', sans-serif;\">\r\n<li style=\"box-sizing: inherit; padding-left: 5px;\">Higher Education Institutions (HEIs).</li>\r\n<li style=\"box-sizing: inherit; padding-left: 5px; margin-top: 7px;\">Independent Research Organisations (IROs).</li>\r\n<li style=\"box-sizing: inherit; padding-left: 5px; margin-top: 7px;\">Research Council (RC) Institutes.</li>\r\n</ul>\r\n</div>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\">&nbsp;</p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span style=\"font-size: 10pt; font-family: Arial, sans-serif;\"><u></u>&nbsp;<u></u></span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\">&nbsp;</p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span style=\"font-size: 10pt; font-family: Arial, sans-serif;\"><u></u>&nbsp;<u></u></span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\">&nbsp;</p>",
+      "legacy_funder_name": "NC3Rs",
+      "frequency": ""
+    },
+    {
+      "id": "funding-nc3rs-grants-awards-studentships",
+      "type": "funding",
+      "_type": "funding",
+      "slug": "nc3rs-grants-awards-studentships",
+      "name": "NC3Rs - grants, awards, studentships",
+      "description": "<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span style=\"font-size: 10pt; font-family: Arial, sans-serif;\">Project Grants…",
+      "url": "https://www.nc3rs.org.uk/our-funding-schemes",
+      "status": "active",
+      "featured": false,
+      "updated_at": "2024-02-14T09:14:37Z",
+      "funder_names": [
+        "National Centre for the Replacement Refinement and Reduction of Animals in Research"
+      ],
+      "funders": [
+        "national-centre-for-the-replacement-refinement-and-reduction-of-animals-in-research"
+      ],
+      "applicant_country": "Worldwide",
+      "host_country": "United Kingdom",
+      "career_levels": [
+        "phd"
+      ],
+      "career_level_names": [
+        "PhD"
+      ],
+      "deadline": "",
+      "deadline_month": "",
+      "award": "",
+      "subjects": [
+        "life-sciences",
+        "medicine-and-health-sciences",
+        "biology",
+        "veterinary-medicine"
+      ],
+      "funding_purposes": [
+        "award"
+      ],
+      "search_text": "NC3Rs - grants, awards, studentships <p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span style=\"font-size: 10pt; font-family: Arial, sans-serif;\">Project Grants - Need to hold a PhD<u></u><u></u></span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span style=\"font-size: 10pt; font-family: Arial, sans-serif;\"><u></u>&nbsp;<u></u></span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span style=\"font-size: 10pt; font-family: Arial, sans-serif;\"><a style=\"color: #1155cc;\" href=\"https://www.nc3rs.org.uk/our-funding-schemes/project-grants\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.nc3rs.org.uk/our-funding-schemes/project-grants&amp;source=gmail&amp;ust=1707910868716000&amp;usg=AOvVaw1qFSOWmBd8TUMfNQWMbHEE\">https://www.nc3rs.org.uk/our-<wbr />funding-schemes/project-grants</a><u></u><u></u></span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span style=\"font-size: 10pt; font-family: Arial, sans-serif;\"><u></u>&nbsp;<u></u></span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span style=\"font-size: 10pt; font-family: Arial, sans-serif;\">Partnerships &amp; Impact &ndash; Need to hold a PhD<u></u><u></u></span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span style=\"font-size: 10pt; font-family: Arial, sans-serif;\"><u></u>&nbsp;<u></u></span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span style=\"font-size: 10pt; font-family: Arial, sans-serif;\"><a style=\"color: #1155cc;\" href=\"https://www.nc3rs.org.uk/our-funding-schemes/partnership-and-impact-awards\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.nc3rs.org.uk/our-funding-schemes/partnership-and-impact-awards&amp;source=gmail&amp;ust=1707910868716000&amp;usg=AOvVaw2zZL_QuJn-7MMHGV-9tJIK\">https://www.nc3rs.org.uk/our-<wbr />funding-schemes/partnership-<wbr />and-impact-awards</a><u></u><u></u></span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span style=\"font-size: 10pt; font-family: Arial, sans-serif;\"><u></u>&nbsp;<u></u></span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span style=\"font-size: 10pt; font-family: Arial, sans-serif;\">Studentship call &ndash; Need min 5 years postdoctoral experience, but can be named on application if don&rsquo;t have this experience level.<u></u><u></u></span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span style=\"font-size: 10pt; font-family: Arial, sans-serif;\"><u></u>&nbsp;<u></u></span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span style=\"font-size: 10pt; font-family: Arial, sans-serif;\"><a style=\"color: #1155cc;\" href=\"https://www.nc3rs.org.uk/our-funding-schemes/phd-studentships\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.nc3rs.org.uk/our-funding-schemes/phd-studentships&amp;source=gmail&amp;ust=1707910868716000&amp;usg=AOvVaw0M6blHfzKaCaT_iS61Mb9c\">https://www.nc3rs.org.uk/our-<wbr />funding-schemes/phd-<wbr />studentships</a></span></p> National Centre for the Replacement Refinement and Reduction of Animals in Research PhD Life Sciences Medicine and Health Sciences Biology Veterinary Medicine Award United Kingdom Worldwide",
+      "legacy_funder_name": "NC3Rs",
+      "frequency": "Annual"
+    },
+    {
+      "id": "funding-joint-funded-encephalitis-clinical-research-training-phd-fellowships",
+      "type": "funding",
+      "_type": "funding",
+      "slug": "joint-funded-encephalitis-clinical-research-training-phd-fellowships",
+      "name": "Joint-funded encephalitis clinical research training PhD fellowships",
+      "description": "<p>The Medical Research Council collaborates with Encephalitis International to offer a jointly funded clinical research training fellowship. Encephalitis International will support one clinical resea…",
+      "url": "https://www.ukri.org/councils/mrc/fellowships/jointly-funded-clinical-research-training-fellowships/",
+      "status": "active",
+      "featured": false,
+      "updated_at": "2024-02-14T08:53:16Z",
+      "funder_names": [],
+      "funders": [],
+      "applicant_country": "United Kingdom",
+      "host_country": "United Kingdom",
+      "career_levels": [
+        "phd"
+      ],
+      "career_level_names": [
+        "PhD"
+      ],
+      "deadline": "",
+      "deadline_month": "",
+      "award": "",
+      "subjects": [],
+      "funding_purposes": [],
+      "search_text": "Joint-funded encephalitis clinical research training PhD fellowships <p>The Medical Research Council collaborates with Encephalitis International to offer a jointly funded clinical research training fellowship. Encephalitis International will support one clinical research training fellowship to undertake UK-based research that contributes to improving the detection, diagnosis, treatment, and, or rehabilitation of patients. Suitable applicants will be in clinical training in neurology, infectious diseases, neurorehabilitiation, or allied specialities.</p> PhD United Kingdom United Kingdom",
+      "legacy_funder_name": "Medical Research Council and Encephalitis International",
+      "frequency": ""
+    },
+    {
+      "id": "funding-beckman-young-investigator-award",
+      "type": "funding",
+      "_type": "funding",
+      "slug": "beckman-young-investigator-award",
+      "name": "Beckman Young Investigator Award",
+      "description": "<p>Projects proposed for the BYI program should be truly innovative, high-risk, and show promise for contributing to significant advances in chemistry and the life sciences.</p>\r\n<p>They should repres…",
+      "url": "https://www.beckman-foundation.org/programs/beckman-young-investigator/",
+      "status": "active",
+      "featured": false,
+      "updated_at": "2024-02-03T19:16:02Z",
+      "funder_names": [],
+      "funders": [],
+      "applicant_country": "United States",
+      "host_country": "United States",
+      "career_levels": [
+        "junior-faculty"
+      ],
+      "career_level_names": [
+        "Junior Faculty"
+      ],
+      "deadline": "Early August, annually",
+      "deadline_month": "August",
+      "award": "$600,000 total",
+      "subjects": [],
+      "funding_purposes": [],
+      "search_text": "Beckman Young Investigator Award <p>Projects proposed for the BYI program should be truly innovative, high-risk, and show promise for contributing to significant advances in chemistry and the life sciences.</p>\r\n<p>They should represent a departure from current research directions rather than an extension or expansion of existing programs.</p>\r\n<p>Proposed research that cuts across traditional boundaries of scientific disciplines is encouraged.</p>\r\n<p>Proposals that open new avenues of research in chemistry and life sciences by fostering the invention of methods, instruments and materials will be given additional consideration.</p>\r\n<p>The BYI program funds promising young scientists early in their careers who have not yet received a major award from another organization.</p>\r\n<p>Proposals that already have substantial funding will not be considered for the BYI award (see eligibility for more information).</p> Junior Faculty United States United States",
+      "legacy_funder_name": "Arnold and Mabel Beckman Foundation",
+      "frequency": ""
+    },
+    {
+      "id": "funding-zukonnect-fellowships-for-scholars-from-africa-asia-and-latin-america-2",
+      "type": "funding",
+      "_type": "funding",
+      "slug": "zukonnect-fellowships-for-scholars-from-africa-asia-and-latin-america-2",
+      "name": "ZUKOnnect Fellowships for Scholars from Africa, Asia and Latin America",
+      "description": "<p><strong>OVERVIEW </strong></p>\r\n<p>The Zukunftskolleg Konnect Fellowships support early career researchers from Africa, Asia and Latin America, who do research that fits to one of the thirteen depa…",
+      "url": "https://www.uni-konstanz.de/zukunftskolleg/fellowships/zukonnect-fellowship/",
+      "status": "active",
+      "featured": false,
+      "updated_at": "2024-01-03T14:23:50Z",
+      "funder_names": [],
+      "funders": [],
+      "applicant_country": "Africa, Asia or Latin America",
+      "host_country": "Germany",
+      "career_levels": [
+        "phd",
+        "postdoc"
+      ],
+      "career_level_names": [
+        "PhD",
+        "Postdoc"
+      ],
+      "deadline": "15th of February 2024",
+      "deadline_month": "February",
+      "award": "",
+      "subjects": [],
+      "funding_purposes": [],
+      "search_text": "ZUKOnnect Fellowships for Scholars from Africa, Asia and Latin America <p><strong>OVERVIEW </strong></p>\r\n<p>The Zukunftskolleg Konnect Fellowships support early career researchers from Africa, Asia and Latin America, who do research that fits to one of the thirteen departments at the University of Konstanz. As a ZUKOnnect Fellow, you can use this time to extend your research networks and to get to know the research environment at the University of Konstanz while keeping your position at home. As these fellowships can build a first bridge to the German and European academic system, we also encourage doctoral students in their last year to apply. The Zukunftskolleg will not offer employment contracts for ZUKOnnect Fellows. The Zukunftskolleg is an Institute for Advanced Study (IAS). It offers fellowships as well as a diverse support network to promote the independence of early career researchers. Researchers at the postdoctoral level can work with minimal administrative constraints, and enjoy the freedom to engage in meaningful exchange with other up-and-coming colleagues as well as with distinguished senior researchers. Researchers in the humanities, social and natural sciences come to Konstanz from around the world to perform first-class research. The Zukunftskolleg is a keystone in the University of Konstanz's institutional strategy and the University of Konstanz is one of Germany&rsquo;s eleven Universities of Excellence.</p>\r\n<p><strong>WE OFFER </strong></p>\r\n<p>- During the on-campus research stay, a stipend of &euro; 1,300/month for doctoral students and &euro; 2,000/month for postdoctoral researchers (following DAAD guidelines).</p>\r\n<p>- Standard expenses for one economy-class trip to Konstanz and back. - The chance to participate in events organized by the Zukunftskolleg.</p>\r\n<p>- Access to library resources.</p>\r\n<p>- Access to IT services.</p>\r\n<p>- Access to research support services (via Research Support).</p>\r\n<p>- ZUKOnnect Fellows will benefit from a digital affiliation extending the total period to 12 months. The digital affiliation will be supported with up to &euro; 900 (lump sum).</p>\r\n<p>- German language course (online and on site to be confirmed for 2024)</p>\r\n<p>- Career Kit Plus - weekly series of seminars and workshops offered by the University of Konstanz staff members or external trainers (e.g. open access, good practice in academic writing, career perspectives, funding opportunities, but also sight visits and other encounters) Programme for 2024 to be confirmed.</p>\r\n<p>- \"Fellows go Local\" - ZUKOnnect meetings with fellows, staff, PhD students in town, helping to adjust in the local region supported by the Universit&auml;tsgesellschaft Konstanz.</p>\r\n<p><strong>YOUR RESPONSIBILITIES </strong></p>\r\n<p>- You will live in Konstanz or nearby throughout the on-site ZUKOnnect Fellowship (the Welcome Centre at the University of Konstanz will support you with all organizational aspects of relocating to Konstanz).</p>\r\n<p>- During the digital affiliation and the on-campus research stay, you will actively contribute to the interdisciplinary dialogue at the Zukunftskolleg, e.g. during weekly Jour fixe meetings (in the semester). - You will interact with fellows and researchers in relevant departments at the university of Konstanz.</p>\r\n<p>- You will give a presentation in a seminar or a public lecture.</p>\r\n<p>- You will acknowledge the Zukunftskolleg&rsquo;s support in any publications resulting from the stay.</p>\r\n<p>- You will write a short report on your activities and achievements (within 6 months of completing your ZUKOnnect Fellowship).</p>\r\n<p><strong>THE REQUIREMENTS </strong></p>\r\n<p>- You are educated AND currently work in Latin America, Asia and/or Africa.</p>\r\n<p>- You hold a doctorate (max. 2 years, doctoral degree granted after 15 February 2022) OR are a doctoral student in your final year.</p>\r\n<p>- Your doctorate was/ is going to be completed at a university in Latin America, Asia or Africa.</p>\r\n<p>- You do not hold a permanent professorship, nor do you have a habilitation or equivalent qualification (Venia legendi).</p>\r\n<p>- Your research project fits to one of the disciplines represented at the University of Konstanz.</p> PhD Postdoc Germany Africa, Asia or Latin America",
+      "legacy_funder_name": "Zukunftskolleg (IAS) University Konstanz",
+      "frequency": ""
+    }
+  ]
+}

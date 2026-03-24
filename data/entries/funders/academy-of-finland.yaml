@@ -1,0 +1,20 @@
+id: funder-academy-of-finland
+legacy_id: 3
+slug: academy-of-finland
+name: Academy of Finland
+short_name: Academy of Finland
+funder_registry_id: '501100002341'
+country: Finland
+website: null
+logo: /logos/funders/academy-of-finland.png
+dora: true
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2020-05-22T23:03:04Z'
+source: legacy-import

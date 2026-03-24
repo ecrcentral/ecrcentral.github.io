@@ -1,0 +1,50 @@
+id: funding-jsps-postdoctoral-fellowship-for-overseas-researchers
+legacy_id: 114
+slug: jsps-postdoctoral-fellowship-for-overseas-researchers
+name: JSPS Postdoctoral fellowship for overseas researchers
+description: The program provides an opportunity to conduct collaborative research
+  for young overseas researchers under the guidance of their hosts in universities
+  and other research institutions in Japan.
+url: http://www.jsps.go.jp/english/e-ippan/index.html
+funders:
+- japan-society-for-the-promotion-of-science
+legacy_funder_name: Japan Society for the Promotion of Science
+host_country: Japan
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: '6'
+duration: 1-2
+award: ¥362,000 per month
+mobility_rule: 'Yes'
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: null
+benefits: "1. A round-trip air ticket\r\n2. A settling-in allowance of ¥200,000, Overseas\
+  \ travel insurance"
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-28T19:46:20Z'
+subjects:
+- arts-and-humanities
+- social-and-behavioral-sciences
+- natural-sciences
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: JSPS Postdoctoral fellowship for overseas researchers The program provides
+  an opportunity to conduct collaborative research for young overseas researchers
+  under the guidance of their hosts in universities and other research institutions
+  in Japan. Japan Society for the Promotion of Science PhD Arts and Humanities Social
+  and Behavioral Sciences Natural Sciences Fellowship, scholarship or training Research
+  Japan Worldwide
+source: legacy-import

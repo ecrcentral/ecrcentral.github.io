@@ -1,0 +1,45 @@
+id: funding-rubicon-postdoctoral-fellowship
+legacy_id: 172
+slug: rubicon-postdoctoral-fellowship
+name: Rubicon Postdoctoral Fellowship
+description: Rubicon aims to encourage talented researchers at Dutch universities
+  and research institutes run by KNAW and NWO to dedicate themselves to a career in
+  postdoctoral research.
+url: https://www.nwo.nl/en/funding/our-funding-instruments/nwo/rubicon/index.html
+funders:
+- netherlands-organisation-for-scientific-research
+legacy_funder_name: Netherlands Organisation for Scientific Research
+host_country: Worldwide
+applicant_country: Netherlands
+career_levels:
+- phd
+years_since_phd: Max. 1
+duration: 1-2
+award: Depending on host country
+mobility_rule: 'Yes'
+research_costs: Limited amount of research costs is included
+deadline: March, September, December
+deadline_month: March, September, December
+diversity: null
+comments: Any overhead costs such as housing, computers, infrastructure, etc. are
+  not eligible for funding.
+benefits: Support for return travel costs from Netherlands to host country
+frequency: Triannual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T15:06:03Z'
+subjects:
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Rubicon Postdoctoral Fellowship Rubicon aims to encourage talented researchers
+  at Dutch universities and research institutes run by KNAW and NWO to dedicate themselves
+  to a career in postdoctoral research. Netherlands Organisation for Scientific Research
+  PhD All subjects Fellowship, scholarship or training Worldwide Netherlands
+source: legacy-import

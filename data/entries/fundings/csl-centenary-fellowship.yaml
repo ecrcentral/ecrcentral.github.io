@@ -1,0 +1,58 @@
+id: funding-csl-centenary-fellowship
+legacy_id: 43
+slug: csl-centenary-fellowship
+name: CSL Centenary Fellowship
+description: The CSL Centenary Fellowships were established in our centenary year,
+  2016, to pay tribute to our origins by supporting Australia’s scientific community.
+  Their intent is to foster excellence in Australian medical research by supporting
+  mid-career Australian scientists to pursue world-class research.
+url: https://www.cslfellowships.com.au/
+funders:
+- csl
+legacy_funder_name: CSL, Commonwealth Serum Laboratories
+host_country: Australia
+applicant_country: Australia
+career_levels:
+- junior-faculty
+years_since_phd: '10'
+duration: '5'
+award: $AUD 1.25 million
+mobility_rule: 'No'
+research_costs: null
+deadline: July
+deadline_month: July
+diversity: null
+comments: "\uFEFFThe CSL Centenary Fellowships are awarded to Australian mid-career\
+  \ researchers looking to pursue research opportunities at an Australian medical\
+  \ research institute or Australian University.   It is a requirement that all applicants\
+  \ have an agreement with an Australian medical research institute (MRI)/University\
+  \ which allows that should they be awarded the fellowship the institute/universitywould\
+  \ be prepared to employ them and that they would be appropriately supported to undertake\
+  \ their nominated research project at that institution.   Note that the fellowships\
+  \ monies are paid to the employing institute/university."
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-25T20:28:56Z'
+subjects:
+- medicine-and-health-sciences
+- immunology
+- infectious-disease
+- diseases
+- translational-medical-research
+funding_purposes:
+- research
+search_text: CSL Centenary Fellowship The CSL Centenary Fellowships were established
+  in our centenary year, 2016, to pay tribute to our origins by supporting Australia’s
+  scientific community. Their intent is to foster excellence in Australian medical
+  research by supporting mid-career Australian scientists to pursue world-class research.
+  CSL Junior Faculty Medicine and Health Sciences Immunology Infectious Disease Diseases
+  Translational Medical Research Research Australia Australia
+source: legacy-import

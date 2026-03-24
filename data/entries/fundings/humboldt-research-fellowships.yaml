@@ -1,0 +1,49 @@
+id: funding-humboldt-research-fellowships
+legacy_id: 102
+slug: humboldt-research-fellowships
+name: Humboldt Research Fellowships
+description: A Humboldt Research Fellowship for postdoctoral researchers allows you
+  to carry out long-term research (6-24 months) in Germany. Applicants choose their
+  own topic of research and their academic host.
+url: https://www.humboldt-foundation.de/web/humboldt-fellowship-postdoc.html
+funders:
+- alexander-von-humboldt-stiftung
+legacy_funder_name: Humboldt Foundation
+host_country: Germany
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: '4'
+duration: '2'
+award: 2,670 EUR per month
+mobility_rule: 'Yes'
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: null
+benefits: travel expenses; language fellowship; family allowance; additional extension
+  of the fellowship up to 12 months for research fellows accompanied by children under
+  the age of 12; subsidy towards research costs; Europe allowance; extensive alumni
+  sponsorship
+frequency: Rolling
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-25T22:11:05Z'
+subjects:
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: Humboldt Research Fellowships A Humboldt Research Fellowship for postdoctoral
+  researchers allows you to carry out long-term research (6-24 months) in Germany.
+  Applicants choose their own topic of research and their academic host. Alexander
+  von Humboldt-Stiftung PhD All subjects Fellowship, scholarship or training Research
+  Germany Worldwide
+source: legacy-import

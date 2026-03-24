@@ -1,0 +1,51 @@
+id: funding-cri-research-fellowship
+legacy_id: 33
+slug: cri-research-fellowship
+name: CRI Research Fellowship
+description: We seek candidates at different career stages, from postdoctoral young
+  investigators to tenured scientists. We are recruiting three types of Research fellows,
+  differing in their profiles and lengths of stay.
+url: http://cri-paris.org/fellows
+funders:
+- center-for-research-and-interdisciplinarity
+legacy_funder_name: Center for Research and Interdisciplinarity
+host_country: France
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: null
+duration: null
+award: null
+mobility_rule: 'No'
+research_costs: null
+deadline: February
+deadline_month: February
+diversity: n/a
+comments: null
+benefits: 'Research funding package includes: salary (corresponding to past research
+  experience), small equipment and consumables (up to 60,000€/year, depending on fellow’s
+  budgetary needs), and support in financing a project team of postdocs, PhD students,
+  and short-term interns (up to 1.5 person/year). The fellows will benefit from CRI
+  Research lab facilities and expertise.'
+frequency: Annual
+fileds: interdisciplinary, intersection between natural, digital and educational science
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-25T15:13:15Z'
+subjects:
+- systems-biology
+- artificial-intelligence
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: CRI Research Fellowship We seek candidates at different career stages,
+  from postdoctoral young investigators to tenured scientists. We are recruiting three
+  types of Research fellows, differing in their profiles and lengths of stay. Center
+  for Research and Interdisciplinarity PhD Systems Biology Artificial intelligence
+  Fellowship, scholarship or training Research France Worldwide
+source: legacy-import

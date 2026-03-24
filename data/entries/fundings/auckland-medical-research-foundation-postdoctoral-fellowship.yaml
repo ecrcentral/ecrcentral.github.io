@@ -1,0 +1,49 @@
+id: funding-auckland-medical-research-foundation-postdoctoral-fellowship
+legacy_id: 14
+slug: auckland-medical-research-foundation-postdoctoral-fellowship
+name: Auckland Medical Research Foundation Postdoctoral Fellowship
+description: The Fellowship is for the support of outstanding graduates who have recently
+  completed a degree at doctorate level and who propose to pursue a career in biomedical,
+  clinical or population health research. This fellowship is a personal award, and
+  once awarded, is non-transferable to another person.
+url: https://www.medicalresearch.org.nz/how-to-apply
+funders:
+- auckland-medical-research-foundation
+legacy_funder_name: Auckland Medical Research Foundation
+host_country: New Zealand
+applicant_country: New Zealand
+career_levels:
+- phd
+years_since_phd: '5'
+duration: '2'
+award: null
+mobility_rule: 'No'
+research_costs: null
+deadline: August
+deadline_month: August
+diversity: n/a
+comments: "Salary will be the equivalent to the appropriate level of the non-medical\
+  \ Lecturer/Research Fellow scale at your host institution\r\n$5,000 working expenses\
+  \ per annum\r\n$5,000 travel grant\r\n$4,000 relocation expenses (if required)"
+benefits: null
+frequency: Annual
+fileds: all
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-25T08:45:55Z'
+subjects:
+- all-subjects
+funding_purposes:
+- research
+search_text: Auckland Medical Research Foundation Postdoctoral Fellowship The Fellowship
+  is for the support of outstanding graduates who have recently completed a degree
+  at doctorate level and who propose to pursue a career in biomedical, clinical or
+  population health research. This fellowship is a personal award, and once awarded,
+  is non-transferable to another person. Auckland Medical Research Foundation PhD
+  All subjects Research New Zealand New Zealand
+source: legacy-import

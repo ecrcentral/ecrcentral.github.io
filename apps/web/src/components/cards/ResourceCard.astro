@@ -1,0 +1,99 @@
+---
+import type { Resource } from '../../lib/schema'
+
+interface Props {
+  resource: Resource
+  compact?: boolean
+}
+
+const { resource, compact = false } = Astro.props
+
+const statusClass: Record<string, string> = {
+  active: 'badge-active',
+  expired: 'badge-expired',
+  archived: 'badge-archived',
+  draft: 'badge-draft',
+}
+---
+
+<article
+  class="card"
+  data-id={resource.id}
+  data-slug={resource.slug}
+  data-status={resource.status}
+  data-categories={resource.resource_categories.join(',')}
+  data-subjects={resource.subjects.join(',')}
+  data-featured={resource.featured ? 'true' : 'false'}
+  data-name={resource.name.toLowerCase()}
+  data-search-text={(resource.name + ' ' + (resource.description || '') + ' ' + (resource.source_name || '')).toLowerCase()}
+>
+  <div class="card-body">
+    <!-- Header -->
+    <div class="card-header">
+      <h3 class="card-title">
+        <a href={`/resources/${resource.slug}/`}>{resource.name}</a>
+      </h3>
+      <div style="display:flex;gap:6px;flex-shrink:0;align-items:center;flex-wrap:wrap;">
+        {resource.featured && (
+          <span class="badge badge-featured">
+            <svg width="10" height="10" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+            </svg>
+            Featured
+          </span>
+        )}
+        <span class={`badge ${statusClass[resource.status] || 'badge-draft'}`}>
+          {resource.status}
+        </span>
+      </div>
+    </div>
+
+    <!-- Source -->
+    {resource.source_name && (
+      <p class="card-meta">
+        <span class="card-meta-item">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <path d="M10 13a5 5 0 007.54.54l3-3a5 5 0 00-7.07-7.07l-1.72 1.71"/>
+            <path d="M14 11a5 5 0 00-7.54-.54l-3 3a5 5 0 007.07 7.07l1.71-1.71"/>
+          </svg>
+          {resource.source_name}
+        </span>
+      </p>
+    )}
+
+    <!-- Description -->
+    {!compact && resource.description && (
+      <p class="card-description">{resource.description}</p>
+    )}
+
+    <!-- Category tags -->
+    {(resource.resource_category_names?.length || resource.resource_categories.length) && (
+      <div class="tags" style="margin-top:8px;">
+        {(resource.resource_category_names || resource.resource_categories).slice(0, 4).map(cat => (
+          <span class="tag">{cat}</span>
+        ))}
+        {(resource.resource_category_names || resource.resource_categories).length > 4 && (
+          <span class="tag tag-muted">+{(resource.resource_category_names || resource.resource_categories).length - 4} more</span>
+        )}
+      </div>
+    )}
+
+    <!-- Visit link -->
+    <div class="card-footer" style="margin-top:12px;">
+      <a
+        href={resource.url}
+        target="_blank"
+        rel="noopener noreferrer"
+        class="btn btn-outline btn-sm"
+        aria-label={`Visit ${resource.name} (opens in new tab)`}
+      >
+        Visit resource
+        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
+          <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"/>
+          <polyline points="15 3 21 3 21 9"/>
+          <line x1="10" y1="14" x2="21" y2="3"/>
+        </svg>
+      </a>
+    </div>
+  </div>
+</article>

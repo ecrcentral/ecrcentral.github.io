@@ -1,0 +1,21 @@
+id: resource-list-of-format-free-journals
+legacy_id: 43
+slug: list-of-format-free-journals
+name: List of format-free journals
+url: https://asntech.github.io/format-free-journals/
+description: List of life science and biomedical journals that accept format-free
+  initial submissions or part of YPYW or B2J initiatives. https://doi.org/10.15252/embr.201845731
+source_name: EMBO Reports
+funders: []
+resource_categories:
+- policy
+- publishing
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2019-05-01T21:30:00Z'
+updated_at: '2019-05-09T06:33:47Z'
+source: legacy-import

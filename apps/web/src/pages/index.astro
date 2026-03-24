@@ -1,0 +1,190 @@
+---
+import BaseLayout from '../components/layout/BaseLayout.astro'
+import HeroSection from '../components/homepage/HeroSection.astro'
+import FeaturedSection from '../components/homepage/FeaturedSection.astro'
+import FundingCard from '../components/cards/FundingCard.astro'
+import TravelGrantCard from '../components/cards/TravelGrantCard.astro'
+import ResourceCard from '../components/cards/ResourceCard.astro'
+import FunderCard from '../components/cards/FunderCard.astro'
+import { fundings, travelGrants, resources, funders, homepageFeatured } from '../lib/data'
+
+const activeFundingsCount = fundings.filter(f => f.status === 'active').length
+const activeTravelGrantsCount = travelGrants.filter(g => g.status === 'active').length
+const activeResourcesCount = resources.filter(r => r.status === 'active').length
+const activeFundersCount = funders.filter(f => f.status === 'active').length
+
+const {
+  featured_fundings,
+  featured_travel_grants,
+  featured_resources,
+  featured_funders,
+  recently_updated,
+} = homepageFeatured
+
+const githubRepo = 'https://github.com/ecrcentral/ecrcentral.github.io'
+
+function recentTypeIcon(type: string): string {
+  if (type === 'funding') return '💰'
+  if (type === 'travel-grant') return '✈️'
+  if (type === 'resource') return '📚'
+  return '🔬'
+}
+
+function recentTypeColor(type: string): string {
+  if (type === 'funding') return '#edf2f9'
+  if (type === 'travel-grant') return '#d6f5e8'
+  if (type === 'resource') return '#fff3cd'
+  return '#f8f0ff'
+}
+
+function recentTypeUrl(item: { _type: string; slug: string }): string {
+  if (item._type === 'funding') return `/fundings/${item.slug}/`
+  if (item._type === 'travel-grant') return `/travel-grants/${item.slug}/`
+  if (item._type === 'resource') return `/resources/${item.slug}/`
+  return `/funders/${item.slug}/`
+}
+---
+
+<BaseLayout
+  title="ECRcentral — Funding for Early Career Researchers"
+  description="Discover funding opportunities, travel grants, and resources for early career researchers. Community-maintained, open, and always free."
+  canonical="/"
+>
+  <!-- Hero -->
+  <HeroSection
+    fundingsCount={activeFundingsCount}
+    travelGrantsCount={activeTravelGrantsCount}
+    resourcesCount={activeResourcesCount}
+    fundersCount={activeFundersCount}
+  />
+
+  <!-- Featured Fundings -->
+  {featured_fundings.length > 0 && (
+    <FeaturedSection
+      title="Featured Funding Opportunities"
+      viewAllUrl="/fundings/"
+      viewAllLabel={`View all ${activeFundingsCount} fundings`}
+    >
+      <div class="cards-grid">
+        {featured_fundings.map(f => <FundingCard funding={f} />)}
+      </div>
+    </FeaturedSection>
+  )}
+
+  <!-- Featured Travel Grants -->
+  {featured_travel_grants.length > 0 && (
+    <FeaturedSection
+      title="Featured Travel Grants"
+      viewAllUrl="/travel-grants/"
+      viewAllLabel={`View all ${activeTravelGrantsCount} travel grants`}
+      alt={true}
+    >
+      <div class="cards-grid">
+        {featured_travel_grants.map(g => <TravelGrantCard grant={g} />)}
+      </div>
+    </FeaturedSection>
+  )}
+
+  <!-- Featured Resources -->
+  {featured_resources.length > 0 && (
+    <FeaturedSection
+      title="Featured Resources"
+      viewAllUrl="/resources/"
+      viewAllLabel={`View all ${activeResourcesCount} resources`}
+    >
+      <div class="cards-grid">
+        {featured_resources.map(r => <ResourceCard resource={r} />)}
+      </div>
+    </FeaturedSection>
+  )}
+
+  <!-- Featured Funders -->
+  {featured_funders.length > 0 && (
+    <FeaturedSection
+      title="Funding Organizations"
+      viewAllUrl="/funders/"
+      viewAllLabel={`View all ${activeFundersCount} funders`}
+      alt={true}
+    >
+      <div class="cards-grid">
+        {featured_funders.map(f => <FunderCard funder={f} />)}
+      </div>
+    </FeaturedSection>
+  )}
+
+  <!-- Recently Updated -->
+  {recently_updated.length > 0 && (
+    <section class="section">
+      <div class="container">
+        <div class="section-header">
+          <h2 class="section-title">Recently Updated</h2>
+        </div>
+        <div class="cards-grid">
+          {recently_updated.slice(0, 6).map(item => {
+            const url = recentTypeUrl(item as { _type: string; slug: string })
+            return (
+              <a href={url} class="recent-item">
+                <div
+                  class="recent-item-type"
+                  style={`background:${recentTypeColor(item._type)};`}
+                  aria-hidden="true"
+                >
+                  {recentTypeIcon(item._type)}
+                </div>
+                <div>
+                  <p class="recent-item-title">{(item as any).name}</p>
+                  <p class="recent-item-meta">
+                    {item._type.replace('-', ' ')}
+                    {(item as any).updated_at && ` · ${new Date((item as any).updated_at).toLocaleDateString('en-GB', { month: 'short', year: 'numeric' })}`}
+                  </p>
+                </div>
+              </a>
+            )
+          })}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <!-- Empty state: encourage contributions -->
+  {featured_fundings.length === 0 && featured_travel_grants.length === 0 && (
+    <section class="section">
+      <div class="container" style="text-align:center;padding:60px 0;">
+        <div style="font-size:3rem;margin-bottom:16px;">🚀</div>
+        <h2 style="margin-bottom:12px;">Database is being populated</h2>
+        <p class="text-muted" style="margin-bottom:32px;max-width:480px;margin-inline:auto;">
+          ECRcentral is just getting started. Be one of the first contributors to add
+          funding opportunities, travel grants, and resources for the research community.
+        </p>
+        <div style="display:flex;gap:16px;justify-content:center;flex-wrap:wrap;">
+          <a href="/contribute/" class="btn btn-primary btn-lg">Get involved</a>
+          <a href={`${githubRepo}`} class="btn btn-outline btn-lg" target="_blank" rel="noopener noreferrer">View on GitHub</a>
+        </div>
+      </div>
+    </section>
+  )}
+
+  <!-- CTA -->
+  <section class="cta-section">
+    <div class="container">
+      <h2 class="cta-title">Know a funding opportunity we're missing?</h2>
+      <p class="cta-text">
+        ECRcentral is community-maintained. Add a funding opportunity, travel grant,
+        or resource in minutes — no coding required.
+      </p>
+      <div class="cta-buttons">
+        <a
+          href={`${githubRepo}/issues/new?template=add_funding.yml`}
+          class="btn btn-primary btn-lg"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Add a Funding Opportunity
+        </a>
+        <a href="/contribute/" class="btn btn-outline-white btn-lg">
+          Learn how to contribute
+        </a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

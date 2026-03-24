@@ -1,0 +1,30 @@
+id: travel-grant-early-career-researcher-travel-grants
+legacy_id: 7
+slug: early-career-researcher-travel-grants
+name: Early-career researcher travel grants
+url: https://elifesciences.org/inside-elife/f8281f87/early-career-travel-grants-applications-open-for-2019
+description: null
+funders:
+- elife
+legacy_funder_name: eLife
+applicant_country: NA
+host_country: null
+award: $1000
+deadline: March, June, September
+deadline_month: March, June, September
+membership: 'No'
+membership_time: NA
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: archived
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: Early-career researcher travel grants eLife Conference NA
+source: legacy-import

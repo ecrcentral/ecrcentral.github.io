@@ -1,0 +1,20 @@
+id: funder-the-research-council
+legacy_id: 529
+slug: the-research-council
+name: The Research Council
+short_name: The Research Council
+funder_registry_id: '501100004787'
+country: Oman
+website: null
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2020-05-24T22:35:30Z'
+source: legacy-import

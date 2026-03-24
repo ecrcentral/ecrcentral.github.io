@@ -1,0 +1,50 @@
+id: funding-postdoctoral-fellowship-programs
+legacy_id: 249
+slug: postdoctoral-fellowship-programs
+name: Postdoctoral Fellowship Programs
+description: This scheme provides support for postdoctoral researchers at academic
+  organisations in the Republic of Ireland who aim to become independent scientists
+  leading their own group. Awards are made in partnership with Science Foundation
+  Ireland and the Health Research Board.
+url: https://wellcome.ac.uk/funding/research-career-development-fellowships
+funders:
+- wellcome-trust
+legacy_funder_name: Wellcome Trust
+host_country: Ireland
+applicant_country: Worldwide
+career_levels:
+- phd
+- postdoc
+years_since_phd: '>2'
+duration: '5'
+award: null
+mobility_rule: null
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: null
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-20T04:41:22Z'
+subjects:
+- laboratory-and-basic-life-science-research
+- public-health
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: Postdoctoral Fellowship Programs This scheme provides support for postdoctoral
+  researchers at academic organisations in the Republic of Ireland who aim to become
+  independent scientists leading their own group. Awards are made in partnership with
+  Science Foundation Ireland and the Health Research Board. Wellcome Trust PhD Postdoc
+  Laboratory and Basic Life Science Research Public Health Fellowship, scholarship
+  or training Research Ireland Worldwide
+source: legacy-import

@@ -1,0 +1,59 @@
+id: funding-innovation-grants
+legacy_id: 390
+slug: innovation-grants
+name: Innovation Grants
+description: Alex’s Lemonade Stand Foundation (ALSF) is committed to creating opportunities
+  for new and innovative research into treatments and cures for childhood cancers.
+  Innovation grants are designed as seed funding for researchers with a novel approach
+  to pediatric oncology scientific investigation. This may represent a change in research
+  direction and/or an innovative new idea that moves away from an investigator’s prior
+  research but for which a strong case is made for the potential impact on childhood
+  cancers.
+url: https://www.alexslemonade.org/sites/default/files/2018_innovation_loi_guidelines_final.pdf
+funders: []
+legacy_funder_name: Alex’s Lemonade Stand Foundation
+host_country: United States
+applicant_country: null
+career_levels:
+- phd
+- md
+years_since_phd: Applicant may be M.D., D.O., Ph.D, or M.D./Ph.D. Track record of
+  publication and funding productivity in the last 5 years must demonstrate that the
+  project can be accomplished by the investig
+duration: 2 years
+award: $250 000
+mobility_rule: null
+research_costs: null
+deadline: LOI due Feb, Invited Full App due April
+deadline_month: February, April
+diversity: null
+comments: Through its Innovation Grants program, the foundation awards two-year grants
+  of up to $250,000 to researchers with a novel approach to pediatric oncology scientific
+  investigation. That can include a change in research direction and/or an innovative
+  new idea that moves away from an investigator's prior research but has potential
+  impact for childhood cancers. Innovation Grants will support research proposals
+  to be carried out by investigators who are already established, have a track record
+  of peer-reviewed publications, and can demonstrate evidence of having successfully
+  competed for extramural funding.
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-18T21:19:49Z'
+subjects:
+- medicine-and-health-sciences
+funding_purposes: []
+search_text: Innovation Grants Alex’s Lemonade Stand Foundation (ALSF) is committed
+  to creating opportunities for new and innovative research into treatments and cures
+  for childhood cancers. Innovation grants are designed as seed funding for researchers
+  with a novel approach to pediatric oncology scientific investigation. This may represent
+  a change in research direction and/or an innovative new idea that moves away from
+  an investigator’s prior research but for which a strong case is made for the potential
+  impact on childhood cancers. PhD MD Medicine and Health Sciences United States
+source: legacy-import

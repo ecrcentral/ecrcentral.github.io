@@ -1,0 +1,35 @@
+id: funding-fellowship-residency-2
+legacy_id: 258
+slug: fellowship-residency-2
+name: Fellowship residency
+description: null
+url: http://www.wiko-berlin.de/en/fellows/admission
+funders: []
+legacy_funder_name: Wissenschaftskolleg zu Berlin
+host_country: Germany
+applicant_country: Worldwide
+career_levels: []
+years_since_phd: No rule
+duration: '1'
+award: null
+mobility_rule: null
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: null
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2018-12-29T13:58:05Z'
+subjects: []
+funding_purposes: []
+search_text: Fellowship residency Germany Worldwide
+source: legacy-import

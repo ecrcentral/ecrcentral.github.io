@@ -1,0 +1,51 @@
+id: funding-pew-latin-american-fellows
+legacy_id: 160
+slug: pew-latin-american-fellows
+name: Pew Latin American Fellows
+description: The Pew Latin American Fellows Program in the Biomedical Sciences provides
+  support for young scientists from Latin America to receive postdoctoral training
+  in the United States. The program gives these individuals an opportunity to further
+  their scientific knowledge by promoting exchange and collaboration between investigators
+  in the United States and Latin America resulting in advances in research in Latin
+  America.
+url: https://www.pewtrusts.org/en/projects/pew-latin-american-fellows/to-apply
+funders:
+- pew-charitable-trusts
+legacy_funder_name: Pew Trust
+host_country: United States
+applicant_country: Latin America
+career_levels:
+- phd
+years_since_phd: Max. 4
+duration: '2'
+award: $30,000 per year
+mobility_rule: 'No'
+research_costs: null
+deadline: August
+deadline_month: August
+diversity: null
+comments: Participants who return to Latin America and establish independent labs
+  receive an additional $70,000 grant from Pew to purchase equipment and supplies.
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-09T17:48:48Z'
+subjects:
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Pew Latin American Fellows The Pew Latin American Fellows Program in
+  the Biomedical Sciences provides support for young scientists from Latin America
+  to receive postdoctoral training in the United States. The program gives these individuals
+  an opportunity to further their scientific knowledge by promoting exchange and collaboration
+  between investigators in the United States and Latin America resulting in advances
+  in research in Latin America. Pew Charitable Trusts PhD All subjects Fellowship,
+  scholarship or training United States Latin America
+source: legacy-import

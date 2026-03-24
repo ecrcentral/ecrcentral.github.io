@@ -1,0 +1,32 @@
+id: travel-grant-bsi-travel-award
+legacy_id: 3
+slug: bsi-travel-award
+name: BSI Travel Award
+url: https://www.immunology.org/grants-and-prizes/travel-awards
+description: null
+funders: []
+legacy_funder_name: British Society for Immunology
+applicant_country: Any
+host_country: null
+award: £500 for travel within the UK; £700 for European travel; and £1000 for rest
+  of the World
+deadline: 1 February, 1 March, 1 August, 1 November
+deadline_month: February, March, August, November
+membership: 'Yes'
+membership_time: 1 year
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- conference
+- research-visit
+- learn-new-technique
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: BSI Travel Award Conference Research visit Learn new technique Any
+source: legacy-import

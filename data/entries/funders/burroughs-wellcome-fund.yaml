@@ -1,0 +1,20 @@
+id: funder-burroughs-wellcome-fund
+legacy_id: 59
+slug: burroughs-wellcome-fund
+name: Burroughs Wellcome Fund
+short_name: Burroughs Wellcome Fund
+funder_registry_id: '100000861'
+country: United States
+website: null
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2019-01-17T00:40:55Z'
+source: legacy-import

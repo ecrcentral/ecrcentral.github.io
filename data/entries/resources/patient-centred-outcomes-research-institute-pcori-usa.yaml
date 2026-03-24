@@ -1,0 +1,22 @@
+id: resource-patient-centred-outcomes-research-institute-pcori-usa
+legacy_id: 70
+slug: patient-centred-outcomes-research-institute-pcori-usa
+name: Patient Centred Outcomes Research Institute (PCORI), USA
+url: https://www.pcori.org/engagement
+description: PCORI helps people make informed healthcare decisions, and improves healthcare
+  delivery and outcomes, by producing and promoting high-integrity, evidence-based
+  information that comes from research guided by patients, caregivers, and the broader
+  healthcare community.
+source_name: Patient-Centered Outcomes Research Institute (PCORI)
+funders: []
+resource_categories:
+- public-involvement-in-research
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2019-07-01T10:47:00Z'
+updated_at: '2019-07-08T21:55:26Z'
+source: legacy-import

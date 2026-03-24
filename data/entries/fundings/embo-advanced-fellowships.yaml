@@ -1,0 +1,49 @@
+id: funding-embo-advanced-fellowships
+legacy_id: 710
+slug: embo-advanced-fellowships
+name: EMBO Advanced Fellowships
+description: <p>This fellowship offers an additional two years of funding for EMBO
+  Long-Term Fellows who can demonstrate exceptional progress during their current
+  postdoctoral work.</p>
+url: http://embo.org/funding-awards/fellowships/advanced-fellowships
+funders:
+- european-molecular-biology-organization-embo
+legacy_funder_name: EMBO
+host_country: Europe
+applicant_country: Worldwide
+career_levels:
+- postdoc
+years_since_phd: '4'
+duration: '2'
+award: 30,000 euro
+mobility_rule: 'No'
+research_costs: Start up grant 30,000 euro
+deadline: June
+deadline_month: June
+diversity: null
+comments: Only for former or current EMBO Long-Term Fellows or EMBO Non-Stipendiary
+  Fellows working in an EMBC Member State. Up to 5 awards will be available annually
+  and Successful applicants may start their fellowship from January.
+benefits: "Benefits include-\r\n1. Laboratory start-up grant- If a fellow starts an\
+  \ independent position at an institution located in an EMBC Member State within\
+  \ the fellowship tenure \r\n2.Dependent child allowance- Fellows are entitled to\
+  \ receive this allowance for a dependent child under the age of 18\r\n3.Parental\
+  \ leave-3 months of paid parentsl leave"
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: '2019-05-16T21:50:28Z'
+updated_at: '2020-05-25T11:42:26Z'
+subjects: []
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: EMBO Advanced Fellowships <p>This fellowship offers an additional two
+  years of funding for EMBO Long-Term Fellows who can demonstrate exceptional progress
+  during their current postdoctoral work.</p> European Molecular Biology Organization
+  (EMBO) Postdoc Fellowship, scholarship or training Europe Worldwide
+source: legacy-import

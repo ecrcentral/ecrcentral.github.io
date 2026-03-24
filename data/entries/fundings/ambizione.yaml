@@ -1,0 +1,43 @@
+id: funding-ambizione
+legacy_id: 190
+slug: ambizione
+name: Ambizione
+description: Ambizione grants are aimed at young researchers who wish to conduct,
+  manage and lead an independent project at a Swiss higher education institution.
+url: http://www.snf.ch/en/funding/careers/ambizione/Pages/default.aspx
+funders:
+- swiss-national-science-foundation
+legacy_funder_name: Swiss National Research Foundation
+host_country: Switzerland
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: Max. 4
+duration: Max. 4
+award: null
+mobility_rule: 'Yes'
+research_costs: null
+deadline: November
+deadline_month: November
+diversity: null
+comments: null
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T16:03:50Z'
+subjects:
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Ambizione Ambizione grants are aimed at young researchers who wish to
+  conduct, manage and lead an independent project at a Swiss higher education institution.
+  Swiss National Science Foundation PhD All subjects Fellowship, scholarship or training
+  Switzerland Worldwide
+source: legacy-import

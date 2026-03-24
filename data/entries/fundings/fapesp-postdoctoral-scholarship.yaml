@@ -1,0 +1,47 @@
+id: funding-fapesp-postdoctoral-scholarship
+legacy_id: 188
+slug: fapesp-postdoctoral-scholarship
+name: FAPESP Postdoctoral scholarship
+description: FAPESP’s Post-Doctoral fellowship is aimed at distinguished researchers
+  with a recent doctorate degree and a successful research track record. The fellowship
+  enables the development of research within higher education and research institutions
+  located in the State of São Paulo.
+url: http://www.fapesp.br/en/5427
+funders:
+- fundacao-de-amparo-a-pesquisa-do-estado-de-sao-paulo
+legacy_funder_name: State of Sao Paulo
+host_country: Brazil
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: Max. 7
+duration: 1+1
+award: R$ 7373.10
+mobility_rule: 'No'
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: null
+benefits: null
+frequency: Rolling
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T15:52:40Z'
+subjects:
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: FAPESP Postdoctoral scholarship FAPESP’s Post-Doctoral fellowship is
+  aimed at distinguished researchers with a recent doctorate degree and a successful
+  research track record. The fellowship enables the development of research within
+  higher education and research institutions located in the State of São Paulo. Fundação
+  de Amparo à Pesquisa do Estado de São Paulo PhD All subjects Fellowship, scholarship
+  or training Brazil Worldwide
+source: legacy-import

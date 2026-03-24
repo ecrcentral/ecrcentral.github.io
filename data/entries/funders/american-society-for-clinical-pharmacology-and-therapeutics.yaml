@@ -1,0 +1,20 @@
+id: funder-american-society-for-clinical-pharmacology-and-therapeutics
+legacy_id: 564
+slug: american-society-for-clinical-pharmacology-and-therapeutics
+name: American Society for Clinical Pharmacology and Therapeutics
+short_name: American Society for Clinical Pharmacology and Therapeutics
+funder_registry_id: american-society-for-clinical-pharmacology-and-therapeutics
+country: United States
+website: https://www.ascpt.org
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-05-22T16:13:37Z'
+updated_at: '2020-05-23T08:31:35Z'
+source: legacy-import

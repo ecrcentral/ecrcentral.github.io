@@ -1,0 +1,62 @@
+id: funding-bayer-hemophilia-fellowship-project-award
+legacy_id: 667
+slug: bayer-hemophilia-fellowship-project-award
+name: Bayer Hemophilia Fellowship Project Award
+description: The Bayer Hemophilia Awards Program supports basic and clinical research
+  and education in hemophilia. Through grants provided to early career investigators,
+  fellows in training, and other hemophilia care professionals, the program seeks
+  to support the next steps for the next generation of care and treatment options
+  for people with hemophilia worldwide.
+url: http://www.bayer-hemophilia-awards.com/awards/?view=early_career_investigator_award#
+funders:
+- bayer-healthcare
+legacy_funder_name: Bayer HealthCare
+host_country: Worldwide
+applicant_country: Worldwide
+career_levels:
+- phd
+- postdoc
+- md
+years_since_phd: NA
+duration: '1'
+award: USD 80 000
+mobility_rule: 'No'
+research_costs: null
+deadline: February
+deadline_month: February
+diversity: null
+comments: "There are various award categories which vary in degree requirement and\
+  \ funding. Please refer to the website for more details.\r\n\r\nClinical and Basic\
+  \ Research Awards\r\n\r\nAny individual affiliated with a facility that carries\
+  \ out research in inherited bleeding disorders, or provides care to patients with\
+  \ these disorders, may make a request for these awards. Such facilities may include\
+  \ medical universities, hospitals, treatment centers, blood centers and laboratories.\r\
+  \n\r\nFellowship Project Award\r\n\r\nThe applicant will be affiliated with a facility\
+  \ that carries out research in inherited bleeding disorders or provides care to\
+  \ patients with these disorders. Such facilities may include medical universities,\
+  \ hospitals, treatment centers, blood centers and laboratories. The applicant should\
+  \ have earned his/her medical degree within the previous eight years. The applicant\
+  \ may not have received previous funding from this award category."
+benefits: null
+frequency: Rolling
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-24T19:37:43Z'
+subjects:
+- life-sciences
+- medicine-and-health-sciences
+funding_purposes:
+- research
+search_text: Bayer Hemophilia Fellowship Project Award The Bayer Hemophilia Awards
+  Program supports basic and clinical research and education in hemophilia. Through
+  grants provided to early career investigators, fellows in training, and other hemophilia
+  care professionals, the program seeks to support the next steps for the next generation
+  of care and treatment options for people with hemophilia worldwide. Bayer HealthCare
+  PhD Postdoc MD Life Sciences Medicine and Health Sciences Research Worldwide Worldwide
+source: legacy-import

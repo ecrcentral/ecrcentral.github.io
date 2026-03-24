@@ -1,0 +1,47 @@
+id: funding-broad-agency-announcement-funding-opportunities
+legacy_id: 669
+slug: broad-agency-announcement-funding-opportunities
+name: Broad Agency Announcement Funding Opportunities
+description: The Broad Agency Announcement is a competitive solicitation procedure
+  used to obtain proposals for basic and applied research and the part of development
+  not related to the development of a specific system or hardware procurement.
+url: https://www.arl.army.mil/business/broad-agency-announcements/
+funders:
+- us-department-of-defense
+legacy_funder_name: Department of Defense, Army Research Office
+host_country: United States
+applicant_country: null
+career_levels: []
+years_since_phd: NA
+duration: null
+award: null
+mobility_rule: 'No'
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: There are multiple funding opportunities with varying amounts funded and
+  varying requirements. Please refer to the website for more details.
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-24T19:50:11Z'
+subjects:
+- life-sciences
+- physical-sciences-and-mathematics
+- chemistry
+- physics
+funding_purposes: []
+search_text: Broad Agency Announcement Funding Opportunities The Broad Agency Announcement
+  is a competitive solicitation procedure used to obtain proposals for basic and applied
+  research and the part of development not related to the development of a specific
+  system or hardware procurement. U.S. Department of Defense Life Sciences Physical
+  Sciences and Mathematics Chemistry Physics United States
+source: legacy-import

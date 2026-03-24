@@ -1,0 +1,8 @@
+id: subject-accounting
+legacy_id: 205
+slug: accounting
+name: Accounting
+parent_id: 10
+parent_slug: business
+created_at: null
+updated_at: '2020-05-17T03:07:27Z'

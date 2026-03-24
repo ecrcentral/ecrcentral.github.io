@@ -1,0 +1,23 @@
+id: resource-ecrlife
+legacy_id: 9
+slug: ecrlife
+name: ecrLife
+url: https://ecrlife.org
+description: ecrLife is a place for early career researchers (ECRs) to share stories,
+  ideas and experiences about their journey in science. We publish submitted articles
+  in a variety of themes ranging from peer-review, scientific publishing, research
+  funding to life in science.
+source_name: ecrLife
+funders: []
+resource_categories:
+- science-communication
+- academic-writing
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2019-01-17T01:14:00Z'
+updated_at: '2020-03-06T08:42:16Z'
+source: legacy-import

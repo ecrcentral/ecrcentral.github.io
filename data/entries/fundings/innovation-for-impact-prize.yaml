@@ -1,0 +1,46 @@
+id: funding-innovation-for-impact-prize
+legacy_id: 513
+slug: innovation-for-impact-prize
+name: Innovation for Impact Prize
+description: The Innovation for Impact Prize is open to all researchers at universities
+  and companies in the Maryland area.
+url: https://www.sobran-inc.com/innovation-impact-prize/
+funders:
+- sobran
+legacy_funder_name: SoBran Inc
+host_country: United States
+applicant_country: United States
+career_levels:
+- phd
+- junior-faculty
+- md
+years_since_phd: NA
+duration: null
+award: $10,000
+mobility_rule: 'No'
+research_costs: null
+deadline: January
+deadline_month: January
+diversity: null
+comments: null
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: draft
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-24T15:57:57Z'
+subjects:
+- life-sciences
+- medicine-and-health-sciences
+- physical-sciences-and-mathematics
+funding_purposes: []
+search_text: Innovation for Impact Prize The Innovation for Impact Prize is open to
+  all researchers at universities and companies in the Maryland area. SoBran PhD Junior
+  Faculty MD Life Sciences Medicine and Health Sciences Physical Sciences and Mathematics
+  United States United States
+source: legacy-import

@@ -1,0 +1,29 @@
+id: travel-grant-research-visit-grant
+legacy_id: 42
+slug: research-visit-grant
+name: Research visit grant
+url: https://microbiologysociety.org/grants/all-grants-prizes/research-visit-grant.html
+description: null
+funders: []
+legacy_funder_name: Microbiology Society
+applicant_country: null
+host_country: null
+award: up to £3000 (UK)
+deadline: 1 April, 1 October
+deadline_month: April, October
+membership: 'Yes'
+membership_time: 2 years
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- collaboration
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: Research visit grant Collaboration
+source: legacy-import

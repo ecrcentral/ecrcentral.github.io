@@ -1,0 +1,35 @@
+id: travel-grant-antibodiescom-travel-grants
+legacy_id: 98
+slug: antibodiescom-travel-grants
+name: Antibodies.com Travel Grants
+url: https://www.antibodies.com/travel-grants
+description: <p>Antibodies.com is proud to support European and US researchers with
+  travel grants up to &pound;500.</p>
+funders: []
+legacy_funder_name: Antibodies.com
+applicant_country: US or Europe
+host_country: null
+award: £500
+deadline: Quarterly
+deadline_month: null
+membership: 'No'
+membership_time: null
+purpose_text: null
+career_levels:
+- phd
+- postdoc
+subjects:
+- all-subjects
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: Antibodies.com Travel Grants <p>Antibodies.com is proud to support European
+  and US researchers with travel grants up to &pound;500.</p> PhD Postdoc All subjects
+  Conference US or Europe
+source: legacy-import

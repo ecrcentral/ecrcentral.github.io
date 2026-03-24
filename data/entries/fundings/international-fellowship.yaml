@@ -1,0 +1,35 @@
+id: funding-international-fellowship
+legacy_id: 71
+slug: international-fellowship
+name: International Fellowship
+description: null
+url: http://www.flinders.edu.au/research/researcher-support/grants-contracts/search/internal-schemes.cfm
+funders: []
+legacy_funder_name: Flinders University
+host_country: Australia
+applicant_country: Worldwide
+career_levels: []
+years_since_phd: No rule
+duration: 0,3
+award: null
+mobility_rule: null
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: Flinders University Internal information, not available publicly
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: draft
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T08:02:12Z'
+subjects: []
+funding_purposes: []
+search_text: International Fellowship Australia Worldwide
+source: legacy-import

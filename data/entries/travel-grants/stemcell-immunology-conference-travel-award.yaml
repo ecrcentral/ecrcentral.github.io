@@ -1,0 +1,29 @@
+id: travel-grant-stemcell-immunology-conference-travel-award
+legacy_id: 103
+slug: stemcell-immunology-conference-travel-award
+name: STEMCELL Immunology Conference Travel Award
+url: https://www.stemcell.com/forms/immunology-conference-travel-award.html
+description: null
+funders: []
+legacy_funder_name: STEMCELL Technologies
+applicant_country: See funder's website
+host_country: null
+award: $ 500
+deadline: 27 September 2019
+deadline_month: September
+membership: 'No'
+membership_time: null
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: STEMCELL Immunology Conference Travel Award Conference See funder's website
+source: legacy-import

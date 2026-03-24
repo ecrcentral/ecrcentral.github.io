@@ -1,0 +1,20 @@
+id: funder-toyota-foundation
+legacy_id: 180
+slug: toyota-foundation
+name: Toyota Foundation
+short_name: Toyota Foundation
+funder_registry_id: '100009584'
+country: Japan
+website: null
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2019-01-17T00:40:55Z'
+source: legacy-import

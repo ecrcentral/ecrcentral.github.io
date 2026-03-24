@@ -1,0 +1,40 @@
+id: funding-humboldt-research-experienced-fellowships
+legacy_id: 103
+slug: humboldt-research-experienced-fellowships
+name: Humboldt Research Experienced Fellowships
+description: null
+url: https://www.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=2&origin=&subjectGrps=&daad=&q=&page=7&detail=10000169
+funders:
+- alexander-von-humboldt-stiftung
+legacy_funder_name: Humboldt Foundation
+host_country: Germany
+applicant_country: Worldwide
+career_levels:
+- phd
+- junior-faculty
+years_since_phd: '12'
+duration: '1.5'
+award: EUR 3,150 per month
+mobility_rule: 'No'
+research_costs: null
+deadline: Rolling
+deadline_month: null
+diversity: null
+comments: null
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-21T22:17:36Z'
+subjects:
+- all-subjects
+funding_purposes: []
+search_text: Humboldt Research Experienced Fellowships Alexander von Humboldt-Stiftung
+  PhD Junior Faculty All subjects Germany Worldwide
+source: legacy-import

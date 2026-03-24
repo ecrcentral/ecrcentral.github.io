@@ -1,0 +1,62 @@
+id: funding-leopoldina-postdoc-stipendium-2
+legacy_id: 50
+slug: leopoldina-postdoc-stipendium-2
+name: Leopoldina-Postdoc-Stipendium
+description: The programme is intended for outstanding junior post-doctoral scientists
+  from Germany, Austria and Switzerland from the natural sciences and medical disciplines
+  who already have their own research profile. If accepted, they have the opportunity
+  to head their own projects at the most renowned international research institutions
+  of their disciplines. German candidates are expected to opt for research facilities
+  abroad. Austrian and Swiss scientists are only eligible for support, if they apply
+  at a host institution in Germany. The programme's goal is for the scholars to return
+  to their home countries after the completion of the scholarship and share the acquired
+  knowledge at the local centres of research.
+url: http://www.leopoldina.org/de/foerderung/das-leopoldina-foerderprogramm/leopoldina-postdoc-stipendium
+funders:
+- deutscher-akademischer-austauschdienst
+legacy_funder_name: Deutsche Akademie der Naturforscher
+host_country: Germany
+applicant_country: Austria & Switzerland
+career_levels:
+- phd
+years_since_phd: '7'
+duration: '3'
+award: null
+mobility_rule: 'Yes'
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: null
+benefits: null
+frequency: Rolling
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-26T07:33:54Z'
+subjects:
+- life-sciences
+- medicine-and-health-sciences
+- ecology-and-evolutionary-biology
+- computer-sciences
+- natural-sciences
+funding_purposes:
+- research
+search_text: Leopoldina-Postdoc-Stipendium The programme is intended for outstanding
+  junior post-doctoral scientists from Germany, Austria and Switzerland from the natural
+  sciences and medical disciplines who already have their own research profile. If
+  accepted, they have the opportunity to head their own projects at the most renowned
+  international research institutions of their disciplines. German candidates are
+  expected to opt for research facilities abroad. Austrian and Swiss scientists are
+  only eligible for support, if they apply at a host institution in Germany. The programme's
+  goal is for the scholars to return to their home countries after the completion
+  of the scholarship and share the acquired knowledge at the local centres of research.
+  Deutscher Akademischer Austauschdienst PhD Life Sciences Medicine and Health Sciences
+  Ecology and Evolutionary Biology Computer Sciences Natural Sciences Research Germany
+  Austria & Switzerland
+source: legacy-import

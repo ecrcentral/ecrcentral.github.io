@@ -1,0 +1,20 @@
+id: funder-world-forest-institute
+legacy_id: 553
+slug: world-forest-institute
+name: World Forest Institute
+short_name: World Forest Institute
+funder_registry_id: '100005988'
+country: United States
+website: null
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2020-05-21T09:36:17Z'
+source: legacy-import

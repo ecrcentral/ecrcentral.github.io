@@ -1,0 +1,20 @@
+id: funder-alexander-von-humboldt-foundation
+legacy_id: 645
+slug: alexander-von-humboldt-foundation
+name: Alexander von Humboldt Foundation
+short_name: Alexander von Humboldt Foundation
+funder_registry_id: alexander-von-humboldt-foundation
+country: Germany
+website: https://www.humboldt-foundation.de/web/home.html
+logo: /logos/funders/alexander-von-humboldt-foundation.gif
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-06-24T22:05:12Z'
+updated_at: '2020-06-24T22:05:12Z'
+source: legacy-import

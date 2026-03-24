@@ -1,0 +1,35 @@
+id: funding-fellowship
+legacy_id: 252
+slug: fellowship
+name: Fellowship
+description: null
+url: https://wellcome.ac.uk/funding/sir-henry-wellcome-postdoctoral-fellowships
+funders: []
+legacy_funder_name: Wellcome Trust
+host_country: United Kingdom
+applicant_country: Worldwide
+career_levels: []
+years_since_phd: <3
+duration: '3'
+award: null
+mobility_rule: null
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: null
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2018-12-29T13:58:04Z'
+subjects: []
+funding_purposes: []
+search_text: Fellowship United Kingdom Worldwide
+source: legacy-import

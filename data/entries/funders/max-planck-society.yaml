@@ -1,0 +1,20 @@
+id: funder-max-planck-society
+legacy_id: 652
+slug: max-planck-society
+name: Max Planck Society
+short_name: Max Planck Society
+funder_registry_id: max-planck-society
+country: Germany
+website: https://www.mpg.de/en
+logo: /logos/funders/max-planck-society.png
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-06-30T15:03:04Z'
+updated_at: '2020-06-30T15:03:04Z'
+source: legacy-import

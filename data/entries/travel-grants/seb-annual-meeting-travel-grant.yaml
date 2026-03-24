@@ -1,0 +1,29 @@
+id: travel-grant-seb-annual-meeting-travel-grant
+legacy_id: 45
+slug: seb-annual-meeting-travel-grant
+name: SEB Annual Meeting Travel Grant
+url: http://www.sebiology.org/grants-and-funding/training-and-travel-grants/seb-annual-meeting-grant
+description: null
+funders: []
+legacy_funder_name: Society for Experimental Biology
+applicant_country: null
+host_country: null
+award: up to £400 (UK)
+deadline: null
+deadline_month: null
+membership: 'No'
+membership_time: null
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: SEB Annual Meeting Travel Grant Conference
+source: legacy-import

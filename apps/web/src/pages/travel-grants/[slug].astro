@@ -1,0 +1,273 @@
+---
+import BaseLayout from '../../components/layout/BaseLayout.astro'
+import { travelGrants, getFunderBySlug } from '../../lib/data'
+import type { GetStaticPaths } from 'astro'
+
+export const getStaticPaths: GetStaticPaths = async () => {
+  return travelGrants.map(g => ({
+    params: { slug: g.slug },
+    props: { grant: g },
+  }))
+}
+
+const { grant } = Astro.props
+
+const resolvedFunders = grant.funders.map(slug => ({
+  slug,
+  funder: getFunderBySlug(slug),
+  name: (grant.funder_names || [])[grant.funders.indexOf(slug)] || slug,
+}))
+
+const githubRepo = 'https://github.com/ecrcentral/ecrcentral.github.io'
+const editUrl = `${githubRepo}/edit/main/data/entries/travel-grants/${grant.slug}.yaml`
+const issueUrl = `${githubRepo}/issues/new?template=report_issue.yml&title=Issue+with+travel+grant:+${encodeURIComponent(grant.name)}&labels=travel-grant`
+
+function formatDeadline(deadline: string | null): string {
+  if (!deadline) return ''
+  try {
+    return new Date(deadline).toLocaleDateString('en-GB', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' })
+  } catch {
+    return deadline
+  }
+}
+
+const statusClass: Record<string, string> = {
+  active: 'badge-active',
+  expired: 'badge-expired',
+  archived: 'badge-archived',
+  draft: 'badge-draft',
+}
+
+const membershipRequired = grant.membership?.toLowerCase() === 'yes'
+
+const jsonLd = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'Grant',
+  name: grant.name,
+  description: grant.description,
+  url: `https://ecrcentral.org/travel-grants/${grant.slug}/`,
+  funder: resolvedFunders.map(f => ({ '@type': 'Organization', name: f.name })),
+})
+---
+
+<BaseLayout
+  title={grant.name}
+  description={grant.description || `Travel grant: ${grant.name}. View eligibility, award details, and how to apply.`}
+  canonical={`/travel-grants/${grant.slug}/`}
+  type="article"
+>
+  <script type="application/ld+json" set:html={jsonLd} slot="head" />
+
+  <div class="container">
+    <div class="detail-layout">
+      <!-- Breadcrumb -->
+      <nav class="detail-breadcrumb" aria-label="Breadcrumb">
+        <a href="/">Home</a>
+        <span class="detail-breadcrumb-sep" aria-hidden="true">/</span>
+        <a href="/travel-grants/">Travel Grants</a>
+        <span class="detail-breadcrumb-sep" aria-hidden="true">/</span>
+        <span aria-current="page">{grant.name}</span>
+      </nav>
+
+      <!-- Header -->
+      <header class="detail-header">
+        <div class="detail-badges">
+          <span class={`badge ${statusClass[grant.status] || 'badge-draft'}`}>{grant.status}</span>
+          {grant.featured && (
+            <span class="badge badge-featured">Featured</span>
+          )}
+          {membershipRequired && (
+            <span class="badge badge-membership">Membership required</span>
+          )}
+        </div>
+
+        <h1 class="detail-title">{grant.name}</h1>
+
+        {resolvedFunders.length > 0 && (
+          <div class="detail-funders">
+            <span>Offered by</span>
+            {resolvedFunders.map((f, i) => (
+              <span>
+                {i > 0 && <span style="margin-right:4px;">,</span>}
+                {f.funder ? (
+                  <a href={`/funders/${f.slug}/`} class="detail-funder-link">{f.name}</a>
+                ) : (
+                  <span class="font-semibold">{f.name}</span>
+                )}
+              </span>
+            ))}
+          </div>
+        )}
+
+        {grant.legacy_funder_name && resolvedFunders.length === 0 && (
+          <div class="detail-funders">
+            <span>Offered by <strong>{grant.legacy_funder_name}</strong></span>
+          </div>
+        )}
+      </header>
+
+      <!-- Description -->
+      {grant.description && (
+        <blockquote class="detail-description">{grant.description}</blockquote>
+      )}
+
+      <!-- Purpose text -->
+      {grant.purpose_text && grant.purpose_text !== grant.description && (
+        <div style="margin-bottom:24px;">
+          <p style="color:var(--color-text);line-height:1.7;">{grant.purpose_text}</p>
+        </div>
+      )}
+
+      <!-- Apply button -->
+      <div style="display:flex;gap:12px;flex-wrap:wrap;margin-bottom:32px;">
+        <a
+          href={grant.url}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="btn btn-primary btn-lg"
+          aria-label={`Apply for ${grant.name} (opens in new tab)`}
+        >
+          Apply / Learn More
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
+            <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"/>
+            <polyline points="15 3 21 3 21 9"/>
+            <line x1="10" y1="14" x2="21" y2="3"/>
+          </svg>
+        </a>
+      </div>
+
+      <!-- Key Details -->
+      <section class="detail-section">
+        <h2 class="detail-section-title">Key Details</h2>
+        <div class="detail-grid">
+          {grant.deadline && (
+            <div class="detail-field">
+              <span class="detail-field-label">Deadline</span>
+              <span class="detail-field-value">{formatDeadline(grant.deadline)}</span>
+            </div>
+          )}
+          {grant.deadline_raw && grant.deadline_raw !== grant.deadline && (
+            <div class="detail-field">
+              <span class="detail-field-label">Deadline (as stated)</span>
+              <span class="detail-field-value">{grant.deadline_raw}</span>
+            </div>
+          )}
+          {grant.award && (
+            <div class="detail-field">
+              <span class="detail-field-label">Award</span>
+              <span class="detail-field-value">{grant.award}</span>
+            </div>
+          )}
+          {grant.applicant_country && (
+            <div class="detail-field">
+              <span class="detail-field-label">Eligible Applicant Country</span>
+              <span class="detail-field-value">{grant.applicant_country}</span>
+            </div>
+          )}
+          {grant.host_country && (
+            <div class="detail-field">
+              <span class="detail-field-label">Host Country / Destination</span>
+              <span class="detail-field-value">{grant.host_country}</span>
+            </div>
+          )}
+          {grant.membership && (
+            <div class="detail-field">
+              <span class="detail-field-label">Membership Required</span>
+              <span class="detail-field-value">{grant.membership}</span>
+            </div>
+          )}
+          {grant.membership_time && (
+            <div class="detail-field">
+              <span class="detail-field-label">Membership Duration Required</span>
+              <span class="detail-field-value">{grant.membership_time}</span>
+            </div>
+          )}
+        </div>
+      </section>
+
+      <!-- Career Levels -->
+      {(grant.career_level_names?.length || grant.career_levels.length) > 0 && (
+        <section class="detail-section">
+          <h2 class="detail-section-title">Career Levels</h2>
+          <div class="tags">
+            {(grant.career_level_names || grant.career_levels).map(level => (
+              <span class="tag">{level}</span>
+            ))}
+          </div>
+        </section>
+      )}
+
+      <!-- Travel Purposes -->
+      {(grant.travel_purpose_names?.length || grant.travel_purposes.length) > 0 && (
+        <section class="detail-section">
+          <h2 class="detail-section-title">Travel Purpose</h2>
+          <div class="tags">
+            {(grant.travel_purpose_names || grant.travel_purposes).map(purpose => (
+              <span class="tag">{purpose}</span>
+            ))}
+          </div>
+        </section>
+      )}
+
+      <!-- Subjects -->
+      {(grant.subject_names?.length || grant.subjects.length) > 0 && (
+        <section class="detail-section">
+          <h2 class="detail-section-title">Subjects / Fields</h2>
+          <div class="tags">
+            {(grant.subject_names || grant.subjects).map(subject => (
+              <span class="tag tag-muted">{subject}</span>
+            ))}
+          </div>
+        </section>
+      )}
+
+      <!-- Record info -->
+      <section class="detail-section">
+        <h2 class="detail-section-title">Record Information</h2>
+        <div class="detail-grid">
+          {grant.last_verified && (
+            <div class="detail-field">
+              <span class="detail-field-label">Last Verified</span>
+              <span class="detail-field-value">
+                {new Date(grant.last_verified).toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' })}
+                {grant.verified_by && ` by ${grant.verified_by}`}
+              </span>
+            </div>
+          )}
+          {grant.created_at && (
+            <div class="detail-field">
+              <span class="detail-field-label">Added</span>
+              <span class="detail-field-value">
+                {new Date(grant.created_at).toLocaleDateString('en-GB', { month: 'long', year: 'numeric' })}
+              </span>
+            </div>
+          )}
+          <div class="detail-field">
+            <span class="detail-field-label">Source</span>
+            <span class="detail-field-value">{grant.source}</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- Actions -->
+      <div class="detail-actions">
+        <p class="detail-actions-title">Help keep this record accurate</p>
+        <a href={editUrl} class="btn btn-outline btn-sm" target="_blank" rel="noopener noreferrer">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <path d="M11 4H4a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2v-7"/>
+            <path d="M18.5 2.5a2.121 2.121 0 013 3L12 15l-4 1 1-4 9.5-9.5z"/>
+          </svg>
+          Edit on GitHub
+        </a>
+        <a href={issueUrl} class="btn btn-ghost btn-sm" target="_blank" rel="noopener noreferrer">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <circle cx="12" cy="12" r="10"/>
+            <line x1="12" y1="8" x2="12" y2="12"/>
+            <line x1="12" y1="16" x2="12.01" y2="16"/>
+          </svg>
+          Report an issue
+        </a>
+      </div>
+    </div>
+  </div>
+</BaseLayout>

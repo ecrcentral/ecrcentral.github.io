@@ -1,0 +1,45 @@
+id: funding-kimberly-clark-nursing-research-award
+legacy_id: 364
+slug: kimberly-clark-nursing-research-award
+name: Kimberly-Clark Nursing Research Award
+description: null
+url: http://www.awhonn.org/page/ProposalSubmission
+funders:
+- association-of-womens-health-obstetric-and-neonatal-nurses
+legacy_funder_name: Association of Women's Health, Obstetric and Neonatal Nurses
+host_country: United States
+applicant_country: null
+career_levels: []
+years_since_phd: Must NOT have received funding from a federally funded research/resource
+  grant, program project, trans-NIH program, cooperative agreement OR been awarded
+  an AWHONN research grant in the past
+duration: null
+award: $10 000
+mobility_rule: null
+research_costs: null
+deadline: December 1
+deadline_month: December
+diversity: null
+comments: The Kimberly-Clark Nursing Research Award is designed primarily for researchers
+  whose efforts are on the beginning developments of a program of research. Awards
+  are granted to researchers whose proposals investigate variables relevant to women's
+  health, obstetric, or neonatal nursing. Preference is given to proposals with skin
+  care as the subject matter. Studies that are clinically focused and outcome based
+  are a priority. Projects that focus on the nurse's role in delivering cost-effective
+  care in these subspecialties are encouraged.
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: draft
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-20T10:45:42Z'
+subjects: []
+funding_purposes: []
+search_text: Kimberly-Clark Nursing Research Award Association of Women's Health,
+  Obstetric and Neonatal Nurses United States
+source: legacy-import

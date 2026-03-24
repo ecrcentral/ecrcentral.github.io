@@ -1,0 +1,46 @@
+id: funding-northeastern-university-future-faculty-fellowship
+legacy_id: 151
+slug: northeastern-university-future-faculty-fellowship
+name: Northeastern University Future Faculty Fellowship
+description: ADVANCE Office of Faculty Development invites applications from candidates
+  in all disciplines represented at Northeastern University to apply for the Future
+  Faculty Fellowship Program.
+url: http://www.northeastern.edu/advance/recruitment/future-faculty-fellowship
+funders:
+- northeastern-university
+legacy_funder_name: Northeastern University
+host_country: United States
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: Max. 4
+duration: '1'
+award: 12-month salary of $60,000; $5,000 towards conference travel and other research-related
+  expenses
+mobility_rule: null
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: Current postdoctoral scholars and Ph.D. students at Northeastern University
+  or those otherwise employed by Northeastern University are not eligible to apply.
+benefits: Health benefits
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-22T16:26:24Z'
+subjects:
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Northeastern University Future Faculty Fellowship ADVANCE Office of Faculty
+  Development invites applications from candidates in all disciplines represented
+  at Northeastern University to apply for the Future Faculty Fellowship Program. Northeastern
+  University PhD All subjects Fellowship, scholarship or training United States Worldwide
+source: legacy-import

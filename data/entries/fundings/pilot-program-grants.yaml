@@ -1,0 +1,50 @@
+id: funding-pilot-program-grants
+legacy_id: 394
+slug: pilot-program-grants
+name: Pilot Program Grants
+description: The American Head and Neck Society sponsors several research grants both
+  as an individual society and in conjunction with the American Academy of Otolaryngology-Head
+  and Neck Surgery and the American College of Surgeons.
+url: https://www.ahns.info/research/grants/
+funders:
+- american-head-and-neck-society
+legacy_funder_name: American Head and Neck Society
+host_country: United States
+applicant_country: null
+career_levels:
+- phd
+years_since_phd: To be eligible, applicants must reside in the United State or Canada
+  and be a medical student, resident, Ph.D., or faculty member at the rank of associate
+  professor or below.
+duration: null
+award: $10 000
+mobility_rule: null
+research_costs: null
+deadline: December
+deadline_month: December
+diversity: null
+comments: The American Head and Neck Society is accepting Letters of Intent for its
+  Pilot Grants program. Grants of up to $10,000 will be awarded to support basic,
+  translational, or clinical research projects in head and neck oncology. Clinical
+  or translational research studies are strongly encouraged and should be specifically
+  related to the prevention, diagnosis, treatment, outcomes, or pathophysiology of
+  head and neck neoplastic disease.
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-18T21:31:13Z'
+subjects:
+- medicine-and-health-sciences
+funding_purposes: []
+search_text: Pilot Program Grants The American Head and Neck Society sponsors several
+  research grants both as an individual society and in conjunction with the American
+  Academy of Otolaryngology-Head and Neck Surgery and the American College of Surgeons.
+  American Head and Neck Society PhD Medicine and Health Sciences United States
+source: legacy-import

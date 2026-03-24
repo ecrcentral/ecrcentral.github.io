@@ -1,0 +1,21 @@
+id: resource-nature-masterclasses
+legacy_id: 84
+slug: nature-masterclasses
+name: Nature Masterclasses
+url: https://masterclasses.nature.com/
+description: Professional development training for researchers — via workshops and
+  online courses
+source_name: Nature
+funders: []
+resource_categories:
+- career-development
+- academic-writing
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2019-09-11T02:36:00Z'
+updated_at: '2019-09-11T02:37:29Z'
+source: legacy-import

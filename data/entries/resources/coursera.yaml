@@ -1,0 +1,20 @@
+id: resource-coursera
+legacy_id: 138
+slug: coursera
+name: Coursera
+url: https://www.coursera.org
+description: Build skills with courses, certificates, and degrees online from world-class
+  universities and companies
+source_name: Coursera
+funders: []
+resource_categories:
+- career-development
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-04-26T10:29:00Z'
+updated_at: '2020-04-26T10:30:07Z'
+source: legacy-import

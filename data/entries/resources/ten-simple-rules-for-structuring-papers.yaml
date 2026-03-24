@@ -1,0 +1,21 @@
+id: resource-ten-simple-rules-for-structuring-papers
+legacy_id: 56
+slug: ten-simple-rules-for-structuring-papers
+name: Ten simple rules for structuring papers
+url: https://doi.org/10.1371/journal.pcbi.1005619
+description: Useful tips to make a research paper more influential and the process
+  of writing more efficient and pleasurable.
+source_name: PLoS Computational Biology
+funders: []
+resource_categories:
+- academic-writing
+- publishing
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2019-05-13T07:51:00Z'
+updated_at: '2019-05-13T07:52:05Z'
+source: legacy-import

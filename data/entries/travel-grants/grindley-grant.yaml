@@ -1,0 +1,29 @@
+id: travel-grant-grindley-grant
+legacy_id: 37
+slug: grindley-grant
+name: Grindley Grant
+url: https://eps.ac.uk/grindley-grant/
+description: null
+funders: []
+legacy_funder_name: Experimental Psychology Society (EPS)
+applicant_country: null
+host_country: null
+award: UK £500
+deadline: 4 weeks before non-EPS conference, 2 weeks before EPS conference
+deadline_month: null
+membership: 'Yes'
+membership_time: null
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: Grindley Grant Conference
+source: legacy-import

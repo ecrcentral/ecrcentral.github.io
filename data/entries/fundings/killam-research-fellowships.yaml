@@ -1,0 +1,54 @@
+id: funding-killam-research-fellowships
+legacy_id: 734
+slug: killam-research-fellowships
+name: Killam Research Fellowships
+description: The Killam Research Fellowships provide support to scholars of exceptional
+  ability by granting them time to pursue research projects of broad significance
+  and widespread interest within the disciplines of the humanities, social sciences,
+  natural sciences, health sciences, engineering, or studies linking any of these
+  disciplines.
+url: https://canadacouncil.ca/funding/prizes/killam-research-fellowships
+funders:
+- killam-trusts
+legacy_funder_name: Killam Trusts
+host_country: Canada
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: null
+duration: '2'
+award: $70,000 per year
+mobility_rule: 'No'
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: null
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: '2020-05-25T14:56:39Z'
+updated_at: '2020-05-26T05:43:14Z'
+subjects:
+- medicine-and-health-sciences
+- engineering
+- social-and-behavioral-sciences
+- natural-sciences
+- arts-and-humanities
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: Killam Research Fellowships The Killam Research Fellowships provide support
+  to scholars of exceptional ability by granting them time to pursue research projects
+  of broad significance and widespread interest within the disciplines of the humanities,
+  social sciences, natural sciences, health sciences, engineering, or studies linking
+  any of these disciplines. Killam Trusts PhD Medicine and Health Sciences Engineering
+  Social and Behavioral Sciences Natural Sciences Arts and Humanities Fellowship,
+  scholarship or training Research Canada Worldwide
+source: legacy-import

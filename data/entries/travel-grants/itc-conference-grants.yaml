@@ -1,0 +1,33 @@
+id: travel-grant-itc-conference-grants
+legacy_id: 34
+slug: itc-conference-grants
+name: ITC Conference Grants
+url: http://greekc.org/itc-conference-grants/
+description: null
+funders: []
+legacy_funder_name: European Cooperation in Science and Technology
+applicant_country: Bosnia-Herzegovina, Bulgaria, Cyprus, Czech Republic, Estonia,
+  Croatia, Hungary, Lithuania, Latvia, Luxembourg, Malta, Montenegro, Poland, Portugal,
+  Slovenia, Slovakia, the former Yugoslav Re
+host_country: null
+award: Up to 2500 Euro
+deadline: currently closed for applications
+deadline_month: null
+membership: 'No'
+membership_time: 'No'
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: ITC Conference Grants Conference Bosnia-Herzegovina, Bulgaria, Cyprus,
+  Czech Republic, Estonia, Croatia, Hungary, Lithuania, Latvia, Luxembourg, Malta,
+  Montenegro, Poland, Portugal, Slovenia, Slovakia, the former Yugoslav Re
+source: legacy-import

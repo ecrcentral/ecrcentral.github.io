@@ -1,0 +1,20 @@
+id: funder-university-of-california-institute-for-mexico-and-the-united-states
+legacy_id: 599
+slug: university-of-california-institute-for-mexico-and-the-united-states
+name: University of California Institute for Mexico and the United States
+short_name: University of California Institute for Mexico and the United States
+funder_registry_id: '100005909'
+country: United States
+website: https://ucmexus.ucr.edu/
+logo: /logos/funders/university-of-california-institute-for-mexico-and-the-united-states.jpg
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-05-24T08:27:07Z'
+updated_at: '2020-05-24T08:27:07Z'
+source: legacy-import

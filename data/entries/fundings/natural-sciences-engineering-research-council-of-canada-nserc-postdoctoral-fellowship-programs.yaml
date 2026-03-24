@@ -1,0 +1,43 @@
+id: funding-natural-sciences-engineering-research-council-of-canada-nserc-postdoctoral-fellowship-programs
+legacy_id: 140
+slug: natural-sciences-engineering-research-council-of-canada-nserc-postdoctoral-fellowship-programs
+name: Natural Sciences & Engineering Research Council of Canada (NSERC) Postdoctoral
+  Fellowship Programs
+description: null
+url: http://www.nserc-crsng.gc.ca/Students-Etudiants/PD-NP/index_eng.asp
+funders:
+- natural-sciences-and-engineering-research-council-of-canada
+legacy_funder_name: Natural Sciences and Engineering Research Council of Canada (NSERC)
+host_country: Canada
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: null
+duration: null
+award: null
+mobility_rule: null
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: This Postdoctoral Fellowship Program offers various types of funding. Please
+  refer to the funder website for more information.
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-30T19:29:47Z'
+subjects: []
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: Natural Sciences & Engineering Research Council of Canada (NSERC) Postdoctoral
+  Fellowship Programs Natural Sciences and Engineering Research Council of Canada
+  PhD Fellowship, scholarship or training Research Canada Worldwide
+source: legacy-import

@@ -1,0 +1,55 @@
+id: funding-gruss-lipper-postdoctoral-fellowship
+legacy_id: 89
+slug: gruss-lipper-postdoctoral-fellowship
+name: Gruss Lipper Postdoctoral Fellowship
+description: null
+url: http://www.eglcf.org
+funders:
+- gruss-lipper
+legacy_funder_name: Gruss Lipper Program for Israelis
+host_country: United States
+applicant_country: Israel
+career_levels:
+- phd
+- md
+years_since_phd: <1
+duration: '3'
+award: 75000-79000 USD / Year
+mobility_rule: 'Yes'
+research_costs: Salary, travel, field research, indirect costs
+deadline: September
+deadline_month: September
+diversity: null
+comments: null
+benefits: Childcare allowance (10% of the Fellow’s salary allowance), fringe benefits
+  (18% of the Salary) for health insurance, lab expenses, research supplies, or miscellaneous
+  lab related expenses.
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-24T22:11:36Z'
+subjects:
+- neuroscience
+- biochemistry-biophysics-and-structural-biology
+- bioinformatics
+- cell-and-developmental-biology
+- genetics-and-genomics
+- biomedical-engineering-and-bioengineering
+- proteomics
+- computational-biology
+- molecular-biology
+- stem-cell-biology
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Gruss Lipper Postdoctoral Fellowship Gruss Lipper PhD MD Neuroscience
+  Biochemistry, Biophysics, and Structural Biology Bioinformatics Cell and Developmental
+  Biology Genetics and Genomics Biomedical Engineering and Bioengineering Proteomics
+  Computational Biology Molecular Biology Stem Cell Biology Fellowship, scholarship
+  or training United States Israel
+source: legacy-import

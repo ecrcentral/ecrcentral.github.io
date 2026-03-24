@@ -1,0 +1,41 @@
+id: funding-research-stimulation-grants-by-the-aafp
+legacy_id: 340
+slug: research-stimulation-grants-by-the-aafp
+name: Research Stimulation Grants by the AAFP
+description: The principal investigator or one of the co-investigators must be a member
+  of the AAFP
+url: https://www.aafp.org/dam/foundation/documents/what-were-doing/awards-grants/research-stimulation/RSGApplicationInstructions.pdf
+funders:
+- american-academy-of-family-physicians-foundation
+legacy_funder_name: American Academy of Family Physicians Foundation
+host_country: United States
+applicant_country: United States
+career_levels:
+- md
+years_since_phd: null
+duration: '1'
+award: $7 500
+mobility_rule: null
+research_costs: null
+deadline: March 1 and September 1
+deadline_month: March, September
+diversity: null
+comments: null
+benefits: null
+frequency: Twice a year
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-24T15:17:09Z'
+subjects:
+- medicine-and-health-sciences
+funding_purposes: []
+search_text: Research Stimulation Grants by the AAFP The principal investigator or
+  one of the co-investigators must be a member of the AAFP American Academy of Family
+  Physicians Foundation MD Medicine and Health Sciences United States United States
+source: legacy-import

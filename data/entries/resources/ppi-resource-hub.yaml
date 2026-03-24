@@ -1,0 +1,20 @@
+id: resource-ppi-resource-hub
+legacy_id: 72
+slug: ppi-resource-hub
+name: PPI Resource Hub
+url: https://www.imperial.ac.uk/patient-experience-research-centre/ppi-resource-hub/
+description: Website with information and guidelines for researchers on how to involve
+  members of the public in research
+source_name: NIHR Imperial Biomedical Research Centre
+funders: []
+resource_categories:
+- public-involvement-in-research
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2019-07-01T10:57:00Z'
+updated_at: '2019-07-08T21:53:45Z'
+source: legacy-import

@@ -1,0 +1,29 @@
+id: travel-grant-science-research-conferences-src-travel-awards
+legacy_id: 14
+slug: science-research-conferences-src-travel-awards
+name: Science Research Conferences (SRC) Travel Awards
+url: http://faseb.org/Science-Research-Conferences/Attendee-Information/Awards-and-Travel-Grants.aspx
+description: null
+funders: []
+legacy_funder_name: FASEB
+applicant_country: null
+host_country: null
+award: $250-$500
+deadline: 3 weeks prior to start date of selected SRC
+deadline_month: null
+membership: 'Yes'
+membership_time: none
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: Science Research Conferences (SRC) Travel Awards Conference
+source: legacy-import

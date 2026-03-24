@@ -1,0 +1,20 @@
+id: funder-human-frontier-science-program-hfsp
+legacy_id: 101
+slug: human-frontier-science-program-hfsp
+name: Human Frontier Science Program (HFSP)
+short_name: Human Frontier Science Program (HFSP)
+funder_registry_id: '100004412'
+country: France
+website: null
+logo: /logos/funders/human-frontier-science-program-hfsp.png
+dora: true
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2020-06-10T04:58:06Z'
+source: legacy-import

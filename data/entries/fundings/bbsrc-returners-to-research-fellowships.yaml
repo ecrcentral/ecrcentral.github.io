@@ -1,0 +1,55 @@
+id: funding-bbsrc-returners-to-research-fellowships
+legacy_id: 22
+slug: bbsrc-returners-to-research-fellowships
+name: BBSRC Returners to Research Fellowships
+description: "Scientists wishing to return to research after a career break of two\
+  \ or more years for family, caring or health reasons.\r\nThe Daphne Jackson Trust\
+  \ awards 2-year fellowships on a part-time basis.\r\n\r\nFellowships include a tailored\
+  \ training programme designed to enable fellows to update their skills while working\
+  \ on a current research project."
+url: http://www.bbsrc.ac.uk/funding/filter/returners-to-research
+funders:
+- biotechnology-and-biological-sciences-research-council-bbsrc
+legacy_funder_name: BBSRC
+host_country: United Kingdom
+applicant_country: United Kingdom
+career_levels:
+- phd
+years_since_phd: null
+duration: '2'
+award: null
+mobility_rule: 'No'
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: Scientists wishing to return to research after a career break of two or
+  more years for family, caring or health reasons.
+comments: Daphne Jackson Fellowships are retraining fellowships for individuals who
+  have taken a break of 2 or more years from STEM research. The break must have been
+  taken for family, caring or health reasons
+benefits: null
+frequency: Rolling
+fileds: Any area of medical research
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-25T10:02:12Z'
+subjects:
+- medicine-and-health-sciences
+- physical-sciences-and-mathematics
+- engineering
+- technology-and-innovation
+funding_purposes: []
+search_text: "BBSRC Returners to Research Fellowships Scientists wishing to return\
+  \ to research after a career break of two or more years for family, caring or health\
+  \ reasons.\r\nThe Daphne Jackson Trust awards 2-year fellowships on a part-time\
+  \ basis.\r\n\r\nFellowships include a tailored training programme designed to enable\
+  \ fellows to update their skills while working on a current research project. Biotechnology\
+  \ and Biological Sciences Research Council - BBSRC PhD Medicine and Health Sciences\
+  \ Physical Sciences and Mathematics Engineering Technology and Innovation United\
+  \ Kingdom United Kingdom"
+source: legacy-import

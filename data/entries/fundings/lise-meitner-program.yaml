@@ -1,0 +1,49 @@
+id: funding-lise-meitner-program
+legacy_id: 20
+slug: lise-meitner-program
+name: Lise Meitner Program
+description: "Target group\r\nhighly qualified researchers of any discipline who could\
+  \ contribute to the scientific development of an Austrian research institution by\
+  \ working at it.\r\n\r\nincoming: post-doctoral researchers from abroad\r\nreintegration:\
+  \ post-doctoral researchers who have left Austria and wish to return to an Austrian\
+  \ research institution"
+url: http://www.fwf.ac.at/en/research-funding/fwf-programmes/meitner-programme
+funders:
+- austrian-science-fund
+legacy_funder_name: Austrian Science Fund
+host_country: Austria
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: null
+duration: '2'
+award: 69,040 € (post-doc) or 75,890 € (senior post-doc) per year
+mobility_rule: 'Yes'
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: null
+benefits: null
+frequency: Rolling
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-25T09:34:32Z'
+subjects:
+- all-subjects
+funding_purposes:
+- research
+- collaboration
+search_text: "Lise Meitner Program Target group\r\nhighly qualified researchers of\
+  \ any discipline who could contribute to the scientific development of an Austrian\
+  \ research institution by working at it.\r\n\r\nincoming: post-doctoral researchers\
+  \ from abroad\r\nreintegration: post-doctoral researchers who have left Austria\
+  \ and wish to return to an Austrian research institution Austrian Science Fund PhD\
+  \ All subjects Research Collaboration Austria Worldwide"
+source: legacy-import

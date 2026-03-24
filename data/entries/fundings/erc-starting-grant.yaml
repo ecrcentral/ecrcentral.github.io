@@ -1,0 +1,53 @@
+id: funding-erc-starting-grant
+legacy_id: 68
+slug: erc-starting-grant
+name: ERC starting grant
+description: ERC Starting Grant is for the talented early-career scientists who have
+  already produced excellent supervised work and ready to work independently and shows
+  potential to be a research leader. ERC Starting Grant is open for researchers in
+  any field of any nationality with 2-7 years of experience since completion of PhD,
+  a scientific track record showing great promise and an excellent research proposal.
+url: https://erc.europa.eu/funding/starting-grants
+funders:
+- european-research-council
+legacy_funder_name: European Research Council
+host_country: Europe
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: '7'
+duration: '5'
+award: € 1.5 million for a period of 5 years
+mobility_rule: 'No'
+research_costs: null
+deadline: February
+deadline_month: February
+diversity: null
+comments: null
+benefits: null
+frequency: Annual
+fileds: null
+featured: true
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-09T17:37:08Z'
+subjects:
+- life-sciences
+- physical-sciences-and-mathematics
+- engineering
+- social-and-behavioral-sciences
+- all-subjects
+funding_purposes: []
+search_text: ERC starting grant ERC Starting Grant is for the talented early-career
+  scientists who have already produced excellent supervised work and ready to work
+  independently and shows potential to be a research leader. ERC Starting Grant is
+  open for researchers in any field of any nationality with 2-7 years of experience
+  since completion of PhD, a scientific track record showing great promise and an
+  excellent research proposal. European Research Council PhD Life Sciences Physical
+  Sciences and Mathematics Engineering Social and Behavioral Sciences All subjects
+  Europe Worldwide
+source: legacy-import

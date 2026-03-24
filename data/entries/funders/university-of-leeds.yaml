@@ -1,0 +1,20 @@
+id: funder-university-of-leeds
+legacy_id: 189
+slug: university-of-leeds
+name: University of Leeds
+short_name: University of Leeds
+funder_registry_id: '501100000777'
+country: United Kingdom
+website: null
+logo: /logos/funders/university-of-leeds.png
+dora: true
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2020-05-29T02:13:24Z'
+source: legacy-import

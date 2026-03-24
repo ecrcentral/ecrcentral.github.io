@@ -1,0 +1,47 @@
+id: funding-college-junior-research-fellowships
+legacy_id: 218
+slug: college-junior-research-fellowships
+name: College Junior Research Fellowships
+description: Each year, the college holds competitions for Junior Research Fellowships,
+  both Stipendiary and non-Stipendiary. These support gifted young researchers for
+  four years; generally Junior Research Fellows are appointed within two years of
+  the award of a doctorate.
+url: https://www.kings.cam.ac.uk/research/junior-research-fellowships
+funders:
+- university-of-cambridge
+legacy_funder_name: University of Cambridge
+host_country: United Kingdom
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: <2
+duration: '4'
+award: null
+mobility_rule: null
+research_costs: 'Yes'
+deadline: null
+deadline_month: null
+diversity: null
+comments: null
+benefits: null
+frequency: Triannual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T22:16:55Z'
+subjects:
+- life-sciences
+- arts-and-humanities
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: College Junior Research Fellowships Each year, the college holds competitions
+  for Junior Research Fellowships, both Stipendiary and non-Stipendiary. These support
+  gifted young researchers for four years; generally Junior Research Fellows are appointed
+  within two years of the award of a doctorate. University of Cambridge PhD Life Sciences
+  Arts and Humanities Fellowship, scholarship or training United Kingdom Worldwide
+source: legacy-import

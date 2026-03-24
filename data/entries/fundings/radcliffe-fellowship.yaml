@@ -1,0 +1,49 @@
+id: funding-radcliffe-fellowship
+legacy_id: 161
+slug: radcliffe-fellowship
+name: Radcliffe Fellowship
+description: Radcliffe fellows are exceptional scientists, writers, scholars, public
+  intellectuals, and artists whose work is making a difference in their professional
+  fields and in the larger world.
+url: https://www.radcliffe.harvard.edu/fellowship-program/how-apply
+funders:
+- radcliffe-institute-for-advanced-study-harvard-university
+legacy_funder_name: Radcliffe Institute for Advanced Study, Harvard
+host_country: United States
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: Min. 2
+duration: '1'
+award: Fellows receive a stipend of $77500 plus an additional $5000 to cover project
+  expenses. Single-semester fellows receive a $38750 stipend plus an additional $2500
+  to cover project expenses.
+mobility_rule: 'No'
+research_costs: null
+deadline: September
+deadline_month: September
+diversity: null
+comments: Radcliffe Fellows may also be eligible to receive relocation, housing, and
+  childcare funds to aid them in making a smooth transition to Radcliffe.
+benefits: Health care support is made available as needed.
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-09T17:49:18Z'
+subjects:
+- physical-sciences-and-mathematics
+- arts-and-humanities
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Radcliffe Fellowship Radcliffe fellows are exceptional scientists, writers,
+  scholars, public intellectuals, and artists whose work is making a difference in
+  their professional fields and in the larger world. Radcliffe Institute for Advanced
+  Study, Harvard University PhD Physical Sciences and Mathematics Arts and Humanities
+  Fellowship, scholarship or training United States Worldwide
+source: legacy-import

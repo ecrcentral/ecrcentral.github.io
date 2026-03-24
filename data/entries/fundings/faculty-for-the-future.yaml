@@ -1,0 +1,47 @@
+id: funding-faculty-for-the-future
+legacy_id: 176
+slug: faculty-for-the-future
+name: Faculty for the Future
+description: The Faculty for the Future program provides funding for women from emerging
+  economies to pursue PhD and postdoctoral studies in STEM fields at the leading universities
+  abroad.
+url: http://www.facultyforthefuture.net
+funders:
+- schlumberger-foundation
+legacy_funder_name: Schlumberger Foundation
+host_country: Worldwide
+applicant_country: Emerging countries
+career_levels:
+- phd
+- master-students
+years_since_phd: N/A
+duration: '1'
+award: null
+mobility_rule: 'Yes'
+research_costs: null
+deadline: November
+deadline_month: November
+diversity: null
+comments: null
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T13:36:11Z'
+subjects:
+- physical-sciences-and-mathematics
+- engineering
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Faculty for the Future The Faculty for the Future program provides funding
+  for women from emerging economies to pursue PhD and postdoctoral studies in STEM
+  fields at the leading universities abroad. Schlumberger Foundation PhD Master students
+  Physical Sciences and Mathematics Engineering Fellowship, scholarship or training
+  Worldwide Emerging countries
+source: legacy-import

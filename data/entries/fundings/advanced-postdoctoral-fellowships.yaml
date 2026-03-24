@@ -1,0 +1,49 @@
+id: funding-advanced-postdoctoral-fellowships
+legacy_id: 331
+slug: advanced-postdoctoral-fellowships
+name: Advanced Postdoctoral Fellowships
+description: The Advanced Postdoctoral Fellowship program is designed to attract qualified
+  and promising health scientists, to provide an opportunity to receive full time
+  research training, and to assist these promising individuals in transitioning from
+  a fellowship to an independent (faculty-level) position.
+url: http://grantcenter.jdrf.org/rfa/advanced-postdoctoral-fellowships/
+funders:
+- juvenile-diabetes-research-foundation
+legacy_funder_name: Juvenile Diabetes Research Foundation
+host_country: United States
+applicant_country: Worldwide
+career_levels:
+- phd
+- md
+years_since_phd: '6'
+duration: '3'
+award: $270 000
+mobility_rule: null
+research_costs: null
+deadline: June
+deadline_month: June
+diversity: null
+comments: null
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-24T14:49:36Z'
+subjects:
+- medicine-and-health-sciences
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: Advanced Postdoctoral Fellowships The Advanced Postdoctoral Fellowship
+  program is designed to attract qualified and promising health scientists, to provide
+  an opportunity to receive full time research training, and to assist these promising
+  individuals in transitioning from a fellowship to an independent (faculty-level)
+  position. Juvenile Diabetes Research Foundation PhD MD Medicine and Health Sciences
+  Fellowship, scholarship or training Research United States Worldwide
+source: legacy-import

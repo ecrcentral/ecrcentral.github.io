@@ -1,0 +1,57 @@
+id: funding-young-faculty-award
+legacy_id: 374
+slug: young-faculty-award
+name: Young Faculty Award
+description: The objective of the DARPA Young Faculty Award (YFA) program is to identify
+  and engage rising stars in junior research positions, emphasizing those without
+  prior DARPA funding, and expose them to DoD needs and DARPA’s program development
+  process.
+url: https://www.darpa.mil/work-with-us/for-universities/young-faculty-award
+funders:
+- us-department-of-defense
+legacy_funder_name: Department of Defense, DARPA
+host_country: United States
+applicant_country: null
+career_levels:
+- phd
+years_since_phd: 'Must be one of the following (excluding any personal leaves of absence)
+  by the full proposal deadline: current Tenure-Track Assistant/Associate Professors;  current
+  Tenured faculty within 3 y'
+duration: null
+award: $500 000
+mobility_rule: null
+research_costs: null
+deadline: December
+deadline_month: December
+diversity: null
+comments: The objective of the DARPA Young Faculty Award (YFA) program is to identify
+  and engage rising research stars in junior faculty positions at U.S. academic institutions
+  and expose them to Department of Defense needs as well as DARPA’s program development
+  process. The YFA program provides funding, mentoring, and industry and DoD contacts
+  to awardees early in their careers so they may develop their research ideas in the
+  context of DoD needs. The program focuses on untenured faculty, emphasizing those
+  without prior DARPA funding. The long-term goal is to develop the next generation
+  of academic scientists, engineers and mathematicians in key disciplines who will
+  focus a significant portion of their career on DoD and national security issues.
+  DARPA intends to award grants to eligible university faculty and nonprofit research
+  organizations; each grant will encompass funding for a 24-month base period consisting
+  of two 12-month phases (a maximum of $250,000 per 12-month phase) and a 12-month
+  option period (a maximum of $500,000).
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-18T20:52:41Z'
+subjects: []
+funding_purposes: []
+search_text: Young Faculty Award The objective of the DARPA Young Faculty Award (YFA)
+  program is to identify and engage rising stars in junior research positions, emphasizing
+  those without prior DARPA funding, and expose them to DoD needs and DARPA’s program
+  development process. U.S. Department of Defense PhD United States
+source: legacy-import

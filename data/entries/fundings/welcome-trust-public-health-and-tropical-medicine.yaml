@@ -1,0 +1,47 @@
+id: funding-welcome-trust-public-health-and-tropical-medicine
+legacy_id: 251
+slug: welcome-trust-public-health-and-tropical-medicine
+name: Welcome Trust Public health and tropical medicine
+description: This scheme offers nationals of low- and middle-income countries the
+  opportunity to receive training at postgraduate or postdoctoral level.
+url: http://www.wellcome.ac.uk/Funding/Biomedical-science/Funding-schemes/Fellowships/Public-health-and-tropical-medicine/WTD025882.htm
+funders:
+- wellcome-trust
+legacy_funder_name: Wellcome Trust
+host_country: United Kingdom
+applicant_country: Worldwide
+career_levels:
+- phd
+- postdoc
+years_since_phd: No limit
+duration: '3'
+award: £150,00 to £300,000
+mobility_rule: null
+research_costs: Included
+deadline: April;November
+deadline_month: April, November
+diversity: null
+comments: null
+benefits: null
+frequency: Twice a year
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-20T04:46:14Z'
+subjects:
+- laboratory-and-basic-life-science-research
+- public-health
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: Welcome Trust Public health and tropical medicine This scheme offers
+  nationals of low- and middle-income countries the opportunity to receive training
+  at postgraduate or postdoctoral level. Wellcome Trust PhD Postdoc Laboratory and
+  Basic Life Science Research Public Health Fellowship, scholarship or training Research
+  United Kingdom Worldwide
+source: legacy-import

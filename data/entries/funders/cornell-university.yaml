@@ -1,0 +1,20 @@
+id: funder-cornell-university
+legacy_id: 211
+slug: cornell-university
+name: Cornell University
+short_name: Cornell University
+funder_registry_id: '100007231'
+country: United States
+website: null
+logo: /logos/funders/cornell-university.png
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2019-05-15T09:52:32Z'
+updated_at: '2019-05-15T10:25:17Z'
+source: legacy-import

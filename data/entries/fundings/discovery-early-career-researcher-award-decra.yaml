@@ -1,0 +1,48 @@
+id: funding-discovery-early-career-researcher-award-decra
+legacy_id: 17
+slug: discovery-early-career-researcher-award-decra
+name: Discovery Early Career Researcher Award (DECRA)
+description: The Discovery Early Career Researcher Award (DECRA) grant opportunity
+  provides focused research support for early career researchers in both teaching
+  and research, and research-only positions.
+url: https://www.arc.gov.au/grants/discovery-program/discovery-early-career-researcher-award-decra
+funders:
+- australian-research-council
+- australian-government
+legacy_funder_name: Australian Research Council
+host_country: Australia
+applicant_country: Australia
+career_levels:
+- phd
+years_since_phd: '5'
+duration: '3'
+award: AUD From $312,948.00 to $462,948.00
+mobility_rule: 'No'
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: n/a
+comments: It is anticipated that up to 200 three-year Discovery Early Career Researcher
+  Awards, including up to $50,000 per annum in project funds, may be awarded each
+  year.
+benefits: null
+frequency: Rolling
+fileds: all
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-25T09:16:43Z'
+subjects:
+- all-subjects
+funding_purposes:
+- research
+search_text: Discovery Early Career Researcher Award (DECRA) The Discovery Early Career
+  Researcher Award (DECRA) grant opportunity provides focused research support for
+  early career researchers in both teaching and research, and research-only positions.
+  Australian Research Council Australian Government PhD All subjects Research Australia
+  Australia
+source: legacy-import

@@ -1,0 +1,40 @@
+id: funding-postdoctoral-fellowships
+legacy_id: 86
+slug: postdoctoral-fellowships
+name: Postdoctoral Fellowships
+description: null
+url: http://www.gettysburg.edu/about/offices/provost/cfd/current-past-scholars
+funders:
+- gettysburg-college
+legacy_funder_name: Gettysburg College
+host_country: United States
+applicant_country: United States
+career_levels:
+- phd
+years_since_phd: <5
+duration: '1'
+award: null
+mobility_rule: null
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: This is an internal grant
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: draft
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-24T21:43:49Z'
+subjects:
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Postdoctoral Fellowships Gettysburg College PhD All subjects Fellowship,
+  scholarship or training United States United States
+source: legacy-import

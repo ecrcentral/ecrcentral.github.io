@@ -1,0 +1,46 @@
+id: funding-the-milstein-young-investigator-awards
+legacy_id: 681
+slug: the-milstein-young-investigator-awards
+name: The Milstein Young Investigator Awards
+description: The Milstein Young Investigator Awards are bestowed upon individuals
+  who have made an impact on interferon and cytokine research early in their careers.
+url: https://www.milstein-award.org/young-investigator-award-winners/
+funders:
+- the-milstein-awards
+legacy_funder_name: The Milstein Awards
+host_country: null
+applicant_country: null
+career_levels:
+- phd
+- postdoc
+- md
+years_since_phd: '10'
+duration: null
+award: USD 1 500
+mobility_rule: 'No'
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: null
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-25T16:31:35Z'
+subjects:
+- life-sciences
+- medicine-and-health-sciences
+funding_purposes:
+- award
+search_text: The Milstein Young Investigator Awards The Milstein Young Investigator
+  Awards are bestowed upon individuals who have made an impact on interferon and cytokine
+  research early in their careers. The Milstein Awards PhD Postdoc MD Life Sciences
+  Medicine and Health Sciences Award
+source: legacy-import

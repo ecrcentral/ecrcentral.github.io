@@ -1,0 +1,22 @@
+id: resource-connect-with-australian-researchers-sequencing-sars-cov-2
+legacy_id: 121
+slug: connect-with-australian-researchers-sequencing-sars-cov-2
+name: Connect with Australian researchers sequencing SARS-CoV-2
+url: https://sarscov2-seq-au.slack.com/join/shared_invite/zt-cxo8fomt-TUXbNwQ~SW6zhAsXOhPghw
+description: If you are in Australia and interested in connecting with other researchers
+  sequencing SARS-CoV-2, join the Slack channel for sharing tips and tricks asking
+  for technical help.
+source_name: Benjamin Schwessinger (on Twitter)
+funders: []
+resource_categories:
+- covid19-resources-guidebooks
+- covid19-requests-for-help
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-03-26T16:40:00Z'
+updated_at: '2020-03-26T16:40:55Z'
+source: legacy-import

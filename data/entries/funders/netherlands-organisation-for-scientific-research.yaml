@@ -1,0 +1,20 @@
+id: funder-netherlands-organisation-for-scientific-research
+legacy_id: 561
+slug: netherlands-organisation-for-scientific-research
+name: Netherlands Organisation for Scientific Research
+short_name: Netherlands Organisation for Scientific Research
+funder_registry_id: '501100003246'
+country: The Netherlands
+website: https://www.nwo.nl/en/funding/our-funding-instruments/nwo/innovational-research-incentives-scheme/veni/index.html
+logo: /logos/funders/netherlands-organisation-for-scientific-research.png
+dora: true
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-05-22T14:44:19Z'
+updated_at: '2020-05-29T01:58:08Z'
+source: legacy-import

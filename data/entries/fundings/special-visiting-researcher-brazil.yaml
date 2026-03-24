@@ -1,0 +1,52 @@
+id: funding-special-visiting-researcher-brazil
+legacy_id: 180
+slug: special-visiting-researcher-brazil
+name: Special Visiting Researcher Brazil
+description: The scholarship program for "Special Visiting Researcher" aims to attract
+  a senior foreign researchers recognized internationally as leadership in priority
+  areas of Science Without Borders program, to conduct projects with Brazilian research
+  groups and visit Brazil for up to three months each year over two to three years.
+url: http://www.cienciasemfronteiras.gov.br/web/csf-eng/opportunities-for-individuals-from-abroad
+funders: []
+legacy_funder_name: Science without Borders
+host_country: Brazil
+applicant_country: Worldwide
+career_levels:
+- phd
+- postdoc
+years_since_phd: N/A
+duration: 1-3
+award: R$14000 per month for living expenses, and flight tickets
+mobility_rule: null
+research_costs: Maximum R$ 50000
+deadline: null
+deadline_month: null
+diversity: null
+comments: 'Additional scholarships can be obtained: post-doctoral scholarships in
+  Brazil for the maintenance of the research during the absence of the visiting researcher
+  and PhD scholarships (sandwich) abroad to Brazilian researchers to follow the visiting
+  researcher in his country. These scholarships should be provided in the research
+  project and requested on the application form.'
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: draft
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T15:03:41Z'
+subjects:
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+- collaboration
+search_text: Special Visiting Researcher Brazil The scholarship program for "Special
+  Visiting Researcher" aims to attract a senior foreign researchers recognized internationally
+  as leadership in priority areas of Science Without Borders program, to conduct projects
+  with Brazilian research groups and visit Brazil for up to three months each year
+  over two to three years. PhD Postdoc All subjects Fellowship, scholarship or training
+  Collaboration Brazil Worldwide
+source: legacy-import

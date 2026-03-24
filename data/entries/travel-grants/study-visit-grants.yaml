@@ -1,0 +1,30 @@
+id: travel-grant-study-visit-grants
+legacy_id: 38
+slug: study-visit-grants
+name: Study visit grants
+url: https://eps.ac.uk/study-visit-grants/
+description: null
+funders: []
+legacy_funder_name: Experimental Psychology Society (EPS)
+applicant_country: null
+host_country: null
+award: max £3000 (UK)
+deadline: 1st March, 1st June, 1st September and 1st December
+deadline_month: March, June, September, December
+membership: 'Yes'
+membership_time: null
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- collaboration
+- learn-new-technique
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: Study visit grants Collaboration Learn new technique
+source: legacy-import

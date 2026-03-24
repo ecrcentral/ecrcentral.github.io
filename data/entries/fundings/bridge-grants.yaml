@@ -1,0 +1,49 @@
+id: funding-bridge-grants
+legacy_id: 422
+slug: bridge-grants
+name: Bridge Grants
+description: null
+url: https://www.psoriasis.org/grants
+funders: []
+legacy_funder_name: National Psoriasis Foundation
+host_country: null
+applicant_country: null
+career_levels:
+- junior-faculty
+years_since_phd: NA
+duration: '1'
+award: $ 50 000 OR $100 000
+mobility_rule: null
+research_costs: null
+deadline: January
+deadline_month: January
+diversity: null
+comments: "The National Psoriasis Foundation (NPF) is offering Bridge Grants to support\
+  \ researchers who have submitted meritorious but unfunded K- and R- applications\
+  \ to the National Institutes of Health (NIH) with a focus on psoriatic disease or\
+  \ related comorbidities. Through this special opportunity, NPF provides a critical\
+  \ year of additional support so that applicants can collect data to strengthen future\
+  \ NIH application. In line with NPF’s mission, Bridge Grants will provide important\
+  \ support to the careers of psoriatic disease researchers who will go on to make\
+  \ discoveries that bring us closer to a cure for psoriatic disease.\r\n\r\nThe project\
+  \ proposed must have been submitted as an unfunded application for either a K- or\
+  \ R- award to NIH focused on psoriasis, psoriatic arthritis, or related comorbidities."
+benefits: null
+frequency: Rolling
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-25T00:49:26Z'
+subjects:
+- life-sciences
+- medicine-and-health-sciences
+funding_purposes:
+- research
+search_text: Bridge Grants Junior Faculty Life Sciences Medicine and Health Sciences
+  Research
+source: legacy-import

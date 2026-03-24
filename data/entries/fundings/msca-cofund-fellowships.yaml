@@ -1,0 +1,35 @@
+id: funding-msca-cofund-fellowships
+legacy_id: 127
+slug: msca-cofund-fellowships
+name: MSCA COFUND Fellowships
+description: null
+url: https://businesswales.gov.wales/expertisewales/ser-cymru/msca-cofund-fellowships
+funders: []
+legacy_funder_name: Marie Skłodowska-Curie Actions
+host_country: Wales
+applicant_country: Worldwide
+career_levels: []
+years_since_phd: '43223'
+duration: '2'
+award: null
+mobility_rule: null
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: null
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: draft
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-30T14:50:01Z'
+subjects: []
+funding_purposes: []
+search_text: MSCA COFUND Fellowships Wales Worldwide
+source: legacy-import

@@ -1,0 +1,51 @@
+id: funding-burroughs-wellcome-fund
+legacy_id: 281
+slug: burroughs-wellcome-fund
+name: Burroughs Wellcome Fund
+description: The Burroughs Wellcome Fund's grantmaking strategies support biomedical
+  scientists at the beginning of their careers and areas of science that are poised
+  for significant advancement but are currently undervalued and underfunded.  Funding
+  available for postdoctoral research and for faculty positions.
+url: https://www.bwfund.org/programs-offered
+funders:
+- burroughs-wellcome-fund
+legacy_funder_name: Burroughs Wellcome Fund
+host_country: United States
+applicant_country: USA, Canada, and permanent residents of the USA
+career_levels:
+- postdoc
+- junior-faculty
+years_since_phd: NA
+duration: null
+award: null
+mobility_rule: 'No'
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: null
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-22T14:22:18Z'
+subjects:
+- life-sciences
+- medicine-and-health-sciences
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: Burroughs Wellcome Fund The Burroughs Wellcome Fund's grantmaking strategies
+  support biomedical scientists at the beginning of their careers and areas of science
+  that are poised for significant advancement but are currently undervalued and underfunded.  Funding
+  available for postdoctoral research and for faculty positions. Burroughs Wellcome
+  Fund Postdoc Junior Faculty Life Sciences Medicine and Health Sciences Fellowship,
+  scholarship or training Research United States USA, Canada, and permanent residents
+  of the USA
+source: legacy-import

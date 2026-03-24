@@ -1,0 +1,44 @@
+id: funding-iiasa-postdoctoral-scholarship
+legacy_id: 105
+slug: iiasa-postdoctoral-scholarship
+name: IIASA postdoctoral scholarship
+description: IIASA offers a range of postdoc opportunities for early career researchers.
+  These include fully funded research positions of up to two years to study topics
+  related to the IIASA research agenda.
+url: http://www.iiasa.ac.at/web/home/education/postdocs.html
+funders:
+- international-institute-for-applied-systems-analysis
+legacy_funder_name: IIASA
+host_country: Austria
+applicant_country: Worldwide
+career_levels: []
+years_since_phd: No rule
+duration: '2'
+award: null
+mobility_rule: null
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: null
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-25T22:19:21Z'
+subjects: []
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: IIASA postdoctoral scholarship IIASA offers a range of postdoc opportunities
+  for early career researchers. These include fully funded research positions of up
+  to two years to study topics related to the IIASA research agenda. International
+  Institute for Applied Systems Analysis Fellowship, scholarship or training Research
+  Austria Worldwide
+source: legacy-import

@@ -1,0 +1,35 @@
+id: funding-university-of-toronto
+legacy_id: 268
+slug: university-of-toronto
+name: University of Toronto
+description: null
+url: http://www.eeb.utoronto.ca/about-us/employment/postdocs/eebpostdoc.htm?
+funders: []
+legacy_funder_name: Worldwide
+host_country: No rule
+applicant_country: Canada
+career_levels: []
+years_since_phd: '2'
+duration: null
+award: null
+mobility_rule: null
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: null
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2018-12-29T13:58:05Z'
+subjects: []
+funding_purposes: []
+search_text: University of Toronto No rule Canada
+source: legacy-import

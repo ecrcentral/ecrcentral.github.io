@@ -1,0 +1,40 @@
+id: funding-csir-research-associateship-csir-ra
+legacy_id: 719
+slug: csir-research-associateship-csir-ra
+name: CSIR Research Associateship (CSIR - RA)
+description: null
+url: http://csirhrdg.res.in
+funders: []
+legacy_funder_name: Council of Scientific and Industrial Research
+host_country: India
+applicant_country: India
+career_levels: []
+years_since_phd: '0'
+duration: null
+award: 47,000 /49,000 /54,000 /-p.m. INR
+mobility_rule: null
+research_costs: 20,000/-p.a. INR
+deadline: null
+deadline_month: null
+diversity: null
+comments: null
+benefits: null
+frequency: null
+fileds: Chemistry, Life Sciences, Mathematics, Physics
+featured: false
+review_status: approved
+status: expired
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 46
+created_at: '2019-08-28T05:33:11Z'
+updated_at: '2019-08-28T05:33:11Z'
+subjects:
+- life-sciences
+- chemistry
+- mathematics
+- physics
+funding_purposes: []
+search_text: CSIR Research Associateship (CSIR - RA) Life Sciences Chemistry Mathematics
+  Physics India India
+source: legacy-import

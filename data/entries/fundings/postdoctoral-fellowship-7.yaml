@@ -1,0 +1,43 @@
+id: funding-postdoctoral-fellowship-7
+legacy_id: 241
+slug: postdoctoral-fellowship-7
+name: Postdoctoral Fellowship
+description: The Victoria University Research Fellowship program was established to
+  support, promote and progress outstanding, innovative and strategically aligned
+  research.
+url: https://www.vu.edu.au/researchers/research-lifecycle/research-fellowships
+funders:
+- university-of-victoria
+legacy_funder_name: University of Victoria
+host_country: Australia
+applicant_country: null
+career_levels:
+- phd
+years_since_phd: Not active
+duration: Not active
+award: null
+mobility_rule: null
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: null
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-14T22:43:48Z'
+subjects: []
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Postdoctoral Fellowship The Victoria University Research Fellowship program
+  was established to support, promote and progress outstanding, innovative and strategically
+  aligned research. University of Victoria PhD Fellowship, scholarship or training
+  Australia
+source: legacy-import

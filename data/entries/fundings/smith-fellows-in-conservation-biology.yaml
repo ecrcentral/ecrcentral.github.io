@@ -1,0 +1,45 @@
+id: funding-smith-fellows-in-conservation-biology
+legacy_id: 185
+slug: smith-fellows-in-conservation-biology
+name: Smith Fellows in Conservation Biology
+description: The David H. Smith Conservation Research Fellowship Program seeks to
+  develop future world leaders and entrepreneurs who are successful at linking conservation
+  science and application.
+url: http://conbio.org/mini-sites/smith-fellows
+funders:
+- society-for-conservation-biology
+legacy_funder_name: Society for Conservation Biology
+host_country: United States
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: Max. 5
+duration: '2'
+award: Annual salary of $57,500, and $8,000 travel budget
+mobility_rule: null
+research_costs: $32,000
+deadline: September
+deadline_month: September
+diversity: null
+comments: null
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-09T17:38:01Z'
+subjects:
+- biology
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Smith Fellows in Conservation Biology The David H. Smith Conservation
+  Research Fellowship Program seeks to develop future world leaders and entrepreneurs
+  who are successful at linking conservation science and application. Society for
+  Conservation Biology PhD Biology Fellowship, scholarship or training United States
+  Worldwide
+source: legacy-import

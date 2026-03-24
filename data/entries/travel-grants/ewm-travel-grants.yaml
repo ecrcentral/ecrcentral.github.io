@@ -1,0 +1,35 @@
+id: travel-grant-ewm-travel-grants
+legacy_id: 102
+slug: ewm-travel-grants
+name: EWM Travel Grants
+url: https://www.europeanwomeninmaths.org/travel-grants/
+description: <p>EWM awards a few grants each year for female mathematicians that are
+  EWM members and are at an early stage of their career or work in a developing country,
+  for participating and giving a talk at a significant conference in their field.</p>
+funders: []
+legacy_funder_name: European Women in Mathematics
+applicant_country: Developing Countries
+host_country: null
+award: 400 EUR
+deadline: June 1st and December 1st
+deadline_month: June, December
+membership: 'Yes'
+membership_time: null
+purpose_text: null
+career_levels:
+- phd
+subjects: []
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: EWM Travel Grants <p>EWM awards a few grants each year for female mathematicians
+  that are EWM members and are at an early stage of their career or work in a developing
+  country, for participating and giving a talk at a significant conference in their
+  field.</p> PhD Conference Developing Countries
+source: legacy-import

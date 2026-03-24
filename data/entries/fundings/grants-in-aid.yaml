@@ -1,0 +1,53 @@
+id: funding-grants-in-aid
+legacy_id: 418
+slug: grants-in-aid
+name: Grants-in-Aid
+description: The Grants-in-Aid program is designed for researchers at the assistant
+  professor level who experience difficulty in competing for research funds because
+  they have not yet become firmly established.
+url: http://www.whitehall.org/grants/
+funders:
+- whitehall-foundation
+legacy_funder_name: Whitehall Foundation
+host_country: United States
+applicant_country: null
+career_levels: []
+years_since_phd: Researchers at the assistant professor level who experience difficulty
+  in competing for research funds because they have not yet become firmly established.
+duration: 1 year
+award: $30 000
+mobility_rule: null
+research_costs: null
+deadline: January 15, April 15, and October 1 for letter of intent
+deadline_month: January, April, October
+diversity: null
+comments: 'The Foundation is currently interested in basic research in neurobiology,
+  defined as follows: Invertebrate and vertebrate (excluding clinical) neurobiology,
+  specifically investigations of neural mechanisms involved in sensory, motor, and
+  other complex functions of the whole organism as these relate to behavior. The overall
+  goal should be to better understand behavioral output or brain mechanisms of behavior.
+  The Grants-in-Aid program is designed for researchers at the assistant professor
+  level who experience difficulty in competing for research funds because they have
+  not yet become firmly established. Grants-in-Aid can also be made to senior scientists.
+  All applications will be judged on the scientific merit and innovative aspects of
+  the proposal, as well as on past performance and evidence of the applicant’s continued
+  productivity. Grants-in-Aid are awarded for a one-year period and do not exceed
+  $30,000.'
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-18T22:16:15Z'
+subjects: []
+funding_purposes: []
+search_text: Grants-in-Aid The Grants-in-Aid program is designed for researchers at
+  the assistant professor level who experience difficulty in competing for research
+  funds because they have not yet become firmly established. Whitehall Foundation
+  United States
+source: legacy-import

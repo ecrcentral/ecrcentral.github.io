@@ -1,0 +1,70 @@
+id: funding-life-science-research-foundation-postdoc-fellowship
+legacy_id: 123
+slug: life-science-research-foundation-postdoc-fellowship
+name: Life Science Research Foundation Postdoc Fellowship
+description: "Since 1983, the Life Sciences Research Foundation (LSRF) has funded\
+  \ nearly 550 outstanding postdoctoral fellows in all areas of the life sciences,\
+  \ and raised more than $50 million from generous industries, foundations and individuals\
+  \ to support this effort.\r\n\r\nWe believe that discoveries and application of\
+  \ innovations in biology for the public's good depends upon the training and support\
+  \ of the highest quality young scientists. Every year our selection committee of\
+  \ renowned scientists identify the top 5% of applicants from an international pool\
+  \ of more than 1000 postdoctoral applicants. Once chosen, the LSRF collaborates\
+  \ with current and potential sponsors to match them with fellows with similar research\
+  \ interests. In 2018, twenty-six of these remarkable young scientists were matched\
+  \ with sponsors to support their research. Yet even now many excellent scientists\
+  \ remain unfunded.\r\n\r\nLSRF offers a single type of award - a three-year postdoctoral\
+  \ fellowship. The current award amount is $62,000/year ($186,000 total). Of this,\
+  \ $52,000 is allocated for the fellow's salary/stipend and the remaining $10,000\
+  \ is a research allowance for the fellow's use. Additional details outlining eligibility\
+  \ and fellowship guidelines may be found on the Application page."
+url: http://www.lsrf.org/apply/application-instructions
+funders:
+- life-sciences-research-foundation
+legacy_funder_name: Life Sciences Research Foundation
+host_country: USA
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: '5'
+duration: '3'
+award: $62,000 / year
+mobility_rule: 'Yes'
+research_costs: null
+deadline: October
+deadline_month: October
+diversity: null
+comments: null
+benefits: $52,000 / year for salary, $10,000 / year for research allowance
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-30T13:52:02Z'
+subjects:
+- life-sciences
+funding_purposes: []
+search_text: "Life Science Research Foundation Postdoc Fellowship Since 1983, the\
+  \ Life Sciences Research Foundation (LSRF) has funded nearly 550 outstanding postdoctoral\
+  \ fellows in all areas of the life sciences, and raised more than $50 million from\
+  \ generous industries, foundations and individuals to support this effort.\r\n\r\
+  \nWe believe that discoveries and application of innovations in biology for the\
+  \ public's good depends upon the training and support of the highest quality young\
+  \ scientists. Every year our selection committee of renowned scientists identify\
+  \ the top 5% of applicants from an international pool of more than 1000 postdoctoral\
+  \ applicants. Once chosen, the LSRF collaborates with current and potential sponsors\
+  \ to match them with fellows with similar research interests. In 2018, twenty-six\
+  \ of these remarkable young scientists were matched with sponsors to support their\
+  \ research. Yet even now many excellent scientists remain unfunded.\r\n\r\nLSRF\
+  \ offers a single type of award - a three-year postdoctoral fellowship. The current\
+  \ award amount is $62,000/year ($186,000 total). Of this, $52,000 is allocated for\
+  \ the fellow's salary/stipend and the remaining $10,000 is a research allowance\
+  \ for the fellow's use. Additional details outlining eligibility and fellowship\
+  \ guidelines may be found on the Application page. Life Sciences Research Foundation\
+  \ PhD Life Sciences USA Worldwide"
+source: legacy-import

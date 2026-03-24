@@ -1,0 +1,60 @@
+id: funding-eth-zurich-postdoctoral-fellowships
+legacy_id: 64
+slug: eth-zurich-postdoctoral-fellowships
+name: ETH Zurich Postdoctoral Fellowships
+description: The ETH Zurich Postdoctoral Fellowship programme (ETH Fellows) supports
+  incoming postdoctoral researchers at ETH Zurich. The programme is intended to foster
+  young researchers who have already demonstrated scientific excellence in the early
+  stages of their careers.
+url: https://ethz.ch/en/research/research-promotion/eth-fellowships.html
+funders:
+- eth-zurich
+legacy_funder_name: ETH Zurich
+host_country: Switzerland
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: '2'
+duration: '2'
+award: null
+mobility_rule: 'No'
+research_costs: null
+deadline: March and September
+deadline_month: March, September
+diversity: null
+comments: Applications have to be made jointly by the candidate and the potential
+  host, who must be an ETH Zurich professor and willing to act as the mentor of the
+  fellow. There must be convincing synergies between the host (group) and the ETH
+  Fellow. The fellowships are intended as early support towards academic independence,
+  hence priority will be given to applicants who propose their own projects. Thus,
+  it is important that applicants come up with their own ideas and draft the application
+  themselves and that the applicant and mentor have not closely collaborated prior
+  to the fellowship.
+benefits: "The fellowship covers the fellow's salary (100%, based on ETH standards).\
+  \ As of 2020, the following rates apply:  \r\n\r\nYear\tGross salary\tTotal rates\r\
+  \n1\tkCHF 88.6\tkCHF 101.9\r\n2\tkCHF 93.05\tkCHF 107.0\r\nTotal\tkCHF 181.65\t\
+  kCHF 208.9"
+frequency: Twice a year
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-26T09:03:36Z'
+subjects:
+- life-sciences
+- engineering
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: ETH Zurich Postdoctoral Fellowships The ETH Zurich Postdoctoral Fellowship
+  programme (ETH Fellows) supports incoming postdoctoral researchers at ETH Zurich.
+  The programme is intended to foster young researchers who have already demonstrated
+  scientific excellence in the early stages of their careers. ETH Zurich PhD Life
+  Sciences Engineering All subjects Fellowship, scholarship or training Research Switzerland
+  Worldwide
+source: legacy-import

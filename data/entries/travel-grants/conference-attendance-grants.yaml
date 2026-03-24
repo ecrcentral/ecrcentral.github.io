@@ -1,0 +1,29 @@
+id: travel-grant-conference-attendance-grants
+legacy_id: 35
+slug: conference-attendance-grants
+name: Conference Attendance Grants
+url: http://www.asab.org/conference-grants/
+description: null
+funders: []
+legacy_funder_name: Association for the Study of Animal Behaviour (ASAB)
+applicant_country: null
+host_country: null
+award: UK £400
+deadline: 1 Feb, 1 June, 1 Oct
+deadline_month: February, June, October
+membership: 'Yes'
+membership_time: NA
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: Conference Attendance Grants Conference
+source: legacy-import

@@ -1,0 +1,20 @@
+id: funder-technische-universitat-berlin
+legacy_id: 527
+slug: technische-universitat-berlin
+name: Technische Universität Berlin
+short_name: Technische Universität Berlin
+funder_registry_id: '501100006764'
+country: NA
+website: null
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2020-05-21T09:36:16Z'
+source: legacy-import

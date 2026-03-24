@@ -1,0 +1,22 @@
+id: resource-webinars-alda-kavli-learning-center
+legacy_id: 114
+slug: webinars-alda-kavli-learning-center
+name: Webinars - Alda-Kavli Learning Center
+url: https://www.aldacenter.org/aklc/webinars
+description: Attend an Alda-Kavli Learning Center webinar to learn from guest experts!
+  Our webinars are free and open to the public thanks to the generous support of the
+  Kavli Foundation. If you're not able to attend live, please browse our past webinars
+  and watch the archived recordings.
+source_name: Alan Alda Center for Communicating Science - Stony Brook University
+funders: []
+resource_categories:
+- science-communication
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-03-25T18:49:00Z'
+updated_at: '2020-03-25T18:51:28Z'
+source: legacy-import

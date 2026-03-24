@@ -1,0 +1,20 @@
+id: funder-fulbright-israel
+legacy_id: 605
+slug: fulbright-israel
+name: Fulbright Israel
+short_name: Fulbright Israel
+funder_registry_id: fulbright-israel
+country: Israel
+website: https://fulbright.org.il/
+logo: /logos/funders/fulbright-israel.png
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-05-24T11:13:29Z'
+updated_at: '2020-05-24T16:19:18Z'
+source: legacy-import

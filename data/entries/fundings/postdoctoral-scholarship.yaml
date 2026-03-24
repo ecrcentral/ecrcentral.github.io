@@ -1,0 +1,36 @@
+id: funding-postdoctoral-scholarship
+legacy_id: 30
+slug: postdoctoral-scholarship
+name: Postdoctoral scholarship
+description: null
+url: http://www.gzcancer.com/cn/index.aspx
+funders: []
+legacy_funder_name: Cancer Center of Guangzhou Medical University
+host_country: China
+applicant_country: Worldwide
+career_levels: []
+years_since_phd: <3
+duration: '?'
+award: 360-800K RMBs
+mobility_rule: 'No'
+research_costs: 200K RMBs
+deadline: '?'
+deadline_month: null
+diversity: n/a
+comments: null
+benefits: '?'
+frequency: null
+fileds: Cancer Immunology, Immunotherapy, Cancer Biology, single cell technology,
+  bioinformatics,
+featured: false
+review_status: approved
+status: draft
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-25T14:58:08Z'
+subjects: []
+funding_purposes: []
+search_text: Postdoctoral scholarship China Worldwide
+source: legacy-import

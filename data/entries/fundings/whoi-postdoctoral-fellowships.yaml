@@ -1,0 +1,41 @@
+id: funding-whoi-postdoctoral-fellowships
+legacy_id: 259
+slug: whoi-postdoctoral-fellowships
+name: WHOI Postdoctoral Fellowships
+description: <p>The Woods Hole Oceanographic Institution offers several types of postdoctoral
+  awards. A term appointment to the position of Postdoctoral Scholar, Fellow, or Investigator
+  may be offered to an individual who has completed the requirements for a Ph.D. degree.</p>
+url: http://www.whoi.edu/postdoctoral
+funders: []
+legacy_funder_name: Woods Hole Oceanographic Institute
+host_country: United States
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: <3
+duration: 1,5
+award: null
+mobility_rule: null
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: null
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2022-01-24T08:57:26Z'
+subjects: []
+funding_purposes: []
+search_text: WHOI Postdoctoral Fellowships <p>The Woods Hole Oceanographic Institution
+  offers several types of postdoctoral awards. A term appointment to the position
+  of Postdoctoral Scholar, Fellow, or Investigator may be offered to an individual
+  who has completed the requirements for a Ph.D. degree.</p> PhD United States Worldwide
+source: legacy-import

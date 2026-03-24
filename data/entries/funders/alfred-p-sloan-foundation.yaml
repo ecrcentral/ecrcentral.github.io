@@ -1,0 +1,20 @@
+id: funder-alfred-p-sloan-foundation
+legacy_id: 7
+slug: alfred-p-sloan-foundation
+name: Alfred P. Sloan Foundation
+short_name: Alfred P. Sloan Foundation
+funder_registry_id: '100000879'
+country: United States
+website: null
+logo: /logos/funders/alfred-p-sloan-foundation.png
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2022-01-16T16:39:26Z'
+source: legacy-import

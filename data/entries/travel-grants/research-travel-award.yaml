@@ -1,0 +1,33 @@
+id: travel-grant-research-travel-award
+legacy_id: 65
+slug: research-travel-award
+name: Research Travel Award
+url: https://www.cancerresearchuk.org/funding-for-researchers/our-funding-schemes/research-travel-award
+description: null
+funders:
+- cancer-research-uk
+legacy_funder_name: Cancer Research UK
+applicant_country: Applicant must be based in the UK
+host_country: null
+award: Typically under £10000
+deadline: currently closed for applications
+deadline_month: null
+membership: 'No'
+membership_time: null
+purpose_text: null
+career_levels:
+- postdoc
+subjects: []
+travel_purposes:
+- collaboration
+- learn-new-technique
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: Research Travel Award Cancer Research UK Postdoc Collaboration Learn
+  new technique Applicant must be based in the UK
+source: legacy-import

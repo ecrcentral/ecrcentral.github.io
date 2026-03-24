@@ -1,0 +1,48 @@
+id: funding-hfsp-cross-disciplinary-fellowships
+legacy_id: 96
+slug: hfsp-cross-disciplinary-fellowships
+name: HFSP Cross-Disciplinary Fellowships
+description: Cross-Disciplinary Fellowships (CDF) are for applicants with a Ph.D.
+  from outside the life sciences (e.g. in physics, chemistry, mathematics, engineering
+  or computer sciences).
+url: http://www.hfsp.org/funding/postdoctoral-fellowships
+funders:
+- human-frontier-science-program-hfsp
+legacy_funder_name: Human Frontiers in Science Program
+host_country: Worldwide
+applicant_country: Worldwide
+career_levels: []
+years_since_phd: <3
+duration: '3'
+award: ~70K USD per annual
+mobility_rule: 'Yes'
+research_costs: all included
+deadline: August
+deadline_month: August
+diversity: null
+comments: null
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-24T21:46:11Z'
+subjects:
+- engineering
+- chemistry
+- computer-sciences
+- mathematics
+- physics
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: HFSP Cross-Disciplinary Fellowships Cross-Disciplinary Fellowships (CDF)
+  are for applicants with a Ph.D. from outside the life sciences (e.g. in physics,
+  chemistry, mathematics, engineering or computer sciences). Human Frontier Science
+  Program (HFSP) Engineering Chemistry Computer Sciences Mathematics Physics Fellowship,
+  scholarship or training Worldwide Worldwide
+source: legacy-import

@@ -1,0 +1,29 @@
+id: travel-grant-technique-sharing-travel-grants
+legacy_id: 6
+slug: technique-sharing-travel-grants
+name: Technique-sharing travel grants
+url: http://www.socmucimm.org/resources/technique-sharing-travel-grants/
+description: null
+funders: []
+legacy_funder_name: Society for Mucosal Immunology
+applicant_country: null
+host_country: null
+award: null
+deadline: 01-Nov-18
+deadline_month: November
+membership: 'Yes'
+membership_time: null
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- learn-new-technique
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: Technique-sharing travel grants Learn new technique
+source: legacy-import

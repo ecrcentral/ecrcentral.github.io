@@ -1,0 +1,20 @@
+id: resource-nihr-involve
+legacy_id: 71
+slug: nihr-involve
+name: NIHR - INVOLVE
+url: https://www.invo.org.uk/
+description: Website with information and guidelines for researchers on how to involve
+  members of the public in research
+source_name: National Institute for Health Research (UK)
+funders: []
+resource_categories:
+- public-involvement-in-research
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2019-07-01T10:52:00Z'
+updated_at: '2019-07-01T10:53:14Z'
+source: legacy-import

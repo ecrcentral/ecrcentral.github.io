@@ -1,0 +1,29 @@
+id: resource-coronavirus-research-commentary-and-news
+legacy_id: 96
+slug: coronavirus-research-commentary-and-news
+name: 'Coronavirus: Research, Commentary, and News'
+url: https://www.sciencemag.org/coronavirus-research-commentary-and-news
+description: As scientists strive to understand the dangerous respiratory disease
+  COVID-19 (coronavirus disease 2019) and the virus that causes it, research and analyses
+  are coming to the Sciencejournals at a dizzying pace. Our editors aim to quickly
+  review and publish the best of them. The Science family of journals is proud to
+  cosign a letter led by the Wellcome Trust setting out the terms under which scientific
+  publishers should operate during this crisis. As a result, for coronavirus papers
+  we are strongly encouraging preprints, making all data and the published paper free
+  immediately, and aiming for expedited but thorough peer-review. Our news staff is
+  covering the broader landscape of research and public health. We hope Science’s
+  collected content will provide information you can trust as the science behind COVID-19
+  is discovered.
+source_name: Science Magazine
+funders: []
+resource_categories:
+- covid19-resources-guidebooks
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-03-20T14:59:00Z'
+updated_at: '2020-03-20T14:59:40Z'
+source: legacy-import

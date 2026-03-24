@@ -1,0 +1,54 @@
+id: funding-msfhr-research-trainee-program
+legacy_id: 699
+slug: msfhr-research-trainee-program
+name: MSFHR Research Trainee Program
+description: "\"The MSFHR Research Trainee Program supports health researchers in\
+  \ the training phase of their research career to enable career development and the\
+  \ long-term success of the BC health research landscape.\"\r\n\r\nThe Research Trainee\
+  \ Program is one of MSFHR’s flagship funding opportunities. Since 2001, we’ve granted\
+  \ more than 1,200 Research Trainee awards worth more than $45 million, helping to\
+  \ develop, attract and retain BC’s best and brightest health researchers and support\
+  \ the advancement of world-class health research in BC."
+url: https://www.msfhr.org/our-work/activities/trainee-awards%20
+funders:
+- michael-smith-foundation-for-health-research
+legacy_funder_name: Michael Smith Foundation for Health Research
+host_country: Canada
+applicant_country: Worldwide
+career_levels:
+- phd
+- md
+years_since_phd: '5'
+duration: '3'
+award: CAD 40 000
+mobility_rule: 'No'
+research_costs: '0'
+deadline: January
+deadline_month: January
+diversity: null
+comments: null
+benefits: null
+frequency: Annual
+fileds: Biomedical
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 89
+created_at: '2019-02-08T23:04:58Z'
+updated_at: '2020-05-26T07:59:49Z'
+subjects:
+- medicine-and-health-sciences
+funding_purposes:
+- research
+search_text: "MSFHR Research Trainee Program \"The MSFHR Research Trainee Program\
+  \ supports health researchers in the training phase of their research career to\
+  \ enable career development and the long-term success of the BC health research\
+  \ landscape.\"\r\n\r\nThe Research Trainee Program is one of MSFHR’s flagship funding\
+  \ opportunities. Since 2001, we’ve granted more than 1,200 Research Trainee awards\
+  \ worth more than $45 million, helping to develop, attract and retain BC’s best\
+  \ and brightest health researchers and support the advancement of world-class health\
+  \ research in BC. Michael Smith Foundation for Health Research PhD MD Medicine and\
+  \ Health Sciences Research Canada Worldwide"
+source: legacy-import

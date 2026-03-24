@@ -1,0 +1,36 @@
+id: funding-postdoc-position
+legacy_id: 12
+slug: postdoc-position
+name: Postdoc Position
+description: null
+url: https://www.mpg.de/en/postdocs
+funders: []
+legacy_funder_name: Any of the Max Planck Institutes
+host_country: Germany
+applicant_country: Worldwide
+career_levels: []
+years_since_phd: No rule
+duration: '5'
+award: Stadard Salary
+mobility_rule: 'No'
+research_costs: n/a
+deadline: rolling application
+deadline_month: null
+diversity: n/a
+comments: null
+benefits: 'yes'
+frequency: null
+fileds: all
+featured: false
+review_status: approved
+status: draft
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-25T08:34:11Z'
+subjects:
+- all-subjects
+funding_purposes: []
+search_text: Postdoc Position All subjects Germany Worldwide
+source: legacy-import

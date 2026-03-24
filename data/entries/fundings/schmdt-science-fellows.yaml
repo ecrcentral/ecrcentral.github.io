@@ -1,0 +1,50 @@
+id: funding-schmdt-science-fellows
+legacy_id: 177
+slug: schmdt-science-fellows
+name: Schmdt Science Fellows
+description: The Schmidt Science Fellows program provides the world’s best emerging
+  scientists with new skills and perspectives to develop novel solutions to society’s
+  challenges, become scientific and societal thought leaders, and accelerate ground-breaking
+  discoveries.
+url: https://schmidtsciencefellows.org/
+funders:
+- rhodes-trust
+legacy_funder_name: Schmidt Science Fellows, in partnership with the Rhodes Trust
+host_country: Worldwide
+applicant_country: null
+career_levels:
+- phd
+years_since_phd: Max. 1
+duration: '1'
+award: Stipend of $100000 to support personal and living costs for the duration of
+  the Fellowship placement
+mobility_rule: null
+research_costs: null
+deadline: October
+deadline_month: October
+diversity: null
+comments: We offer an Additional Study Grant scheme (max. 1 year) for Fellows to extend
+  their postdoctoral placement beyond the initial Fellowship year in exceptional circumstances.
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T13:46:46Z'
+subjects:
+- life-sciences
+- physical-sciences-and-mathematics
+- engineering
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Schmdt Science Fellows The Schmidt Science Fellows program provides the
+  world’s best emerging scientists with new skills and perspectives to develop novel
+  solutions to society’s challenges, become scientific and societal thought leaders,
+  and accelerate ground-breaking discoveries. Rhodes Trust PhD Life Sciences Physical
+  Sciences and Mathematics Engineering Fellowship, scholarship or training Worldwide
+source: legacy-import

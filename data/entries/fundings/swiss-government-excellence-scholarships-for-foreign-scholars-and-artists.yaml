@@ -1,0 +1,54 @@
+id: funding-swiss-government-excellence-scholarships-for-foreign-scholars-and-artists
+legacy_id: 692
+slug: swiss-government-excellence-scholarships-for-foreign-scholars-and-artists
+name: Swiss Government Excellence Scholarships for Foreign Scholars and Artists
+description: "Each year the Swiss Confederation awards Government Excellence Scholarships\
+  \ to promote international exchange and research cooperation between Switzerland\
+  \ and over 180 other countries. Recipients are selected by the awarding body, the\
+  \ Federal Commission for Scholarships for Foreign Students (FCS).\r\n\r\nThe Swiss\
+  \ Government Excellence Scholarships are aimed at young researchers from abroad\
+  \ who have completed a master’s degree or PhD and at foreign artists holding a bachelor’s\
+  \ degree."
+url: https://www.sbfi.admin.ch/sbfi/en/home/education/scholarships-and-grants/swiss-government-excellence-scholarships.html
+funders:
+- staatssekretariat-fur-bildung-forschung-und-innovation
+legacy_funder_name: Federal Commission for Scholarships for Foreign Students FCS
+host_country: Switzerland
+applicant_country: Worldwide
+career_levels:
+- phd
+- master-students
+- bachelor-students
+years_since_phd: <3
+duration: null
+award: null
+mobility_rule: 'Yes'
+research_costs: null
+deadline: December
+deadline_month: December
+diversity: null
+comments: null
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: '2018-12-26T15:08:08Z'
+updated_at: '2020-05-26T07:28:53Z'
+subjects: []
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: "Swiss Government Excellence Scholarships for Foreign Scholars and Artists\
+  \ Each year the Swiss Confederation awards Government Excellence Scholarships to\
+  \ promote international exchange and research cooperation between Switzerland and\
+  \ over 180 other countries. Recipients are selected by the awarding body, the Federal\
+  \ Commission for Scholarships for Foreign Students (FCS).\r\n\r\nThe Swiss Government\
+  \ Excellence Scholarships are aimed at young researchers from abroad who have completed\
+  \ a master’s degree or PhD and at foreign artists holding a bachelor’s degree. Staatssekretariat\
+  \ für Bildung, Forschung und Innovation PhD Master students Bachelor students Fellowship,\
+  \ scholarship or training Switzerland Worldwide"
+source: legacy-import

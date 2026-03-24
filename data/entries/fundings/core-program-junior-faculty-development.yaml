@@ -1,0 +1,58 @@
+id: funding-core-program-junior-faculty-development
+legacy_id: 512
+slug: core-program-junior-faculty-development
+name: 'Core Program: Junior Faculty Development'
+description: The American Diabetes Association’s Core Research Program funds research
+  with novel and innovative hypotheses in any area relevant to the etiology or pathophysiology
+  of diabetes and its complications that hold significant promise for advancing the
+  prevention, cure or treatment of diabetes. Basic, clinical, translational and epidemiological
+  or health services research approaches are encouraged.
+url: http://professional.diabetes.org/meetings/core-program
+funders:
+- american-diabetes-association
+legacy_funder_name: American Diabetes Association
+host_country: United States
+applicant_country: United States
+career_levels:
+- phd
+- junior-faculty
+- md
+years_since_phd: NA
+duration: '3'
+award: $592,000
+mobility_rule: null
+research_costs: null
+deadline: November
+deadline_month: November
+diversity: null
+comments: 'Awards support early investigators as they establish independence as diabetes
+  researchers. Eligible applicants must be full-time independent faculty with less
+  than 10 years of research experience since their terminal degree who do not have
+  previous or current NIH R01 support. Applicants may not hold concurrent awards of
+  similar intent, however they can have completed previous NIH K or other career development
+  funding. Eligibility: Faculty up to & including Asst Prof or equivalent, ≤10 years
+  research experience beyond terminal degree. $138,000/year for two to four years,
+  plus optional student loan repayment ($10K/year). ($592,000 total max)'
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: draft
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-24T15:49:48Z'
+subjects:
+- medicine-and-health-sciences
+funding_purposes:
+- research
+search_text: 'Core Program: Junior Faculty Development The American Diabetes Association’s
+  Core Research Program funds research with novel and innovative hypotheses in any
+  area relevant to the etiology or pathophysiology of diabetes and its complications
+  that hold significant promise for advancing the prevention, cure or treatment of
+  diabetes. Basic, clinical, translational and epidemiological or health services
+  research approaches are encouraged. American Diabetes Association PhD Junior Faculty
+  MD Medicine and Health Sciences Research United States United States'
+source: legacy-import

@@ -1,0 +1,31 @@
+id: travel-grant-iet-travel-awards
+legacy_id: 63
+slug: iet-travel-awards
+name: IET Travel Awards
+url: https://conferences.theiet.org/achievement/travel/index.cfm?
+description: null
+funders: []
+legacy_funder_name: Institution of Engineering & Technology
+applicant_country: Applicant must be based in the UK
+host_country: null
+award: £500
+deadline: 26 Sept 2018, 21 Nov 2018
+deadline_month: September, November
+membership: 'Yes'
+membership_time: null
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- conference
+- research-visit
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: IET Travel Awards Conference Research visit Applicant must be based in
+  the UK
+source: legacy-import

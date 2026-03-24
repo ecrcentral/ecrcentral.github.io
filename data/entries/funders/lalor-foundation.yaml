@@ -1,0 +1,20 @@
+id: funder-lalor-foundation
+legacy_id: 597
+slug: lalor-foundation
+name: Lalor Foundation
+short_name: Lalor Foundation
+funder_registry_id: '100012756'
+country: United States
+website: http://lalorfound.org/
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-05-24T07:41:18Z'
+updated_at: '2020-05-24T07:41:18Z'
+source: legacy-import

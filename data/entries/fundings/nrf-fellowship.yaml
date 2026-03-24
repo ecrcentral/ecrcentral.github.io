@@ -1,0 +1,58 @@
+id: funding-nrf-fellowship
+legacy_id: 137
+slug: nrf-fellowship
+name: NRF Fellowship
+description: "NRF aims to develop a strong science research and manpower base in Singapore.\
+  \ It runs initiatives to attract and retain top scientists, support competitive\
+  \ funding of research, establish world-leading research centres and engage eminent\
+  \ science and technology leaders.\r\n\r\nThe Singapore NRF Fellowship provides opportunities\
+  \ for early career researchers to carry out independent research in Singapore, over\
+  \ a five-year period. It is open to all areas of science and technology and outstanding\
+  \ young scientists and researchers of all nationalities are welcome to apply.\r\n\
+  \r\nEach Fellow is provided with a research grant to support projects that exhibit\
+  \ high likelihood of a research breakthrough. The research grant can be used to\
+  \ cover personnel, equipment and consumables costs."
+url: https://www.nrf.gov.sg/funding-grants/nrf-fellowship-and-nrf-investigatorship
+funders:
+- national-research-foundation-singapore
+legacy_funder_name: National Research Foundation Singapore
+host_country: Singapore
+applicant_country: Worldwide
+career_levels: []
+years_since_phd: No rule
+duration: '5'
+award: null
+mobility_rule: 'Yes'
+research_costs: null
+deadline: March
+deadline_month: March
+diversity: null
+comments: More detail guidelines please refer to https://researchgrant.gov.sg/pages/index.aspx
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-30T19:15:59Z'
+subjects: []
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: "NRF Fellowship NRF aims to develop a strong science research and manpower\
+  \ base in Singapore. It runs initiatives to attract and retain top scientists, support\
+  \ competitive funding of research, establish world-leading research centres and\
+  \ engage eminent science and technology leaders.\r\n\r\nThe Singapore NRF Fellowship\
+  \ provides opportunities for early career researchers to carry out independent research\
+  \ in Singapore, over a five-year period. It is open to all areas of science and\
+  \ technology and outstanding young scientists and researchers of all nationalities\
+  \ are welcome to apply.\r\n\r\nEach Fellow is provided with a research grant to\
+  \ support projects that exhibit high likelihood of a research breakthrough. The\
+  \ research grant can be used to cover personnel, equipment and consumables costs.\
+  \ National Research Foundation Singapore Fellowship, scholarship or training Research\
+  \ Singapore Worldwide"
+source: legacy-import

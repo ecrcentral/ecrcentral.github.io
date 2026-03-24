@@ -1,0 +1,20 @@
+id: funder-european-research-council
+legacy_id: 81
+slug: european-research-council
+name: European Research Council
+short_name: European Research Council
+funder_registry_id: '501100000781'
+country: European Union
+website: https://erc.europa.eu/
+logo: /logos/funders/european-research-council.png
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2020-05-27T04:10:10Z'
+source: legacy-import

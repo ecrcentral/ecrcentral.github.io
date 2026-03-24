@@ -1,0 +1,47 @@
+id: funding-clinical-research-awards
+legacy_id: 388
+slug: clinical-research-awards
+name: Clinical Research Awards
+description: null
+url: https://gi.org/acg-institute/clinical-research-award-details/
+funders:
+- american-college-of-gastroenterology
+legacy_funder_name: American College of Gastroenterology
+host_country: United States
+applicant_country: null
+career_levels: []
+years_since_phd: The principal investigator must be an ACG member at the time of submission
+  of the grant proposal. Eligible applicants will have faculty appointments at the
+  assistant professor or clinical ins
+duration: null
+award: $50 000
+mobility_rule: null
+research_costs: null
+deadline: December
+deadline_month: December
+diversity: null
+comments: Through the program, grants of up to $50,000 will be awarded for original
+  research in clinical gastroenterology. Awardees will be selected based on the feasibility,
+  scientific and clinical significance, originality, and anticipated contribution
+  of the research to clinical practice. Applications  also will be evaluated on the
+  availability of adequate resources, including personnel and facilities. The program
+  will consider pilot projects for grants of up to $15,000. To be eligible, at least
+  one of the investigators must be an ACG member or trainee member at the time of
+  submission of the grant proposal.
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-04T12:35:40Z'
+subjects:
+- medicine-and-health-sciences
+funding_purposes: []
+search_text: Clinical Research Awards American College of Gastroenterology Medicine
+  and Health Sciences United States
+source: legacy-import

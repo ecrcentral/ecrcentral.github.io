@@ -1,0 +1,35 @@
+id: funding-momentum-program
+legacy_id: 36
+slug: momentum-program
+name: Momentum Program
+description: null
+url: http://www4.cnrs-dir.fr/mi/spip.php?article1401&lang=fr
+funders: []
+legacy_funder_name: CNRS
+host_country: France
+applicant_country: Worldwide
+career_levels: []
+years_since_phd: <8
+duration: '3'
+award: null
+mobility_rule: null
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: n/a
+comments: null
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: draft
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-25T15:28:25Z'
+subjects: []
+funding_purposes: []
+search_text: Momentum Program France Worldwide
+source: legacy-import

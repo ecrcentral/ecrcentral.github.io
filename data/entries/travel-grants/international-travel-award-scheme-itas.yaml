@@ -1,0 +1,32 @@
+id: travel-grant-international-travel-award-scheme-itas
+legacy_id: 30
+slug: international-travel-award-scheme-itas
+name: International Travel Award Scheme (ITAS)
+url: https://www.bbsrc.ac.uk/funding/filter/itas/
+description: null
+funders:
+- biotechnology-and-biological-sciences-research-council-bbsrc
+legacy_funder_name: BBSRC
+applicant_country: UK
+host_country: null
+award: UK £3k
+deadline: Anytime
+deadline_month: null
+membership: 'Yes'
+membership_time: NA
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- collaboration
+- learn-new-technique
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: International Travel Award Scheme (ITAS) Biotechnology and Biological
+  Sciences Research Council - BBSRC Collaboration Learn new technique UK
+source: legacy-import

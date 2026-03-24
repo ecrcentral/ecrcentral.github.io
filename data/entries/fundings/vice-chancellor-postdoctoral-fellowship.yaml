@@ -1,0 +1,51 @@
+id: funding-vice-chancellor-postdoctoral-fellowship
+legacy_id: 215
+slug: vice-chancellor-postdoctoral-fellowship
+name: Vice-Chancellor Postdoctoral Fellowship
+description: Our Vice-Chancellor's Fellowships scheme offers an exciting opportunity
+  for exceptional early-career researchers to advance their research careers, and
+  support our strategic priorities. Our Fellows are researchers who are ready to seize
+  the opportunity to become future leaders in their field.
+url: http://www.bristol.ac.uk/vc-fellows
+funders:
+- university-of-bristol
+legacy_funder_name: University of Bristol
+host_country: United Kingdom
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: '43284'
+duration: '4'
+award: null
+mobility_rule: 'Yes'
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: null
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T21:29:40Z'
+subjects:
+- life-sciences
+- medicine-and-health-sciences
+- physical-sciences-and-mathematics
+- engineering
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Vice-Chancellor Postdoctoral Fellowship Our Vice-Chancellor's Fellowships
+  scheme offers an exciting opportunity for exceptional early-career researchers to
+  advance their research careers, and support our strategic priorities. Our Fellows
+  are researchers who are ready to seize the opportunity to become future leaders
+  in their field. University of Bristol PhD Life Sciences Medicine and Health Sciences
+  Physical Sciences and Mathematics Engineering Fellowship, scholarship or training
+  United Kingdom Worldwide
+source: legacy-import

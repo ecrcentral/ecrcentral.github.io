@@ -1,0 +1,20 @@
+id: funder-society-for-conservation-biology
+legacy_id: 517
+slug: society-for-conservation-biology
+name: Society for Conservation Biology
+short_name: Society for Conservation Biology
+funder_registry_id: '100013840'
+country: United States
+website: null
+logo: /logos/funders/society-for-conservation-biology.png
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2020-06-09T07:51:35Z'
+source: legacy-import

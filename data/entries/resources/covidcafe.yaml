@@ -1,0 +1,22 @@
+id: resource-covidcafe
+legacy_id: 104
+slug: covidcafe
+name: COVIDCafe
+url: https://twitter.com/GC4AMH/status/1240348975628038144?s=20
+description: COVID19 is shutting down University Campuses worldwide. Social distancing
+  may be good for preventing infection, but is bad for mental health. Combat isolation
+  by joining us for a drop-in virtual social hour on Zoom! Check our Twitter for dates,
+  times and Zoom links.
+source_name: Global Consortium for Academic Mental Health
+funders: []
+resource_categories:
+- covid19-online-events
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-03-20T15:34:00Z'
+updated_at: '2020-03-20T15:34:37Z'
+source: legacy-import

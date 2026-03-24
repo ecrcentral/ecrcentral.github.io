@@ -1,0 +1,20 @@
+id: funder-howard-hughes-medical-institute
+legacy_id: 100
+slug: howard-hughes-medical-institute
+name: Howard Hughes Medical Institute
+short_name: Howard Hughes Medical Institute
+funder_registry_id: '100000011'
+country: United States
+website: null
+logo: null
+dora: true
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2019-01-17T00:40:55Z'
+source: legacy-import

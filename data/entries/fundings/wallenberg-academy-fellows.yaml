@@ -1,0 +1,44 @@
+id: funding-wallenberg-academy-fellows
+legacy_id: 248
+slug: wallenberg-academy-fellows
+name: Wallenberg Academy Fellows
+description: Wallenberg Academy Fellows, the career program for young researchers
+  launched by the Knut and Alice Wallenberg Foundation in 2012, provides long-term
+  funding for young, promising Swedish and foreign researchers from all academic fields.
+  This year twenty-nine new researchers are appointed to the program.
+url: https://kaw.wallenberg.org/en/wallenberg-academy-fellows
+funders:
+- wallenberg-foundation
+legacy_funder_name: Wallenberg Foundation
+host_country: Sweden
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: <8
+duration: '5'
+award: null
+mobility_rule: null
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: null
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-20T04:38:19Z'
+subjects: []
+funding_purposes: []
+search_text: Wallenberg Academy Fellows Wallenberg Academy Fellows, the career program
+  for young researchers launched by the Knut and Alice Wallenberg Foundation in 2012,
+  provides long-term funding for young, promising Swedish and foreign researchers
+  from all academic fields. This year twenty-nine new researchers are appointed to
+  the program. Wallenberg Foundation PhD Sweden Worldwide
+source: legacy-import

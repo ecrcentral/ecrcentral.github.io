@@ -1,0 +1,20 @@
+id: funder-biometrika
+legacy_id: 633
+slug: biometrika
+name: Biometrika
+short_name: Biometrika
+funder_registry_id: biometrika
+country: United Kingdom
+website: http://biometrika.wikidot.com/
+logo: /logos/funders/biometrika.png
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-05-26T07:45:57Z'
+updated_at: '2020-05-26T08:30:02Z'
+source: legacy-import

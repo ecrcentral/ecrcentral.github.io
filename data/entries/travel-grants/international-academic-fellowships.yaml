@@ -1,0 +1,31 @@
+id: travel-grant-international-academic-fellowships
+legacy_id: 27
+slug: international-academic-fellowships
+name: International Academic Fellowships
+url: https://www.leverhulme.ac.uk/funding/grant-schemes/international-academic-fellowships
+description: null
+funders: []
+legacy_funder_name: Leverhulme Trust
+applicant_country: Resident in UK, non-student, hold established position
+host_country: null
+award: UK up to £45k
+deadline: current round of awards must commence between 1 June 2018 and 1 May 2019.
+deadline_month: June, May
+membership: 'No'
+membership_time: NA
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- collaboration
+- learn-new-technique
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: International Academic Fellowships Collaboration Learn new technique
+  Resident in UK, non-student, hold established position
+source: legacy-import

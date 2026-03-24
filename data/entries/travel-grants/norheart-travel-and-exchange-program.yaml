@@ -1,0 +1,33 @@
+id: travel-grant-norheart-travel-and-exchange-program
+legacy_id: 99
+slug: norheart-travel-and-exchange-program
+name: NORHEART travel and exchange program
+url: http://norheart.no/event_category/exchange-and-travel/
+description: <p>This program financially supports Norwegian PhD students within cardiovascular
+  research for research visits within Norway and abroad.</p>
+funders: []
+legacy_funder_name: Norwegian PhD School of Heart Research
+applicant_country: Norway
+host_country: null
+award: null
+deadline: null
+deadline_month: null
+membership: 'Yes'
+membership_time: null
+purpose_text: null
+career_levels:
+- phd
+subjects: []
+travel_purposes:
+- research-visit
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: NORHEART travel and exchange program <p>This program financially supports
+  Norwegian PhD students within cardiovascular research for research visits within
+  Norway and abroad.</p> PhD Research visit Norway
+source: legacy-import

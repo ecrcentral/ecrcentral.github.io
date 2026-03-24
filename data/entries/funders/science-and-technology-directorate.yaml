@@ -1,0 +1,20 @@
+id: funder-science-and-technology-directorate
+legacy_id: 509
+slug: science-and-technology-directorate
+name: Science and Technology Directorate
+short_name: Science and Technology Directorate
+funder_registry_id: '100008287'
+country: United States
+website: null
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2020-05-21T09:36:16Z'
+source: legacy-import

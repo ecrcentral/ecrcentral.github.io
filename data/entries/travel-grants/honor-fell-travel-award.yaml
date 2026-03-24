@@ -1,0 +1,38 @@
+id: travel-grant-honor-fell-travel-award
+legacy_id: 82
+slug: honor-fell-travel-award
+name: Honor Fell Travel Award
+url: https://bscb.org/competitions-awardsgrants/travel-bursaries/honor-fell-company-of-biologists-travel-awards/
+description: <p>Honor Fell Travel Awards are sponsored by the Company of Biologists
+  (the publishers of The Journal of Cell Science and Development) and they provide
+  financial support for BSCB members at the beginning of their research careers to
+  attend meetings and courses.</p>
+funders: []
+legacy_funder_name: Company of Biologists
+applicant_country: UK
+host_country: null
+award: £400 for travel within the UK, up to £500 for travel within European and up
+  to £750  for meetings and courses in the rest of the world.
+deadline: null
+deadline_month: null
+membership: 'Yes'
+membership_time: 1 year
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- conference
+- workshop-training-or-course
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: Honor Fell Travel Award <p>Honor Fell Travel Awards are sponsored by
+  the Company of Biologists (the publishers of The Journal of Cell Science and Development)
+  and they provide financial support for BSCB members at the beginning of their research
+  careers to attend meetings and courses.</p> Conference Workshop, training or course
+  UK
+source: legacy-import

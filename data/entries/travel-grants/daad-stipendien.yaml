@@ -1,0 +1,28 @@
+id: travel-grant-daad-stipendien
+legacy_id: 61
+slug: daad-stipendien
+name: DAAD Stipendien
+url: https://www.daad.de/ausland/studieren/stipendium/de/70-stipendien-finden-und-bewerben/
+description: null
+funders: []
+legacy_funder_name: German Academic Exchange Service (DAAD)
+applicant_country: null
+host_country: null
+award: null
+deadline: null
+deadline_month: null
+membership: 'No'
+membership_time: null
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: DAAD Stipendien
+source: legacy-import

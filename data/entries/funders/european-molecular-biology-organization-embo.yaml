@@ -1,0 +1,20 @@
+id: funder-european-molecular-biology-organization-embo
+legacy_id: 78
+slug: european-molecular-biology-organization-embo
+name: European Molecular Biology Organization (EMBO)
+short_name: European Molecular Biology Organization (EMBO)
+funder_registry_id: '100004410'
+country: Germany
+website: https://www.embo.org/
+logo: /logos/funders/european-molecular-biology-organization-embo.png
+dora: true
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2020-06-09T07:53:33Z'
+source: legacy-import

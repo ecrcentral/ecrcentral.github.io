@@ -1,0 +1,44 @@
+id: funding-aauw-international-fellowship
+legacy_id: 691
+slug: aauw-international-fellowship
+name: AAUW International Fellowship
+description: International Fellowships are awarded for full-time study or research
+  in the United States to women who are not U.S. citizens or permanent residents.
+  Both graduate and postgraduate studies at accredited U.S. institutions are supported.
+url: https://www.aauw.org/what-we-do/educational-funding-and-awards/international-fellowships/
+funders:
+- american-association-of-university-women
+legacy_funder_name: The American Association of University Women (AAUW)
+host_country: United States
+applicant_country: Worldwide
+career_levels:
+- bachelor-students
+years_since_phd: NA
+duration: null
+award: USD 30 000
+mobility_rule: 'Yes'
+research_costs: null
+deadline: November
+deadline_month: November
+diversity: null
+comments: null
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: '2018-12-26T15:03:58Z'
+updated_at: '2020-06-07T09:01:37Z'
+subjects: []
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: AAUW International Fellowship International Fellowships are awarded for
+  full-time study or research in the United States to women who are not U.S. citizens
+  or permanent residents. Both graduate and postgraduate studies at accredited U.S.
+  institutions are supported. American Association of University Women Bachelor students
+  Fellowship, scholarship or training United States Worldwide
+source: legacy-import

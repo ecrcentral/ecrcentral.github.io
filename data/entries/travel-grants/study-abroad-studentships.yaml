@@ -1,0 +1,35 @@
+id: travel-grant-study-abroad-studentships
+legacy_id: 28
+slug: study-abroad-studentships
+name: Study Abroad Studentships
+url: https://www.leverhulme.ac.uk/funding/grant-schemes/study-abroad-studentships
+description: null
+funders: []
+legacy_funder_name: Leverhulme Trust
+applicant_country: Resident in UK for at least 5 years, hold a degree from UK instutitution,
+  studying at UK institution
+host_country: null
+award: UK £21k
+deadline: currently closed for applications
+deadline_month: null
+membership: 'No'
+membership_time: NA
+purpose_text: null
+career_levels:
+- phd
+- postdoc
+subjects: []
+travel_purposes:
+- workshop-training-or-course
+- learn-new-technique
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: Study Abroad Studentships PhD Postdoc Workshop, training or course Learn
+  new technique Resident in UK for at least 5 years, hold a degree from UK instutitution,
+  studying at UK institution
+source: legacy-import

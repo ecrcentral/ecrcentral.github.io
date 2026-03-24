@@ -1,0 +1,20 @@
+id: funder-american-society-for-clinical-oncology
+legacy_id: 602
+slug: american-society-for-clinical-oncology
+name: American Society for Clinical Oncology
+short_name: American Society for Clinical Oncology
+funder_registry_id: '100006293'
+country: United States
+website: https://www.asco.org/
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-05-24T10:38:46Z'
+updated_at: '2020-05-24T10:38:46Z'
+source: legacy-import

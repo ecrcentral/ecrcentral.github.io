@@ -1,0 +1,50 @@
+id: funding-febs-summer-fellowships
+legacy_id: 69
+slug: febs-summer-fellowships
+name: FEBS summer fellowships
+description: "FEBS Summer Fellowships are awarded to young promising students in a\
+  \ FEBS country wishing to gain practical scientific experience in an institution\
+  \ located in another country within the FEBS area.\r\n\r\nApplicants should normally\
+  \ be registered graduate students in a FEBS country who have not yet submitted a\
+  \ doctoral thesis."
+url: http://www.febs.org/our-activities/fellowships/febs-summer-fellowships
+funders:
+- federation-of-european-biochemical-societies
+legacy_funder_name: Federation of European Biochemical Societies
+host_country: Europe
+applicant_country: Worldwide
+career_levels:
+- master-students
+- bachelor-students
+years_since_phd: n/a
+duration: '1'
+award: €3,500
+mobility_rule: 'Yes'
+research_costs: null
+deadline: May
+deadline_month: May
+diversity: null
+comments: null
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-26T09:22:46Z'
+subjects:
+- biochemistry-biophysics-and-structural-biology
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: "FEBS summer fellowships FEBS Summer Fellowships are awarded to young\
+  \ promising students in a FEBS country wishing to gain practical scientific experience\
+  \ in an institution located in another country within the FEBS area.\r\n\r\nApplicants\
+  \ should normally be registered graduate students in a FEBS country who have not\
+  \ yet submitted a doctoral thesis. Federation of European Biochemical Societies\
+  \ Master students Bachelor students Biochemistry, Biophysics, and Structural Biology\
+  \ Fellowship, scholarship or training Europe Worldwide"
+source: legacy-import

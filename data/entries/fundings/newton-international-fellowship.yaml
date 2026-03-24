@@ -1,0 +1,46 @@
+id: funding-newton-international-fellowship
+legacy_id: 168
+slug: newton-international-fellowship
+name: Newton International Fellowship
+description: These fellowships are for non-UK scientists who are at an early stage
+  of their research career and wish to conduct research in the UK.
+url: https://royalsociety.org/grants-schemes-awards/grants/newton-international
+funders:
+- the-royal-society
+legacy_funder_name: Royal Society
+host_country: United Kingdom
+applicant_country: Worldwide
+career_levels:
+- phd
+- postdoc
+years_since_phd: N/A
+duration: '2'
+award: £24,000 per annum
+mobility_rule: 'Yes'
+research_costs: 'Yes'
+deadline: April
+deadline_month: April
+diversity: null
+comments: Applicants should have no more than 7 years of active full time postdoctoral
+  experience at the time of application (discounting career breaks, but including
+  teaching experience and/or time spent in industry)
+benefits: Relocation expenses, and contribution to overheads at UK Host Organisation
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T11:11:17Z'
+subjects:
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Newton International Fellowship These fellowships are for non-UK scientists
+  who are at an early stage of their research career and wish to conduct research
+  in the UK. The Royal Society PhD Postdoc All subjects Fellowship, scholarship or
+  training United Kingdom Worldwide
+source: legacy-import

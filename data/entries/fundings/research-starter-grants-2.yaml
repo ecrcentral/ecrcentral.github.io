@@ -1,0 +1,63 @@
+id: funding-research-starter-grants-2
+legacy_id: 564
+slug: research-starter-grants-2
+name: Research Starter Grants
+description: The PhRMA Foundation Research Starter Grants help promising young scientists
+  advance their research projects. Research Starter Grants offer financial support
+  to individuals beginning independent research careers at the faculty level.
+url: http://www.phrmafoundation.org/2015-awards/research-starter-grants/
+funders: []
+legacy_funder_name: Pharmaceutical Research and Manufacturers of America Foundation
+  (PhRMA Foundation)
+host_country: United States
+applicant_country: United States
+career_levels:
+- junior-faculty
+years_since_phd: NA
+duration: '1'
+award: $100 000
+mobility_rule: 'No'
+research_costs: null
+deadline: February 3 for Health Outcomes, Translational Medicine ; May 15 for Drug
+  Discovery/Delivery
+deadline_month: February, May
+diversity: null
+comments: The purpose of the PhRMA Foundation Research Starter Grants is to offer
+  financial support to individuals beginning independent research careers at the faculty
+  level. The “starter” aspect of the program strives to assist individuals who are
+  establishing careers as independent investigators. The program is not offered as
+  a means to augment an ongoing research effort. Funds must be used to conduct the
+  proposed research. Research Starter Grants support individuals in academia who do
+  not have other substantial sources of research funding. Applicants will be judged
+  on the scientific merit of the proposed research, and on the degree of financial
+  need. Funds may not be used for salary support of the grantee, but may be used to
+  support technical assistance. The support of technical assistance may include hourly
+  wages of a technician; however, funds may not be used to provide fringe benefits
+  or cover indirect costs. This program provides a research grant of $100,000 for
+  one year (with the exception of the Research Starter Grant in Adherence Improvement
+  which provides $50,000 for one year).
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T08:58:26Z'
+subjects:
+- life-sciences
+- medicine-and-health-sciences
+- bioinformatics
+- chemicals-and-drugs
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Research Starter Grants The PhRMA Foundation Research Starter Grants
+  help promising young scientists advance their research projects. Research Starter
+  Grants offer financial support to individuals beginning independent research careers
+  at the faculty level. Junior Faculty Life Sciences Medicine and Health Sciences
+  Bioinformatics Chemicals and Drugs Fellowship, scholarship or training United States
+  United States
+source: legacy-import

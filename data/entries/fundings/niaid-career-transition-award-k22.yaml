@@ -1,0 +1,50 @@
+id: funding-niaid-career-transition-award-k22
+legacy_id: 307
+slug: niaid-career-transition-award-k22
+name: NIAID Career Transition Award (K22)
+description: To apply, you must be a biomedical or behavioral postdoctoral scientist
+  with a research doctorate (Ph.D.)  and/or clinical doctorate (e.g., M.D., D.V.M.),
+  with no more than five years of postdoctoral training experience at the time of
+  K22 submission or resubmission with plans to transition to a full-time assistant
+  professorship (tenure-track or equivalent) at an U.S. academic institution.
+url: https://www.niaid.nih.gov/grants-contracts/niaid-career-transition-award-k22
+funders:
+- national-institutes-of-health-nih
+legacy_funder_name: National Institutes of Health
+host_country: United States
+applicant_country: USA and permanent residents of the USA
+career_levels:
+- phd
+- postdoc
+- md
+years_since_phd: null
+duration: '2'
+award: $250 000
+mobility_rule: null
+research_costs: null
+deadline: September
+deadline_month: September
+diversity: null
+comments: null
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T06:12:46Z'
+subjects:
+- medicine-and-health-sciences
+funding_purposes: []
+search_text: NIAID Career Transition Award (K22) To apply, you must be a biomedical
+  or behavioral postdoctoral scientist with a research doctorate (Ph.D.)  and/or clinical
+  doctorate (e.g., M.D., D.V.M.), with no more than five years of postdoctoral training
+  experience at the time of K22 submission or resubmission with plans to transition
+  to a full-time assistant professorship (tenure-track or equivalent) at an U.S. academic
+  institution. National Institutes of Health (NIH) PhD Postdoc MD Medicine and Health
+  Sciences United States USA and permanent residents of the USA
+source: legacy-import

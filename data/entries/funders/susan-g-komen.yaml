@@ -1,0 +1,20 @@
+id: funder-susan-g-komen
+legacy_id: 178
+slug: susan-g-komen
+name: Susan G. Komen
+short_name: Susan G. Komen
+funder_registry_id: '100009634'
+country: United States
+website: null
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2019-01-17T00:40:55Z'
+source: legacy-import

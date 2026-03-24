@@ -1,0 +1,26 @@
+id: resource-how-to-be-a-modern-scientist
+legacy_id: 12
+slug: how-to-be-a-modern-scientist
+name: How to be a modern scientist
+url: https://leanpub.com/modernscientist
+description: A book about how to be a scientist the modern, open-source way. A must-read
+  for graduate students and postdocs in the sciences
+source_name: Jeffrey Leek
+funders: []
+resource_categories:
+- career-development
+- reproducibility
+- science-communication
+- academic-writing
+- preprints
+- publishing
+- peer-review
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2019-01-23T15:34:00Z'
+updated_at: '2019-01-23T15:47:32Z'
+source: legacy-import

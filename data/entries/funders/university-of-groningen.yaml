@@ -1,0 +1,20 @@
+id: funder-university-of-groningen
+legacy_id: 615
+slug: university-of-groningen
+name: University of Groningen
+short_name: University of Groningen
+funder_registry_id: '501100001721'
+country: Netherlands
+website: https://www.rug.nl/?lang=en
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-05-24T17:36:21Z'
+updated_at: '2020-05-24T17:36:21Z'
+source: legacy-import

@@ -1,0 +1,20 @@
+id: funder-alliance-for-cancer-gene-therapy
+legacy_id: 8
+slug: alliance-for-cancer-gene-therapy
+name: Alliance for Cancer Gene Therapy
+short_name: Alliance for Cancer Gene Therapy
+funder_registry_id: '100000953'
+country: United States
+website: null
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2019-01-17T00:40:55Z'
+source: legacy-import

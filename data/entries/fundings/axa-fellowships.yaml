@@ -1,0 +1,54 @@
+id: funding-axa-fellowships
+legacy_id: 21
+slug: axa-fellowships
+name: AXA Fellowships
+description: The AXA Fellowship is a funding scheme aiming at supporting young promising
+  researchers on a priority topic aligned with AXA and the Society. Our support should
+  be transformative for the researcher and the advancement of her/his research field.
+url: https://www.axa-research.org/en/page/AXA-Fellowships?xtatc=INT-1-[AXA_FELLOWSHIPS]
+funders:
+- axa-research-fund
+legacy_funder_name: AXA Research Fund (changing topics)
+host_country: Worldwide
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: '5'
+duration: '2'
+award: 140 000€
+mobility_rule: 'No'
+research_costs: null
+deadline: October
+deadline_month: October
+diversity: Only academic insitutions located within the AXA Community are invited
+  to apply.
+comments: "Host institutions must be registered in the AXA Research Fund’s database\r\
+  \n\r\nInstitutions can apply only when a projects call is open. Projects which are\
+  \ not direclty linked to the call for proposals' topics are not eligible.\r\n\r\n\
+  Institution can present only one candidate for the whole institution (and not one\
+  \ per department, faculty or laboratory)"
+benefits: null
+frequency: Annual
+fileds: see application
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-25T09:39:49Z'
+subjects:
+- life-sciences
+- all-subjects
+- environmental-sciences
+- economics
+- science-and-technology-studies
+funding_purposes:
+- research
+search_text: AXA Fellowships The AXA Fellowship is a funding scheme aiming at supporting
+  young promising researchers on a priority topic aligned with AXA and the Society.
+  Our support should be transformative for the researcher and the advancement of her/his
+  research field. AXA Research Fund PhD Life Sciences All subjects Environmental Sciences
+  Economics Science and Technology Studies Research Worldwide Worldwide
+source: legacy-import

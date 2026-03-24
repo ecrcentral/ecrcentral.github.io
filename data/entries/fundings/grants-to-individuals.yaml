@@ -1,0 +1,47 @@
+id: funding-grants-to-individuals
+legacy_id: 576
+slug: grants-to-individuals
+name: Grants to Individuals
+description: null
+url: http://www.grahamfoundation.org/grant_programs?mode=individual
+funders: []
+legacy_funder_name: Graham Foundation
+host_country: United States
+applicant_country: United States
+career_levels:
+- junior-faculty
+years_since_phd: null
+duration: '2'
+award: $20 000
+mobility_rule: 'No'
+research_costs: null
+deadline: September
+deadline_month: September
+diversity: null
+comments: 'The Graham Foundation offers two types of grants to individuals: Production
+  and Presentation Grants and Research and Development Grants. 1) Production and Presentation
+  Grants: Grants of up to $20,000 will be awarded to assist individuals with the production-related
+  expenses necessary to take a project from conceptualization to realization and public
+  presentation. Such projects include but are not limited to publications, exhibitions,
+  installations, films, and new media projects. 2) Research and Development Grants:
+  Grants of up to $10,000 will be awarded to assist individuals with seed money for
+  research-related expenses such as travel, documentation, materials, supplies, and
+  other development costs. A recipient of a Research and Development Grant is eligible
+  to apply for a Production and Presentation Grant for the same project once the first
+  grant has been satisfied; however, future funding is not guaranteed.'
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T18:39:17Z'
+subjects: []
+funding_purposes:
+- research
+search_text: Grants to Individuals Junior Faculty Research United States United States
+source: legacy-import

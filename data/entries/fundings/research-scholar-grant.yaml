@@ -1,0 +1,57 @@
+id: funding-research-scholar-grant
+legacy_id: 378
+slug: research-scholar-grant
+name: Research Scholar Grant
+description: This R&E Foundation grant supports junior faculty members who have completed
+  resident and fellowship programs, but haven’t been recognized as independent investigators.
+  Our funding not only helps establish recipients as investigators, but also supports
+  them as they collect preliminary data that could lead to other funding in the future.
+url: https://www.rsna.org/en/research/funding-opportunities/research-grants/research-scholar-grant
+funders:
+- radiological-society-of-north-america
+legacy_funder_name: Radiological Society of North America (RSNA)
+host_country: United States
+applicant_country: null
+career_levels: []
+years_since_phd: Applicant must be a RSNA Member (at any level) at the time of the
+  application. Applicant must be within 5 years of initial faculty appointment with
+  an academic rank of instructor or assistant
+duration: 2 years
+award: $150 000
+mobility_rule: null
+research_costs: null
+deadline: The 2020-21 application deadline for this grant has passed. Applications
+  for the 2021-22 grant cycle will be available October 2020.
+deadline_month: October
+diversity: null
+comments: 'LIMITED SUBMISSION (limit 1 application per department from JHU): The purpose
+  of this program is to support junior faculty members who have completed the conventional
+  resident/fellowship training program(s); but have not yet been recognized as independent
+  investigators. The purpose of the funding is to help establish the recipient as
+  an independent investigator, and to collect preliminary data that could lead to
+  further funding through established mechanisms such as the NIH. Recipients will
+  devote a minimum of 40% of their time in the approved research project. Any area
+  of research related to the radiologic sciences, from hypothesis-driven basic science
+  and clinical investigations to topics such as drug, device, and therapy development;
+  comparative effectiveness, evidence-based radiology, ethics and professionalism,
+  quality improvement, clinical practice efficiency, and imaging informatics.'
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-18T20:56:47Z'
+subjects: []
+funding_purposes: []
+search_text: Research Scholar Grant This R&E Foundation grant supports junior faculty
+  members who have completed resident and fellowship programs, but haven’t been recognized
+  as independent investigators. Our funding not only helps establish recipients as
+  investigators, but also supports them as they collect preliminary data that could
+  lead to other funding in the future. Radiological Society of North America United
+  States
+source: legacy-import

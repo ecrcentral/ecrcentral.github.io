@@ -1,0 +1,19 @@
+id: resource-the-turing-way
+legacy_id: 57
+slug: the-turing-way
+name: The Turing Way
+url: https://the-turing-way.netlify.com/introduction/introduction
+description: An opinionated guide to reproducible data science.
+source_name: The Turing Way Community
+funders: []
+resource_categories:
+- reproducibility
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2019-05-13T22:53:00Z'
+updated_at: '2019-05-13T22:54:17Z'
+source: legacy-import

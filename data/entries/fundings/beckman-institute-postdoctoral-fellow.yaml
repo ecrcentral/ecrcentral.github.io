@@ -1,0 +1,48 @@
+id: funding-beckman-institute-postdoctoral-fellow
+legacy_id: 227
+slug: beckman-institute-postdoctoral-fellow
+name: Beckman Institute Postdoctoral Fellow
+description: The Beckman Institute Postdoctoral Fellows Program is intended for recent
+  Ph.D. recipients or students in their final year of doctoral study with research
+  interests relevant to the Beckman Institute. Four to six fellows are selected annually
+  for terms of up to three years. The Arnold and Mabel Beckman Foundation established
+  this program in 1991 to recruit outstanding scientists to work at the Beckman Institution.
+url: https://beckman.illinois.edu/research/fellows-and-awards/postdoctoral
+funders:
+- university-of-illinois-at-urbana-champaign
+legacy_funder_name: University of Illinois at Urbana-Champaign
+host_country: United States
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: <2
+duration: '3'
+award: null
+mobility_rule: null
+research_costs: $25,000
+deadline: null
+deadline_month: null
+diversity: null
+comments: null
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-07T21:13:42Z'
+subjects: []
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Beckman Institute Postdoctoral Fellow The Beckman Institute Postdoctoral
+  Fellows Program is intended for recent Ph.D. recipients or students in their final
+  year of doctoral study with research interests relevant to the Beckman Institute.
+  Four to six fellows are selected annually for terms of up to three years. The Arnold
+  and Mabel Beckman Foundation established this program in 1991 to recruit outstanding
+  scientists to work at the Beckman Institution. University of Illinois at Urbana-Champaign
+  PhD Fellowship, scholarship or training United States Worldwide
+source: legacy-import

@@ -1,0 +1,20 @@
+id: funder-fundacion-ramon-areces
+legacy_id: 90
+slug: fundacion-ramon-areces
+name: Fundación Ramón Areces
+short_name: Fundación Ramón Areces
+funder_registry_id: '100008054'
+country: Spain
+website: null
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2019-01-17T00:40:55Z'
+source: legacy-import

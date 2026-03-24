@@ -1,0 +1,47 @@
+id: funding-research-fellowships-and-engineering-for-development-research-fellowships
+legacy_id: 166
+slug: research-fellowships-and-engineering-for-development-research-fellowships
+name: Research Fellowships and Engineering for Development Research Fellowships
+description: The Royal Academy of Engineering offers Research Fellowships each year
+  to outstanding early-career researchers to support them to become future research
+  leaders in engineering.
+url: https://www.raeng.org.uk/grants-and-prizes/support-for-research/raeng-research-fellowship/
+funders:
+- royal-academy-of-engineering
+legacy_funder_name: Royal Academy of Engineering
+host_country: United Kingdom
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: Max. 4
+duration: '5'
+award: Max. £500,000 over the five-year period, at 80% of full economic costs; the
+  host institution is to provide the remaining 20%.
+mobility_rule: null
+research_costs: null
+deadline: September
+deadline_month: September
+diversity: null
+comments: null
+benefits: null
+frequency: Annual
+fileds: Engineering
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T11:00:13Z'
+subjects:
+- physical-sciences-and-mathematics
+- engineering
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Research Fellowships and Engineering for Development Research Fellowships
+  The Royal Academy of Engineering offers Research Fellowships each year to outstanding
+  early-career researchers to support them to become future research leaders in engineering.
+  Royal Academy of Engineering PhD Physical Sciences and Mathematics Engineering Fellowship,
+  scholarship or training United Kingdom Worldwide
+source: legacy-import

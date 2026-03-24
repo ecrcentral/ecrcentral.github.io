@@ -1,0 +1,23 @@
+id: resource-bioimage-analysis-technology-webinar-series
+legacy_id: 146
+slug: bioimage-analysis-technology-webinar-series
+name: Bioimage Analysis Technology Webinar Series
+url: http://eubias.org/NEUBIAS/training-schools/neubias-academy-home/
+description: NEUBIAS Academy is a new initiative, aimed to provide sustainable material
+  and activities focused on Training in Bioimage Analysis.
+source_name: NEUBIAS Academy
+funders: []
+resource_categories:
+- career-development
+- teaching
+- open-source
+- covid19-online-events
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-04-26T10:43:00Z'
+updated_at: '2020-04-29T09:22:30Z'
+source: legacy-import

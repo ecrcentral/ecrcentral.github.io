@@ -1,0 +1,20 @@
+id: funder-eberhard-karls-universitat-tubingen
+legacy_id: 591
+slug: eberhard-karls-universitat-tubingen
+name: Eberhard Karls Universität Tübingen
+short_name: Eberhard Karls Universität Tübingen
+funder_registry_id: '501100002345'
+country: Germany
+website: null
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-05-23T18:05:19Z'
+updated_at: '2020-05-23T18:05:19Z'
+source: legacy-import

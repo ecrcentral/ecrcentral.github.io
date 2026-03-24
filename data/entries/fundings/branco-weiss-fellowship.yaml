@@ -1,0 +1,47 @@
+id: funding-branco-weiss-fellowship
+legacy_id: 186
+slug: branco-weiss-fellowship
+name: Branco Weiss Fellowship
+description: The Branco Weiss Fellowship – Society in Science is a unique postdoc
+  program. It awards young researchers around the world with a generous personal research
+  grant, giving them the freedom to work on whatever topic they choose anywhere in
+  the world, for up to five years.
+url: http://www.society-in-science.org/how-to-apply-2.html
+funders:
+- branco-weiss-fellowship-society-in-science
+legacy_funder_name: Society in Science Foundation
+host_country: Worldwide
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: Max. 5
+duration: 2+3
+award: CHF 100000 per year
+mobility_rule: 'No'
+research_costs: Included
+deadline: January
+deadline_month: January
+diversity: null
+comments: null
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T15:39:22Z'
+subjects:
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Branco Weiss Fellowship The Branco Weiss Fellowship – Society in Science
+  is a unique postdoc program. It awards young researchers around the world with a
+  generous personal research grant, giving them the freedom to work on whatever topic
+  they choose anywhere in the world, for up to five years. Branco Weiss Fellowship
+  – Society in Science PhD All subjects Fellowship, scholarship or training Worldwide
+  Worldwide
+source: legacy-import

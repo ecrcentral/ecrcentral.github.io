@@ -1,0 +1,49 @@
+id: funding-scientific-research-grants-program
+legacy_id: 367
+slug: scientific-research-grants-program
+name: Scientific Research Grants Program
+description: null
+url: http://www.aabb.org/research/nbf/Pages/grantapplication.aspx
+funders:
+- national-blood-foundation
+legacy_funder_name: National Blood Foundation
+host_country: United States
+applicant_country: null
+career_levels:
+- phd
+- md
+years_since_phd: To be eligible, an applicant must be a doctor (M.D. or Ph.D.), medical
+  technologist, or transfusion medicine or cellular therapies professional. All applicants
+  will be considered regardless o
+duration: null
+award: $75 000
+mobility_rule: null
+research_costs: null
+deadline: December
+deadline_month: December
+diversity: null
+comments: NBF will award grants for investigator-initiated original research on all
+  aspects of blood banking, transfusion medicine, cellular therapies, and patient
+  blood management. Grants of up to $75,000 will support research projects of one
+  or two years in duration. Awards will not be made to increase the funding available
+  for currently funded research projects. NBF grants are intended to provide seed
+  funding that enables the principal investigator to enhance his/herpreliminary data
+  —  data that may then be useful in applying for larger grants. An application fee
+  of $160 must accompany the application unless the primary investigator is an AABB
+  individual member.
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-01T19:25:48Z'
+subjects: []
+funding_purposes: []
+search_text: Scientific Research Grants Program National Blood Foundation PhD MD United
+  States
+source: legacy-import

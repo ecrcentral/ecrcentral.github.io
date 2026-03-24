@@ -1,0 +1,60 @@
+id: funding-phi-beta-psi-research-grant-cancer
+legacy_id: 683
+slug: phi-beta-psi-research-grant-cancer
+name: Phi Beta Psi Research Grant (Cancer)
+description: null
+url: http://www.phibetapsi.org/national-project/
+funders:
+- phi-beta-psi-sorority
+legacy_funder_name: Phi Beta Psi National Sorority
+host_country: null
+applicant_country: null
+career_levels:
+- phd
+- postdoc
+- md
+years_since_phd: null
+duration: null
+award: $60 000
+mobility_rule: 'No'
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: "Must be internally nominated within specific universities/research institutes\
+  \ (eg Duke)\r\n\r\nDCI has been invited by the Phi Beta Psi Sorority to submit up\
+  \ to two research applications focused on brain, breast, colorectal, endometrial,\
+  \ lung, ovarian, pancreatic or prostate cancer.  Preference is given to Young Investigators\
+  \ with documented evidence of potential for conducting novel research of either\
+  \ basic or clinical aspects of cancer and cancer related problems.  Applications\
+  \ from Established Investigators exploring new and innovative areas of cancer research\
+  \ also will be considered.\r\n\r\nLast year, the organization awarded a total of\
+  \ $366,816 to six (6) cancer investigators across the United States who are pursuing\
+  \ a wide variety of research projects.  It is anticipated that five or six grants\
+  \ in the amount of $40,000 to $60,000 annually will be awarded in 2021.\r\n\r\n\
+  The DCI is invited to submit two nominees, therefore we will be conducting an internal\
+  \ review of applications. The following items are required and will be reviewed\
+  \ by the DCI’s Scientific Review Committee.\r\n\r\n    Two (2) page summary including\
+  \ the following information:\r\n\r\n        Brief statement of applicant’s eligibility\r\
+  \n        Title of the proposed research project\r\n        Brief description of\
+  \ the research proposal\r\n    Budget and budget justification\r\n    Applicant’s\
+  \ NIH Biosketch"
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-25T18:05:02Z'
+subjects:
+- life-sciences
+- medicine-and-health-sciences
+funding_purposes:
+- research
+search_text: Phi Beta Psi Research Grant (Cancer) Phi Beta Psi Sorority PhD Postdoc
+  MD Life Sciences Medicine and Health Sciences Research
+source: legacy-import

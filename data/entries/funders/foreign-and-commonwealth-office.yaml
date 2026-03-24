@@ -1,0 +1,20 @@
+id: funder-foreign-and-commonwealth-office
+legacy_id: 642
+slug: foreign-and-commonwealth-office
+name: Foreign and Commonwealth Office
+short_name: Foreign and Commonwealth Office
+funder_registry_id: foreign-and-commonwealth-office
+country: United Kingdom
+website: null
+logo: /logos/funders/foreign-and-commonwealth-office.png
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-05-29T08:10:00Z'
+updated_at: '2020-05-29T08:10:00Z'
+source: legacy-import

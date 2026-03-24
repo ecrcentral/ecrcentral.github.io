@@ -1,0 +1,43 @@
+id: funding-scholarships-for-postgraduate-studies
+legacy_id: 187
+slug: scholarships-for-postgraduate-studies
+name: Scholarships for Postgraduate Studies
+description: null
+url: https://www.fundacionareces.es/fundacionareces/en/scholarships-and-grants/call-of-grants/
+funders:
+- fundacion-ramon-areces
+legacy_funder_name: Fundacion Ramon Areces
+host_country: Worldwide
+applicant_country: Spain
+career_levels: []
+years_since_phd: null
+duration: null
+award: null
+mobility_rule: null
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: Call details are in Spanish only
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T15:46:19Z'
+subjects:
+- life-sciences
+- physical-sciences-and-mathematics
+- arts-and-humanities
+- social-and-behavioral-sciences
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Scholarships for Postgraduate Studies Fundación Ramón Areces Life Sciences
+  Physical Sciences and Mathematics Arts and Humanities Social and Behavioral Sciences
+  Fellowship, scholarship or training Worldwide Spain
+source: legacy-import

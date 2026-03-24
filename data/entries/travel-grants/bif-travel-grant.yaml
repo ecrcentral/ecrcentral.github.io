@@ -1,0 +1,31 @@
+id: travel-grant-bif-travel-grant
+legacy_id: 2
+slug: bif-travel-grant
+name: BIF Travel Grant
+url: https://www.bifonds.de/fellowships-grants/travel-grants.html
+description: null
+funders: []
+legacy_funder_name: Boehringer Ingelheim Fonds
+applicant_country: Everyone, but non-European citizens have to work in or travel in
+  Europe
+host_country: null
+award: null
+deadline: at least 6 weeks before planned date of departure
+deadline_month: null
+membership: 'Yes'
+membership_time: NA
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- workshop-training-or-course
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: BIF Travel Grant Workshop, training or course Everyone, but non-European
+  citizens have to work in or travel in Europe
+source: legacy-import

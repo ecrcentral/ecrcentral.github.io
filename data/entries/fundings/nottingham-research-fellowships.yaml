@@ -1,0 +1,51 @@
+id: funding-nottingham-research-fellowships
+legacy_id: 235
+slug: nottingham-research-fellowships
+name: Nottingham Research Fellowships
+description: Our prestigious fellowship schemes are a fundamental part of our mission
+  for the delivery of exceptional research that changes lives in the UK and across
+  the world.
+url: http://www.nottingham.ac.uk/research/researchwithus/fellowships/fellowships.aspx
+funders:
+- university-of-nottingham
+legacy_funder_name: University of Nottingham
+host_country: United Kingdom
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: <8
+duration: '3'
+award: null
+mobility_rule: 'Yes'
+research_costs: £75,000
+deadline: August
+deadline_month: August
+diversity: null
+comments: null
+benefits: £5,000 chilcare
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-07T21:51:01Z'
+subjects:
+- life-sciences
+- medicine-and-health-sciences
+- physical-sciences-and-mathematics
+- engineering
+- arts-and-humanities
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: Nottingham Research Fellowships Our prestigious fellowship schemes are
+  a fundamental part of our mission for the delivery of exceptional research that
+  changes lives in the UK and across the world. University of Nottingham PhD Life
+  Sciences Medicine and Health Sciences Physical Sciences and Mathematics Engineering
+  Arts and Humanities Fellowship, scholarship or training Research United Kingdom
+  Worldwide
+source: legacy-import

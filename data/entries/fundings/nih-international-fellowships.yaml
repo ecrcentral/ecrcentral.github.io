@@ -1,0 +1,48 @@
+id: funding-nih-international-fellowships
+legacy_id: 146
+slug: nih-international-fellowships
+name: NIH International Fellowships
+description: To provide individual research training opportunities (including international)
+  to trainees at the undergraduate, graduate, and postdoctoral levels.
+url: https://researchtraining.nih.gov/programs/fellowships?CFID=19358332&CFTOKEN=da36e434414e0333-42F9F8C8-5056-9439-7EB4D82B550B8D0C
+funders:
+- national-institutes-of-health-nih
+legacy_funder_name: National Institutes of Health
+host_country: United States
+applicant_country: Worldwide
+career_levels:
+- phd
+- postdoc
+- master-students
+years_since_phd: null
+duration: null
+award: null
+mobility_rule: null
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: See website to identify which fellowship opportunity you are eligible for,
+  and find detailed information
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-22T15:26:46Z'
+subjects:
+- life-sciences
+- medicine-and-health-sciences
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: NIH International Fellowships To provide individual research training
+  opportunities (including international) to trainees at the undergraduate, graduate,
+  and postdoctoral levels. National Institutes of Health (NIH) PhD Postdoc Master
+  students Life Sciences Medicine and Health Sciences Fellowship, scholarship or training
+  United States Worldwide
+source: legacy-import

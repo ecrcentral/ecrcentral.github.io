@@ -1,0 +1,57 @@
+id: funding-clinical-grants
+legacy_id: 503
+slug: clinical-grants
+name: Clinical Grants
+description: The American Society for Surgery of the Hand (ASSH) and the American
+  Foundation for Surgery of the Hand (AFSH) have established grant funding to encourage
+  investigators to perform clinical research studies. Their goal is to enable investigators
+  to initiate pilot projects that will lead to subsequent funding from other sources
+  such as the National Institutes of Health (NIH).
+url: https://www.assh.org/afsh/s/clinical-grants
+funders:
+- american-foundation-for-surgery-of-the-hand
+- american-society-for-surgery-of-the-hand
+legacy_funder_name: American Society for Surgery of the Hand (ASSH) and the American
+  Foundation for Surgery of the Hand  (AFSH)
+host_country: United States
+applicant_country: United States
+career_levels:
+- phd
+years_since_phd: NA
+duration: '1'
+award: $40,000
+mobility_rule: 'No'
+research_costs: null
+deadline: April
+deadline_month: April
+diversity: null
+comments: 'These grants function similarly to the NIH Exploratory & Developmental
+  Research Grant Program (R21).  The R21 grant mechanism is intended to encourage
+  exploratory or developmental research by providing support for the early and conceptual
+  stages of project development. The AFSH seeks to award a Special Emphasis grant
+  in the following areas: opioid education/pain management strategy, simulation/novel
+  training models, Touching Hands/outcomes research, and firearm safety.'
+benefits: All clinical grant applicants will have the opportunity to be matched with
+  a mentor from the ASSH Clinical Research and Grantsmanship Committee (CRGC).
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T16:50:27Z'
+subjects:
+- medicine-and-health-sciences
+funding_purposes:
+- research
+search_text: Clinical Grants The American Society for Surgery of the Hand (ASSH) and
+  the American Foundation for Surgery of the Hand (AFSH) have established grant funding
+  to encourage investigators to perform clinical research studies. Their goal is to
+  enable investigators to initiate pilot projects that will lead to subsequent funding
+  from other sources such as the National Institutes of Health (NIH). American Foundation
+  for Surgery of the Hand American Society for Surgery of the Hand PhD Medicine and
+  Health Sciences Research United States United States
+source: legacy-import

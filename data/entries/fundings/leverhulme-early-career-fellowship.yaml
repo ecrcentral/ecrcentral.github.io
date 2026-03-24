@@ -1,0 +1,56 @@
+id: funding-leverhulme-early-career-fellowship
+legacy_id: 121
+slug: leverhulme-early-career-fellowship
+name: Leverhulme Early Career Fellowship
+description: "For early career researchers, with a research record but who have not\
+  \ yet held a full-time permanent academic post, to undertake a significant piece\
+  \ of publishable work.\r\nFellowships can be held at universities or at other institutions\
+  \ of higher education in the UK. \r\n\r\nThe Fellowships are intended to assist\
+  \ those at a relatively early stage of their academic careers, and it is hoped that\
+  \ the appointment would lead to a more permanent position for the individual, either\
+  \ within the same or another institution."
+url: https://www.leverhulme.ac.uk/funding/grant-schemes/early-career-fellowships
+funders:
+- leverhulme-trust
+legacy_funder_name: Leverhulme Trust UK
+host_country: United Kingdom
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: '4'
+duration: '3'
+award: £24 000
+mobility_rule: 'Yes'
+research_costs: £6 000
+deadline: March
+deadline_month: March
+diversity: null
+comments: "Applications will be considered in all subject areas except:\r\n\r\nStudies\
+  \ of disease, illness and disabilities in humans and animals\r\nResearch that is\
+  \ intended to inform clinical practice or the development of medical applications"
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-29T04:13:46Z'
+subjects:
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: "Leverhulme Early Career Fellowship For early career researchers, with\
+  \ a research record but who have not yet held a full-time permanent academic post,\
+  \ to undertake a significant piece of publishable work.\r\nFellowships can be held\
+  \ at universities or at other institutions of higher education in the UK. \r\n\r\
+  \nThe Fellowships are intended to assist those at a relatively early stage of their\
+  \ academic careers, and it is hoped that the appointment would lead to a more permanent\
+  \ position for the individual, either within the same or another institution. Leverhulme\
+  \ Trust PhD All subjects Fellowship, scholarship or training Research United Kingdom\
+  \ Worldwide"
+source: legacy-import

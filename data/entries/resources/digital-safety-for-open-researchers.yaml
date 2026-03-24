@@ -1,0 +1,20 @@
+id: resource-digital-safety-for-open-researchers
+legacy_id: 49
+slug: digital-safety-for-open-researchers
+name: Digital Safety for Open Researchers
+url: https://digital-safety-for-open-research.gitbook.io/project/
+description: This resource aims to raise awareness of digital safety and privacy threats
+  on intellectual freedom.
+source_name: GitBook
+funders: []
+resource_categories:
+- reproducibility
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2019-05-10T02:33:00Z'
+updated_at: '2019-05-10T06:49:39Z'
+source: legacy-import

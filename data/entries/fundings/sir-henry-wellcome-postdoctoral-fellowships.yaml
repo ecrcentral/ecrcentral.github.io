@@ -1,0 +1,45 @@
+id: funding-sir-henry-wellcome-postdoctoral-fellowships
+legacy_id: 250
+slug: sir-henry-wellcome-postdoctoral-fellowships
+name: Sir Henry Wellcome Postdoctoral Fellowships
+description: This scheme offers recently qualified postdoctoral researchers the opportunity
+  to start independent research careers, working in some of the best research environments
+  in the world.
+url: http://www.wellcome.ac.uk/Funding/Biomedical-science/Funding-schemes/Fellowships/Basic-biomedical-fellowships/WTX033549.htm
+funders:
+- wellcome-trust
+legacy_funder_name: Wellcome Trust
+host_country: United Kingdom
+applicant_country: Worldwide
+career_levels:
+- phd
+- postdoc
+years_since_phd: No limit
+duration: '4'
+award: £300,000
+mobility_rule: null
+research_costs: Included
+deadline: October; April
+deadline_month: October, April
+diversity: null
+comments: null
+benefits: null
+frequency: Twice a year
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-20T04:43:50Z'
+subjects: []
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: Sir Henry Wellcome Postdoctoral Fellowships This scheme offers recently
+  qualified postdoctoral researchers the opportunity to start independent research
+  careers, working in some of the best research environments in the world. Wellcome
+  Trust PhD Postdoc Fellowship, scholarship or training Research United Kingdom Worldwide
+source: legacy-import

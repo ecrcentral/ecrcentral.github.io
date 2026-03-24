@@ -1,0 +1,26 @@
+id: resource-sr-foundation-kuno-award
+legacy_id: 164
+slug: sr-foundation-kuno-award
+name: S&R Foundation Kuno Award
+url: https://sandrfoundation.org/programs/kuno-award
+description: "The 2020 application for the $100,000 Kuno Award for Applied Science\
+  \ is now open until August 31st. \r\n\r\nS&R Foundation’s Kuno Award for Applied\
+  \ Science for the Social Good is designed to support women social innovators using\
+  \ scientific research and principles to address a 21st Century problem. The award\
+  \ supports the translation of scientific research to a practical, real-world solution\
+  \ for those aiming to achieve measurable social impact. \r\n\r\nTo learn more about\
+  \ this award, visit S&R Foundation here: https://sandrfoundation.org/programs/kuno-award"
+source_name: S&R Foundation
+funders: []
+resource_categories:
+- career-development
+- other
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-07-27T16:47:58Z'
+updated_at: '2022-01-15T21:24:54Z'
+source: legacy-import

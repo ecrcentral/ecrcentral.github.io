@@ -1,0 +1,128 @@
+name: Add a Funding Opportunity
+description: Submit a new funding opportunity for early career researchers
+title: "[Funding] "
+labels: ["new-entry", "funding", "needs-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for contributing to ECRcentral! Please fill in as much information as possible.
+        Fields marked with * are required.
+
+  - type: input
+    id: name
+    attributes:
+      label: "Funding name *"
+      description: The official name of the funding opportunity
+      placeholder: "e.g., EMBO Scientific Exchange Grants"
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: "URL *"
+      description: Link to the official funding page
+      placeholder: "https://..."
+    validations:
+      required: true
+
+  - type: input
+    id: funder
+    attributes:
+      label: "Funder / Organization *"
+      description: Name of the organization offering this funding
+      placeholder: "e.g., European Molecular Biology Organization (EMBO)"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Brief description of the funding opportunity
+      placeholder: "Describe what this funding supports, who can apply, etc."
+
+  - type: checkboxes
+    id: career_levels
+    attributes:
+      label: Eligible career levels
+      options:
+        - label: Bachelor students
+        - label: Master students
+        - label: PhD
+        - label: Postdoc
+        - label: Junior Faculty
+        - label: Senior Faculty
+        - label: MD
+
+  - type: input
+    id: applicant_country
+    attributes:
+      label: Applicant country eligibility
+      placeholder: "e.g., Worldwide, European countries only, US only"
+
+  - type: input
+    id: host_country
+    attributes:
+      label: Host country (if applicable)
+      placeholder: "e.g., Germany, Worldwide"
+
+  - type: input
+    id: award
+    attributes:
+      label: Award amount / stipend
+      placeholder: "e.g., Up to EUR 2,500"
+
+  - type: input
+    id: duration
+    attributes:
+      label: Duration
+      placeholder: "e.g., 3-12 months"
+
+  - type: input
+    id: deadline
+    attributes:
+      label: Deadline
+      placeholder: "e.g., Rolling, January 15, March and September"
+
+  - type: input
+    id: frequency
+    attributes:
+      label: Frequency
+      placeholder: "e.g., Annual, Bi-annual, Rolling"
+
+  - type: checkboxes
+    id: funding_purposes
+    attributes:
+      label: Funding purpose(s)
+      options:
+        - label: Fellowship, scholarship or training
+        - label: Research
+        - label: Collaboration
+        - label: Publishing and editorial
+        - label: Equipment
+        - label: Award
+        - label: Feasibility Studies
+
+  - type: textarea
+    id: subjects
+    attributes:
+      label: Subject areas
+      placeholder: "e.g., Life Sciences, Medicine, Engineering"
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional notes
+      description: Any other relevant information
+
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: Checklist
+      options:
+        - label: I have verified this funding opportunity is currently active
+          required: true
+        - label: I have checked that this entry does not already exist on ECRcentral
+          required: true

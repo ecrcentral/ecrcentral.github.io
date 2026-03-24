@@ -1,0 +1,30 @@
+id: travel-grant-microbiology-society-travel-grant
+legacy_id: 41
+slug: microbiology-society-travel-grant
+name: Microbiology Society Travel Grant
+url: https://microbiologysociety.org/grants/all-grants-prizes/travel-grants.html
+description: null
+funders: []
+legacy_funder_name: Microbiology Society
+applicant_country: null
+host_country: null
+award: up to £750 (UK)
+deadline: 1 March, 1 June, 1 Sept, 1 Dec
+deadline_month: March, June, September, December
+membership: 'Yes'
+membership_time: 2 years
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- conference
+- workshop-training-or-course
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: Microbiology Society Travel Grant Conference Workshop, training or course
+source: legacy-import

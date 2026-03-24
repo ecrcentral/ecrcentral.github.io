@@ -1,0 +1,20 @@
+id: funder-british-pharmacological-society
+legacy_id: 264
+slug: british-pharmacological-society
+name: British Pharmacological Society
+short_name: British Pharmacological Society
+funder_registry_id: '501100000559'
+country: United Kingdom
+website: null
+logo: null
+dora: true
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2020-05-21T09:36:15Z'
+source: legacy-import

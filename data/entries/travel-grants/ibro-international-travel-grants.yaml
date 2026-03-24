@@ -1,0 +1,29 @@
+id: travel-grant-ibro-international-travel-grants
+legacy_id: 59
+slug: ibro-international-travel-grants
+name: IBRO International Travel Grants
+url: http://ibro.org/ibro-international-travel-grants-2019/
+description: null
+funders: []
+legacy_funder_name: International Brain Research Organization (IBRO)
+applicant_country: null
+host_country: null
+award: up to €1800
+deadline: 02-Sep-18
+deadline_month: September
+membership: null
+membership_time: null
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: IBRO International Travel Grants Conference
+source: legacy-import

@@ -1,0 +1,54 @@
+id: funding-pilot-grant-program
+legacy_id: 518
+slug: pilot-grant-program
+name: Pilot Grant Program
+description: The Society funds high-risk pilot grants to researchers who have completed
+  their postdoctoral training to quickly test novel ideas. Funding is provided for
+  one year to test innovative, cutting-edge ideas or untested methods, and to gather
+  sufficient preliminary data to apply for longer-term funding.
+url: http://www.nationalmssociety.org/For-Professionals/Researchers/Society-Funding/Pilot-Research-Grants
+funders:
+- national-multiple-sclerosis-society
+legacy_funder_name: National Multiple Sclerosis Society
+host_country: United States
+applicant_country: United States
+career_levels:
+- postdoc
+- junior-faculty
+years_since_phd: NA
+duration: '1'
+award: $44,000
+mobility_rule: 'No'
+research_costs: null
+deadline: May
+deadline_month: May
+diversity: null
+comments: Researchers who have completed their post-doctoral training, and who are
+  considered eligible by their institutions to apply for a research grant, are invited
+  to apply. Individuals who are currently postdoctoral fellows or the equivalent,
+  or who are graduate/medical students or residents, are not eligible for support
+  under this program. Applicants are not eligible to apply if they have an existing
+  National MS Society pilot research award that expires later than the application
+  deadline.
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-24T16:45:29Z'
+subjects:
+- medicine-and-health-sciences
+funding_purposes:
+- research
+search_text: Pilot Grant Program The Society funds high-risk pilot grants to researchers
+  who have completed their postdoctoral training to quickly test novel ideas. Funding
+  is provided for one year to test innovative, cutting-edge ideas or untested methods,
+  and to gather sufficient preliminary data to apply for longer-term funding. National
+  Multiple Sclerosis Society Postdoc Junior Faculty Medicine and Health Sciences Research
+  United States United States
+source: legacy-import

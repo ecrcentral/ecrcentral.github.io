@@ -1,0 +1,53 @@
+id: funding-rosalind-franklin-fellowships-at-the-faculty-of-science-and-engineering
+legacy_id: 226
+slug: rosalind-franklin-fellowships-at-the-faculty-of-science-and-engineering
+name: Rosalind Franklin Fellowships at the Faculty of Science and Engineering
+description: The Rosalind Franklin Fellowship programme is primarily directed at ambitious
+  women in academia, research institutes or industry who have a PhD and aim for a
+  career towards full professorship in a European top research university. The fellowship
+  offers career opportunities to work in international leading milieus and is only
+  awarded to outstanding researchers.
+url: http://www.rug.nl/fse/organization/vacatures/vacatures/rff
+funders:
+- university-of-groningen
+legacy_funder_name: University of Groningen
+host_country: Netherlands
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: '>2'
+duration: '5'
+award: null
+mobility_rule: 'Yes'
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: null
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-24T17:38:21Z'
+subjects:
+- life-sciences
+- medicine-and-health-sciences
+- engineering
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: Rosalind Franklin Fellowships at the Faculty of Science and Engineering
+  The Rosalind Franklin Fellowship programme is primarily directed at ambitious women
+  in academia, research institutes or industry who have a PhD and aim for a career
+  towards full professorship in a European top research university. The fellowship
+  offers career opportunities to work in international leading milieus and is only
+  awarded to outstanding researchers. University of Groningen PhD Life Sciences Medicine
+  and Health Sciences Engineering Fellowship, scholarship or training Research Netherlands
+  Worldwide
+source: legacy-import

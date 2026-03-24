@@ -1,0 +1,47 @@
+id: funding-flinders-international-postgraduate-research-scholarship-fiprs
+legacy_id: 732
+slug: flinders-international-postgraduate-research-scholarship-fiprs
+name: Flinders International Postgraduate Research Scholarship (FIPRS)
+description: The Flinders International Research Scholarship (FIPRS) is a scholarship
+  specifically intended to support international students that covers international
+  tuition fees and also provides a stipend.
+url: https://www.flinders.edu.au/scholarships-system/index.cfm/scholarships/display/a044e
+funders:
+- flinders-university
+legacy_funder_name: Flinders University
+host_country: Australia
+applicant_country: Worldwide except Australia and New Zealand
+career_levels:
+- master-students
+years_since_phd: '0'
+duration: null
+award: Tuition fee waiver + $27,596 per annum stipend
+mobility_rule: 'No'
+research_costs: null
+deadline: August
+deadline_month: August
+diversity: null
+comments: null
+benefits: Student who moves from overseas is eligible for an establishment allowance
+  (after arrival at Flinders) of up to $1,485 to assist with relocation costs and
+  airfares, provided receipts can be produced.
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: '2020-05-22T20:24:48Z'
+updated_at: '2020-05-24T05:56:08Z'
+subjects:
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Flinders International Postgraduate Research Scholarship (FIPRS) The
+  Flinders International Research Scholarship (FIPRS) is a scholarship specifically
+  intended to support international students that covers international tuition fees
+  and also provides a stipend. Flinders University Master students All subjects Fellowship,
+  scholarship or training Australia Worldwide except Australia and New Zealand
+source: legacy-import

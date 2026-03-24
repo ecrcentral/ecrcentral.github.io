@@ -1,0 +1,31 @@
+id: travel-grant-travelling-research-fellowships
+legacy_id: 18
+slug: travelling-research-fellowships
+name: Travelling Research Fellowships
+url: https://www.alzheimersresearchuk.org/grants/travelling-research-fellowship/
+description: null
+funders: []
+legacy_funder_name: Alzheimer's Research UK
+applicant_country: Lead applicant should be based in UK
+host_country: null
+award: null
+deadline: currently closed for applications
+deadline_month: null
+membership: 'No'
+membership_time: NA
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- collaboration
+- learn-new-technique
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: Travelling Research Fellowships Collaboration Learn new technique Lead
+  applicant should be based in UK
+source: legacy-import

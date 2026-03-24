@@ -1,0 +1,51 @@
+id: funding-stengl-wyer-scholars-program
+legacy_id: 743
+slug: stengl-wyer-scholars-program
+name: Stengl-Wyer Scholars Program
+description: Stengl-Wyer Postdoctoral Scholars Program provides up to three years
+  of independent support for talented postdoctoral researchers in the broad area of
+  the diversity of life and/or organisms in their natural environments. Scholars can
+  study any groups of organisms, at levels from genes to populations to communities
+  to ecosystems, and can use any combination of approaches.
+url: https://cns.utexas.edu/swe/stengl-wyer-scholars
+funders: []
+legacy_funder_name: The University of Texas at Austin, Stengl-Wyer Endowment
+host_country: United States
+applicant_country: Worldwide
+career_levels:
+- phd
+- postdoc
+years_since_phd: '3'
+duration: '3'
+award: $67,000 annual salary; $10,000 annual stipend for research and travel; Up to
+  $3,000 for relocation expenses
+mobility_rule: null
+research_costs: null
+deadline: April
+deadline_month: April
+diversity: null
+comments: null
+benefits: University staff benefits
+frequency: Annual
+fileds: Diversity of life and/or organisms in their natural environments
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 2416
+created_at: '2021-01-26T17:46:43Z'
+updated_at: '2021-01-26T22:23:59Z'
+subjects:
+- life-sciences
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+- award
+search_text: Stengl-Wyer Scholars Program Stengl-Wyer Postdoctoral Scholars Program
+  provides up to three years of independent support for talented postdoctoral researchers
+  in the broad area of the diversity of life and/or organisms in their natural environments.
+  Scholars can study any groups of organisms, at levels from genes to populations
+  to communities to ecosystems, and can use any combination of approaches. PhD Postdoc
+  Life Sciences Fellowship, scholarship or training Research Award United States Worldwide
+source: legacy-import

@@ -1,0 +1,69 @@
+name: Report an Outdated Entry
+description: Report an entry that needs updating or removal
+title: "[Outdated] "
+labels: ["outdated", "needs-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping keep ECRcentral up to date!
+
+  - type: dropdown
+    id: entry_type
+    attributes:
+      label: "Entry type *"
+      options:
+        - Funding opportunity
+        - Travel grant
+        - Resource
+        - Funder
+    validations:
+      required: true
+
+  - type: input
+    id: entry_name
+    attributes:
+      label: "Entry name *"
+      placeholder: "Name of the funding/grant/resource"
+    validations:
+      required: true
+
+  - type: input
+    id: entry_url
+    attributes:
+      label: URL or slug
+      placeholder: "e.g., https://ecrcentral.org/fundings/embo-grants or embo-grants"
+
+  - type: dropdown
+    id: issue_type
+    attributes:
+      label: "What is wrong? *"
+      options:
+        - Deadline has passed / Opportunity is closed
+        - Information is incorrect
+        - URL is broken
+        - Duplicate entry
+        - Entry should be removed
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: "Details *"
+      description: What specifically needs to be updated or corrected?
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggested_update
+    attributes:
+      label: Suggested correction
+      description: If you know the correct information, please share it here
+
+  - type: input
+    id: source
+    attributes:
+      label: Source for your correction
+      placeholder: "e.g., https://official-page.org"

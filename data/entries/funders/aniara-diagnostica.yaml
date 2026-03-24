@@ -1,0 +1,20 @@
+id: funder-aniara-diagnostica
+legacy_id: 610
+slug: aniara-diagnostica
+name: Aniara Diagnostica
+short_name: Aniara Diagnostica
+funder_registry_id: '100013455'
+country: United States
+website: https://www.aniara.com/
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-05-24T14:01:22Z'
+updated_at: '2020-05-24T14:01:22Z'
+source: legacy-import

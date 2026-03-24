@@ -1,0 +1,21 @@
+id: resource-new-pi-slack-community
+legacy_id: 34
+slug: new-pi-slack-community
+name: New PI Slack Community
+url: https://newpislack.wordpress.com/
+description: An international community of Assistant Professors uses Slack to help
+  each other tackle common challenges faced by new faculty.
+source_name: Prachee Avasthi
+funders: []
+resource_categories:
+- career-development
+- science-communication
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2019-02-08T08:18:00Z'
+updated_at: '2019-02-08T08:28:01Z'
+source: legacy-import

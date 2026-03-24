@@ -1,0 +1,20 @@
+id: funder-national-institute-of-water-and-atmospheric-research
+legacy_id: 127
+slug: national-institute-of-water-and-atmospheric-research
+name: National Institute of Water and Atmospheric Research
+short_name: National Institute of Water and Atmospheric Research
+funder_registry_id: '100008249'
+country: New Zealand
+website: null
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2019-01-17T00:40:55Z'
+source: legacy-import

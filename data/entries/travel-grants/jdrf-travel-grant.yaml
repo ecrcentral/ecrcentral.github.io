@@ -1,0 +1,29 @@
+id: travel-grant-jdrf-travel-grant
+legacy_id: 50
+slug: jdrf-travel-grant
+name: JDRF Travel Grant
+url: https://www.jdrf.org.au/research/travel-grants
+description: null
+funders: []
+legacy_funder_name: JDRF
+applicant_country: Australian
+host_country: null
+award: $2000 or $4000
+deadline: 19-Sep-18
+deadline_month: September
+membership: null
+membership_time: null
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: JDRF Travel Grant Conference Australian
+source: legacy-import

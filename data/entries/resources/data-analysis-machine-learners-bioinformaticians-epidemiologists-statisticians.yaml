@@ -1,0 +1,20 @@
+id: resource-data-analysis-machine-learners-bioinformaticians-epidemiologists-statisticians
+legacy_id: 99
+slug: data-analysis-machine-learners-bioinformaticians-epidemiologists-statisticians
+name: Data analysis - machine learners, bioinformaticians, epidemiologists, statisticians
+url: https://discourse.data-against-covid.org/
+description: A portal where clinicians, virologists, immunologists can load data such
+  that those with the relevant skiils can help with analysis
+source_name: Fred Hamprecht and Florian Jug
+funders: []
+resource_categories:
+- covid19-requests-for-help
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-03-20T15:03:00Z'
+updated_at: '2020-03-20T15:04:09Z'
+source: legacy-import

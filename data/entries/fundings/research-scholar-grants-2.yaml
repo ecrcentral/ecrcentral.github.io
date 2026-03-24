@@ -1,0 +1,64 @@
+id: funding-research-scholar-grants-2
+legacy_id: 616
+slug: research-scholar-grants-2
+name: Research Scholar Grants
+description: "The Research Scholar Grant (RSG) supports investigator-initiated projects\
+  \ across the cancer research continuum. \r\n\r\nWho's Eligible: Independent investigators\
+  \ in the first 6 years of an independent research career or faculty appointment\
+  \ are eligible to apply. Eligibility is extended for 8 years for clinician scientists\
+  \ who remain active in clinical care. Applicants typically must be within 12 years\
+  \ of receiving a terminal (doctorate) degree and cannot have more than one R01/R01-like\
+  \ grant (>$100,000/year direct costs for more than 3 years) as principal investigator\
+  \ at the time of application."
+url: http://www.cancer.org/research/applyforaresearchgrant/granttypes/research-scholar-grants
+funders:
+- american-cancer-society
+legacy_funder_name: American Cancer Society
+host_country: United States
+applicant_country: United States
+career_levels:
+- junior-faculty
+years_since_phd: null
+duration: '4'
+award: $640000
+mobility_rule: null
+research_costs: null
+deadline: April 1 and October 15
+deadline_month: April, October
+diversity: null
+comments: 'Research Scholar Grants support investigator-initiated projects across
+  the cancer research continuum.  Eligibility: Independent investigators in the first
+  six years of an independent research career or faculty appointment are eligible
+  to apply. Awards are for up to four years and for up to $200,000 per year (direct
+  costs), plus 20% allowable indirect costs. ($800,000 total)'
+benefits: For the RSG award in the Cancer Control and Prevention Research Program
+  with a focus on health equity, the maximum award is for 4 years at up to $165,000
+  per year (direct costs), plus 20% allowable indirect costs. Additionally, large
+  multilevel studies that address cancer health equity may propose up to a maximum
+  of 5 years and $200,000 per year (direct costs), plus 20% allowable indirect costs.
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-24T13:26:44Z'
+subjects:
+- life-sciences
+- medicine-and-health-sciences
+funding_purposes:
+- research
+search_text: "Research Scholar Grants The Research Scholar Grant (RSG) supports investigator-initiated\
+  \ projects across the cancer research continuum. \r\n\r\nWho's Eligible: Independent\
+  \ investigators in the first 6 years of an independent research career or faculty\
+  \ appointment are eligible to apply. Eligibility is extended for 8 years for clinician\
+  \ scientists who remain active in clinical care. Applicants typically must be within\
+  \ 12 years of receiving a terminal (doctorate) degree and cannot have more than\
+  \ one R01/R01-like grant (>$100,000/year direct costs for more than 3 years) as\
+  \ principal investigator at the time of application. American Cancer Society Junior\
+  \ Faculty Life Sciences Medicine and Health Sciences Research United States United\
+  \ States"
+source: legacy-import

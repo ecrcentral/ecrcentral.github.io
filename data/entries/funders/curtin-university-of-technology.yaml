@@ -1,0 +1,20 @@
+id: funder-curtin-university-of-technology
+legacy_id: 596
+slug: curtin-university-of-technology
+name: Curtin University of Technology
+short_name: Curtin University of Technology
+funder_registry_id: '501100001797'
+country: United States
+website: https://www.curtin.edu.au/
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-05-23T22:26:14Z'
+updated_at: '2020-05-23T22:26:14Z'
+source: legacy-import

@@ -1,0 +1,35 @@
+id: funding-fellowship-residency
+legacy_id: 67
+slug: fellowship-residency
+name: Fellowship residency
+description: null
+url: http://www.2018-2019.eurias-fp.eu/
+funders: []
+legacy_funder_name: European Institutes for Advanced Studies
+host_country: Europe
+applicant_country: Worldwide
+career_levels: []
+years_since_phd: No rule
+duration: 0,9
+award: null
+mobility_rule: null
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: null
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: draft
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-26T09:15:56Z'
+subjects: []
+funding_purposes: []
+search_text: Fellowship residency Europe Worldwide
+source: legacy-import

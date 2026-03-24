@@ -1,0 +1,48 @@
+id: funding-sfari-pilot-awards
+legacy_id: 371
+slug: sfari-pilot-awards
+name: SFARI Pilot Awards
+description: Grants awarded through this RFA are intended to provide early support
+  for exploratory ideas, particularly those with novel hypotheses for autism.
+url: https://www.sfari.org/grant/pilot-awards-request-for-applications/
+funders:
+- simons-foundation-autism-research-initiative
+legacy_funder_name: Simons Foundation Autism Research Initiative (SFARI)
+host_country: United States
+applicant_country: null
+career_levels:
+- phd
+- md
+years_since_phd: All applicants and key collaborators must hold a Ph.D., M.D. or equivalent
+  degree and have a faculty position or the equivalent at a college, university, medical
+  school or other research faci
+duration: 2 years
+award: $300,000
+mobility_rule: null
+research_costs: null
+deadline: May
+deadline_month: May
+diversity: null
+comments: 'SFARI Pilot Awards: Grants are awarded to innovative, high-impact proposals
+  requesting support for small-scale projects or early-stage experiments designed
+  to build on preliminary data or a prior track record and lead to competitive applications
+  for funding by SFARI or other organizations. Investigators new to the field of autism
+  are encouraged to apply. The maximum budget is $150,000 (including indirect costs)
+  per year for up to two years.'
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-18T20:49:38Z'
+subjects: []
+funding_purposes: []
+search_text: SFARI Pilot Awards Grants awarded through this RFA are intended to provide
+  early support for exploratory ideas, particularly those with novel hypotheses for
+  autism. Simons Foundation Autism Research Initiative PhD MD United States
+source: legacy-import

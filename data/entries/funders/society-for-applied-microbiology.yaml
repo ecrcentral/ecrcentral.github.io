@@ -1,0 +1,20 @@
+id: funder-society-for-applied-microbiology
+legacy_id: 516
+slug: society-for-applied-microbiology
+name: Society for Applied Microbiology
+short_name: Society for Applied Microbiology
+funder_registry_id: '100009969'
+country: United Kingdom
+website: null
+logo: null
+dora: true
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2020-05-21T09:36:16Z'
+source: legacy-import

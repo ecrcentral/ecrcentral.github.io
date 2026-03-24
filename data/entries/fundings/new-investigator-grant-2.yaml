@@ -1,0 +1,56 @@
+id: funding-new-investigator-grant-2
+legacy_id: 575
+slug: new-investigator-grant-2
+name: New Investigator Grant
+description: The Scleroderma Foundation seeks applications from promising new investigators
+  who hold faculty or equivalent positions and who wish to pursue a career in research
+  related to scleroderma. This grant supports promising research that is likely to
+  lead to individual research project grants.
+url: http://www.scleroderma.org/site/PageServer?pagename=prof_research_types
+funders:
+- scleroderma-foundation
+legacy_funder_name: Scleroderma Foundation
+host_country: United States
+applicant_country: United States
+career_levels:
+- junior-faculty
+years_since_phd: NA
+duration: '3'
+award: $150 000
+mobility_rule: 'No'
+research_costs: null
+deadline: September 15 annually
+deadline_month: September
+diversity: null
+comments: The Scleroderma Foundation seeks applications from promising new investigators
+  who hold faculty or equivalent positions and who wish to pursue a career in research
+  related to scleroderma. This grant supports promising research that is likely to
+  lead to individual research project grants. Applicants must have a doctoral degree
+  in Medicine, Osteopathy, Veterinary Medicine or one of the sciences; and must have
+  completed a postdoctoral fellowship by the grant award date. Applicants who have
+  been a principal investigator on grants from the Scleroderma Foundation or other
+  national, private or government agencies other than fellowship grants are not eligible
+  for this award. Up to $50,000 for three years ($150,000 max total)
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T18:34:55Z'
+subjects:
+- life-sciences
+- medicine-and-health-sciences
+funding_purposes:
+- research
+search_text: New Investigator Grant The Scleroderma Foundation seeks applications
+  from promising new investigators who hold faculty or equivalent positions and who
+  wish to pursue a career in research related to scleroderma. This grant supports
+  promising research that is likely to lead to individual research project grants.
+  Scleroderma Foundation Junior Faculty Life Sciences Medicine and Health Sciences
+  Research United States United States
+source: legacy-import

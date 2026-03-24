@@ -1,0 +1,47 @@
+id: funding-rice-academy-postdoctoral-fellows-program
+legacy_id: 164
+slug: rice-academy-postdoctoral-fellows-program
+name: Rice Academy Postdoctoral Fellows Program
+description: Rice University aspires to pathbreaking research, unsurpassed teaching,
+  and contributions to the betterment of our world. We seek to fulfill this mission
+  by cultivating a diverse community of learning and discovery that produces leaders
+  across the spectrum of human endeavor.
+url: https://biosciences.rice.edu/Content.aspx?id=2147484167
+funders:
+- rice-university
+legacy_funder_name: Rice University
+host_country: United States
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: Max. 3
+duration: '2'
+award: null
+mobility_rule: null
+research_costs: null
+deadline: January
+deadline_month: January
+diversity: null
+comments: null
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T10:47:05Z'
+subjects:
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Rice Academy Postdoctoral Fellows Program Rice University aspires to
+  pathbreaking research, unsurpassed teaching, and contributions to the betterment
+  of our world. We seek to fulfill this mission by cultivating a diverse community
+  of learning and discovery that produces leaders across the spectrum of human endeavor.
+  Rice University PhD All subjects Fellowship, scholarship or training United States
+  Worldwide
+source: legacy-import

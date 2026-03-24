@@ -1,0 +1,72 @@
+id: funding-hhmi-faculty-scholars-program
+legacy_id: 686
+slug: hhmi-faculty-scholars-program
+name: HHMI Faculty Scholars Program
+description: "HHMI launched the Faculty Scholars grant program in 2016 to identify,\
+  \ nurture, and support top researchers during an early phase of their careers, when\
+  \ competition for grant support is particularly intense. The Simons Foundation and\
+  \ the Bill & Melinda Gates Foundation have joined HHMI to support 84 Faculty Scholars\
+  \ from 43 institutions across the United States. These awardees were selected based\
+  \ on their vision and potential for unique contributions to science.\r\n\r\nTogether,\
+  \ our organizations will spend about $83 million over five years to support these\
+  \ scientists. The range of five-year grant award totals is $600,000-$1.8 million,\
+  \ including indirect costs. Faculty Scholars also receive mentoring and career development\
+  \ support from HHMI’s community of scientists.\r\n\r\nIn the United States, the\
+  \ career trajectory for early career scientists has become much less certain as\
+  \ competition for grant support has intensified. The health and vigor of our national\
+  \ research enterprise depend upon the U.S. maintaining a robust pipeline to scientific\
+  \ professions. HHMI seeks to purposefully contribute by giving our best researchers\
+  \ the resources and environment with which to pursue difficult and important basic\
+  \ science questions."
+url: http://www.hhmi.org/programs/biomedical-research/faculty-scholars
+funders:
+- howard-hughes-medical-institute
+legacy_funder_name: Howard Hughes Medical Institute (HHMI)
+host_country: United States
+applicant_country: Worldwide
+career_levels:
+- phd
+- postdoc
+- md
+years_since_phd: 4-10
+duration: '5'
+award: USD 2 000 000
+mobility_rule: 'No'
+research_costs: null
+deadline: July 28, 2015 (next deadline winter 2018)
+deadline_month: July
+diversity: null
+comments: 'Eligible institutions: https://www.hhmi.org/sites/default/files/Programs/Scholars/eligible-institutions-faculty-scholars.pdf'
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-26T07:06:02Z'
+subjects:
+- life-sciences
+funding_purposes:
+- research
+search_text: "HHMI Faculty Scholars Program HHMI launched the Faculty Scholars grant\
+  \ program in 2016 to identify, nurture, and support top researchers during an early\
+  \ phase of their careers, when competition for grant support is particularly intense.\
+  \ The Simons Foundation and the Bill & Melinda Gates Foundation have joined HHMI\
+  \ to support 84 Faculty Scholars from 43 institutions across the United States.\
+  \ These awardees were selected based on their vision and potential for unique contributions\
+  \ to science.\r\n\r\nTogether, our organizations will spend about $83 million over\
+  \ five years to support these scientists. The range of five-year grant award totals\
+  \ is $600,000-$1.8 million, including indirect costs. Faculty Scholars also receive\
+  \ mentoring and career development support from HHMI’s community of scientists.\r\
+  \n\r\nIn the United States, the career trajectory for early career scientists has\
+  \ become much less certain as competition for grant support has intensified. The\
+  \ health and vigor of our national research enterprise depend upon the U.S. maintaining\
+  \ a robust pipeline to scientific professions. HHMI seeks to purposefully contribute\
+  \ by giving our best researchers the resources and environment with which to pursue\
+  \ difficult and important basic science questions. Howard Hughes Medical Institute\
+  \ PhD Postdoc MD Life Sciences Research United States Worldwide"
+source: legacy-import

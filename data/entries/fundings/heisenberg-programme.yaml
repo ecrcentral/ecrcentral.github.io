@@ -1,0 +1,53 @@
+id: funding-heisenberg-programme
+legacy_id: 52
+slug: heisenberg-programme
+name: Heisenberg programme
+description: The Heisenberg Programme is directed primarily at those researchers who
+  have qualified for professorship via the Emmy Noether Programme, leadership of a
+  junior research group, DFG project staff positions, private-sector research or mid-level
+  faculty positions. The target group also includes junior professors who have received
+  positive evaluations, those who have achieved their habilitation or an equivalent
+  qualification, and German researchers returning from abroad, as well as appropriately
+  qualified foreign researchers looking to pursue careers in Germany.
+url: http://www.dfg.de/en/research_funding/programmes/individual/heisenberg/index.html
+funders:
+- deutsche-forschungsgemeinschaft
+legacy_funder_name: Deutsche Forschungsgemeinschaft
+host_country: Germany
+applicant_country: Worldwide
+career_levels:
+- junior-faculty
+years_since_phd: null
+duration: '5'
+award: null
+mobility_rule: 'No'
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: null
+benefits: null
+frequency: Rolling
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-26T07:44:03Z'
+subjects:
+- all-subjects
+funding_purposes:
+- research
+search_text: Heisenberg programme The Heisenberg Programme is directed primarily at
+  those researchers who have qualified for professorship via the Emmy Noether Programme,
+  leadership of a junior research group, DFG project staff positions, private-sector
+  research or mid-level faculty positions. The target group also includes junior professors
+  who have received positive evaluations, those who have achieved their habilitation
+  or an equivalent qualification, and German researchers returning from abroad, as
+  well as appropriately qualified foreign researchers looking to pursue careers in
+  Germany. Deutsche Forschungsgemeinschaft Junior Faculty All subjects Research Germany
+  Worldwide
+source: legacy-import

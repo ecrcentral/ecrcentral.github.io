@@ -1,0 +1,44 @@
+id: funding-chancellor-postdoctoral-fellowship
+legacy_id: 239
+slug: chancellor-postdoctoral-fellowship
+name: Chancellor Postdoctoral Fellowship
+description: The Chancellor’s Postdoctoral Research Fellowship Scheme develops research,
+  teaching and learning, management and communication skills to shape the next generation
+  of leading academics at UTS.
+url: http://www.uts.edu.au/research-and-teaching/future-researchers/future-research-staff/chancellors-postdoctoral-fellowships
+funders:
+- university-of-technology-sydney
+legacy_funder_name: University of Technology Sidney
+host_country: Australia
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: <5
+duration: '4'
+award: null
+mobility_rule: 'Yes'
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: null
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-07T22:01:37Z'
+subjects:
+- life-sciences
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Chancellor Postdoctoral Fellowship The Chancellor’s Postdoctoral Research
+  Fellowship Scheme develops research, teaching and learning, management and communication
+  skills to shape the next generation of leading academics at UTS. University of Technology
+  Sydney PhD Life Sciences Fellowship, scholarship or training Australia Worldwide
+source: legacy-import

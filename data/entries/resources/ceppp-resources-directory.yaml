@@ -1,0 +1,20 @@
+id: resource-ceppp-resources-directory
+legacy_id: 68
+slug: ceppp-resources-directory
+name: CEPPP Resources Directory
+url: https://ceppp.ca/en/resources/
+description: A directory of resources about patient and public engagement, many focusing
+  on partnership initiatives. New resources are added regularly.
+source_name: Centre of Excellence on Partnership with Patients and the Public (CEPPP)
+funders: []
+resource_categories:
+- public-involvement-in-research
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2019-07-01T10:35:00Z'
+updated_at: '2019-07-08T21:57:18Z'
+source: legacy-import

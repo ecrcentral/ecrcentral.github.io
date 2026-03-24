@@ -1,0 +1,54 @@
+id: funding-darwin-postdoctoral-fellowship
+legacy_id: 209
+slug: darwin-postdoctoral-fellowship
+name: Darwin Postdoctoral Fellowship
+description: The Darwin Fellow Program, founded in 1995, brings promising young postdoctoral
+  researchers to UMASS Amherst. The two-year position provides a unique combination
+  of teaching and research responsibilities and is excellent preparation for academic
+  positions. The fellowship program embodies the interdepartmental collaboration that
+  characterizes the OEB Graduate Program. Darwin Fellows are active participants in
+  OEB, acting as mentors to graduate students, conducting research, leading seminar
+  courses, and teaching courses in the Biology Department.
+url: http://gpls.cns.umass.edu/oeb/darwin-fellows
+funders:
+- university-of-massachusetts-amherst
+legacy_funder_name: UMASS Amherst
+host_country: United States
+applicant_country: Worldwide
+career_levels:
+- phd
+- postdoc
+years_since_phd: null
+duration: '2'
+award: null
+mobility_rule: 'No'
+research_costs: null
+deadline: December
+deadline_month: December
+diversity: null
+comments: null
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-24T08:41:16Z'
+subjects:
+- ecology-and-evolutionary-biology
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Darwin Postdoctoral Fellowship The Darwin Fellow Program, founded in
+  1995, brings promising young postdoctoral researchers to UMASS Amherst. The two-year
+  position provides a unique combination of teaching and research responsibilities
+  and is excellent preparation for academic positions. The fellowship program embodies
+  the interdepartmental collaboration that characterizes the OEB Graduate Program.
+  Darwin Fellows are active participants in OEB, acting as mentors to graduate students,
+  conducting research, leading seminar courses, and teaching courses in the Biology
+  Department. University of Massachusetts Amherst PhD Postdoc Ecology and Evolutionary
+  Biology Fellowship, scholarship or training United States Worldwide
+source: legacy-import

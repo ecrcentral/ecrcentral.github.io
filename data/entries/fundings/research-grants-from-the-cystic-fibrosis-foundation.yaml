@@ -1,0 +1,56 @@
+id: funding-research-grants-from-the-cystic-fibrosis-foundation
+legacy_id: 640
+slug: research-grants-from-the-cystic-fibrosis-foundation
+name: Research Grants from the Cystic Fibrosis Foundation
+description: Research Grants are intended to encourage the development of new information
+  that contributes to the understanding of the basic etiology and pathogenesis of
+  CF. In addition, consideration will be given to those projects that provide insight
+  into the development of information that may contribute to the development of new
+  therapies for CF.
+url: https://www.cff.org/Our-Research/For-Researchers/Research-Grants/Research-Awards/
+funders:
+- cystic-fibrosis-foundation
+legacy_funder_name: Cystic Fibrosis Foundation
+host_country: Worldwide
+applicant_country: Worldwide
+career_levels:
+- phd
+- postdoc
+years_since_phd: NA
+duration: '2'
+award: USD 250 000
+mobility_rule: 'No'
+research_costs: null
+deadline: May, December
+deadline_month: May, December
+diversity: null
+comments: All proposals must be hypothesis driven, and sufficient preliminary data
+  must be provided to justify support from the Cystic Fibrosis Foundation.  Information
+  derived from such studies will hopefully lead to submission to other funding agencies,
+  such as the National Institutes of Health (NIH).  Support is available for $125,000
+  per year (plus 12% for indirect costs) for a period of two years, at which time
+  a grant may be competitively renewed for an additional year of funding.
+benefits: null
+frequency: Twice a year
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-09T17:49:44Z'
+subjects:
+- life-sciences
+- medicine-and-health-sciences
+funding_purposes:
+- research
+search_text: Research Grants from the Cystic Fibrosis Foundation Research Grants are
+  intended to encourage the development of new information that contributes to the
+  understanding of the basic etiology and pathogenesis of CF. In addition, consideration
+  will be given to those projects that provide insight into the development of information
+  that may contribute to the development of new therapies for CF. Cystic Fibrosis
+  Foundation PhD Postdoc Life Sciences Medicine and Health Sciences Research Worldwide
+  Worldwide
+source: legacy-import

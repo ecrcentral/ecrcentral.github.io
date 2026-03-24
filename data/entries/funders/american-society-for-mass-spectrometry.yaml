@@ -1,0 +1,20 @@
+id: funder-american-society-for-mass-spectrometry
+legacy_id: 582
+slug: american-society-for-mass-spectrometry
+name: American Society for Mass Spectrometry
+short_name: American Society for Mass Spectrometry
+funder_registry_id: american-society-for-mass-spectrometry
+country: United States
+website: https://www.asms.org/
+logo: /logos/funders/american-society-for-mass-spectrometry.png
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-05-23T14:17:57Z'
+updated_at: '2020-05-23T19:06:28Z'
+source: legacy-import

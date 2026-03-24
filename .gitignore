@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+scripts/import/raw/
+*.egg-info/
+dist/
+build/
+
+# Node
+apps/web/node_modules
+apps/web/.astro/
+apps/web/dist/
+.npm/
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Editor
+.idea/
+.vscode/
+*.code-workspace
+
+# Logs
+*.log
+npm-debug.log*
+
+# Build artifacts — committed so GitHub Pages works without CI build
+# Uncomment to exclude from git if you prefer CI-only builds:
+# data/built/
+backup_ecrcentral_2026-02-19_103503.sql

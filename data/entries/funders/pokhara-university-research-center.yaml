@@ -1,0 +1,20 @@
+id: funder-pokhara-university-research-center
+legacy_id: 495
+slug: pokhara-university-research-center
+name: Pokhara University Research Center
+short_name: Pokhara University Research Center
+funder_registry_id: '100012837'
+country: NA
+website: null
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2020-05-21T09:36:16Z'
+source: legacy-import

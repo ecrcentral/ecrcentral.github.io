@@ -1,0 +1,49 @@
+id: funding-vice-chancellors-postdoctoral-fellowship
+legacy_id: 165
+slug: vice-chancellors-postdoctoral-fellowship
+name: Vice-Chancellor's Postdoctoral Fellowship
+description: RMIT is focused on recruiting Fellows whose experience and expertise
+  align with one of RMIT’s 8 Enabling Capability Platforms (ECPs). Working within
+  one of ECP areas, Fellows will make significant contributions to RMIT’s research
+  priorities by developing and engaging in high-quality, high impact research projects,
+  which address local, national, regional and global challenges.
+url: http://www.rmit.edu.au/research/research-expertise/our-reputation/people/outstanding-research-fellowship-schemes/vice-chancellors-postdoctoral-fellowships
+funders:
+- rmit-university
+legacy_funder_name: RMIT University
+host_country: Australia
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: Max. 5
+duration: '3'
+award: Salary at Academic level A/B (depending on experience)
+mobility_rule: null
+research_costs: $10,000 per annum research support funding for three years
+deadline: August
+deadline_month: August
+diversity: null
+comments: null
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T10:50:36Z'
+subjects:
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Vice-Chancellor's Postdoctoral Fellowship RMIT is focused on recruiting
+  Fellows whose experience and expertise align with one of RMIT’s 8 Enabling Capability
+  Platforms (ECPs). Working within one of ECP areas, Fellows will make significant
+  contributions to RMIT’s research priorities by developing and engaging in high-quality,
+  high impact research projects, which address local, national, regional and global
+  challenges. RMIT University PhD All subjects Fellowship, scholarship or training
+  Australia Worldwide
+source: legacy-import

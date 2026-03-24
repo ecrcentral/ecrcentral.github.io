@@ -1,0 +1,37 @@
+id: funding-fulbright-awards-for-israelis
+legacy_id: 82
+slug: fulbright-awards-for-israelis
+name: Fulbright Awards For Israelis
+description: null
+url: http://fulbright.org.il/awards/3
+funders:
+- fulbright-program
+legacy_funder_name: Fulbright
+host_country: United States
+applicant_country: Israel
+career_levels: []
+years_since_phd: No rule
+duration: '1'
+award: null
+mobility_rule: null
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: Fulbright Awards For Israelis offer a wide range of fundings. Please refer
+  to https://fulbright.org.il/awards/3 for more information.
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-24T21:11:07Z'
+subjects: []
+funding_purposes: []
+search_text: Fulbright Awards For Israelis Fulbright Program United States Israel
+source: legacy-import

@@ -1,0 +1,55 @@
+id: funding-embl-ebi-cambridge-computational-biomedical-postdoctoral-fellowships
+legacy_id: 57
+slug: embl-ebi-cambridge-computational-biomedical-postdoctoral-fellowships
+name: EMBL-EBI / Cambridge Computational Biomedical Postdoctoral Fellowships
+description: EMBL-EBI has partnered with the NIHR Cambridge Biomedical Research Centre
+  (BRC) and the University of Cambridge’s School of the Biological Sciences (SBS,
+  with support from its Wellcome Institutional Support fund) to offer joint postdoctoral
+  fellowships that build on the collaborative relationship between the institutions,
+  supporting projects that apply computational approaches to translational clinical
+  (BRC) or biological research (SBS).
+url: https://www.ebi.ac.uk/research/postdocs/ebpods
+funders:
+- university-of-cambridge
+- european-molecular-biology-laboratory-embl
+legacy_funder_name: EMBL and Cambridge University
+host_country: United Kingdom
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: null
+duration: '3'
+award: null
+mobility_rule: 'No'
+research_costs: null
+deadline: July
+deadline_month: July
+diversity: null
+comments: null
+benefits: 'ScholarshipAward: EMBL stipend rates. Details concerning stipend will be
+  provided to those candidates who are invited to interview.'
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-26T08:10:01Z'
+subjects:
+- medicine-and-health-sciences
+- computational-biology
+funding_purposes:
+- research
+search_text: EMBL-EBI / Cambridge Computational Biomedical Postdoctoral Fellowships
+  EMBL-EBI has partnered with the NIHR Cambridge Biomedical Research Centre (BRC)
+  and the University of Cambridge’s School of the Biological Sciences (SBS, with support
+  from its Wellcome Institutional Support fund) to offer joint postdoctoral fellowships
+  that build on the collaborative relationship between the institutions, supporting
+  projects that apply computational approaches to translational clinical (BRC) or
+  biological research (SBS). University of Cambridge European Molecular Biology Laboratory
+  (EMBL) PhD Medicine and Health Sciences Computational Biology Research United Kingdom
+  Worldwide
+source: legacy-import

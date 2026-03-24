@@ -1,0 +1,35 @@
+id: funding-research-fellowships
+legacy_id: 120
+slug: research-fellowships
+name: Research Fellowships
+description: null
+url: https://www.leibniz-gemeinschaft.de/en/careers/the-next-generation-of-researchers
+funders: []
+legacy_funder_name: Leibniz-DAAD
+host_country: Germany
+applicant_country: Worldwide
+career_levels: []
+years_since_phd: <2
+duration: '1'
+award: null
+mobility_rule: null
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: null
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: draft
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-28T20:21:28Z'
+subjects: []
+funding_purposes: []
+search_text: Research Fellowships Germany Worldwide
+source: legacy-import

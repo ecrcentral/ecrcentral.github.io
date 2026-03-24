@@ -1,0 +1,47 @@
+id: funding-ipodi-fellowship
+legacy_id: 193
+slug: ipodi-fellowship
+name: IPODI Fellowship
+description: The International Postdoc Initiative (IPODI) of the Technische Universität
+  Berlin is part of an initiative (Wissenschaftlerinnen an die Spitze) of the Main
+  Gender Equality Office that aims to increase the number of female researchers in
+  leadership positions.
+url: http://www.ipodi.tu-berlin.de/ipodi/ipodi
+funders:
+- technische-universitat-berlin
+legacy_funder_name: Technische Universitaet Berlin
+host_country: Germany
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: Max. 10
+duration: '2'
+award: Salary
+mobility_rule: 'Yes'
+research_costs: €10000
+deadline: September
+deadline_month: September
+diversity: null
+comments: The applicants may not have resided or carried out their main activity in
+  Germany for more than 12 months in the three years prior to the call deadline.
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T16:21:49Z'
+subjects:
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: IPODI Fellowship The International Postdoc Initiative (IPODI) of the
+  Technische Universität Berlin is part of an initiative (Wissenschaftlerinnen an
+  die Spitze) of the Main Gender Equality Office that aims to increase the number
+  of female researchers in leadership positions. Technische Universität Berlin PhD
+  All subjects Fellowship, scholarship or training Germany Worldwide
+source: legacy-import

@@ -1,0 +1,41 @@
+name: Validate
+
+on:
+  push:
+    paths:
+      - 'data/entries/**'
+      - 'data/schema/**'
+      - 'scripts/validate/**'
+  pull_request:
+    paths:
+      - 'data/entries/**'
+      - 'data/schema/**'
+
+jobs:
+  validate:
+    name: Validate YAML content
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install Python dependencies
+        run: pip install pyyaml jsonschema
+
+      - name: Validate YAML schemas
+        run: python scripts/validate/validate_yaml.py
+
+      - name: Validate taxonomy references
+        run: python scripts/validate/validate_taxonomies.py
+
+      - name: Check for duplicate entries
+        run: python scripts/validate/validate_duplicates.py
+
+      - name: Validate URLs (format check only)
+        run: python scripts/validate/validate_links.py

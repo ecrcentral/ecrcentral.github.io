@@ -1,0 +1,4637 @@
+[
+  {
+    "id": "resource-broad-commkit",
+    "legacy_id": 3,
+    "slug": "broad-commkit",
+    "name": "Broad CommKit",
+    "url": "http://mitcommlab.mit.edu/broad/use-the-commkit/",
+    "description": "A collection of guides to successful communication in the biological sciences, written by the BRCL Fellows.",
+    "source_name": "Broad Research Communication Lab",
+    "funders": [],
+    "resource_categories": [
+      "career-development",
+      "science-communication",
+      "academic-writing",
+      "policy"
+    ],
+    "subjects": [],
+    "featured": true,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-01-03T06:56:00Z",
+    "updated_at": "2019-01-03T20:30:08Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development",
+      "Science Communication",
+      "Academic writing",
+      "Policy"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-the-open-grants-list",
+    "legacy_id": 27,
+    "slug": "the-open-grants-list",
+    "name": "The Open Grants List",
+    "url": "https://www.ogrants.org/",
+    "description": "A list of grants that are openly available which can help with learning grantsmanship, understanding particular funders and their programs, and communicating science.",
+    "source_name": "Open Grants",
+    "funders": [],
+    "resource_categories": [
+      "career-development",
+      "science-communication",
+      "academic-writing"
+    ],
+    "subjects": [],
+    "featured": true,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-01-30T14:39:00Z",
+    "updated_at": "2019-02-05T21:07:44Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development",
+      "Science Communication",
+      "Academic writing"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-guidelines-for-inclusive-academic-practices",
+    "legacy_id": 160,
+    "slug": "guidelines-for-inclusive-academic-practices",
+    "name": "Guidelines for inclusive academic practices",
+    "url": "https://github.com/eLifeAmbassadors/Intersectionality-inclusive-guidelines",
+    "description": "Group of eLife Ambassadors 2019-2020 within the Intersectionality initiative has identified five current practices that are fundamental to academic science that may be hindering inclusivity in science. These practices include hiring, mentoring, writing reference letters, and reviewing grants and manuscripts. To try and level the playing field and increase inclusivity in science, we have compiled a guideline for each of these practices that are intended to help inform scientists, mentors, funders, and journals on ways to mitigate biases. The overall goal of these guidelines is to make science more inclusive and to limit bias in these core features of academic science. Please use, share and modify! Also available on OSF: https://osf.io/muk7v/",
+    "source_name": "eLife Ambassadors - Intersectionality initiative",
+    "funders": [],
+    "resource_categories": [
+      "peer-review",
+      "other",
+      "open-source",
+      "diversity-and-inclusion",
+      "mentoring"
+    ],
+    "subjects": [],
+    "featured": true,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-05-27T09:52:04Z",
+    "updated_at": "2020-05-27T09:52:04Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Peer review",
+      "Other",
+      "Open source",
+      "Diversity and inclusion",
+      "Mentoring"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-harvard-university-data-management",
+    "legacy_id": 1,
+    "slug": "harvard-university-data-management",
+    "name": "Harvard University Data Management",
+    "url": "https://datamanagement.hms.harvard.edu",
+    "description": "Best practices & support services for research data lifecycles",
+    "source_name": "Harvard University",
+    "funders": [],
+    "resource_categories": [
+      "reproducibility"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-01-02T20:58:00Z",
+    "updated_at": "2019-01-02T21:12:26Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Reproducibility"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-mit-commkit",
+    "legacy_id": 2,
+    "slug": "mit-commkit",
+    "name": "MIT CommKit",
+    "url": "http://mitcommlab.mit.edu/broad/use-the-commkit/",
+    "description": "Quick guides to technical communication needs including posters, journal articles, and fellowship applications.",
+    "source_name": "MIT Communication Lab",
+    "funders": [],
+    "resource_categories": [
+      "career-development",
+      "science-communication",
+      "academic-writing"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-01-03T06:53:00Z",
+    "updated_at": "2019-01-03T07:00:43Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development",
+      "Science Communication",
+      "Academic writing"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-a-career-in-research-advice-and-tips-for-getting-started",
+    "legacy_id": 4,
+    "slug": "a-career-in-research-advice-and-tips-for-getting-started",
+    "name": "A career in research: advice and tips for getting started",
+    "url": "https://wellcome.ac.uk/sites/default/files/research-careers-tips-running-research-group-2018-05-17.pdf",
+    "description": "Tips for senior postdocs and new group leaders for running your own research group",
+    "source_name": "Wellcome and Institut Pasteur",
+    "funders": [],
+    "resource_categories": [
+      "career-development"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-01-14T04:51:00Z",
+    "updated_at": "2019-01-14T12:20:14Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-material-for-nurturing-scientists",
+    "legacy_id": 6,
+    "slug": "material-for-nurturing-scientists",
+    "name": "Material for nurturing scientists",
+    "url": "http://www.weizmann.ac.il/mcb/UriAlon/materials-nurturing-scientists",
+    "description": "A list of resources for the career development of scientists",
+    "source_name": "Uri Alon Lab, Weizmann Institute of Science",
+    "funders": [],
+    "resource_categories": [
+      "career-development",
+      "science-communication"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-01-14T12:39:26Z",
+    "updated_at": "2019-01-14T12:39:26Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development",
+      "Science Communication"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-expert-tips-to-make-your-poster-stand-out",
+    "legacy_id": 10,
+    "slug": "expert-tips-to-make-your-poster-stand-out",
+    "name": "Expert tips to make your poster stand out",
+    "url": "https://f1000.com/resources/Posters_Tips_A4.pdf",
+    "description": "F1000Research have consulted a selection of F1000’s world-renowned experts for their top tips on creating the perfect poster",
+    "source_name": "F1000Posters",
+    "funders": [],
+    "resource_categories": [
+      "science-communication"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-01-23T15:24:00Z",
+    "updated_at": "2019-01-23T15:46:54Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Science Communication"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-a-toolkit-for-data-transparency-takes-shape",
+    "legacy_id": 13,
+    "slug": "a-toolkit-for-data-transparency-takes-shape",
+    "name": "A toolkit for data transparency takes shape",
+    "url": "https://www.nature.com/articles/d41586-018-05990-5",
+    "description": "A simple software toolset can help to ease the pain of reproducing computational analyses by Jeffrey M. Perkel.",
+    "source_name": "Nature",
+    "funders": [],
+    "resource_categories": [
+      "reproducibility"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-01-23T15:37:00Z",
+    "updated_at": "2019-01-23T15:47:10Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Reproducibility"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-how-to-be-a-modern-scientist",
+    "legacy_id": 12,
+    "slug": "how-to-be-a-modern-scientist",
+    "name": "How to be a modern scientist",
+    "url": "https://leanpub.com/modernscientist",
+    "description": "A book about how to be a scientist the modern, open-source way. A must-read for graduate students and postdocs in the sciences",
+    "source_name": "Jeffrey Leek",
+    "funders": [],
+    "resource_categories": [
+      "career-development",
+      "reproducibility",
+      "science-communication",
+      "academic-writing",
+      "preprints",
+      "publishing",
+      "peer-review"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-01-23T15:34:00Z",
+    "updated_at": "2019-01-23T15:47:32Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development",
+      "Reproducibility",
+      "Science Communication",
+      "Academic writing",
+      "Preprints",
+      "Publishing",
+      "Peer review"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-a-peer-review-process-guide-for-early-career-researchers",
+    "legacy_id": 11,
+    "slug": "a-peer-review-process-guide-for-early-career-researchers",
+    "name": "A peer review process guide for early career researchers",
+    "url": "https://www.scisnack.com/wp-content/uploads/2018/10/A-Peer-Review-Process-Guide.pdf",
+    "description": "A useful worksheet compiled based on the advice of a number of journals and publications for early career researchers to peer review scientific papers",
+    "source_name": "SciSnack.com",
+    "funders": [],
+    "resource_categories": [
+      "peer-review"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-01-23T15:27:00Z",
+    "updated_at": "2019-01-23T15:47:53Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Peer review"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-on-preparing-good-talks",
+    "legacy_id": 14,
+    "slug": "on-preparing-good-talks",
+    "name": "On Preparing Good Talks",
+    "url": "https://ranjitjhala.github.io/static/PLMW-talk-opinionated.pdf",
+    "description": "An opinionated talk on how to create content, design and deliver good talks.",
+    "source_name": "Ranjit Jhala, UCSD",
+    "funders": [],
+    "resource_categories": [
+      "science-communication"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-01-23T15:43:00Z",
+    "updated_at": "2019-01-23T15:48:07Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Science Communication"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-seeing-theory-a-visual-introduction-to-statistics",
+    "legacy_id": 15,
+    "slug": "seeing-theory-a-visual-introduction-to-statistics",
+    "name": "Seeing Theory - A visual introduction to statistics",
+    "url": "https://seeing-theory.brown.edu/",
+    "description": "A very useful website which makes probability and statistics more accessible through interactive visualizations",
+    "source_name": "Daniel Kunin",
+    "funders": [],
+    "resource_categories": [
+      "science-communication"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-01-23T16:11:00Z",
+    "updated_at": "2019-01-23T16:12:11Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Science Communication"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-prereview",
+    "legacy_id": 17,
+    "slug": "prereview",
+    "name": "PREreview",
+    "url": "https://prereview.org",
+    "description": "A web platform for hosting preprint reviews and sharing them openly with everyone.",
+    "source_name": "PREreview",
+    "funders": [],
+    "resource_categories": [
+      "preprints",
+      "peer-review"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-01-24T10:29:00Z",
+    "updated_at": "2019-01-24T10:32:27Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Preprints",
+      "Peer review"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-software-carpentry",
+    "legacy_id": 16,
+    "slug": "software-carpentry",
+    "name": "Software Carpentry",
+    "url": "https://software-carpentry.org/",
+    "description": "A group volunteer instructors who teach foundational coding and data science skills to researchers worldwide for free.",
+    "source_name": "Software Carpentry Foundation",
+    "funders": [],
+    "resource_categories": [
+      "reproducibility"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-01-23T17:55:00Z",
+    "updated_at": "2019-01-25T14:45:32Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Reproducibility"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-successful-grant-proposals-in-the-biological-sciences",
+    "legacy_id": 18,
+    "slug": "successful-grant-proposals-in-the-biological-sciences",
+    "name": "Successful grant proposals in the biological sciences",
+    "url": "https://jabberwocky.weecology.org/2012/08/10/a-list-of-publicly-available-grant-proposals-in-the-biological-sciences/",
+    "description": "An open list of funded grant proposals in the life sciences shared by the authors publically.",
+    "source_name": "Jabberwocky Ecology",
+    "funders": [],
+    "resource_categories": [
+      "science-communication",
+      "academic-writing"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-01-25T15:17:00Z",
+    "updated_at": "2019-01-25T15:17:51Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Science Communication",
+      "Academic writing"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-a-list-successful-job-applications-and-grants",
+    "legacy_id": 19,
+    "slug": "a-list-successful-job-applications-and-grants",
+    "name": "A list successful job applications and grants",
+    "url": "https://github.com/RILAB/statements",
+    "description": "Examples of successful grants as well as cover letters, CVs, research and teaching statements for job applications.",
+    "source_name": "Ross-Ibarra Lab",
+    "funders": [],
+    "resource_categories": [
+      "career-development",
+      "science-communication",
+      "academic-writing"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-01-25T15:23:00Z",
+    "updated_at": "2019-01-25T15:23:50Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development",
+      "Science Communication",
+      "Academic writing"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-prelights",
+    "legacy_id": 20,
+    "slug": "prelights",
+    "name": "preLights",
+    "url": "https://prelights.biologists.com/",
+    "description": "Highlight and comment on preprints of particular interest to the biological community by a group of early-career researchers.",
+    "source_name": "The Company of Biologists",
+    "funders": [],
+    "resource_categories": [
+      "preprints"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-01-27T22:21:00Z",
+    "updated_at": "2019-01-27T22:23:27Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Preprints"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-tenure-denial-and-how-early-career-researchers-can-survive-it",
+    "legacy_id": 21,
+    "slug": "tenure-denial-and-how-early-career-researchers-can-survive-it",
+    "name": "Tenure denial, and how early-career researchers can survive it",
+    "url": "https://www.nature.com/articles/d41586-019-00219-5",
+    "description": "Scientists with first-hand experience of rejection offer their advice.",
+    "source_name": "Nature",
+    "funders": [],
+    "resource_categories": [
+      "career-development"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-01-27T23:36:00Z",
+    "updated_at": "2019-01-27T23:37:07Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-step-by-step-your-career-from-undergrad-to-postdoc",
+    "legacy_id": 22,
+    "slug": "step-by-step-your-career-from-undergrad-to-postdoc",
+    "name": "Step by Step: Your Career from Undergrad to Postdoc",
+    "url": "https://www.sciencemag.org/booklets/step-step-your-career-undergrad-postdoc",
+    "description": "A booklet looks at the steps you can take throughout your training to better prepare for your career.",
+    "source_name": "Science careers",
+    "funders": [],
+    "resource_categories": [
+      "career-development"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-01-28T08:03:00Z",
+    "updated_at": "2019-01-28T08:04:16Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-making-the-right-moves-a-practical-guide-to-scientific-management-for-postdocs-and-new-faculty",
+    "legacy_id": 23,
+    "slug": "making-the-right-moves-a-practical-guide-to-scientific-management-for-postdocs-and-new-faculty",
+    "name": "Making the Right Moves: A practical guide to scientific  management for postdocs and new faculty",
+    "url": "https://www.hhmi.org/developing-scientists/making-right-moves",
+    "description": "A book full of practical advice and experiences from seasoned biomedical investigators on laboratory leadership, getting funded, project management, and teaching and course design.",
+    "source_name": "Burroughs Wellcome Fund & Howard Hughes Medical Institute",
+    "funders": [],
+    "resource_categories": [
+      "career-development"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-01-28T09:32:00Z",
+    "updated_at": "2019-01-28T09:35:10Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-career-trends-booklets",
+    "legacy_id": 24,
+    "slug": "career-trends-booklets",
+    "name": "Career Trends Booklets",
+    "url": "https://www.sciencemag.org/booklets",
+    "description": "A list of useful booklets brings together advice and tips from Science Careers in order to help scientists to learn new skills and be successful.",
+    "source_name": "Science careers",
+    "funders": [],
+    "resource_categories": [
+      "career-development",
+      "science-communication",
+      "academic-writing"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-01-28T11:10:00Z",
+    "updated_at": "2019-01-28T11:24:13Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development",
+      "Science Communication",
+      "Academic writing"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-training-scientists-to-make-the-right-moves",
+    "legacy_id": 25,
+    "slug": "training-scientists-to-make-the-right-moves",
+    "name": "Training Scientists to Make the Right Moves",
+    "url": "https://www.hhmi.org/sites/default/files/Educational%20Materials/Lab%20Management/Training%20Scientists/training-scientists-fulltext.pdf",
+    "description": "A Practical Guide to Developing Programs in Scientifıc Management",
+    "source_name": "Burroughs Wellcome Fund & Howard Hughes Medical Institute",
+    "funders": [],
+    "resource_categories": [
+      "career-development"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-01-28T11:44:00Z",
+    "updated_at": "2019-01-28T11:44:00Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-scientific-protocols-repository",
+    "legacy_id": 26,
+    "slug": "scientific-protocols-repository",
+    "name": "Scientific protocols repository",
+    "url": "https://www.protocols.io/",
+    "description": "An open access and crowd-sourced repository for science methods/protocols for researchers to make your science more reproducible.",
+    "source_name": "Protocols.io",
+    "funders": [],
+    "resource_categories": [
+      "reproducibility"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-01-30T09:46:00Z",
+    "updated_at": "2019-01-30T09:47:00Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Reproducibility"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-tips-for-negotiating-salary-and-startup-package",
+    "legacy_id": 28,
+    "slug": "tips-for-negotiating-salary-and-startup-package",
+    "name": "Tips for negotiating salary and startup package",
+    "url": "https://dynamicecology.wordpress.com/2017/03/01/tips-for-negotiating-salary-and-startup-for-newly-hired-tenure-track-faculty/",
+    "description": "Useful tips for negotiating salary and startup for newly-hired tenure-track faculty",
+    "source_name": "Dynamic Ecology",
+    "funders": [],
+    "resource_categories": [
+      "career-development"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-01-30T14:44:28Z",
+    "updated_at": "2019-01-30T14:44:28Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-how-to-grow-a-healthy-lab",
+    "legacy_id": 29,
+    "slug": "how-to-grow-a-healthy-lab",
+    "name": "How to grow a healthy lab",
+    "url": "https://www.nature.com/collections/pmlcrkkyyq",
+    "description": "A special issue by Nature explores how the working environment shapes research quality and morale — and what can be done to strengthen the research enterprise.",
+    "source_name": "Nature",
+    "funders": [],
+    "resource_categories": [
+      "career-development"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-01-30T14:50:51Z",
+    "updated_at": "2019-01-30T14:50:51Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-review-of-electronic-lab-notebooks",
+    "legacy_id": 30,
+    "slug": "review-of-electronic-lab-notebooks",
+    "name": "Review of electronic lab notebooks",
+    "url": "https://datamanagement.hms.harvard.edu/electronic-lab-notebooks",
+    "description": "A detailed comparison of Electronic Lab Notebooks (ELN) to help researchers in the process of identifying a usable ELN solution to meet their specific research needs.",
+    "source_name": "Harvard Biomedical School",
+    "funders": [],
+    "resource_categories": [
+      "reproducibility",
+      "science-communication"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-01-30T14:59:00Z",
+    "updated_at": "2019-01-30T18:01:39Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Reproducibility",
+      "Science Communication"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-romeo-publisher-copyright-policies-self-archiving",
+    "legacy_id": 31,
+    "slug": "romeo-publisher-copyright-policies-self-archiving",
+    "name": "RoMEO - Publisher copyright policies & self-archiving",
+    "url": "http://www.sherpa.ac.uk/romeo/index.php",
+    "description": "An online resource that aggregates publisher open access policies and shows whether the academic journal allows preprint or postprint archiving in their copyright transfer agreements.",
+    "source_name": "SHERPA",
+    "funders": [],
+    "resource_categories": [
+      "policy",
+      "preprints",
+      "publishing"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-02-03T14:16:00Z",
+    "updated_at": "2019-02-03T14:18:25Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Policy",
+      "Preprints",
+      "Publishing"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-graphics-principles-cheatsheet",
+    "legacy_id": 7,
+    "slug": "graphics-principles-cheatsheet",
+    "name": "Graphics principles cheatsheet",
+    "url": "https://graphicsprinciples.github.io/",
+    "description": "A useful initiative to increase the graphical expertise and productivity of quantitative scientists.",
+    "source_name": "Novartis",
+    "funders": [],
+    "resource_categories": [
+      "science-communication"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-01-15T23:01:00Z",
+    "updated_at": "2019-02-05T21:07:28Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Science Communication"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-new-pi-slack-community",
+    "legacy_id": 34,
+    "slug": "new-pi-slack-community",
+    "name": "New PI Slack Community",
+    "url": "https://newpislack.wordpress.com/",
+    "description": "An international community of Assistant Professors uses Slack to help each other tackle common challenges faced by new faculty.",
+    "source_name": "Prachee Avasthi",
+    "funders": [],
+    "resource_categories": [
+      "career-development",
+      "science-communication"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-02-08T08:18:00Z",
+    "updated_at": "2019-02-08T08:28:01Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development",
+      "Science Communication"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-future-pi-slack-community",
+    "legacy_id": 35,
+    "slug": "future-pi-slack-community",
+    "name": "Future PI Slack Community",
+    "url": "https://futurepislack.wordpress.com/",
+    "description": "An international community of postdocs uses Slack to help each other on the academic track.",
+    "source_name": "Future PI Slack",
+    "funders": [],
+    "resource_categories": [
+      "career-development",
+      "science-communication"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-02-08T08:26:00Z",
+    "updated_at": "2019-02-08T08:29:02Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development",
+      "Science Communication"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-transpose-journal-preprint-policies",
+    "legacy_id": 8,
+    "slug": "transpose-journal-preprint-policies",
+    "name": "TRANSPOSE Journal Preprint Policies",
+    "url": "http://asapbio.org/transpose-preprints",
+    "description": "A grassroots initiative to build a crowdsourced database of journal policies.",
+    "source_name": "TRANSPOSE and ASAPbio",
+    "funders": [],
+    "resource_categories": [
+      "policy",
+      "publishing",
+      "preprints"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-01-15T23:09:00Z",
+    "updated_at": "2019-02-10T17:10:07Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Policy",
+      "Publishing",
+      "Preprints"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-funding-opportunities-for-graduate-students",
+    "legacy_id": 38,
+    "slug": "funding-opportunities-for-graduate-students",
+    "name": "Funding Opportunities for Graduate Students",
+    "url": "https://research.jhu.edu/rdt/funding-opportunities/graduate/",
+    "description": "Maintained by the VP Research at Johns Hopkins, their office maintains this updated list in the form of a spreadsheet with 121 opportunities.",
+    "source_name": "Johns Hopkins University",
+    "funders": [],
+    "resource_categories": [
+      "career-development"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-02-10T02:50:00Z",
+    "updated_at": "2019-03-01T12:27:00Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-funding-opportunities-for-early-career-researchers",
+    "legacy_id": 39,
+    "slug": "funding-opportunities-for-early-career-researchers",
+    "name": "Funding Opportunities for Early Career Researchers",
+    "url": "https://research.jhu.edu/rdt/funding-opportunities/early-career/",
+    "description": "Maintained by the VP Research at Johns Hopkins, their office maintains this updated list in the form of a spreadsheet with  375 opportunities intended for \"intended for late Postdoctoral investigators and early-career faculty, usually those at or below the rank of assistant professor\".",
+    "source_name": "Johns Hopkins University",
+    "funders": [],
+    "resource_categories": [
+      "career-development"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-02-10T02:53:00Z",
+    "updated_at": "2019-03-01T12:27:54Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-on-being-a-scientist-a-guide-to-responsible-conduct-in-research",
+    "legacy_id": 40,
+    "slug": "on-being-a-scientist-a-guide-to-responsible-conduct-in-research",
+    "name": "On Being a Scientist: A Guide to Responsible Conduct in Research",
+    "url": "https://graduateschool.nd.edu/assets/21763/on_being_a_scientist.pdf",
+    "description": "This free and short book presents an overview of the professional standards of science and explains why adherence to those standards is essential for continued scientific progress.",
+    "source_name": "National Academy of Sciences",
+    "funders": [],
+    "resource_categories": [
+      "reproducibility",
+      "science-communication",
+      "policy",
+      "publishing",
+      "peer-review"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-03-10T13:13:00Z",
+    "updated_at": "2019-03-10T13:40:10Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Reproducibility",
+      "Science Communication",
+      "Policy",
+      "Publishing",
+      "Peer review"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-on-the-value-of-preprints-an-early-career-researcher-perspective",
+    "legacy_id": 41,
+    "slug": "on-the-value-of-preprints-an-early-career-researcher-perspective",
+    "name": "On the value of preprints: An early career researcher perspective",
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000151",
+    "description": "This Perspective article from an interdisciplinary group of early career researchers explores the value of preprints, advocates the wider adoption of preprints to advance knowledge and facilitate career development, and tackles concerns and opportunities regarding their use.",
+    "source_name": "PLoS Biology",
+    "funders": [],
+    "resource_categories": [
+      "preprints",
+      "publishing"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-03-12T21:27:00Z",
+    "updated_at": "2019-03-13T08:00:05Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Preprints",
+      "Publishing"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-writing-a-teaching-statement-for-faculty-job-applications",
+    "legacy_id": 46,
+    "slug": "writing-a-teaching-statement-for-faculty-job-applications",
+    "name": "Writing a Teaching Statement for Faculty Job Applications",
+    "url": "https://theprofessorisin.com/2016/09/12/thedreadedteachingstatement/",
+    "description": "How to write an effective teaching statement for a teaching job in academia.",
+    "source_name": "Professor is in",
+    "funders": [],
+    "resource_categories": [
+      "teaching"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-05-08T14:31:00Z",
+    "updated_at": "2019-05-09T06:33:15Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Teaching"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-list-of-format-free-journals",
+    "legacy_id": 43,
+    "slug": "list-of-format-free-journals",
+    "name": "List of format-free journals",
+    "url": "https://asntech.github.io/format-free-journals/",
+    "description": "List of life science and biomedical journals that accept format-free initial submissions or part of YPYW or B2J initiatives. https://doi.org/10.15252/embr.201845731",
+    "source_name": "EMBO Reports",
+    "funders": [],
+    "resource_categories": [
+      "policy",
+      "publishing"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-05-01T21:30:00Z",
+    "updated_at": "2019-05-09T06:33:47Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Policy",
+      "Publishing"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-effective-self-management-for-early-career-researchers-in-natural-sciences",
+    "legacy_id": 42,
+    "slug": "effective-self-management-for-early-career-researchers-in-natural-sciences",
+    "name": "Effective self-management for early career researchers in natural sciences",
+    "url": "https://osf.io/53yrv/",
+    "description": "A set of useful guidelines for ECRs for self-management, including career development, managing your time properly, tips on taking care of oneself and surrounding oneself with positivity, recognizing and addressing bottlenecks in one’s projects, growing one’s network, mentoring and being mentored, and staying vigilant to opportunities outside science and keeping several doors open.",
+    "source_name": "OHBM Student and Postdoc Special Interest Group",
+    "funders": [],
+    "resource_categories": [
+      "career-development",
+      "preprints"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-03-20T16:28:00Z",
+    "updated_at": "2019-05-09T13:48:54Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development",
+      "Preprints"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-a-library-of-free-biology-icons",
+    "legacy_id": 48,
+    "slug": "a-library-of-free-biology-icons",
+    "name": "A library of Free Biology icons",
+    "url": "https://reactome.org/icon-lib",
+    "description": "A free library of 1,300 unique biology icons available under CC-BY.",
+    "source_name": "Reactome",
+    "funders": [],
+    "resource_categories": [
+      "science-communication",
+      "teaching",
+      "other",
+      "open-source"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-05-10T02:23:00Z",
+    "updated_at": "2019-05-10T02:35:50Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Science Communication",
+      "Teaching",
+      "Other",
+      "Open source"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-digital-safety-for-open-researchers",
+    "legacy_id": 49,
+    "slug": "digital-safety-for-open-researchers",
+    "name": "Digital Safety for Open Researchers",
+    "url": "https://digital-safety-for-open-research.gitbook.io/project/",
+    "description": "This resource aims to raise awareness of digital safety and privacy threats on intellectual freedom.",
+    "source_name": "GitBook",
+    "funders": [],
+    "resource_categories": [
+      "reproducibility"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-05-10T02:33:00Z",
+    "updated_at": "2019-05-10T06:49:39Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Reproducibility"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-teaching-brainfacts",
+    "legacy_id": 52,
+    "slug": "teaching-brainfacts",
+    "name": "Teaching BrainFacts",
+    "url": "https://www.brainfacts.org/for-educators",
+    "description": "A collection of resources for teachers of brain sciences.",
+    "source_name": "Brain Facts",
+    "funders": [],
+    "resource_categories": [
+      "science-communication",
+      "teaching"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-05-10T17:35:00Z",
+    "updated_at": "2019-05-10T17:39:31Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Science Communication",
+      "Teaching"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-teaching-resources-for-psychology",
+    "legacy_id": 51,
+    "slug": "teaching-resources-for-psychology",
+    "name": "Teaching Resources for Psychology",
+    "url": "https://teachpsych.org/page-1603066",
+    "description": "A curated list of teaching and advising materials to all teachers of psychology (e.g., 4-year instructors, 2-year instructors, and high-school teachers).",
+    "source_name": "Society for the Teaching of Psychology",
+    "funders": [],
+    "resource_categories": [
+      "teaching"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-05-10T17:20:00Z",
+    "updated_at": "2019-05-10T17:40:24Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Teaching"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-ten-simple-rules-for-writing-a-postdoctoral-fellowship",
+    "legacy_id": 54,
+    "slug": "ten-simple-rules-for-writing-a-postdoctoral-fellowship",
+    "name": "Ten Simple Rules for Writing a Postdoctoral Fellowship",
+    "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004934",
+    "description": "Useful tips for securing postdoctoral fellowships by writing a successful proposal.",
+    "source_name": "PLoS Computational Biology",
+    "funders": [],
+    "resource_categories": [
+      "career-development",
+      "academic-writing"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-05-12T22:03:00Z",
+    "updated_at": "2019-05-13T07:46:55Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development",
+      "Academic writing"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-ten-simple-rules-for-getting-grants",
+    "legacy_id": 55,
+    "slug": "ten-simple-rules-for-getting-grants",
+    "name": "Ten Simple Rules for Getting Grants",
+    "url": "https://doi.org/10.1371/journal.pcbi.0020012",
+    "description": "Useful tips for writing successful grant proposals",
+    "source_name": "PLoS Computational Biology",
+    "funders": [],
+    "resource_categories": [
+      "career-development",
+      "academic-writing"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-05-12T22:12:00Z",
+    "updated_at": "2019-05-13T07:47:41Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development",
+      "Academic writing"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-ten-simple-rules-for-structuring-papers",
+    "legacy_id": 56,
+    "slug": "ten-simple-rules-for-structuring-papers",
+    "name": "Ten simple rules for structuring papers",
+    "url": "https://doi.org/10.1371/journal.pcbi.1005619",
+    "description": "Useful tips to make a research paper more influential and the process of writing more efficient and pleasurable.",
+    "source_name": "PLoS Computational Biology",
+    "funders": [],
+    "resource_categories": [
+      "academic-writing",
+      "publishing"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-05-13T07:51:00Z",
+    "updated_at": "2019-05-13T07:52:05Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Academic writing",
+      "Publishing"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-the-turing-way",
+    "legacy_id": 57,
+    "slug": "the-turing-way",
+    "name": "The Turing Way",
+    "url": "https://the-turing-way.netlify.com/introduction/introduction",
+    "description": "An opinionated guide to reproducible data science.",
+    "source_name": "The Turing Way Community",
+    "funders": [],
+    "resource_categories": [
+      "reproducibility"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-05-13T22:53:00Z",
+    "updated_at": "2019-05-13T22:54:17Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Reproducibility"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-gender-bias-calculator",
+    "legacy_id": 58,
+    "slug": "gender-bias-calculator",
+    "name": "Gender Bias Calculator",
+    "url": "http://slowe.github.io/genderbias/",
+    "description": "A tool to help remove gender bias from reference letters.",
+    "source_name": "Gender Bias Calculator",
+    "funders": [],
+    "resource_categories": [
+      "teaching"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-05-15T16:17:00Z",
+    "updated_at": "2019-05-16T09:56:41Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Teaching"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-imperial-guide-to-cvs",
+    "legacy_id": 59,
+    "slug": "imperial-guide-to-cvs",
+    "name": "Imperial Guide to CVs",
+    "url": "https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/careers-service/public/resources/publications/Imperial-Guide-to-CVs.pdf",
+    "description": "Examples of model CVs for different purposes at different career levels.",
+    "source_name": "Imperial College London",
+    "funders": [],
+    "resource_categories": [
+      "career-development"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-05-18T22:00:00Z",
+    "updated_at": "2019-05-18T22:12:47Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-aaas-communication-toolkit",
+    "legacy_id": 61,
+    "slug": "aaas-communication-toolkit",
+    "name": "AAAS Communication Toolkit",
+    "url": "https://www.aaas.org/resources/communication-toolkit",
+    "description": "Guidance and tips to improve your communication skills for engagement with a public audience.",
+    "source_name": "American Association for the Advancement of Science",
+    "funders": [],
+    "resource_categories": [
+      "science-communication",
+      "public-involvement-in-research"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-05-29T08:14:00Z",
+    "updated_at": "2019-05-29T08:21:23Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Science Communication",
+      "Public Involvement in Research"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-quick-guide-to-science-communication",
+    "legacy_id": 62,
+    "slug": "quick-guide-to-science-communication",
+    "name": "Quick Guide to Science Communication",
+    "url": "https://www.brown.edu/academics/science-center/sites/brown.edu.academics.science-center/files/uploads/Quick_Guide_to_Science_Communication_0.pdf",
+    "description": "A guide to communicate successfully with a wide range of audiences about science.",
+    "source_name": "Brown University Science Center",
+    "funders": [],
+    "resource_categories": [
+      "science-communication",
+      "public-involvement-in-research"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-05-29T08:44:00Z",
+    "updated_at": "2019-05-29T10:10:10Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Science Communication",
+      "Public Involvement in Research"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-facilitating-public-and-patient-involvement-in-basic-and-preclinical-health-research",
+    "legacy_id": 64,
+    "slug": "facilitating-public-and-patient-involvement-in-basic-and-preclinical-health-research",
+    "name": "Facilitating public and patient involvement in basic and preclinical health research",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216600",
+    "description": "A peer reviewed article that examines the challenges to implementing meaningful public and patient involvement in research and provides planning an evaluation tools for researchers",
+    "source_name": "PLoS ONE",
+    "funders": [],
+    "resource_categories": [
+      "public-involvement-in-research"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-05-29T09:36:00Z",
+    "updated_at": "2019-05-29T10:10:43Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Public Involvement in Research"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-public-engagement-a-practical-guide",
+    "legacy_id": 63,
+    "slug": "public-engagement-a-practical-guide",
+    "name": "Public engagement - a practical guide",
+    "url": "http://senseaboutscience.org/wp-content/uploads/2017/11/Public-engagement-a-practical-guide.pdf",
+    "description": "A five-step guide to involving the public in communicating your research.",
+    "source_name": "Sense About Science and National Institute for Health Research",
+    "funders": [],
+    "resource_categories": [
+      "science-communication",
+      "public-involvement-in-research"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-05-29T08:50:00Z",
+    "updated_at": "2019-05-29T13:06:46Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Science Communication",
+      "Public Involvement in Research"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-reproducibility-for-everyone",
+    "legacy_id": 53,
+    "slug": "reproducibility-for-everyone",
+    "name": "Reproducibility for Everyone",
+    "url": "https://www.repro4everyone.org/",
+    "description": "Visit the website for reproducibility resources and events, or to join their community!",
+    "source_name": "Reproducibility for Everyone",
+    "funders": [],
+    "resource_categories": [
+      "reproducibility"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-05-10T18:12:00Z",
+    "updated_at": "2019-06-21T13:22:03Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Reproducibility"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-make-a-difference-public-involvement-in-research-blog-by-derek-stewart",
+    "legacy_id": 65,
+    "slug": "make-a-difference-public-involvement-in-research-blog-by-derek-stewart",
+    "name": "Make a Difference - Public Involvement in Research Blog by Derek Stewart",
+    "url": "http://derek-online.blogspot.com/2018/10/useful-sources-of-information-about.html",
+    "description": "Involving Patient, Families and Public in Pre-clinical or Non-clinical Research - Useful Sources of Information",
+    "source_name": "Derek Stewart",
+    "funders": [],
+    "resource_categories": [
+      "public-involvement-in-research"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-05-29T09:59:00Z",
+    "updated_at": "2019-07-01T10:22:32Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Public Involvement in Research"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-animal-research-nexus",
+    "legacy_id": 66,
+    "slug": "animal-research-nexus",
+    "name": "Animal Research Nexus",
+    "url": "https://animalresearchnexus.org/",
+    "description": "Working towards improving public-researcher relationships through engagement, involvement and transparency in research that uses animal models.",
+    "source_name": "AnNex team",
+    "funders": [],
+    "resource_categories": [
+      "public-involvement-in-research"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-07-01T10:18:00Z",
+    "updated_at": "2019-07-01T10:22:46Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Public Involvement in Research"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-transparency-and-public-involvement-in-animal-research",
+    "legacy_id": 67,
+    "slug": "transparency-and-public-involvement-in-animal-research",
+    "name": "Transparency and Public Involvement in Animal Research",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/026119291604400210",
+    "description": "An article that advocates for transparency in research using animal models and the need for public involvement in research to achieve this",
+    "source_name": "Pandora Pound and Ricardo Blaug",
+    "funders": [],
+    "resource_categories": [
+      "public-involvement-in-research"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-07-01T10:30:00Z",
+    "updated_at": "2019-07-01T10:30:50Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Public Involvement in Research"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-nihr-involve",
+    "legacy_id": 71,
+    "slug": "nihr-involve",
+    "name": "NIHR - INVOLVE",
+    "url": "https://www.invo.org.uk/",
+    "description": "Website with information and guidelines for researchers on how to involve members of the public in research",
+    "source_name": "National Institute for Health Research (UK)",
+    "funders": [],
+    "resource_categories": [
+      "public-involvement-in-research"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-07-01T10:52:00Z",
+    "updated_at": "2019-07-01T10:53:14Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Public Involvement in Research"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-sharing-and-celebrating-diversity-in-science",
+    "legacy_id": 77,
+    "slug": "sharing-and-celebrating-diversity-in-science",
+    "name": "Sharing and celebrating diversity in science",
+    "url": "https://uniquescientists.com/",
+    "description": "A website for a team of scientists striving to encourage the celebration of diversity in science by highlighting the journeys of #UniqueScientists from all over the world.",
+    "source_name": "UniqueScientists",
+    "funders": [],
+    "resource_categories": [
+      "diversity-and-inclusion"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-07-05T04:33:00Z",
+    "updated_at": "2019-07-08T08:57:14Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Diversity and inclusion"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-exploring-the-workplace-for-lgbt-physical-scientists",
+    "legacy_id": 76,
+    "slug": "exploring-the-workplace-for-lgbt-physical-scientists",
+    "name": "Exploring the workplace for LGBT+ physical scientists",
+    "url": "https://www.rsc.org/globalassets/04-campaigning-outreach/campaigning/lgbt-report/lgbt-report_web.pdf",
+    "description": "A report that presents a summary of findings and a number of actions for individuals, employers and professional bodies to improve the climate for LGBT+ physical scientists.",
+    "source_name": "Institute of Physics, Royal Astronomical Society and Royal Society of Chemistry",
+    "funders": [],
+    "resource_categories": [
+      "diversity-and-inclusion"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-07-05T04:32:00Z",
+    "updated_at": "2019-07-08T21:51:44Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Diversity and inclusion"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-guide-to-organizing-inclusive-scientific-meetings",
+    "legacy_id": 75,
+    "slug": "guide-to-organizing-inclusive-scientific-meetings",
+    "name": "Guide to Organizing Inclusive Scientific Meetings",
+    "url": "https://500womenscientists.org/inclusive-scientific-meetings",
+    "description": "A guide to organising inclusive conferences and scientific meetings",
+    "source_name": "500 Women Scientists",
+    "funders": [],
+    "resource_categories": [
+      "diversity-and-inclusion"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-07-04T08:39:00Z",
+    "updated_at": "2019-07-08T21:52:14Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Diversity and inclusion"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-developing-inclusive-conferences",
+    "legacy_id": 74,
+    "slug": "developing-inclusive-conferences",
+    "name": "Developing inclusive conferences",
+    "url": "https://reachwater.org.uk/wp-content/uploads/2019/05/2019_05_22_Inclusive-Conference-Guide.pdf",
+    "description": "A best practice guide for organising diverse and inclusive conferences",
+    "source_name": "Alice Chautard and Claire Hann University of Oxford",
+    "funders": [],
+    "resource_categories": [
+      "diversity-and-inclusion"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-07-04T08:31:00Z",
+    "updated_at": "2019-07-08T21:52:49Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Diversity and inclusion"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-the-shared-learning-group-on-involvement",
+    "legacy_id": 73,
+    "slug": "the-shared-learning-group-on-involvement",
+    "name": "The Shared Learning Group on Involvement",
+    "url": "http://slginvolvement.org.uk/resource/",
+    "description": "Aims to encourage shared learning about service user and/or carer involvement between national voluntary sector organisations in the UK. This group has a sub group which focuses on involvement in research. Membership is required for access to resources about public involvement in research.",
+    "source_name": "The Shared Learning Group on Involvement",
+    "funders": [],
+    "resource_categories": [
+      "public-involvement-in-research"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-07-01T11:03:00Z",
+    "updated_at": "2019-07-08T21:53:16Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Public Involvement in Research"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-ppi-resource-hub",
+    "legacy_id": 72,
+    "slug": "ppi-resource-hub",
+    "name": "PPI Resource Hub",
+    "url": "https://www.imperial.ac.uk/patient-experience-research-centre/ppi-resource-hub/",
+    "description": "Website with information and guidelines for researchers on how to involve members of the public in research",
+    "source_name": "NIHR Imperial Biomedical Research Centre",
+    "funders": [],
+    "resource_categories": [
+      "public-involvement-in-research"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-07-01T10:57:00Z",
+    "updated_at": "2019-07-08T21:53:45Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Public Involvement in Research"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-patient-centred-outcomes-research-institute-pcori-usa",
+    "legacy_id": 70,
+    "slug": "patient-centred-outcomes-research-institute-pcori-usa",
+    "name": "Patient Centred Outcomes Research Institute (PCORI), USA",
+    "url": "https://www.pcori.org/engagement",
+    "description": "PCORI helps people make informed healthcare decisions, and improves healthcare delivery and outcomes, by producing and promoting high-integrity, evidence-based information that comes from research guided by patients, caregivers, and the broader healthcare community.",
+    "source_name": "Patient-Centered Outcomes Research Institute (PCORI)",
+    "funders": [],
+    "resource_categories": [
+      "public-involvement-in-research"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-07-01T10:47:00Z",
+    "updated_at": "2019-07-08T21:55:26Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Public Involvement in Research"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-canadas-strategy-for-patient-oriented-research",
+    "legacy_id": 69,
+    "slug": "canadas-strategy-for-patient-oriented-research",
+    "name": "Canada's Strategy for Patient-Oriented Research",
+    "url": "http://www.cihr-irsc.gc.ca/e/44000.html",
+    "description": "Strategies to involve patients in a meaningful way in patient-oriented research are embedded in each of the recommended initiatives, as patient and public engagement is integral to the Strategy as a whole.",
+    "source_name": "Canadian Institutes of Health Research",
+    "funders": [],
+    "resource_categories": [
+      "public-involvement-in-research"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-07-01T10:43:00Z",
+    "updated_at": "2019-07-08T21:56:51Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Public Involvement in Research"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-ceppp-resources-directory",
+    "legacy_id": 68,
+    "slug": "ceppp-resources-directory",
+    "name": "CEPPP Resources Directory",
+    "url": "https://ceppp.ca/en/resources/",
+    "description": "A directory of resources about patient and public engagement, many focusing on partnership initiatives. New resources are added regularly.",
+    "source_name": "Centre of Excellence on Partnership with Patients and the Public (CEPPP)",
+    "funders": [],
+    "resource_categories": [
+      "public-involvement-in-research"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-07-01T10:35:00Z",
+    "updated_at": "2019-07-08T21:57:18Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Public Involvement in Research"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-best-practices-in-neuroscience-training",
+    "legacy_id": 78,
+    "slug": "best-practices-in-neuroscience-training",
+    "name": "Best Practices in Neuroscience Training",
+    "url": "https://neuronline.sfn.org/collections/best-practices-in-neuroscience-training",
+    "description": "A collection of resources on best practices in higher education and neuroscience training.",
+    "source_name": "Neuronline",
+    "funders": [],
+    "resource_categories": [
+      "career-development",
+      "teaching"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-07-08T22:36:00Z",
+    "updated_at": "2019-07-08T22:37:52Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development",
+      "Teaching"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-lab-carpentry",
+    "legacy_id": 79,
+    "slug": "lab-carpentry",
+    "name": "Lab Carpentry",
+    "url": "http://labcarpentry.org/",
+    "description": "Lab Carpentry provides training resources and example documents for lab management to busy scientists.",
+    "source_name": "Lab Carpentry",
+    "funders": [],
+    "resource_categories": [
+      "career-development",
+      "science-communication",
+      "other"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-07-17T21:17:00Z",
+    "updated_at": "2019-07-17T21:17:54Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development",
+      "Science Communication",
+      "Other"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-research-leadership-collection",
+    "legacy_id": 80,
+    "slug": "research-leadership-collection",
+    "name": "Research Leadership Collection",
+    "url": "https://www.nature.com/collections/cigjfacfbg",
+    "description": "A collection of articles on a range of topics related to careers in research science for early career researchers",
+    "source_name": "Nature",
+    "funders": [],
+    "resource_categories": [
+      "career-development"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-07-31T20:53:00Z",
+    "updated_at": "2019-07-31T21:36:33Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-national-equity-project-resources",
+    "legacy_id": 81,
+    "slug": "national-equity-project-resources",
+    "name": "National Equity Project - Resources",
+    "url": "https://nationalequityproject.org/resources",
+    "description": "An organisation that works for equity in districts, schools, classrooms, nonprofits, and communities. This is a collection of their latest publications, resources and tools.",
+    "source_name": "National Equity Project (U.S.A)",
+    "funders": [],
+    "resource_categories": [
+      "teaching",
+      "diversity-and-inclusion"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-08-03T02:02:00Z",
+    "updated_at": "2019-08-03T02:04:11Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Teaching",
+      "Diversity and inclusion"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-ess-resources",
+    "legacy_id": 82,
+    "slug": "ess-resources",
+    "name": "ESS Resources",
+    "url": "http://successinstem.ca/",
+    "description": "ESS is a research partnership with the shared goal to foster women’s inclusion and success in STEM",
+    "source_name": "Engendering Success in STEM (ESS)",
+    "funders": [],
+    "resource_categories": [
+      "diversity-and-inclusion"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-08-03T03:16:00Z",
+    "updated_at": "2019-08-03T03:16:47Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Diversity and inclusion"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-how-to-verify-a-journal-information",
+    "legacy_id": 83,
+    "slug": "how-to-verify-a-journal-information",
+    "name": "How to verify a journal information?",
+    "url": "http://miar.ub.edu/",
+    "description": "A website for scholars to find more information about journal or publisher based on collection of data for the identification and the analysis of scientific journals. MIAR is powered by University of Barcelona",
+    "source_name": "MIAR Information Matrix for the Analysis of Journals",
+    "funders": [],
+    "resource_categories": [
+      "science-communication",
+      "publishing",
+      "public-involvement-in-research"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-09-04T11:15:00Z",
+    "updated_at": "2019-09-04T11:15:54Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Science Communication",
+      "Publishing",
+      "Public Involvement in Research"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-nature-masterclasses",
+    "legacy_id": 84,
+    "slug": "nature-masterclasses",
+    "name": "Nature Masterclasses",
+    "url": "https://masterclasses.nature.com/",
+    "description": "Professional development training for researchers — via workshops and online courses",
+    "source_name": "Nature",
+    "funders": [],
+    "resource_categories": [
+      "career-development",
+      "academic-writing"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-09-11T02:36:00Z",
+    "updated_at": "2019-09-11T02:37:29Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development",
+      "Academic writing"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-mantra-research-data-management-training",
+    "legacy_id": 85,
+    "slug": "mantra-research-data-management-training",
+    "name": "MANTRA - Research Data Management Training",
+    "url": "https://mantra.edina.ac.uk/",
+    "description": "MANTRA is a free online course for those who manage digital data as part of their research project.",
+    "source_name": "The University of Edinburgh",
+    "funders": [],
+    "resource_categories": [
+      "other"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-10-12T11:57:00Z",
+    "updated_at": "2019-10-12T11:58:37Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Other"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-bio-protocol",
+    "legacy_id": 86,
+    "slug": "bio-protocol",
+    "name": "bio-protocol",
+    "url": "https://bio-protocol.org/Default.aspx",
+    "description": "A peer-reviewed protocol journal that publishes life science methods. Free to access and no publication fees are charged to authors.",
+    "source_name": "Dennis Bua",
+    "funders": [],
+    "resource_categories": [
+      "reproducibility",
+      "preprints",
+      "publishing",
+      "peer-review"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-02-28T17:56:00Z",
+    "updated_at": "2020-02-29T05:44:06Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Reproducibility",
+      "Preprints",
+      "Publishing",
+      "Peer review"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-how-fellowships-can-advance-your-scientific-career",
+    "legacy_id": 87,
+    "slug": "how-fellowships-can-advance-your-scientific-career",
+    "name": "How fellowships can advance  your scientific career",
+    "url": "https://www.ptglab.com/news/blog/how-fellowships-can-advance-your-scientific-career/",
+    "description": null,
+    "source_name": "ProteinTech",
+    "funders": [],
+    "resource_categories": [
+      "career-development"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-03-01T20:29:00Z",
+    "updated_at": "2020-03-01T20:30:54Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-finding-your-funding-path-how-and-where-to-find-your-pathway-to-research-independence",
+    "legacy_id": 88,
+    "slug": "finding-your-funding-path-how-and-where-to-find-your-pathway-to-research-independence",
+    "name": "Finding your funding path: How and where to find your pathway to research independence",
+    "url": "http://www.futureofresearch.org/funding-resources-for-early-career-researchers/",
+    "description": null,
+    "source_name": "Future of Research",
+    "funders": [],
+    "resource_categories": [
+      "career-development"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-03-01T20:30:00Z",
+    "updated_at": "2020-03-01T20:31:05Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-free-lists-of-grant-and-fellowship-opportunities-around-the-world",
+    "legacy_id": 89,
+    "slug": "free-lists-of-grant-and-fellowship-opportunities-around-the-world",
+    "name": "Free lists of grant and fellowship opportunities around the world",
+    "url": "https://www.nature.com/articles/d41586-020-00599-z?fbclid=IwAR3u8hLHUYp1Sqf0JBltymoK0GQvl6tQmzi19VvMlM8gTqvh6vb7cI_kIlM",
+    "description": "Three searchable databases provide information on global opportunities for graduate students, postdocs and junior faculty members.",
+    "source_name": "Denis Wirtz at John Hopkins University",
+    "funders": [],
+    "resource_categories": [
+      "career-development"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-03-02T01:28:00Z",
+    "updated_at": "2020-03-02T10:20:11Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-ecrlife",
+    "legacy_id": 9,
+    "slug": "ecrlife",
+    "name": "ecrLife",
+    "url": "https://ecrlife.org",
+    "description": "ecrLife is a place for early career researchers (ECRs) to share stories, ideas and experiences about their journey in science. We publish submitted articles in a variety of themes ranging from peer-review, scientific publishing, research funding to life in science.",
+    "source_name": "ecrLife",
+    "funders": [],
+    "resource_categories": [
+      "science-communication",
+      "academic-writing"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-01-17T01:14:00Z",
+    "updated_at": "2020-03-06T08:42:16Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Science Communication",
+      "Academic writing"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-microscopy-related-resources",
+    "legacy_id": 90,
+    "slug": "microscopy-related-resources",
+    "name": "Microscopy-related resources",
+    "url": "https://twitter.com/FishCsCells/status/1239546866901057536",
+    "description": "Twitter thread with microscopy-related resources",
+    "source_name": "Wendy Salmon",
+    "funders": [],
+    "resource_categories": [
+      "covid19-resources-guidebooks"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-03-20T14:45:00Z",
+    "updated_at": "2020-03-20T14:52:36Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "COVID19 Resources & guidebooks"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-a-phd-researcher-guide-through-covid-19",
+    "legacy_id": 92,
+    "slug": "a-phd-researcher-guide-through-covid-19",
+    "name": "A PhD researcher guide through COVID-19",
+    "url": "https://twitter.com/ZJAyres/status/1239983524259737606",
+    "description": null,
+    "source_name": "Dr. Zoë Ayres",
+    "funders": [],
+    "resource_categories": [
+      "covid19-resources-guidebooks"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-03-20T14:47:00Z",
+    "updated_at": "2020-03-20T14:53:06Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "COVID19 Resources & guidebooks"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-tips-for-working-at-home-with-kids",
+    "legacy_id": 91,
+    "slug": "tips-for-working-at-home-with-kids",
+    "name": "Tips for working at home with kids",
+    "url": "https://www.geektravelguide.net/tips-for-working-at-home-with-kids/",
+    "description": null,
+    "source_name": "Geek Travel Guide",
+    "funders": [],
+    "resource_categories": [
+      "covid19-resources-guidebooks"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-03-20T14:47:00Z",
+    "updated_at": "2020-03-20T14:53:34Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "COVID19 Resources & guidebooks"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-develop-new-transferable-skills",
+    "legacy_id": 93,
+    "slug": "develop-new-transferable-skills",
+    "name": "Develop new transferable skills",
+    "url": "https://twitter.com/NatureCareers/status/1240229585708597248",
+    "description": "Is your lab closed or will be closed soon due to the #COVID19 outbreak? Consider developing transferable skills whilst you’re away from the lab: a thread",
+    "source_name": "Nature Careers",
+    "funders": [],
+    "resource_categories": [
+      "covid19-resources-guidebooks"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-03-20T14:55:00Z",
+    "updated_at": "2020-03-20T14:55:34Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "COVID19 Resources & guidebooks"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-covid19-news-and-views",
+    "legacy_id": 94,
+    "slug": "covid19-news-and-views",
+    "name": "#COVID19 news and views",
+    "url": "https://twitter.com/i/lists/1240652229507526656",
+    "description": "Subscribe for the latest news on the #coronavirus pandemic.",
+    "source_name": "Wellcome Trust",
+    "funders": [],
+    "resource_categories": [
+      "covid19-resources-guidebooks"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-03-20T14:56:00Z",
+    "updated_at": "2020-03-20T14:57:04Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "COVID19 Resources & guidebooks"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-home-school-community-science-project",
+    "legacy_id": 95,
+    "slug": "home-school-community-science-project",
+    "name": "Home-school community science project",
+    "url": "http://occamstypewriter.org/mindthegap/",
+    "description": null,
+    "source_name": "Dr. Jenny Rohn",
+    "funders": [],
+    "resource_categories": [
+      "covid19-resources-guidebooks"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-03-20T14:58:00Z",
+    "updated_at": "2020-03-20T14:58:15Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "COVID19 Resources & guidebooks"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-coronavirus-research-commentary-and-news",
+    "legacy_id": 96,
+    "slug": "coronavirus-research-commentary-and-news",
+    "name": "Coronavirus: Research, Commentary, and News",
+    "url": "https://www.sciencemag.org/coronavirus-research-commentary-and-news",
+    "description": "As scientists strive to understand the dangerous respiratory disease COVID-19 (coronavirus disease 2019) and the virus that causes it, research and analyses are coming to the Sciencejournals at a dizzying pace. Our editors aim to quickly review and publish the best of them. The Science family of journals is proud to cosign a letter led by the Wellcome Trust setting out the terms under which scientific publishers should operate during this crisis. As a result, for coronavirus papers we are strongly encouraging preprints, making all data and the published paper free immediately, and aiming for expedited but thorough peer-review. Our news staff is covering the broader landscape of research and public health. We hope Science’s collected content will provide information you can trust as the science behind COVID-19 is discovered.",
+    "source_name": "Science Magazine",
+    "funders": [],
+    "resource_categories": [
+      "covid19-resources-guidebooks"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-03-20T14:59:00Z",
+    "updated_at": "2020-03-20T14:59:40Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "COVID19 Resources & guidebooks"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-us-researchers-to-help-with-diagnostics-and-other-virus-related-efforts",
+    "legacy_id": 97,
+    "slug": "us-researchers-to-help-with-diagnostics-and-other-virus-related-efforts",
+    "name": "US researchers to help with diagnostics and other virus-related efforts",
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLScXC56q2tPgz0WbPrhP7WareiclfxfaKQFI0ZbXg4FkKan5iQ/viewform?fbclid=IwAR2lJXs-bE7HFTSt1MWzkIDQN4M4BUVezYkx1hln2fSS1clqoD6N1hf2StQ",
+    "description": null,
+    "source_name": "Dr. Michael F. Wells",
+    "funders": [],
+    "resource_categories": [
+      "covid19-requests-for-help"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-03-20T15:01:00Z",
+    "updated_at": "2020-03-20T15:01:17Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "COVID19 Requests for help"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-uk-based-health-professional-without-a-uk-registered-license",
+    "legacy_id": 98,
+    "slug": "uk-based-health-professional-without-a-uk-registered-license",
+    "name": "UK-based health professional without a UK-registered license",
+    "url": "https://www.gmc-uk.org/news/news-archive/coronavirus-information-and-advice/our-emergency-powers",
+    "description": null,
+    "source_name": "General Medical Council UK",
+    "funders": [],
+    "resource_categories": [
+      "covid19-requests-for-help"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-03-20T15:02:00Z",
+    "updated_at": "2020-03-20T15:02:46Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "COVID19 Requests for help"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-data-analysis-machine-learners-bioinformaticians-epidemiologists-statisticians",
+    "legacy_id": 99,
+    "slug": "data-analysis-machine-learners-bioinformaticians-epidemiologists-statisticians",
+    "name": "Data analysis - machine learners, bioinformaticians, epidemiologists, statisticians",
+    "url": "https://discourse.data-against-covid.org/",
+    "description": "A portal where clinicians, virologists, immunologists can load data such that those with the relevant skiils can help with analysis",
+    "source_name": "Fred Hamprecht and Florian Jug",
+    "funders": [],
+    "resource_categories": [
+      "covid19-requests-for-help"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-03-20T15:03:00Z",
+    "updated_at": "2020-03-20T15:04:09Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "COVID19 Requests for help"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-platform-linking-those-who-need-help-and-scientists-who-might-have-the-relevant-skills",
+    "legacy_id": 100,
+    "slug": "platform-linking-those-who-need-help-and-scientists-who-might-have-the-relevant-skills",
+    "name": "Platform linking those who need help and scientists who might have the relevant skills",
+    "url": "http://crowdfightcovid19.org/",
+    "description": "All help and relevant skills requested!",
+    "source_name": "Crowd fight COVID19",
+    "funders": [],
+    "resource_categories": [
+      "covid19-requests-for-help"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-03-20T15:05:00Z",
+    "updated_at": "2020-03-20T15:06:02Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "COVID19 Requests for help"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-philippines-information-on-hospitals-with-pcr-capability",
+    "legacy_id": 101,
+    "slug": "philippines-information-on-hospitals-with-pcr-capability",
+    "name": "Philippines - information on hospitals with PCR capability",
+    "url": "https://twitter.com/PadayonUP/status/1240508846197493761",
+    "description": "They are developing COVID-19 testing kits, and would like tho following info from Filipino hospitals: 1. Name of Hospital 2. Location 3. Brand of PCR unit 4. Contact Number and Contact Person",
+    "source_name": "UP Padayon Public Service Office",
+    "funders": [],
+    "resource_categories": [
+      "covid19-requests-for-help"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-03-20T15:07:00Z",
+    "updated_at": "2020-03-20T15:07:34Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "COVID19 Requests for help"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-opening-up-covid-19-crisis-related-resources",
+    "legacy_id": 102,
+    "slug": "opening-up-covid-19-crisis-related-resources",
+    "name": "Opening up COVID-19 crisis related resources",
+    "url": "https://www.accelerateopenscience.nl/uncategorized/opening-up-covid-19-crisis-related-resources/",
+    "description": "We are setting up a network of different partners in the Netherlands to support research and education on aspects of the Covid-19 crisis.",
+    "source_name": "Accelerate Open Science",
+    "funders": [],
+    "resource_categories": [
+      "covid19-requests-for-help"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-03-20T15:09:00Z",
+    "updated_at": "2020-03-20T15:09:52Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "COVID19 Requests for help"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-online-research-talks-by-ecrs",
+    "legacy_id": 103,
+    "slug": "online-research-talks-by-ecrs",
+    "name": "Online research talks by ECRs",
+    "url": "https://elifesciences.org/inside-elife/1a9d9c08/elife-and-covid-19-keeping-communications-open-with-online-research-talks",
+    "description": "eLife hosts online seminars to support early-career researchers to present their research online instead of in person.",
+    "source_name": "eLife",
+    "funders": [],
+    "resource_categories": [
+      "covid19-online-events"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-03-20T15:32:00Z",
+    "updated_at": "2020-03-20T15:32:27Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "COVID19 Online events"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-covidcafe",
+    "legacy_id": 104,
+    "slug": "covidcafe",
+    "name": "COVIDCafe",
+    "url": "https://twitter.com/GC4AMH/status/1240348975628038144?s=20",
+    "description": "COVID19 is shutting down University Campuses worldwide. Social distancing may be good for preventing infection, but is bad for mental health. Combat isolation by joining us for a drop-in virtual social hour on Zoom! Check our Twitter for dates, times and Zoom links.",
+    "source_name": "Global Consortium for Academic Mental Health",
+    "funders": [],
+    "resource_categories": [
+      "covid19-online-events"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-03-20T15:34:00Z",
+    "updated_at": "2020-03-20T15:34:37Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "COVID19 Online events"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-neuromatch-virtual-unconference-in-computational-neuroscience",
+    "legacy_id": 105,
+    "slug": "neuromatch-virtual-unconference-in-computational-neuroscience",
+    "name": "Neuromatch - virtual unconference in Computational Neuroscience",
+    "url": "https://neuromatch.io/",
+    "description": "Based on the successful mind-matching session at the Cognitive Computational Neuroscience (CCN) conference, we decided to create a free web-based unconference for neuroscientists, \"neuromatch\". Registration dates 16 - 25 March, 2020 / Online conference 30 - 31 March, 2020 / Un-conference meetings 29 March - 10 April, 2020 / Twitter: #neuromatch2020",
+    "source_name": "Neuromatch",
+    "funders": [],
+    "resource_categories": [
+      "covid19-online-events"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-03-20T15:35:00Z",
+    "updated_at": "2020-03-20T15:35:53Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "COVID19 Online events"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-wirvsvirus-german-hackathon-20-22-march",
+    "legacy_id": 106,
+    "slug": "wirvsvirus-german-hackathon-20-22-march",
+    "name": "WirvsVirus - German hackathon (20-22 March)",
+    "url": "https://wirvsvirushackathon.org/",
+    "description": "Hackathon of the German Federal Govt for Coronavirus",
+    "source_name": "Bundesregierung Deutschland (German Federal Gov)",
+    "funders": [],
+    "resource_categories": [
+      "covid19-online-events"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-03-20T15:37:00Z",
+    "updated_at": "2020-03-20T15:37:11Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "COVID19 Online events"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-webinar-rapid-communication-of-covid-19-research-31-march",
+    "legacy_id": 107,
+    "slug": "webinar-rapid-communication-of-covid-19-research-31-march",
+    "name": "Webinar: Rapid communication of COVID-19 research (31 March)",
+    "url": "https://asapbio.org/covid-19-webinar",
+    "description": "Join ASAPbio and the Knowledge Futures Group for a conversation about new ways of sharing scientific information relevant to the coronavirus pandemic via preprints, rapid peer review, and more. Individual talks will be followed by a round-table discussion and an audience Q&A period.",
+    "source_name": "ASAPBio",
+    "funders": [],
+    "resource_categories": [
+      "covid19-online-events"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-03-20T15:38:00Z",
+    "updated_at": "2020-03-20T15:39:02Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "COVID19 Online events"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-webinar-data-integration-platform-for-cancer-research-cbioportal-demo",
+    "legacy_id": 109,
+    "slug": "webinar-data-integration-platform-for-cancer-research-cbioportal-demo",
+    "name": "Webinar: Data-integration platform for cancer research: cBioportal demo",
+    "url": "https://www.corbel-project.eu/webinars/data-integration-platform-for-cancer-research-cbioportal-demo.html",
+    "description": "The CORBEL webinar series continues with a presentation by Noriko A. Cassman, from the Netherlands Cancer Institute (NKI). Participants will be introduced to the data-integration platform cBioPortal. Here, different sources of research data (clinical, imaging, biosample and experimental) of a study are integrated, enabling viewing, querying and analysis. This webinar is aimed at data managers, researchers, PhD students and postdocs involved in clinical, translational and biomedical research.",
+    "source_name": "CORBEL",
+    "funders": [],
+    "resource_categories": [
+      "covid19-online-events"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-03-20T15:41:00Z",
+    "updated_at": "2020-03-20T15:41:18Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "COVID19 Online events"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-litcovid-curated-literature-hub-for-covid-19",
+    "legacy_id": 111,
+    "slug": "litcovid-curated-literature-hub-for-covid-19",
+    "name": "LitCovid - curated literature hub for COVID-19",
+    "url": "https://www.ncbi.nlm.nih.gov/research/coronavirus/",
+    "description": "LitCovid is a curated literature hub for tracking up-to-date scientific information about the 2019 novel Coronavirus.",
+    "source_name": "NCBI",
+    "funders": [],
+    "resource_categories": [
+      "covid19-resources-guidebooks"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-03-21T02:10:00Z",
+    "updated_at": "2020-03-21T15:47:58Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "COVID19 Resources & guidebooks"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-covid-19-social-study-uk-based-adults-only",
+    "legacy_id": 112,
+    "slug": "covid-19-social-study-uk-based-adults-only",
+    "name": "Covid-19 Social Study (UK-based adults only)",
+    "url": "https://redcap.idhs.ucl.ac.uk/surveys/?s=TTXKND8JMK",
+    "description": "This study aims to identify how the news about coronavirus is affecting people, whether people are having to isolate, and their experiences of isolating. It aims to inform understanding about the effects of social isolation measures on people's mental health.",
+    "source_name": "University College London",
+    "funders": [],
+    "resource_categories": [
+      "covid19-requests-for-help"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-03-22T22:41:00Z",
+    "updated_at": "2020-03-22T22:41:32Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "COVID19 Requests for help"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-our-world-in-data-covid-19-statistics-and-research",
+    "legacy_id": 113,
+    "slug": "our-world-in-data-covid-19-statistics-and-research",
+    "name": "Our World In Data (COVID-19 – Statistics and Research)",
+    "url": "https://ourworldindata.org/coronavirus",
+    "description": "Research and data to make progress against the world’s largest problems, including COVID-19.",
+    "source_name": "Our World In Data",
+    "funders": [],
+    "resource_categories": [
+      "open-source",
+      "covid19-resources-guidebooks"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-03-23T14:24:00Z",
+    "updated_at": "2020-03-23T14:28:05Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Open source",
+      "COVID19 Resources & guidebooks"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-webinars-alda-kavli-learning-center",
+    "legacy_id": 114,
+    "slug": "webinars-alda-kavli-learning-center",
+    "name": "Webinars - Alda-Kavli Learning Center",
+    "url": "https://www.aldacenter.org/aklc/webinars",
+    "description": "Attend an Alda-Kavli Learning Center webinar to learn from guest experts! Our webinars are free and open to the public thanks to the generous support of the Kavli Foundation. If you're not able to attend live, please browse our past webinars and watch the archived recordings.",
+    "source_name": "Alan Alda Center for Communicating Science - Stony Brook University",
+    "funders": [],
+    "resource_categories": [
+      "science-communication"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-03-25T18:49:00Z",
+    "updated_at": "2020-03-25T18:51:28Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Science Communication"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-25-work-from-home-tips-for-scientists",
+    "legacy_id": 115,
+    "slug": "25-work-from-home-tips-for-scientists",
+    "name": "25 Work From Home Tips for Scientists",
+    "url": "https://blog.addgene.org/25-work-from-home-tips-for-scientists",
+    "description": "Are you a grad student, postdoc, or bench scientist who began working remotely recently? Most of us at Addgene began working from home last week to flatten the curve, but working remotely can be more difficult if your work is based in the lab.  If you’re unsure what to do during this period, check out these tips and resources collated by Addgenies to help you keep calm and science on.",
+    "source_name": "Addgene",
+    "funders": [],
+    "resource_categories": [
+      "covid19-resources-guidebooks"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-03-25T18:51:00Z",
+    "updated_at": "2020-03-25T18:51:35Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "COVID19 Resources & guidebooks"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-eco-evo-reads",
+    "legacy_id": 116,
+    "slug": "eco-evo-reads",
+    "name": "Eco Evo Reads",
+    "url": "https://twitter.com/kirstyjean/status/1242015097758920704?s=20",
+    "description": "As everyone settles into working from home/social distancing, a reminder about our #EcoEvoReads online reading group! It's already proven to be a nice way to maintain social ties with researchers and friends globally. Join us if you'd like!",
+    "source_name": "Kirsty Macleod",
+    "funders": [],
+    "resource_categories": [
+      "covid19-online-events"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-03-25T18:53:00Z",
+    "updated_at": "2020-03-25T18:53:20Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "COVID19 Online events"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-what-might-covid-19-mean-for-phd-students-postdocs",
+    "legacy_id": 117,
+    "slug": "what-might-covid-19-mean-for-phd-students-postdocs",
+    "name": "What might Covid-19 mean for PhD students & postdocs?",
+    "url": "https://www.hepi.ac.uk/2020/03/16/what-might-covid-19-mean-for-phd-students-postdocs/",
+    "description": "Blog written by Bethan Cornell, a PhD student at King’s College London.",
+    "source_name": "Higher Education Policy Institute (HEPI)",
+    "funders": [],
+    "resource_categories": [
+      "covid19-resources-guidebooks"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-03-25T18:55:00Z",
+    "updated_at": "2020-03-25T18:55:34Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "COVID19 Resources & guidebooks"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-covid-19-research-resources",
+    "legacy_id": 118,
+    "slug": "covid-19-research-resources",
+    "name": "COVID-19 Research Resources",
+    "url": "https://www.benchling.com/covid-19/",
+    "description": "To support scientists mobilizing to characterize the COVID-19 virus and develop diagnostics, vaccines, and treatments, we are collecting resources pertinent to research efforts. The sequences, protocols, and other work below have been shared by scientists for public use.",
+    "source_name": "Benchling",
+    "funders": [],
+    "resource_categories": [
+      "covid19-resources-guidebooks"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-03-25T18:56:00Z",
+    "updated_at": "2020-03-25T18:57:22Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "COVID19 Resources & guidebooks"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-linkedin-learning",
+    "legacy_id": 119,
+    "slug": "linkedin-learning",
+    "name": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/",
+    "description": "Courses for every step of your career. Instructors with real-world experience.",
+    "source_name": "LinkedIn",
+    "funders": [],
+    "resource_categories": [
+      "career-development"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-03-25T19:01:00Z",
+    "updated_at": "2020-03-25T19:02:00Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-useful-projects-and-resources-for-covid-19",
+    "legacy_id": 120,
+    "slug": "useful-projects-and-resources-for-covid-19",
+    "name": "Useful projects and resources for COVID-19",
+    "url": "https://github.com/soroushchehresa/awesome-coronavirus",
+    "description": "COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers around the world are building applications for the public to get up-to-date and accurate information as quickly as possible.  If you are a developer, you may also be able to contribute to some of these projects.",
+    "source_name": "Soroush Chehresa (GitHub)",
+    "funders": [],
+    "resource_categories": [
+      "covid19-resources-guidebooks",
+      "covid19-requests-for-help"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-03-26T09:37:00Z",
+    "updated_at": "2020-03-26T09:37:28Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "COVID19 Resources & guidebooks",
+      "COVID19 Requests for help"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-connect-with-australian-researchers-sequencing-sars-cov-2",
+    "legacy_id": 121,
+    "slug": "connect-with-australian-researchers-sequencing-sars-cov-2",
+    "name": "Connect with Australian researchers sequencing SARS-CoV-2",
+    "url": "https://sarscov2-seq-au.slack.com/join/shared_invite/zt-cxo8fomt-TUXbNwQ~SW6zhAsXOhPghw",
+    "description": "If you are in Australia and interested in connecting with other researchers sequencing SARS-CoV-2, join the Slack channel for sharing tips and tricks asking for technical help.",
+    "source_name": "Benjamin Schwessinger (on Twitter)",
+    "funders": [],
+    "resource_categories": [
+      "covid19-resources-guidebooks",
+      "covid19-requests-for-help"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-03-26T16:40:00Z",
+    "updated_at": "2020-03-26T16:40:55Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "COVID19 Resources & guidebooks",
+      "COVID19 Requests for help"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-help-with-australian-covid-19-response",
+    "legacy_id": 122,
+    "slug": "help-with-australian-covid-19-response",
+    "name": "Help with Australian COVID-19 response",
+    "url": "https://www.apsjobs.gov.au/s/job-details?Id=a055m000000IxywAAC&returl=job-search",
+    "description": null,
+    "source_name": "Australian Government",
+    "funders": [],
+    "resource_categories": [
+      "covid19-requests-for-help"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-03-26T16:42:00Z",
+    "updated_at": "2020-03-26T16:42:58Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "COVID19 Requests for help"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-sars-cov-2-proteins-and-their-homologues",
+    "legacy_id": 123,
+    "slug": "sars-cov-2-proteins-and-their-homologues",
+    "name": "SARS-CoV-2 proteins and their homologues",
+    "url": "http://slim.icr.ac.uk/proviz/",
+    "description": "For anyone interested in sequence gazing at the SARS-CoV-2 proteins and their homologues, we've uploaded the alignments ito the ProViz visualisation tool.",
+    "source_name": "Davey Lab (via Twitter)",
+    "funders": [],
+    "resource_categories": [
+      "covid19-resources-guidebooks",
+      "covid19-requests-for-help"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-03-26T16:44:00Z",
+    "updated_at": "2020-03-26T16:44:30Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "COVID19 Resources & guidebooks",
+      "COVID19 Requests for help"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-science-communication-in-action-covid-19-edition",
+    "legacy_id": 124,
+    "slug": "science-communication-in-action-covid-19-edition",
+    "name": "Science communication in action: COVID-19 edition",
+    "url": "https://www.asbmb.org/asbmb-today/opinions/032320/science-communication-in-action-covid-19-edition",
+    "description": "10 examples of solid scicomm about the novel coronavirus",
+    "source_name": "ASBMB",
+    "funders": [],
+    "resource_categories": [
+      "science-communication",
+      "covid19-resources-guidebooks"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-03-26T16:45:00Z",
+    "updated_at": "2020-03-26T16:45:42Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Science Communication",
+      "COVID19 Resources & guidebooks"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-covid-19-open-letter-to-ukri",
+    "legacy_id": 125,
+    "slug": "covid-19-open-letter-to-ukri",
+    "name": "COVID-19: Open Letter to UKRI",
+    "url": "https://docs.google.com/document/d/1Oawtie1Y_zDMwDti6GCm82vNAMPPPZrXtaCMy7pI-3Q/edit",
+    "description": null,
+    "source_name": "Several UK academic groups and universities",
+    "funders": [],
+    "resource_categories": [
+      "covid19-requests-for-help"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-03-29T12:18:00Z",
+    "updated_at": "2020-03-29T12:18:51Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "COVID19 Requests for help"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-virtual-keystone-symposia",
+    "legacy_id": 127,
+    "slug": "virtual-keystone-symposia",
+    "name": "Virtual Keystone Symposia",
+    "url": "https://virtual.keystonesymposia.org/ks/pages/virtualevents",
+    "description": null,
+    "source_name": "Keystone Symposia",
+    "funders": [],
+    "resource_categories": [
+      "science-communication",
+      "covid19-online-events"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-03-31T07:57:00Z",
+    "updated_at": "2020-03-31T07:57:33Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Science Communication",
+      "COVID19 Online events"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-management-101-for-scientists-and-everyone",
+    "legacy_id": 108,
+    "slug": "management-101-for-scientists-and-everyone",
+    "name": "Management 101 for Scientists (and Everyone)",
+    "url": "https://www.youtube.com/watch?v=0G8t2MKBOJg",
+    "description": "Webinar given by Joanne Kamens (Addgene) on March 26, 2020. Recording available on Youtube.",
+    "source_name": "Addgene",
+    "funders": [],
+    "resource_categories": [
+      "career-development"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-03-20T15:40:00Z",
+    "updated_at": "2020-03-31T08:17:47Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-educational-resources-to-make-the-best-out-of-the-corona-break",
+    "legacy_id": 128,
+    "slug": "educational-resources-to-make-the-best-out-of-the-corona-break",
+    "name": "Educational resources to make the best out of the corona break",
+    "url": "https://www.bihealth.org/en/research/quest-center/service/educational-resources-to-make-the-best-out-of-the-corona-break/",
+    "description": "Around the world, many researchers have found themselves in self-isolation, and are unable to continue performing lab-based studies. However, this can be an opportunity to learn and expand professional and scientific horizons. We have created a list of resources to help you make the best of this strange and challenging time, and increase the quality of your research in the future.",
+    "source_name": "QUEST centre - Berlin Institute of Health",
+    "funders": [],
+    "resource_categories": [
+      "covid19-resources-guidebooks"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-03-31T13:00:00Z",
+    "updated_at": "2020-03-31T13:00:34Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "COVID19 Resources & guidebooks"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-connect-on-coronavirus",
+    "legacy_id": 126,
+    "slug": "connect-on-coronavirus",
+    "name": "Connect on Coronavirus",
+    "url": "https://www.immunology.org/coronavirus",
+    "description": "COVID-19 information website from British Society of Immunology with resources and webinars.",
+    "source_name": "British Society for Immunology (BSI)",
+    "funders": [],
+    "resource_categories": [
+      "covid19-online-events",
+      "covid19-resources-guidebooks"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-03-30T19:43:00Z",
+    "updated_at": "2020-03-31T17:49:48Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "COVID19 Online events",
+      "COVID19 Resources & guidebooks"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-immunometabolism-online-seminars",
+    "legacy_id": 129,
+    "slug": "immunometabolism-online-seminars",
+    "name": "ImmunoMetabolism Online Seminars",
+    "url": "https://immunometnet.com",
+    "description": "Due to cancellation of their Symposium in May 2020, ImmunoMetNet has now set-up weekly online seminars with the goal to build a bridge between immunology and metabolism research and medicine.",
+    "source_name": "ImmunoMetabolism Network",
+    "funders": [],
+    "resource_categories": [
+      "covid19-online-events"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-04-01T09:06:00Z",
+    "updated_at": "2020-04-01T09:06:12Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "COVID19 Online events"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-learning-bioinformatics-at-home",
+    "legacy_id": 130,
+    "slug": "learning-bioinformatics-at-home",
+    "name": "Learning bioinformatics at home",
+    "url": "https://github.com/harvardinformatics/learning-bioinformatics-at-home",
+    "description": "Some resources gathered by the Harvard Informatics group and other contributors to help people learn bioinformatics tools (basic and specialized) at home.",
+    "source_name": "Harvard Informatics (on GitHub)",
+    "funders": [],
+    "resource_categories": [
+      "open-source",
+      "covid19-resources-guidebooks"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-04-01T09:10:00Z",
+    "updated_at": "2020-04-01T09:10:59Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Open source",
+      "COVID19 Resources & guidebooks"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-covid-19-cell-atlas",
+    "legacy_id": 131,
+    "slug": "covid-19-cell-atlas",
+    "name": "COVID-19 Cell Atlas",
+    "url": "https://www.covid19cellatlas.org",
+    "description": "Overview of expression of COVID-19/SARS-CoV-2 entry-associated genes in humans.",
+    "source_name": "Wellcome Sanger Institute & Human Cell Atlas",
+    "funders": [],
+    "resource_categories": [
+      "covid19-resources-guidebooks"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-04-01T10:12:00Z",
+    "updated_at": "2020-04-01T10:12:53Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "COVID19 Resources & guidebooks"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-coronavirus-the-science-explained",
+    "legacy_id": 132,
+    "slug": "coronavirus-the-science-explained",
+    "name": "Coronavirus: the science explained",
+    "url": "https://coronavirusexplained.ukri.org/en/",
+    "description": "This website will be regularly updated with the latest science information behind the coronavirus outbreak.  The following pages lay out the evidence and the facts about the virus, the disease, the epidemic, and its control. Please note, they are not intended as a source of health advice or official policy.",
+    "source_name": "UK Research & Innovation (UKRI)",
+    "funders": [],
+    "resource_categories": [
+      "covid19-resources-guidebooks"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-04-01T10:13:00Z",
+    "updated_at": "2020-04-01T10:14:08Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "COVID19 Resources & guidebooks"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-cytobank-machine-learning-assisted-analysis",
+    "legacy_id": 133,
+    "slug": "cytobank-machine-learning-assisted-analysis",
+    "name": "Cytobank machine learning-assisted analysis",
+    "url": "https://info.beckmancoulter.com/webmail/60792/910778357/055861770173245dac70f542547d1004af07493ddaba968e721fd50c41d530e1",
+    "description": "Cytobank is a cloud-based single-cell analysis platform that empowers remote work, data management and collaboration. Please join us for weekly, virtual Cytobank educational events, ranging from Virtual Office Hours with Cytobank technical experts, to Bootcamp Webinars covering the Cytobank platform.",
+    "source_name": "Beckman Coulter",
+    "funders": [],
+    "resource_categories": [
+      "covid19-online-events"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-04-01T17:35:12Z",
+    "updated_at": "2020-04-01T17:35:12Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "COVID19 Online events"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-preprints-covid-19",
+    "legacy_id": 134,
+    "slug": "preprints-covid-19",
+    "name": "Preprints & COVID-19",
+    "url": "http://covidpreprints.com",
+    "description": "Landmark preprints in response to COVID-19, maintained by the @preLights team",
+    "source_name": "preLights",
+    "funders": [],
+    "resource_categories": [
+      "preprints",
+      "covid19-resources-guidebooks"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-04-02T10:45:00Z",
+    "updated_at": "2020-04-02T10:45:37Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Preprints",
+      "COVID19 Resources & guidebooks"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-ishr-cardiovascular-webinar-series",
+    "legacy_id": 135,
+    "slug": "ishr-cardiovascular-webinar-series",
+    "name": "ISHR Cardiovascular Webinar Series",
+    "url": "https://docs.google.com/spreadsheets/d/1nWVZmyh5koFxb4h3rXUVvkwQH4dPMkDpO_UqwyfQke0/edit#gid=0",
+    "description": null,
+    "source_name": "International Society for Heart Research",
+    "funders": [],
+    "resource_categories": [
+      "covid19-online-events"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-04-06T13:30:00Z",
+    "updated_at": "2020-04-06T13:30:41Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "COVID19 Online events"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-covid-19-literature-digest",
+    "legacy_id": 136,
+    "slug": "covid-19-literature-digest",
+    "name": "COVID-19 Literature Digest",
+    "url": "https://www.immunology.ox.ac.uk/covid-19/literature-digest",
+    "description": "A group of post-docs and DPhil students in the Medical Sciences Division are voluntarily reviewing some of the immunology-focussed COVID-19 literature, particularly pre-prints. This initiative has been organised by the Kennedy Institute for Rheumatology Journal Club and huge thanks go to all those involved. Disclaimer: all views are our own!",
+    "source_name": "Immunology Network, University of Oxford",
+    "funders": [],
+    "resource_categories": [
+      "covid19-resources-guidebooks"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-04-09T09:41:00Z",
+    "updated_at": "2020-04-09T09:41:09Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "COVID19 Resources & guidebooks"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-coursera",
+    "legacy_id": 138,
+    "slug": "coursera",
+    "name": "Coursera",
+    "url": "https://www.coursera.org",
+    "description": "Build skills with courses, certificates, and degrees online from world-class universities and companies",
+    "source_name": "Coursera",
+    "funders": [],
+    "resource_categories": [
+      "career-development"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-04-26T10:29:00Z",
+    "updated_at": "2020-04-26T10:30:07Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-udemy",
+    "legacy_id": 139,
+    "slug": "udemy",
+    "name": "Udemy",
+    "url": "https://www.udemy.com",
+    "description": "Learn on your schedule. Study any topic, anytime. Explore thousands of courses .",
+    "source_name": "Udemy",
+    "funders": [],
+    "resource_categories": [
+      "career-development"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-04-26T10:30:56Z",
+    "updated_at": "2020-04-26T10:30:56Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-datacamp",
+    "legacy_id": 141,
+    "slug": "datacamp",
+    "name": "Datacamp",
+    "url": "https://www.datacamp.com",
+    "description": "Learn data science and programming language",
+    "source_name": "Datacamp",
+    "funders": [],
+    "resource_categories": [
+      "career-development",
+      "open-source"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-04-26T10:33:34Z",
+    "updated_at": "2020-04-26T10:33:34Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development",
+      "Open source"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-cell-and-developmental-biology-virtual-meeting",
+    "legacy_id": 142,
+    "slug": "cell-and-developmental-biology-virtual-meeting",
+    "name": "Cell and Developmental Biology Virtual Meeting",
+    "url": "https://cgm.andor.com/oxfordinstrumentsandorlz/lz.aspx?p1=MqyDU4MjU5MVMwNzYxOkNFRUIxRjNDMjdEQUMyMjQ1QkRBQUZERDFDNkNDQjIw-&CC=&p=0",
+    "description": "The first 'Cell and Developmental Biology Virtual Meeting' on June 3 & 4, 2020. This virtual event will allow you to interact with your peers and gain insights from industry experts, from home at no cost.",
+    "source_name": "Andor - Oxford Instruments",
+    "funders": [],
+    "resource_categories": [
+      "science-communication",
+      "covid19-online-events"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-04-26T10:35:57Z",
+    "updated_at": "2020-04-26T10:35:57Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Science Communication",
+      "COVID19 Online events"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-list-of-virtual-talks-seminars-forums",
+    "legacy_id": 143,
+    "slug": "list-of-virtual-talks-seminars-forums",
+    "name": "List of virtual talks, seminars, forums",
+    "url": "https://thenode.biologists.com/list-of-virtual-talks-seminars-forums/events/",
+    "description": "Various organisations and looser assemblies of locked down researchers have begun to put together online seminar and talk series, many of which are open to anyone (usually with registration), and many of which also have previous talks recorded.",
+    "source_name": "The Node",
+    "funders": [],
+    "resource_categories": [
+      "science-communication",
+      "covid19-online-events"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-04-26T10:37:09Z",
+    "updated_at": "2020-04-26T10:37:09Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Science Communication",
+      "COVID19 Online events"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-science-writing-competition-for-phd-students",
+    "legacy_id": 144,
+    "slug": "science-writing-competition-for-phd-students",
+    "name": "Science Writing Competition for PhD students",
+    "url": "https://info.bio-rad.com/Science-Writing-Competition-LP.html?utm_source=marketo&utm_medium=email&utm_campaign=WRICOMPAPR20",
+    "description": "Bio-Rad would like to give life science PhD students the opportunity to demonstrate their skills by inviting them to share something that they have learned during their PhD studies with the wider scientific community.",
+    "source_name": "Bio-Rad",
+    "funders": [],
+    "resource_categories": [
+      "academic-writing",
+      "science-communication"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-04-26T10:39:00Z",
+    "updated_at": "2020-04-26T10:39:18Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Academic writing",
+      "Science Communication"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-stowers-research-conferences",
+    "legacy_id": 152,
+    "slug": "stowers-research-conferences",
+    "name": "Stowers Research Conferences",
+    "url": "https://www.stowers.org/conferences",
+    "description": "Stowers Research Conferences are biennial meetings that bring together a diverse group of researchers to inspire creative thought and collaboration in the basic sciences.",
+    "source_name": "Stowers Research Conferences",
+    "funders": [],
+    "resource_categories": [
+      "science-communication",
+      "covid19-online-events"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-04-29T09:17:00Z",
+    "updated_at": "2020-04-29T09:18:12Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Science Communication",
+      "COVID19 Online events"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-online-plant-science-related-courses",
+    "legacy_id": 151,
+    "slug": "online-plant-science-related-courses",
+    "name": "Online Plant Science-Related Courses",
+    "url": "https://community.plantae.org/article/5509561630179985405/online-plant-science-related-courses",
+    "description": "Quarantine-friendly education and training in plant science, bioinformatics and methods - for researchers and students.",
+    "source_name": "Stephanie Smith - Plantae Community",
+    "funders": [],
+    "resource_categories": [
+      "career-development",
+      "covid19-resources-guidebooks"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-04-29T09:16:00Z",
+    "updated_at": "2020-04-29T09:21:26Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development",
+      "COVID19 Resources & guidebooks"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-lipid-talks",
+    "legacy_id": 150,
+    "slug": "lipid-talks",
+    "name": "Lipid talks",
+    "url": "https://twitter.com/ContactCTC/status/1253268389851791361",
+    "description": "Weekly webinar series. See link for more info.",
+    "source_name": "JBurke Lab, University of Victoria",
+    "funders": [],
+    "resource_categories": [
+      "science-communication",
+      "covid19-online-events"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-04-26T10:49:00Z",
+    "updated_at": "2020-04-29T09:21:34Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Science Communication",
+      "COVID19 Online events"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-global-immunotalks",
+    "legacy_id": 148,
+    "slug": "global-immunotalks",
+    "name": "Global Immunotalks",
+    "url": "https://labs.biology.ucsd.edu/zuniga/global_immunotalks.htm",
+    "description": "Weekly Immunology webinar series. See link for schedule and joining information.",
+    "source_name": "the Zuniga Lab - University of California",
+    "funders": [],
+    "resource_categories": [
+      "science-communication",
+      "covid19-online-events"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-04-26T10:46:00Z",
+    "updated_at": "2020-04-29T09:21:53Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Science Communication",
+      "COVID19 Online events"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-pombe-talks",
+    "legacy_id": 147,
+    "slug": "pombe-talks",
+    "name": "Pombe Talks",
+    "url": "https://twitter.com/Dey_Gautam/status/1252935860821069824?s=20",
+    "description": "See link for more info and to sign up to the mailing list and/or to be a speaker via Google form.",
+    "source_name": "Pombe Talks",
+    "funders": [],
+    "resource_categories": [
+      "science-communication",
+      "covid19-online-events"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-04-26T10:45:00Z",
+    "updated_at": "2020-04-29T09:22:21Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Science Communication",
+      "COVID19 Online events"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-bioimage-analysis-technology-webinar-series",
+    "legacy_id": 146,
+    "slug": "bioimage-analysis-technology-webinar-series",
+    "name": "Bioimage Analysis Technology Webinar Series",
+    "url": "http://eubias.org/NEUBIAS/training-schools/neubias-academy-home/",
+    "description": "NEUBIAS Academy is a new initiative, aimed to provide sustainable material and activities focused on Training in Bioimage Analysis.",
+    "source_name": "NEUBIAS Academy",
+    "funders": [],
+    "resource_categories": [
+      "career-development",
+      "teaching",
+      "open-source",
+      "covid19-online-events"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-04-26T10:43:00Z",
+    "updated_at": "2020-04-29T09:22:30Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development",
+      "Teaching",
+      "Open source",
+      "COVID19 Online events"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-crossroads-of-biology-meetings-courses-program",
+    "legacy_id": 145,
+    "slug": "crossroads-of-biology-meetings-courses-program",
+    "name": "Crossroads of Biology - Meetings & Courses Program",
+    "url": "https://meetings.cshl.edu/meetingshome.aspx",
+    "description": "Overview of CSHL conferences, some of which are virtual because of COVID-19",
+    "source_name": "Cold Spring Harbor Laboratory",
+    "funders": [],
+    "resource_categories": [
+      "science-communication",
+      "covid19-online-events"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-04-26T10:41:00Z",
+    "updated_at": "2020-04-29T09:22:38Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Science Communication",
+      "COVID19 Online events"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-motors-in-quarantine-webinar-series",
+    "legacy_id": 155,
+    "slug": "motors-in-quarantine-webinar-series",
+    "name": "Motors in Quarantine webinar series",
+    "url": "http://mechanochemistry.org/whatson/MiQ/index.php",
+    "description": "Motors in Quarantine is a weekly webinar series starting on Wednesday 6th May 2020 at 8:00 PDT / 11:00 EDT / 16:00 BST / 17:00 CET / 20:00 IST / 23:00 CST.",
+    "source_name": "Centre for Mechanochemical Cell Biology",
+    "funders": [],
+    "resource_categories": [
+      "science-communication",
+      "covid19-online-events"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-05-02T13:55:00Z",
+    "updated_at": "2020-05-02T13:56:08Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Science Communication",
+      "COVID19 Online events"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-author-carpentry-workshops",
+    "legacy_id": 156,
+    "slug": "author-carpentry-workshops",
+    "name": "Author Carpentry workshops",
+    "url": "https://authorcarpentry.github.io/",
+    "description": "Author Carpentry is a researcher-to-researcher training and outreach program in open authoring and publishing, scholarly identity and reputation, and research impact.",
+    "source_name": "Author Carpentry",
+    "funders": [],
+    "resource_categories": [
+      "science-communication",
+      "academic-writing",
+      "publishing",
+      "peer-review"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-05-11T21:38:00Z",
+    "updated_at": "2020-05-19T17:38:48Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Science Communication",
+      "Academic writing",
+      "Publishing",
+      "Peer review"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-edx-mooc-platform",
+    "legacy_id": 140,
+    "slug": "edx-mooc-platform",
+    "name": "edX MOOC platform",
+    "url": "https://www.edx.org",
+    "description": "Free online courses by Harvard, MIT & more",
+    "source_name": "edX",
+    "funders": [],
+    "resource_categories": [
+      "career-development"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-04-26T10:31:42Z",
+    "updated_at": "2020-05-21T02:42:17Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-conpher-rate-your-academic-publishing-experiences",
+    "legacy_id": 157,
+    "slug": "conpher-rate-your-academic-publishing-experiences",
+    "name": "Conpher - rate your academic publishing experiences",
+    "url": "https://conpher.com/",
+    "description": "Conpher helps ECRs to search and share advice on academic journal publishing experiences.",
+    "source_name": "Conpher",
+    "funders": [],
+    "resource_categories": [
+      "publishing"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-05-21T09:53:32Z",
+    "updated_at": "2020-05-21T10:06:56Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Publishing"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-ten-simple-rules-by-plos",
+    "legacy_id": 5,
+    "slug": "ten-simple-rules-by-plos",
+    "name": "Ten Simple Rules by PLOS",
+    "url": "https://collections.plos.org/ten-simple-rules",
+    "description": "A quick, concentrated guide for mastering some of the professional challenges researchers face in their careers.",
+    "source_name": "PLOS",
+    "funders": [],
+    "resource_categories": [
+      "career-development",
+      "reproducibility",
+      "science-communication",
+      "academic-writing",
+      "preprints",
+      "publishing",
+      "peer-review"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-01-14T04:55:00Z",
+    "updated_at": "2020-05-21T10:50:38Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development",
+      "Reproducibility",
+      "Science Communication",
+      "Academic writing",
+      "Preprints",
+      "Publishing",
+      "Peer review"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-improving-conferences-a-database-for-scientific-conferences-and-their-key-features",
+    "legacy_id": 158,
+    "slug": "improving-conferences-a-database-for-scientific-conferences-and-their-key-features",
+    "name": "Improving Conferences: A database for scientific conferences and their key features",
+    "url": "https://elifeambassadors.github.io/improving-conferences/",
+    "description": "Evaluation of scientific conference features and solutions to make conferences more modern, effective, equitable, and sustainable.",
+    "source_name": "eLife Ambassadors",
+    "funders": [],
+    "resource_categories": [
+      "career-development",
+      "science-communication",
+      "policy",
+      "other"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-05-21T10:49:15Z",
+    "updated_at": "2020-05-25T23:03:26Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development",
+      "Science Communication",
+      "Policy",
+      "Other"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-asapbio-preprint-info-center",
+    "legacy_id": 36,
+    "slug": "asapbio-preprint-info-center",
+    "name": "ASAPbio Preprint Info Center",
+    "url": "http://asapbio.org/preprint-info",
+    "description": "Learn more about preprints, keep up to date and take action to support preprinting in the life sciences via ASAPbio's Preprint Info Center. ASAPbio is a scientist-driven non-profit promoting transparency and innovation in life science communication, including preprints and transparent peer review.",
+    "source_name": "ASAPbio",
+    "funders": [],
+    "resource_categories": [
+      "preprints",
+      "peer-review"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-02-08T14:11:00Z",
+    "updated_at": "2020-05-25T23:05:42Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Preprints",
+      "Peer review"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-reproducibility-and-replicability-in-science",
+    "legacy_id": 47,
+    "slug": "reproducibility-and-replicability-in-science",
+    "name": "Reproducibility and Replicability in Science",
+    "url": "https://www.nap.edu/read/25303/chapter/1",
+    "description": "This report defines reproducibility and replicability and examines the factors that may lead to non-reproducibility and non-replicability in research. It provides recommendations to researchers, academic institutions, journals, and funders on steps they can take to improve reproducibility and replicability in science.",
+    "source_name": "National Academies of Sciences, Engineering, and Medicine",
+    "funders": [],
+    "resource_categories": [
+      "reproducibility"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2019-05-09T06:27:00Z",
+    "updated_at": "2020-05-28T02:48:06Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Reproducibility"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-connectscience-seminar-series",
+    "legacy_id": 159,
+    "slug": "connectscience-seminar-series",
+    "name": "Connect:Science seminar series",
+    "url": "https://www.dfhcc.harvard.edu/events/dfhcc-connecting-the-scientific-community-seminar-series/",
+    "description": "A virtual seminar aims to bring leaders in cancer biology, immune oncology and other fields from across the world during this difficult time and it promotes engagement during these next several weeks. It held every Monday, Tuesday, Thursday and Friday at 12 PM EST.",
+    "source_name": "Dana–Farber - Harvard Cancer Center",
+    "funders": [],
+    "resource_categories": [
+      "science-communication",
+      "other",
+      "public-involvement-in-research",
+      "covid19-online-events"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-05-25T23:11:32Z",
+    "updated_at": "2020-05-29T02:20:51Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Science Communication",
+      "Other",
+      "Public Involvement in Research",
+      "COVID19 Online events"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-lab-manual-template",
+    "legacy_id": 161,
+    "slug": "lab-manual-template",
+    "name": "Lab manual template",
+    "url": "https://osf.io/2xn6z/",
+    "description": "A group of eLife Community Ambassadors within the Intersectionality Initiative (2019-2020) have compiled this template for a Lab Expectations Document, or Lab Manual, to share with researchers worldwide. The purpose of this document is for lab heads (and/or lab members) to generate a clear guide for their current and new group members. Please feel free to download and modify this template for your own research group/lab.",
+    "source_name": "eLife Ambassadors - Intersectionality Initiative",
+    "funders": [],
+    "resource_categories": [
+      "open-source",
+      "diversity-and-inclusion",
+      "mentoring"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-06-11T14:03:36Z",
+    "updated_at": "2020-06-11T14:03:36Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Open source",
+      "Diversity and inclusion",
+      "Mentoring"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-posters-on-mental-health-awareness-in-academia",
+    "legacy_id": 162,
+    "slug": "posters-on-mental-health-awareness-in-academia",
+    "name": "Posters on mental health awareness in academia",
+    "url": "https://figshare.com/authors/Zoe_Ayres/8576559",
+    "description": "Illustrated list of posters on mental health awareness through the various stages of academia, from undergrad, Ph.D., Postdoc and to faculty.",
+    "source_name": "Zoe Ayres",
+    "funders": [],
+    "resource_categories": [
+      "mental-health"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-07-13T03:06:35Z",
+    "updated_at": "2020-07-13T03:06:35Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Mental Health"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-learn-data-science-from-professionals",
+    "legacy_id": 163,
+    "slug": "learn-data-science-from-professionals",
+    "name": "Learn data science from professionals",
+    "url": "https://intellipaat.com/data-scientist-course-training/",
+    "description": "Data Science is one of the top trending technology of the era and data science has stretched its roots deep down in the corporate industry. Due to this vast inference, new age learners and working professionals are keen to learn this technology. To curb this, various online data science courses are available through which one can master data science and begin career as a data scientist.\r\nData science is a broad career path and is undergoing developments and thus promises abundant opportunities in the future. Data Science job roles are likely to get more specific, which will lead to specializations in the field. People inclined towards this stream can exploit their opportunities and pursue what suits them best through there specializations and specifications.",
+    "source_name": "Data Science Course",
+    "funders": [],
+    "resource_categories": [
+      "academic-writing",
+      "publishing",
+      "teaching"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-07-13T13:04:44Z",
+    "updated_at": "2020-07-20T10:34:11Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Academic writing",
+      "Publishing",
+      "Teaching"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-gsa-policy-fellowship-database",
+    "legacy_id": 166,
+    "slug": "gsa-policy-fellowship-database",
+    "name": "GSA Policy Fellowship Database",
+    "url": "http://app.genetics-gsa.org/MemberEngagement/FellowshipProd.External",
+    "description": "A curated database of policy fellowshipby by Genetics Society of America.",
+    "source_name": "Genetics Society of America",
+    "funders": [],
+    "resource_categories": [
+      "science-communication",
+      "policy",
+      "public-involvement-in-research"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2021-09-29T08:14:27Z",
+    "updated_at": "2021-10-06T08:59:02Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Science Communication",
+      "Policy",
+      "Public Involvement in Research"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-sr-foundation-kuno-award",
+    "legacy_id": 164,
+    "slug": "sr-foundation-kuno-award",
+    "name": "S&R Foundation Kuno Award",
+    "url": "https://sandrfoundation.org/programs/kuno-award",
+    "description": "The 2020 application for the $100,000 Kuno Award for Applied Science is now open until August 31st. \r\n\r\nS&R Foundation’s Kuno Award for Applied Science for the Social Good is designed to support women social innovators using scientific research and principles to address a 21st Century problem. The award supports the translation of scientific research to a practical, real-world solution for those aiming to achieve measurable social impact. \r\n\r\nTo learn more about this award, visit S&R Foundation here: https://sandrfoundation.org/programs/kuno-award",
+    "source_name": "S&R Foundation",
+    "funders": [],
+    "resource_categories": [
+      "career-development",
+      "other"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2020-07-27T16:47:58Z",
+    "updated_at": "2022-01-15T21:24:54Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development",
+      "Other"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-coursesonline",
+    "legacy_id": 168,
+    "slug": "coursesonline",
+    "name": "CoursesOnline",
+    "url": "https://www.coursesonline.co.uk/",
+    "description": "CoursesOnline is a website through which professionals can find online learning courses in a wide variety of subjects. Offered by some of the UK's most experienced learning providers, these courses have options for anyone regardless of the stage of their career which they are at, or their pre-existing skillset.",
+    "source_name": "CoursesOnline",
+    "funders": [],
+    "resource_categories": [
+      "career-development"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2022-06-22T12:34:14Z",
+    "updated_at": "2022-06-23T11:05:02Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-kuno-award-for-applied-science-for-the-social-good",
+    "legacy_id": 169,
+    "slug": "kuno-award-for-applied-science-for-the-social-good",
+    "name": "Kuno Award for Applied Science for the Social Good",
+    "url": "https://srfoundation.submittable.com/submit/228738/kuno-award-for-applied-science-2022",
+    "description": "S&R Evermay’s Kuno Award for Applied Science for the Social Good is a biennial award designed to support women social innovators using scientific research and principles to address a 21st Century problem. The award supports the translation of scientific research to a practical, real-world solution for those aiming to achieve broad social impact.\r\n\r\nThe Kuno awardee is provided with $100,000 in funding. Indirect costs up to 10% are included in the $100,000 award amount.\r\n\r\nAward recipients are visionaries with deep domain expertise in fields relating to the specific 21st century challenges addressed by their project. Potential project outcomes can vary greatly from a developing a new teaching model to hosting a conference to developing a new tool for your field.\r\n\r\nif you have any questions, please email y.niang@skimpactfund.com",
+    "source_name": "S&R Evermay",
+    "funders": [],
+    "resource_categories": [
+      "career-development",
+      "reproducibility",
+      "science-communication",
+      "teaching",
+      "other"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2022-07-06T18:25:52Z",
+    "updated_at": "2022-07-08T08:52:39Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development",
+      "Reproducibility",
+      "Science Communication",
+      "Teaching",
+      "Other"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-ten-simple-empirical-rules-for-writing-science",
+    "legacy_id": 171,
+    "slug": "ten-simple-empirical-rules-for-writing-science",
+    "name": "Ten Simple (Empirical) Rules for Writing Science",
+    "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004205",
+    "description": "Tips for writing research papers",
+    "source_name": "PLoS Computational Biology",
+    "funders": [],
+    "resource_categories": [
+      "academic-writing",
+      "publishing"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2022-12-09T14:37:30Z",
+    "updated_at": "2022-12-09T14:37:30Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Academic writing",
+      "Publishing"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-mental-health-in-academia-the-challenges-faculty-face-predate-the-pandemic-and-require-systemic-solu",
+    "legacy_id": 172,
+    "slug": "mental-health-in-academia-the-challenges-faculty-face-predate-the-pandemic-and-require-systemic-solu",
+    "name": "Mental health in academia: The challenges faculty face predate the pandemic and require systemic solutions",
+    "url": "https://academicmatters.ca/mental-health-in-academia-the-challenges-faculty-face-predate-the-pandemic-and-require-systemic-solutions/",
+    "description": "Article on the state of mental health in academia, organization of academic work, why gender and career stage matter, the invisibility and individualization of the problem, and what actions to take.",
+    "source_name": "Academic Matters",
+    "funders": [],
+    "resource_categories": [
+      "mental-health"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2022-12-09T14:56:34Z",
+    "updated_at": "2022-12-09T14:56:34Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Mental Health"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-exploring-mental-health-in-academia",
+    "legacy_id": 173,
+    "slug": "exploring-mental-health-in-academia",
+    "name": "Exploring Mental Health in Academia",
+    "url": "https://www.technologynetworks.com/tn/articles/we-are-far-from-where-we-want-to-be-an-exploration-into-mental-health-in-academia-331273",
+    "description": "Article on the topic of mental health in academia",
+    "source_name": "Technology Networks",
+    "funders": [],
+    "resource_categories": [
+      "mental-health"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2022-12-09T15:06:37Z",
+    "updated_at": "2022-12-09T15:07:47Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Mental Health"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-funding-guide-tools-and-tips-for-nih-funding",
+    "legacy_id": 167,
+    "slug": "funding-guide-tools-and-tips-for-nih-funding",
+    "name": "Funding Guide: Tools and Tips for NIH Funding",
+    "url": "https://www.linkedin.com/pulse/newearly-stage-investigators-guide-tools-tips-nih-tavares-ph-d-/?trackingId=BRZXHf99Sx%2B2I8Gaa5fzDw%3D%3D",
+    "description": "This guide provides some quick tips and tools for new and early-stage researchers on how to navigate the pursuit of research funding from the NIH in particular but with tips that are applicable to many other funders.",
+    "source_name": "NIH Funding Tools & Tips Guide",
+    "funders": [],
+    "resource_categories": [
+      "career-development"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2021-10-13T03:35:57Z",
+    "updated_at": "2022-12-09T15:30:39Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-how-to-handle-authorship-disputes-a-guide-for-new-researchers",
+    "legacy_id": 174,
+    "slug": "how-to-handle-authorship-disputes-a-guide-for-new-researchers",
+    "name": "How to handle authorship disputes: a guide for new researchers",
+    "url": "https://doi.org/10.24318/cope.2018.1.1",
+    "description": "Guide on: how to reduce authorship problems, how to handle authorship disputes when they occur, what to do if authorship issues are not resolved, and key concepts in authorship.",
+    "source_name": "Tim Albert, Elizabeth Wager",
+    "funders": [],
+    "resource_categories": [
+      "publishing",
+      "conflict-management"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2022-12-09T15:41:19Z",
+    "updated_at": "2022-12-09T15:42:25Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Publishing",
+      "Conflict management"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-publishing-as-an-early-career-researcher",
+    "legacy_id": 170,
+    "slug": "publishing-as-an-early-career-researcher",
+    "name": "Publishing as an early career researcher",
+    "url": "https://royalsociety.org/journals/authors/early-career-researchers/",
+    "description": "Resources from the Royal Society to help early career researchers navigate through their publishing journey and develop their academic career. \r\n\r\nThese include grant schemes, scientific meetings, open publishing practices, co-reviewing, talks, webinars and blog posts including our growing author tips collection. \r\n\r\nOur comprehensive resource hub provides early career researchers with the foundational knowledge of the publishing process and brings together resources to help you publish.",
+    "source_name": "Royal Society early career researcher resource hub",
+    "funders": [],
+    "resource_categories": [
+      "career-development",
+      "publishing",
+      "peer-review"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2022-11-21T14:43:05Z",
+    "updated_at": "2023-03-22T17:24:52Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development",
+      "Publishing",
+      "Peer review"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-journal-of-science-policy-governance",
+    "legacy_id": 175,
+    "slug": "journal-of-science-policy-governance",
+    "name": "Journal of Science Policy & Governance",
+    "url": "https://www.sciencepolicyjournal.org/",
+    "description": "The Journal of Science Policy & Governance (JSPG) is an internationally recognized, open-access peer-reviewed publication dedicated to elevating students, post-docs, policy fellows and early career scholars in science, technology and innovation policy and governance debate worldwide. Since 2011, JSPG has served as a vehicle for students and early career researchers to bolster their research and writing credentials in science policy. JSPG also elevates published work using a podcast, conference panels, and webinars that foster intergenerational discussions and engage the next generation in science policy. \r\n\r\nOpportunities with JSPG:\r\n●\tPublication opportunities - submit your science policy research to our standard or special issue deadlines throughout the year.\r\n●\tWriting workshops and webinars - attend events to learn from science policy experts and practice your writing skills in preparation for submission. \r\n●\tEditorial board - our editorial board is composed of early career researchers looking to build their skills in science policy writing and editing. \r\n●\tAmbassador program - we offer ambassador opportunities for students interested in science policy. \r\n●\tScience policy & advocacy certificate program - learn key concepts and develop practical skills in science policy and advocacy, and network with policy professionals. \r\n●\tOpportunities for published authors - we highlight published work through speaking opportunities and conference panels, in addition to media outreach. \r\n●\tPodcast - we interview published authors, to provide another medium for them to share more about their publications and reach an extended audience in science policy.\r\n\r\nSubmission deadlines:\r\n•\t2023 Special Issue deadlines: October 29, 2023 - Sponsored by Sigma Xi and the Rita Allen Foundation\r\n•\t2023 Standard issue deadlines:  November 26, 2023 - Winter Standard Issue\r\n\r\nFollow JSPG on Twitter, Facebook, LinkedIn, Instagram, YouTube and Soundcloud. Subscribe to our newsletter for the latest call for papers, volume releases and professional development opportunities in science policy.\r\n\r\nWebsite: https://www.sciencepolicyjournal.org/\r\nFacebook: https://www.facebook.com/SciPolJournal/\r\nTwitter: https://twitter.com/SciPolJournal\r\nYouTube: https://www.youtube.com/channel/UCREFJdaKqt3tCw4IfxGRcyw\r\nInstagram: https://instagram.com/scipoljournal\r\nLinkedIn: https://www.linkedin.com/company/the-journal-of-science-policy-and-governance/\r\nNewsletter sign up: https://www.sciencepolicyjournal.org/contact.html",
+    "source_name": "Adriana Bankston",
+    "funders": [],
+    "resource_categories": [
+      "career-development",
+      "policy",
+      "publishing",
+      "peer-review",
+      "diversity-and-inclusion"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2023-07-20T11:50:37Z",
+    "updated_at": "2023-07-21T08:42:31Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development",
+      "Policy",
+      "Publishing",
+      "Peer review",
+      "Diversity and inclusion"
+    ],
+    "subject_names": []
+  },
+  {
+    "id": "resource-my-individual-development-plan-assessment-tool",
+    "legacy_id": 176,
+    "slug": "my-individual-development-plan-assessment-tool",
+    "name": "My Individual Development Plan Assessment Tool",
+    "url": "https://myidp.sciencecareers.org/",
+    "description": "myIDP - a unique, web-based career-planning tool tailored to meet the needs of PhD students and postdocs in the sciences. It calculate and compare your skills/interests/values responses to key factors for 60 different career paths within 20 different career categories that are options for you as a scientist.",
+    "source_name": "AAAS and FASEB",
+    "funders": [],
+    "resource_categories": [
+      "career-development"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": "2023-08-12T16:50:42Z",
+    "updated_at": "2023-08-12T16:54:09Z",
+    "source": "legacy-import",
+    "funder_names": [],
+    "resource_category_names": [
+      "Career development"
+    ],
+    "subject_names": []
+  }
+]

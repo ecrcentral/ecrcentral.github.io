@@ -1,0 +1,51 @@
+id: funding-focused-research-grants
+legacy_id: 566
+slug: focused-research-grants
+name: Focused Research Grants
+description: Applications are invited for research proposals that address the implementation
+  of evidence based (research-tested) nursing interventions that promote quality cancer
+  care.
+url: http://www.onsfoundation.org/apply/re/RE01
+funders:
+- oncology-nursing-society-foundation
+legacy_funder_name: Oncology Nursing Society Foundation
+host_country: United States
+applicant_country: null
+career_levels:
+- phd
+years_since_phd: null
+duration: '2'
+award: $120000
+mobility_rule: 'No'
+research_costs: null
+deadline: September
+deadline_month: September
+diversity: null
+comments: 'These grants support oncology nursing research. Research projects may include
+  pilot or feasibility studies or the development of a new aspect of a program of
+  research. Funding preference is given to research that addresses the ONS Research
+  Priorities and/or the ONS Research Agenda. Eligibility: The principal investigator
+  must be actively involved in some aspect of cancer patient care, education, or research,
+  and be PhD- or DNSc-prepared. Funding preference is given to projects that involve
+  nurses in the design and conduct of the research activity and that promote theoretically
+  based oncology practice. Membership in ONS is not required for eligibility.'
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T16:59:10Z'
+subjects:
+- nursing
+funding_purposes:
+- research
+search_text: Focused Research Grants Applications are invited for research proposals
+  that address the implementation of evidence based (research-tested) nursing interventions
+  that promote quality cancer care. Oncology Nursing Society Foundation PhD Nursing
+  Research United States
+source: legacy-import

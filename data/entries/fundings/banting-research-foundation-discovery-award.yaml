@@ -1,0 +1,50 @@
+id: funding-banting-research-foundation-discovery-award
+legacy_id: 722
+slug: banting-research-foundation-discovery-award
+name: Banting Research Foundation Discovery Award
+description: <p>The Discovery Award is a one-year grant of up to $25,000 for innovative
+  health and biomedical research projects by outstanding new investigators at universities
+  and research institutes in Canada who are within the first three years of their
+  first academic appointment. The intent is to provide seed funding so that applicants
+  are able to gather pilot data to enhance their competitiveness for other sources
+  of funding. At least 6 awards are funded per year.</p>
+url: https://www.bantingresearchfoundation.ca/discovery-award-program/
+funders: []
+legacy_funder_name: The Banting Research Foundation
+host_country: Canada
+applicant_country: Canada
+career_levels:
+- phd
+years_since_phd: Must have faculty appointment
+duration: '1'
+award: $25,000
+mobility_rule: 'Yes'
+research_costs: $150,000 in start-up funding
+deadline: February 14, 2020
+deadline_month: February
+diversity: null
+comments: null
+benefits: Direct research costs
+frequency: null
+fileds: Health and biomedical science
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: '2019-10-16T18:42:13Z'
+updated_at: '2019-10-17T10:38:09Z'
+subjects:
+- medicine-and-health-sciences
+- medicine-and-health-sciences
+funding_purposes: []
+search_text: Banting Research Foundation Discovery Award <p>The Discovery Award is
+  a one-year grant of up to $25,000 for innovative health and biomedical research
+  projects by outstanding new investigators at universities and research institutes
+  in Canada who are within the first three years of their first academic appointment.
+  The intent is to provide seed funding so that applicants are able to gather pilot
+  data to enhance their competitiveness for other sources of funding. At least 6 awards
+  are funded per year.</p> PhD Medicine and Health Sciences Medicine and Health Sciences
+  Canada Canada
+source: legacy-import

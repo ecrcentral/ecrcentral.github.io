@@ -1,0 +1,20 @@
+id: funder-deutsche-forschungsgemeinschaft
+legacy_id: 72
+slug: deutsche-forschungsgemeinschaft
+name: Deutsche Forschungsgemeinschaft
+short_name: Deutsche Forschungsgemeinschaft
+funder_registry_id: '501100001659'
+country: Germany
+website: null
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2019-01-17T00:40:55Z'
+source: legacy-import

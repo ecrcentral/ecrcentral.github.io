@@ -1,0 +1,20 @@
+id: funder-swiss-national-science-foundation
+legacy_id: 586
+slug: swiss-national-science-foundation
+name: Swiss National Science Foundation
+short_name: Swiss National Science Foundation
+funder_registry_id: '501100001711'
+country: Switserland
+website: http://www.snf.ch/en
+logo: /logos/funders/swiss-national-science-foundation.jpg
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-05-23T15:58:51Z'
+updated_at: '2020-05-23T15:59:47Z'
+source: legacy-import

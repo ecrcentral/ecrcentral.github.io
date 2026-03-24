@@ -1,0 +1,20 @@
+id: funder-grass-foundation
+legacy_id: 588
+slug: grass-foundation
+name: Grass Foundation
+short_name: Grass Foundation
+funder_registry_id: '100001654'
+country: United States
+website: https://grassfoundation.org/
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-05-23T16:31:12Z'
+updated_at: '2020-05-23T16:31:12Z'
+source: legacy-import

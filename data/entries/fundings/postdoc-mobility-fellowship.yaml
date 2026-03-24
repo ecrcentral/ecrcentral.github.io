@@ -1,0 +1,55 @@
+id: funding-postdoc-mobility-fellowship
+legacy_id: 192
+slug: postdoc-mobility-fellowship
+name: Postdoc Mobility Fellowship
+description: ​Postdoc.Mobility fellowships are aimed at researchers who have done
+  a doctorate and who wish to pursue an academic career in Switzerland. A research
+  stay abroad enables such researchers to acquire more in-depth knowledge, increases
+  their scientific independence and enhances their research profile.
+url: http://www.snf.ch/en/funding/careers/postdoc-mobility/Pages/default.aspx
+funders:
+- swiss-national-science-foundation
+legacy_funder_name: Swiss National Research Foundation
+host_country: Worldwide
+applicant_country: Switzerland
+career_levels:
+- phd
+years_since_phd: Max. 3
+duration: '2'
+award: Depending on host country
+mobility_rule: null
+research_costs: 'Research costs: max. CHF 3000 per year; Travel costs: max. CHF 2000
+  per year'
+deadline: February, August
+deadline_month: February, August
+diversity: null
+comments: In addition, fellowship holders can apply for a return grant to finance
+  their initial period of research after returning to Switzerland. The return grant
+  includes a salary and social security contributions.
+benefits: Fellows with children are entitled to a child allowance of CHF 12,000 per
+  child and per year. Child allowances contributed by third parties are deducted.
+frequency: Twice a year
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T16:16:59Z'
+subjects:
+- medicine-and-health-sciences
+- dentistry
+- veterinary-medicine
+- other-medicine-and-health-sciences
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Postdoc Mobility Fellowship ​Postdoc.Mobility fellowships are aimed at
+  researchers who have done a doctorate and who wish to pursue an academic career
+  in Switzerland. A research stay abroad enables such researchers to acquire more
+  in-depth knowledge, increases their scientific independence and enhances their research
+  profile. Swiss National Science Foundation PhD Medicine and Health Sciences Dentistry
+  Veterinary Medicine Other Medicine and Health Sciences Fellowship, scholarship or
+  training Worldwide Switzerland
+source: legacy-import

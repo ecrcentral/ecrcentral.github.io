@@ -1,0 +1,20 @@
+id: resource-lipid-talks
+legacy_id: 150
+slug: lipid-talks
+name: Lipid talks
+url: https://twitter.com/ContactCTC/status/1253268389851791361
+description: Weekly webinar series. See link for more info.
+source_name: JBurke Lab, University of Victoria
+funders: []
+resource_categories:
+- science-communication
+- covid19-online-events
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-04-26T10:49:00Z'
+updated_at: '2020-04-29T09:21:34Z'
+source: legacy-import

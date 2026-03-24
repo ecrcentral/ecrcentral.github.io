@@ -1,0 +1,20 @@
+id: funder-research-foundation-flanders
+legacy_id: 578
+slug: research-foundation-flanders
+name: Research Foundation Flanders
+short_name: Research Foundation Flanders
+funder_registry_id: '501100003130'
+country: Belgium
+website: https://www.fwo.be/en/
+logo: /logos/funders/research-foundation-flanders.jpg
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-05-23T10:31:55Z'
+updated_at: '2020-05-23T10:31:55Z'
+source: legacy-import

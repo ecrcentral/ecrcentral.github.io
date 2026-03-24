@@ -1,0 +1,26 @@
+id: resource-lab-manual-template
+legacy_id: 161
+slug: lab-manual-template
+name: Lab manual template
+url: https://osf.io/2xn6z/
+description: A group of eLife Community Ambassadors within the Intersectionality Initiative
+  (2019-2020) have compiled this template for a Lab Expectations Document, or Lab
+  Manual, to share with researchers worldwide. The purpose of this document is for
+  lab heads (and/or lab members) to generate a clear guide for their current and new
+  group members. Please feel free to download and modify this template for your own
+  research group/lab.
+source_name: eLife Ambassadors - Intersectionality Initiative
+funders: []
+resource_categories:
+- open-source
+- diversity-and-inclusion
+- mentoring
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-06-11T14:03:36Z'
+updated_at: '2020-06-11T14:03:36Z'
+source: legacy-import

@@ -1,0 +1,22 @@
+id: resource-funding-opportunities-for-early-career-researchers
+legacy_id: 39
+slug: funding-opportunities-for-early-career-researchers
+name: Funding Opportunities for Early Career Researchers
+url: https://research.jhu.edu/rdt/funding-opportunities/early-career/
+description: Maintained by the VP Research at Johns Hopkins, their office maintains
+  this updated list in the form of a spreadsheet with  375 opportunities intended
+  for "intended for late Postdoctoral investigators and early-career faculty, usually
+  those at or below the rank of assistant professor".
+source_name: Johns Hopkins University
+funders: []
+resource_categories:
+- career-development
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2019-02-10T02:53:00Z'
+updated_at: '2019-03-01T12:27:54Z'
+source: legacy-import

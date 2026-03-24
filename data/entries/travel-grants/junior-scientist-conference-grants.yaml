@@ -1,0 +1,30 @@
+id: travel-grant-junior-scientist-conference-grants
+legacy_id: 47
+slug: junior-scientist-conference-grants
+name: Junior Scientist Conference Grants
+url: http://www.genetics.org.uk/Funding/JuniorScientistConferenceGrants.aspx
+description: null
+funders: []
+legacy_funder_name: The Genetics Society
+applicant_country: UK-based to go abroad, non-UK-based to go to UK
+host_country: null
+award: £150-£750 (UK)
+deadline: 1st day of February, April, June, August, October and December
+deadline_month: February, April, June, August, October, December
+membership: null
+membership_time: null
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: Junior Scientist Conference Grants Conference UK-based to go abroad,
+  non-UK-based to go to UK
+source: legacy-import

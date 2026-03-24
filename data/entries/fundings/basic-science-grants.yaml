@@ -1,0 +1,61 @@
+id: funding-basic-science-grants
+legacy_id: 502
+slug: basic-science-grants
+name: Basic Science Grants
+description: The American Society for Surgery of the Hand (ASSH) and the American
+  Foundation for Surgery of the Hand (AFSH) have established grant funding to encourage
+  investigators to perform basic science research studies.  Their goal is to enable
+  investigators to initiate pilot projects that will lead to subsequent funding from
+  other sources such as the National Institutes of Health (NIH).
+url: https://www.afsh.org/s/basic-science-grants
+funders:
+- american-foundation-for-surgery-of-the-hand
+- american-society-for-surgery-of-the-hand
+legacy_funder_name: American Society for Surgery of the Hand (ASSH) and the American
+  Foundation for Surgery of the Hand  (AFSH)
+host_country: United States
+applicant_country: null
+career_levels:
+- phd
+years_since_phd: '12'
+duration: '1'
+award: $20,000
+mobility_rule: null
+research_costs: null
+deadline: April
+deadline_month: April
+diversity: null
+comments: The American Society for Surgery of the Hand (ASSH) and the American Foundation
+  for Surgery of the Hand  (AFSH) have established grant funding to encourage young
+  investigators to perform basic science research studies.  Our goal is to enable
+  investigators to initiate pilot projects that will lead to subsequent funding from
+  other sources such as the National Institutes of Health (NIH).  The AFSH is committed
+  to excellence in basic science research while maintaining the highest academic integrity
+  and fiscal responsibility.  All applications are welcome, but need to have an ASSH
+  Active member as the principal investigator, co-investigator, or sponsor. The maximum
+  Basic Science Grant award is $20,000 for a one-year grant.
+benefits: In the past, funding has been provided for a range of subjects, including
+  microvascular, tendons, nerves, artificial joints, tissue engineering, biomechanics,
+  rehabilitation, and other related subjects.
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T16:51:01Z'
+subjects:
+- medicine-and-health-sciences
+funding_purposes:
+- research
+search_text: Basic Science Grants The American Society for Surgery of the Hand (ASSH)
+  and the American Foundation for Surgery of the Hand (AFSH) have established grant
+  funding to encourage investigators to perform basic science research studies.  Their
+  goal is to enable investigators to initiate pilot projects that will lead to subsequent
+  funding from other sources such as the National Institutes of Health (NIH). American
+  Foundation for Surgery of the Hand American Society for Surgery of the Hand PhD
+  Medicine and Health Sciences Research United States
+source: legacy-import

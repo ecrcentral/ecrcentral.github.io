@@ -1,0 +1,62 @@
+id: funding-external-faculty-fellowships
+legacy_id: 589
+slug: external-faculty-fellowships
+name: External Faculty Fellowships
+description: External fellowships are intended primarily for individuals currently
+  teaching in or affiliated with an academic institution, but independent scholars
+  may apply. Faculty fellowships are awarded across the spectrum of academic ranks
+  (assistant, associate, and full professor) and a goal of the selection process is
+  to create a diverse community of scholars. Applicants who are members of traditionally
+  under-represented groups are encouraged to apply. There are no citizenship requirements
+  for these fellowships; non-U.S. nationals are welcome to apply. Awards are made
+  from an applicant pool of approximately 350.
+url: http://shc.stanford.edu/fellowships/non-stanford-faculty
+funders: []
+legacy_funder_name: Stanford Humanities Center
+host_country: United States
+applicant_country: null
+career_levels:
+- phd
+years_since_phd: '3'
+duration: null
+award: $100 000
+mobility_rule: 'No'
+research_costs: null
+deadline: October
+deadline_month: October
+diversity: null
+comments: Junior fellowships are for scholars who will be at least three and no more
+  than ten years beyond receipt of the PhD by the start of the fellowship year. Fellowships
+  are for one full academic year, and require the fellow to be in residence. Fellows
+  are awarded stipends of up to $70,000 and a housing and moving allowance of up to
+  $30,000.
+benefits: "Fellows are awarded stipends of up to $70,000 and a housing and moving\
+  \ allowance of up to $40,000. Applicants who require additional support are expected\
+  \ to seek supplementary funding in the form of external grants or sabbatical or\
+  \ other contributions from home institutions.\r\n\r\nThe Center is unable to provide\
+  \ or finance medical insurance. Fellows are required to make individual arrangements\
+  \ for reasonable coverage during their fellowship year."
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-24T11:05:39Z'
+subjects:
+- arts-and-humanities
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: External Faculty Fellowships External fellowships are intended primarily
+  for individuals currently teaching in or affiliated with an academic institution,
+  but independent scholars may apply. Faculty fellowships are awarded across the spectrum
+  of academic ranks (assistant, associate, and full professor) and a goal of the selection
+  process is to create a diverse community of scholars. Applicants who are members
+  of traditionally under-represented groups are encouraged to apply. There are no
+  citizenship requirements for these fellowships; non-U.S. nationals are welcome to
+  apply. Awards are made from an applicant pool of approximately 350. PhD Arts and
+  Humanities Fellowship, scholarship or training United States
+source: legacy-import

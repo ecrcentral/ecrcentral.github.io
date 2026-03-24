@@ -1,0 +1,65 @@
+id: funding-embl-interdisciplinary-postdocs-eipod
+legacy_id: 58
+slug: embl-interdisciplinary-postdocs-eipod
+name: EMBL Interdisciplinary Postdocs (EIPOD)
+description: EIPOD4 is a new international postdoctoral fellowship programme co-funded
+  by Marie-Skłodowska Curie Actions  (grant agreement number 847543). Designed to
+  support the increasing diversity of career paths in Europe’s research landscape
+  the programme offers three tracks for fellows to choose from based on their research
+  interests and career aspirations.  The academic track is designed for fellows largely
+  interested in pursuing a classical academic career. The industry track supports
+  interdisciplinary research projects involving an industry partner or applied research
+  projects. The clinical track targets MD/PhDs who aspire to work as physician scientists
+  and fellows with a strong interest in biomedical research.
+url: https://www.embl.de/training/postdocs/08-eipod/index.html
+funders:
+- h2020-marie-skodowska-curie-actions
+- european-molecular-biology-laboratory-embl
+legacy_funder_name: EMBL and Marie Skłodowska-Curie
+host_country: Europe
+applicant_country: Worldwide
+career_levels:
+- phd
+- md
+years_since_phd: null
+duration: '3'
+award: null
+mobility_rule: 'Yes'
+research_costs: null
+deadline: September
+deadline_month: September
+diversity: null
+comments: Fellows are based at EMBL and work on self-designed interdisciplinary research
+  projects. All projects involve at least two EMBL groups. Additional external partners
+  from academia, industry, clinics and museums may also participate in EIPOD projects
+  as defined by the chosen track.
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-26T08:14:05Z'
+subjects:
+- life-sciences
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: EMBL Interdisciplinary Postdocs (EIPOD) EIPOD4 is a new international
+  postdoctoral fellowship programme co-funded by Marie-Skłodowska Curie Actions  (grant
+  agreement number 847543). Designed to support the increasing diversity of career
+  paths in Europe’s research landscape the programme offers three tracks for fellows
+  to choose from based on their research interests and career aspirations.  The academic
+  track is designed for fellows largely interested in pursuing a classical academic
+  career. The industry track supports interdisciplinary research projects involving
+  an industry partner or applied research projects. The clinical track targets MD/PhDs
+  who aspire to work as physician scientists and fellows with a strong interest in
+  biomedical research. H2020 Marie Skłodowska-Curie Actions European Molecular Biology
+  Laboratory (EMBL) PhD MD Life Sciences All subjects Fellowship, scholarship or training
+  Research Europe Worldwide
+source: legacy-import

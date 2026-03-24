@@ -1,0 +1,47 @@
+id: funding-mq-fellows-programme
+legacy_id: 288
+slug: mq-fellows-programme
+name: MQ Fellows Programme
+description: MQ seeks to fund a diverse research portfolio that reflects a bio-psycho-social
+  approach to mental health. Projects should focus on genuine impact by charting,
+  informing, developing and/or testing preventative or therapeutic interventions.
+url: https://www.mqmentalhealth.org/articles/apply-fellows
+funders:
+- mq-transforming-mental-health
+legacy_funder_name: 'MQ: Transforming Mental Health'
+host_country: UK
+applicant_country: NA
+career_levels:
+- postdoc
+- junior-faculty
+years_since_phd: NA
+duration: '3'
+award: GBP 225,000
+mobility_rule: 'No'
+research_costs: null
+deadline: February
+deadline_month: February
+diversity: null
+comments: null
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-22T15:31:25Z'
+subjects:
+- medicine-and-health-sciences
+- arts-and-humanities
+funding_purposes:
+- research
+search_text: 'MQ Fellows Programme MQ seeks to fund a diverse research portfolio that
+  reflects a bio-psycho-social approach to mental health. Projects should focus on
+  genuine impact by charting, informing, developing and/or testing preventative or
+  therapeutic interventions. MQ: Transforming Mental Health Postdoc Junior Faculty
+  Medicine and Health Sciences Arts and Humanities Research UK NA'
+source: legacy-import

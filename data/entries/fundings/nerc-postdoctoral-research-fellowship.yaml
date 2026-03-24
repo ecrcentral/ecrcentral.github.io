@@ -1,0 +1,47 @@
+id: funding-nerc-postdoctoral-research-fellowship
+legacy_id: 139
+slug: nerc-postdoctoral-research-fellowship
+name: NERC Postdoctoral Research Fellowship
+description: "The NERC fellowship scheme provides opportunities for outstanding early-career\
+  \ environmental scientists to devote their time to:\r\n\r\nproducing research of\
+  \ international importance\r\ndeveloping their research careers and research groups\r\
+  \ndeveloping into recognised science leaders."
+url: http://www.nerc.ac.uk/funding/available/fellowships
+funders:
+- natural-environment-research-council
+legacy_funder_name: Natural Environment Research Council
+host_country: United Kingdom
+applicant_country: Worldwide
+career_levels: []
+years_since_phd: '8'
+duration: '5'
+award: null
+mobility_rule: null
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: This program offers various fellowship schemes. Please refer to the funder
+  website for more information.
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-30T19:26:53Z'
+subjects: []
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: "NERC Postdoctoral Research Fellowship The NERC fellowship scheme provides\
+  \ opportunities for outstanding early-career environmental scientists to devote\
+  \ their time to:\r\n\r\nproducing research of international importance\r\ndeveloping\
+  \ their research careers and research groups\r\ndeveloping into recognised science\
+  \ leaders. Natural Environment Research Council Fellowship, scholarship or training\
+  \ Research United Kingdom Worldwide"
+source: legacy-import

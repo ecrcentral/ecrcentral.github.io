@@ -1,0 +1,20 @@
+id: resource-material-for-nurturing-scientists
+legacy_id: 6
+slug: material-for-nurturing-scientists
+name: Material for nurturing scientists
+url: http://www.weizmann.ac.il/mcb/UriAlon/materials-nurturing-scientists
+description: A list of resources for the career development of scientists
+source_name: Uri Alon Lab, Weizmann Institute of Science
+funders: []
+resource_categories:
+- career-development
+- science-communication
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2019-01-14T12:39:26Z'
+updated_at: '2019-01-14T12:39:26Z'
+source: legacy-import

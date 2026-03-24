@@ -1,0 +1,37 @@
+id: travel-grant-rna-society-travel-fellowship
+legacy_id: 87
+slug: rna-society-travel-fellowship
+name: RNA Society Travel Fellowship
+url: https://www.rnasociety.org/post-type/Conferences/
+description: <p>The RNA Society provides travel fellowships in support of researchers
+  who are constrained financially from attending the Society's annual conference.
+  In most cases the fellowships will be made in the form of reduced or waived registration
+  fees, although it is possible that some contribution toward travel costs could be
+  made in addition to the fee waiver.</p>
+funders: []
+legacy_funder_name: RNA Society
+applicant_country: Worldwide
+host_country: null
+award: $ 1000
+deadline: null
+deadline_month: null
+membership: 'Yes'
+membership_time: null
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: RNA Society Travel Fellowship <p>The RNA Society provides travel fellowships
+  in support of researchers who are constrained financially from attending the Society's
+  annual conference. In most cases the fellowships will be made in the form of reduced
+  or waived registration fees, although it is possible that some contribution toward
+  travel costs could be made in addition to the fee waiver.</p> Conference Worldwide
+source: legacy-import

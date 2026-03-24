@@ -1,0 +1,20 @@
+id: funder-h2020-marie-skodowska-curie-actions
+legacy_id: 1
+slug: h2020-marie-skodowska-curie-actions
+name: H2020 Marie Skłodowska-Curie Actions
+short_name: H2020 Marie Skłodowska-Curie Actions
+funder_registry_id: '100010665'
+country: European Union
+website: null
+logo: /logos/funders/h2020-marie-skodowska-curie-actions.jpg
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2018-12-19T21:05:56Z'
+updated_at: '2020-05-27T04:11:59Z'
+source: legacy-import

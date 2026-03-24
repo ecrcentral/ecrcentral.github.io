@@ -1,0 +1,19 @@
+id: resource-uk-based-health-professional-without-a-uk-registered-license
+legacy_id: 98
+slug: uk-based-health-professional-without-a-uk-registered-license
+name: UK-based health professional without a UK-registered license
+url: https://www.gmc-uk.org/news/news-archive/coronavirus-information-and-advice/our-emergency-powers
+description: null
+source_name: General Medical Council UK
+funders: []
+resource_categories:
+- covid19-requests-for-help
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-03-20T15:02:00Z'
+updated_at: '2020-03-20T15:02:46Z'
+source: legacy-import

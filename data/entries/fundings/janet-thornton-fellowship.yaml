@@ -1,0 +1,50 @@
+id: funding-janet-thornton-fellowship
+legacy_id: 174
+slug: janet-thornton-fellowship
+name: Janet Thornton Fellowship
+description: We understand that even a short time out of research can have an impact
+  on your career, which is why we have created a postdoctoral fellowship providing
+  an additional opportunity specifically for those who have been out of scientific
+  research for 12 months or more to return to high-quality postdoctoral training.
+  One Fellowship will be awarded each year.
+url: http://www.sanger.ac.uk/about/sex-science/janet-thornton-fellowship
+funders:
+- wellcome-trust
+legacy_funder_name: Wellcome Sanger Institute
+host_country: United Kingdom
+applicant_country: Worldwide
+career_levels:
+- phd
+- postdoc
+years_since_phd: Min. 1 year postdoctoral experience required
+duration: '3'
+award: Salary £31,897 - £39,986
+mobility_rule: 'No'
+research_costs: Yes, including generous consumables and travel costs for conferences
+  and training courses
+deadline: null
+deadline_month: null
+diversity: null
+comments: null
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T13:25:22Z'
+subjects:
+- life-sciences
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Janet Thornton Fellowship We understand that even a short time out of
+  research can have an impact on your career, which is why we have created a postdoctoral
+  fellowship providing an additional opportunity specifically for those who have been
+  out of scientific research for 12 months or more to return to high-quality postdoctoral
+  training. One Fellowship will be awarded each year. Wellcome Trust PhD Postdoc Life
+  Sciences Fellowship, scholarship or training United Kingdom Worldwide
+source: legacy-import

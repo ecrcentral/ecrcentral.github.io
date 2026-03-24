@@ -1,0 +1,20 @@
+id: funder-phi-beta-psi-sorority
+legacy_id: 628
+slug: phi-beta-psi-sorority
+name: Phi Beta Psi Sorority
+short_name: Phi Beta Psi Sorority
+funder_registry_id: phi-beta-psi-sorority
+country: USA
+website: http://www.phibetapsi.org/
+logo: /logos/funders/phi-beta-psi-sorority.jpeg
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-05-25T18:03:38Z'
+updated_at: '2020-05-27T04:04:26Z'
+source: legacy-import

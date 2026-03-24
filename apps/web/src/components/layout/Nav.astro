@@ -1,0 +1,134 @@
+---
+import { fundings, travelGrants, resources, funders } from '../../lib/data'
+
+const pathname = Astro.url.pathname
+
+function isActive(href: string): boolean {
+  if (href === '/') return pathname === '/'
+  return pathname.startsWith(href)
+}
+
+const activeFundings = fundings.filter(f => f.status === 'active').length
+const activeTravelGrants = travelGrants.filter(g => g.status === 'active').length
+const activeResources = resources.filter(r => r.status === 'active').length
+const activeFunders = funders.filter(f => f.status === 'active').length
+
+const navLinks = [
+  { href: '/fundings/', label: 'Funding', count: activeFundings },
+  { href: '/travel-grants/', label: 'Travel Grants', count: activeTravelGrants },
+  { href: '/resources/', label: 'Resources', count: activeResources },
+  { href: '/funders/', label: 'Funders', count: activeFunders },
+  { href: '/about/', label: 'About', count: null },
+]
+---
+
+<nav class="nav" aria-label="Main navigation">
+  <div class="container nav-inner">
+    <!-- Logo -->
+    <a href="/" class="nav-logo" aria-label="ECRcentral home">
+      <img src="/images/ecrcentral-logo-footer.svg" alt="ECRcentral" height="36" />
+    </a>
+
+    <!-- Desktop links -->
+    <div class="nav-links" role="list">
+      {navLinks.map(link => (
+        <a
+          href={link.href}
+          class={`nav-link${isActive(link.href) ? ' active' : ''}`}
+          aria-current={isActive(link.href) ? 'page' : undefined}
+          role="listitem"
+        >
+          {link.label}
+          {link.count !== null && link.count > 0 && (
+            <span class="nav-link-count" aria-label={`${link.count} records`}>
+              {link.count}
+            </span>
+          )}
+        </a>
+      ))}
+      <a href="/contribute/" class="nav-cta" aria-label="Contribute to ECRcentral">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
+          <path d="M12 5v14M5 12h14"/>
+        </svg>
+        Contribute
+      </a>
+    </div>
+
+    <!-- Mobile menu toggle -->
+    <button
+      class="nav-mobile-toggle"
+      id="nav-mobile-toggle"
+      aria-expanded="false"
+      aria-controls="nav-mobile-menu"
+      aria-label="Toggle navigation menu"
+    >
+      <svg id="nav-icon-open" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+        <path d="M3 12h18M3 6h18M3 18h18"/>
+      </svg>
+      <svg id="nav-icon-close" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true" style="display:none">
+        <path d="M18 6 6 18M6 6l12 12"/>
+      </svg>
+    </button>
+  </div>
+
+  <!-- Mobile menu -->
+  <div id="nav-mobile-menu" class="nav-mobile-menu" role="menu" aria-hidden="true">
+    {navLinks.map(link => (
+      <a
+        href={link.href}
+        class={`nav-mobile-link${isActive(link.href) ? ' active' : ''}`}
+        role="menuitem"
+        aria-current={isActive(link.href) ? 'page' : undefined}
+      >
+        {link.label}
+        {link.count !== null && link.count > 0 && (
+          <span style="margin-left:8px;font-size:12px;color:rgba(255,255,255,0.5)">({link.count})</span>
+        )}
+      </a>
+    ))}
+    <a href="/contribute/" class="nav-mobile-link" role="menuitem" style="color:#7ec8e3;font-weight:600;">
+      + Contribute
+    </a>
+  </div>
+</nav>
+
+<script>
+  const toggle = document.getElementById('nav-mobile-toggle')
+  const menu = document.getElementById('nav-mobile-menu')
+  const iconOpen = document.getElementById('nav-icon-open')
+  const iconClose = document.getElementById('nav-icon-close')
+
+  if (toggle && menu && iconOpen && iconClose) {
+    toggle.addEventListener('click', () => {
+      const isOpen = menu.classList.contains('open')
+      menu.classList.toggle('open', !isOpen)
+      toggle.setAttribute('aria-expanded', String(!isOpen))
+      menu.setAttribute('aria-hidden', String(isOpen))
+      iconOpen.style.display = isOpen ? '' : 'none'
+      iconClose.style.display = isOpen ? 'none' : ''
+    })
+
+    // Close on outside click
+    document.addEventListener('click', (e) => {
+      if (!toggle.contains(e.target as Node) && !menu.contains(e.target as Node)) {
+        menu.classList.remove('open')
+        toggle.setAttribute('aria-expanded', 'false')
+        menu.setAttribute('aria-hidden', 'true')
+        iconOpen.style.display = ''
+        iconClose.style.display = 'none'
+      }
+    })
+
+    // Close on Escape key
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape' && menu.classList.contains('open')) {
+        menu.classList.remove('open')
+        toggle.setAttribute('aria-expanded', 'false')
+        menu.setAttribute('aria-hidden', 'true')
+        iconOpen.style.display = ''
+        iconClose.style.display = 'none'
+        toggle.focus()
+      }
+    })
+  }
+</script>

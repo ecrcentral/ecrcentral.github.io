@@ -1,0 +1,52 @@
+id: funding-fellowship-for-academic-diversity
+legacy_id: 236
+slug: fellowship-for-academic-diversity
+name: Fellowship for Academic Diversity
+description: The Postdoctoral Fellowships for Academic Diversity are competitive programs
+  intended to increase the diversity of the academic research community at the University
+  of Pennsylvania and The Children’s Hospital of Philadelphia (CHOP). While the Penn
+  and CHOP programs have a common application form, they are independently funded
+  and have separate review processes.
+url: https://research.upenn.edu/postdocs-and-students/postdoctoral-fellowships/
+funders:
+- university-of-pennsylvania
+legacy_funder_name: University of Pennsylvania
+host_country: United States
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: <3
+duration: '3'
+award: $54,000
+mobility_rule: 'Yes'
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: null
+benefits: $5,000 relocation
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-07T21:55:30Z'
+subjects:
+- life-sciences
+- medicine-and-health-sciences
+- physical-sciences-and-mathematics
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: Fellowship for Academic Diversity The Postdoctoral Fellowships for Academic
+  Diversity are competitive programs intended to increase the diversity of the academic
+  research community at the University of Pennsylvania and The Children’s Hospital
+  of Philadelphia (CHOP). While the Penn and CHOP programs have a common application
+  form, they are independently funded and have separate review processes. University
+  of Pennsylvania PhD Life Sciences Medicine and Health Sciences Physical Sciences
+  and Mathematics Fellowship, scholarship or training Research United States Worldwide
+source: legacy-import

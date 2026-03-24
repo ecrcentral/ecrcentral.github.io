@@ -1,0 +1,52 @@
+id: funding-jacobs-foundation-research-fellowship-program
+legacy_id: 111
+slug: jacobs-foundation-research-fellowship-program
+name: Jacobs Foundation Research Fellowship Program
+description: The Jacobs Foundation Research Fellowship Program is a globally competitive
+  fellowship program for early career researchers whose work is dedicated to improving
+  the development, learning and living conditions of children and youth. The relevant
+  disciplines include, but are not limited, to education sciences, psychology, economics,
+  sociology, family studies, media studies, political science, linguistics, neurosciences,
+  and medical sciences.
+url: http://jacobsfoundation.org/what-we-do/research-funding/jacobs-research-fellowship-program
+funders:
+- jacobs-foundation
+legacy_funder_name: Jacobs Foundation
+host_country: Switzerland
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: '10'
+duration: '3'
+award: 150,000 CHF
+mobility_rule: 'No'
+research_costs: null
+deadline: March
+deadline_month: March
+diversity: null
+comments: null
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-28T19:26:46Z'
+subjects:
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: Jacobs Foundation Research Fellowship Program The Jacobs Foundation Research
+  Fellowship Program is a globally competitive fellowship program for early career
+  researchers whose work is dedicated to improving the development, learning and living
+  conditions of children and youth. The relevant disciplines include, but are not
+  limited, to education sciences, psychology, economics, sociology, family studies,
+  media studies, political science, linguistics, neurosciences, and medical sciences.
+  Jacobs Foundation PhD All subjects Fellowship, scholarship or training Research
+  Switzerland Worldwide
+source: legacy-import

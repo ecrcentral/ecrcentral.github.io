@@ -1,0 +1,60 @@
+id: funding-acls-fellowships
+legacy_id: 583
+slug: acls-fellowships
+name: ACLS Fellowships
+description: ACLS invites research applications from scholars in all disciplines of
+  the humanities and related social sciences. Faculty appointments are not required.
+  The ultimate goal of the project should be a major piece of scholarly work by the
+  applicant, which can take the form of a monograph, articles, digital publication(s),
+  critical edition, or other scholarly resources. The ACLS Fellowship program does
+  not fund creative work (e.g., novels or films), textbooks, straightforward translation,
+  or pedagogical projects.
+url: http://www.acls.org/programs/acls/
+funders:
+- american-council-of-learned-societies
+legacy_funder_name: American Council of Learned Societies
+host_country: United States
+applicant_country: United States
+career_levels:
+- junior-faculty
+- senior-faculty
+years_since_phd: null
+duration: 0.5-1
+award: $40 000
+mobility_rule: 'No'
+research_costs: null
+deadline: September
+deadline_month: September
+diversity: null
+comments: Fellowships support research in all disciplines of the humanities and related
+  social sciences. The ultimate goal of the project should be a major piece of scholarly
+  work by the  applicant. The stipend for ACLS/NYPL fellowships will be $70,000, regardless
+  of the applicant’s faculty rank or rank equivalency.
+benefits: An ACLS Fellowship may be held concurrently with other fellowships and grants
+  and any sabbatical pay, up to an amount equal to the candidate's current academic
+  year salary
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-24T10:45:40Z'
+subjects:
+- arts-and-humanities
+- social-and-behavioral-sciences
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: ACLS Fellowships ACLS invites research applications from scholars in
+  all disciplines of the humanities and related social sciences. Faculty appointments
+  are not required. The ultimate goal of the project should be a major piece of scholarly
+  work by the applicant, which can take the form of a monograph, articles, digital
+  publication(s), critical edition, or other scholarly resources. The ACLS Fellowship
+  program does not fund creative work (e.g., novels or films), textbooks, straightforward
+  translation, or pedagogical projects. American Council of Learned Societies Junior
+  Faculty Senior Faculty Arts and Humanities Social and Behavioral Sciences Fellowship,
+  scholarship or training United States United States
+source: legacy-import

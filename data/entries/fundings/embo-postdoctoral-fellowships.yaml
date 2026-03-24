@@ -1,0 +1,55 @@
+id: funding-embo-postdoctoral-fellowships
+legacy_id: 60
+slug: embo-postdoctoral-fellowships
+name: EMBO Postdoctoral Fellowships
+description: The EMBO Postdoctoral Fellowships are awarded for a period of up to two
+  years and support excellent postdoctoral researchers in laboratories throughout
+  Europe and the world. International exchange is a key requirement. Now awarding
+  grants for employment contracts in EMBC countries, EMBO Postdoctoral Fellowships
+  also support the career development of the fellows through leadership courses and
+  networking opportunities
+url: https://www.embo.org/funding-awards/fellowships/postdoctoral-fellowships
+funders:
+- european-molecular-biology-organization-embo
+legacy_funder_name: EMBO
+host_country: Europe
+applicant_country: Worldwide
+career_levels:
+- phd
+- md
+years_since_phd: '2'
+duration: '2'
+award: Country specific stipend
+mobility_rule: 'Yes'
+research_costs: null
+deadline: February, August
+deadline_month: February, August
+diversity: null
+comments: There are NO APPLICATION DEADLINES but only evaluation deadline for EMBO
+  Postdoctoral Fellowships.
+benefits: Childcare and relocation allowance
+frequency: Rolling
+fileds: null
+featured: true
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-30T23:38:54Z'
+subjects:
+- life-sciences
+- molecular-biology
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: EMBO Postdoctoral Fellowships The EMBO Postdoctoral Fellowships are awarded
+  for a period of up to two years and support excellent postdoctoral researchers in
+  laboratories throughout Europe and the world. International exchange is a key requirement.
+  Now awarding grants for employment contracts in EMBC countries, EMBO Postdoctoral
+  Fellowships also support the career development of the fellows through leadership
+  courses and networking opportunities European Molecular Biology Organization (EMBO)
+  PhD MD Life Sciences Molecular Biology Fellowship, scholarship or training Research
+  Europe Worldwide
+source: legacy-import

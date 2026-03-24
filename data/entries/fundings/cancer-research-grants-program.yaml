@@ -1,0 +1,51 @@
+id: funding-cancer-research-grants-program
+legacy_id: 515
+slug: cancer-research-grants-program
+name: Cancer Research Grants Program
+description: The Elsa U. Pardee Foundation funds research to investigators in United
+  States non-profit institutions proposing research directed toward identifying new
+  treatments or cures for cancer. The Foundation funds projects for a one year period
+  which will allow establishment of capabilities of new cancer researchers, or new
+  cancer approaches by established cancer researchers.
+url: https://pardeefoundation.org/how-to-apply/
+funders:
+- elsa-u-pardee-foundation
+legacy_funder_name: Elsa U. Pardee Foundation
+host_country: United States
+applicant_country: United States
+career_levels:
+- phd
+- md
+years_since_phd: NA
+duration: '1'
+award: no limits set on the grant amount that can be requested
+mobility_rule: null
+research_costs: null
+deadline: December / April / August
+deadline_month: December, April, August
+diversity: null
+comments: Project relevance to cancer detection, treatment, or cure should be clearly
+  identified.
+benefits: null
+frequency: Triannual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-24T16:22:17Z'
+subjects:
+- medicine-and-health-sciences
+funding_purposes:
+- research
+search_text: Cancer Research Grants Program The Elsa U. Pardee Foundation funds research
+  to investigators in United States non-profit institutions proposing research directed
+  toward identifying new treatments or cures for cancer. The Foundation funds projects
+  for a one year period which will allow establishment of capabilities of new cancer
+  researchers, or new cancer approaches by established cancer researchers. Elsa U.
+  Pardee Foundation PhD MD Medicine and Health Sciences Research United States United
+  States
+source: legacy-import

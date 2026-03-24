@@ -1,0 +1,45 @@
+id: funding-postdoctoral-research-abroad
+legacy_id: 173
+slug: postdoctoral-research-abroad
+name: PostDoctoral Research abroad
+description: The grants awarded from Säätiöiden post doc -pooli are intended for scholars,
+  who have recently completed their doctoral degree and wish to conduct research abroad
+  from Finland for at least one academic year.
+url: http://www.postdocpooli.fi/?lang=en
+funders:
+- jane-ja-aatos-erkon-saatio
+legacy_funder_name: Säätiöiden post doc -pooli
+host_country: Worldwide
+applicant_country: Finland
+career_levels:
+- phd
+years_since_phd: Max. 4
+duration: Min. 1
+award: null
+mobility_rule: 'Yes'
+research_costs: null
+deadline: January, September
+deadline_month: January, September
+diversity: null
+comments: null
+benefits: null
+frequency: Twice a year
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T11:48:43Z'
+subjects:
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: PostDoctoral Research abroad The grants awarded from Säätiöiden post
+  doc -pooli are intended for scholars, who have recently completed their doctoral
+  degree and wish to conduct research abroad from Finland for at least one academic
+  year. Jane ja Aatos Erkon Säätiö PhD All subjects Fellowship, scholarship or training
+  Worldwide Finland
+source: legacy-import

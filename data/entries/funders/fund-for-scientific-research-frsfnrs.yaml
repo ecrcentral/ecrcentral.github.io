@@ -1,0 +1,20 @@
+id: funder-fund-for-scientific-research-frsfnrs
+legacy_id: 601
+slug: fund-for-scientific-research-frsfnrs
+name: Fund for Scientific Research (F.R.S.–FNRS)
+short_name: Fund for Scientific Research (F.R.S.–FNRS)
+funder_registry_id: '501100002661'
+country: Belgium
+website: https://www.frs-fnrs.be/en/
+logo: /logos/funders/fund-for-scientific-research-frsfnrs.png
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-05-24T09:52:40Z'
+updated_at: '2020-05-24T09:52:40Z'
+source: legacy-import

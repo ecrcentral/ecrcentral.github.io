@@ -1,0 +1,20 @@
+id: funder-royal-society-of-biology
+legacy_id: 506
+slug: royal-society-of-biology
+name: Royal Society of Biology
+short_name: Royal Society of Biology
+funder_registry_id: '100012361'
+country: United Kingdom
+website: null
+logo: /logos/funders/royal-society-of-biology.jpg
+dora: true
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: '2020-05-29T02:08:44Z'
+source: legacy-import

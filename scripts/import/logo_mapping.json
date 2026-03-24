@@ -1,0 +1,702 @@
+[
+  {
+    "slug": "a-t-childrens-project",
+    "name": "A-T Children's Project",
+    "legacy_path": "funders/May2020/F4vNOJsIiLAVaPFwcO8D.jpg",
+    "normalized_path": "/logos/funders/a-t-childrens-project.jpg",
+    "source_url": "https://ecrcentral.org/funders/May2020/F4vNOJsIiLAVaPFwcO8D.jpg"
+  },
+  {
+    "slug": "academia-sinica",
+    "name": "Academia Sinica",
+    "legacy_path": "funders/May2019/lQe9blkeiFOwJNNcHTpI.png",
+    "normalized_path": "/logos/funders/academia-sinica.png",
+    "source_url": "https://ecrcentral.org/funders/May2019/lQe9blkeiFOwJNNcHTpI.png"
+  },
+  {
+    "slug": "academy-of-finland",
+    "name": "Academy of Finland",
+    "legacy_path": "funders/May2020/Ls5vnp1DcqMMOShZdawp.png",
+    "normalized_path": "/logos/funders/academy-of-finland.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/Ls5vnp1DcqMMOShZdawp.png"
+  },
+  {
+    "slug": "academy-of-medical-sciences",
+    "name": "Academy of Medical Sciences",
+    "legacy_path": "funders/May2020/2EyTS1cVlTfhzXjlQXKN.png",
+    "normalized_path": "/logos/funders/academy-of-medical-sciences.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/2EyTS1cVlTfhzXjlQXKN.png"
+  },
+  {
+    "slug": "alexander-von-humboldt-foundation",
+    "name": "Alexander von Humboldt Foundation",
+    "legacy_path": "funders/June2020/aaSPlLvtK2zHHtfHz8hv.gif",
+    "normalized_path": "/logos/funders/alexander-von-humboldt-foundation.gif",
+    "source_url": "https://ecrcentral.org/funders/June2020/aaSPlLvtK2zHHtfHz8hv.gif"
+  },
+  {
+    "slug": "alfred-p-sloan-foundation",
+    "name": "Alfred P. Sloan Foundation",
+    "legacy_path": "funders/January2022/AX9HhIZXRpYO7HUohl3f.png",
+    "normalized_path": "/logos/funders/alfred-p-sloan-foundation.png",
+    "source_url": "https://ecrcentral.org/funders/January2022/AX9HhIZXRpYO7HUohl3f.png"
+  },
+  {
+    "slug": "american-association-of-immunologists",
+    "name": "American Association of Immunologists",
+    "legacy_path": "funders/June2020/XSZmNjzGuV0H4IwvoFKR.png",
+    "normalized_path": "/logos/funders/american-association-of-immunologists.png",
+    "source_url": "https://ecrcentral.org/funders/June2020/XSZmNjzGuV0H4IwvoFKR.png"
+  },
+  {
+    "slug": "american-association-of-university-women",
+    "name": "American Association of University Women",
+    "legacy_path": "funders/May2019/0oOw19xz9sfuwWRRKat2.png",
+    "normalized_path": "/logos/funders/american-association-of-university-women.png",
+    "source_url": "https://ecrcentral.org/funders/May2019/0oOw19xz9sfuwWRRKat2.png"
+  },
+  {
+    "slug": "american-gastroenterological-association",
+    "name": "American Gastroenterological Association",
+    "legacy_path": "funders/May2020/XyGMHIkT7mHQ9BMIFeQY.png",
+    "normalized_path": "/logos/funders/american-gastroenterological-association.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/XyGMHIkT7mHQ9BMIFeQY.png"
+  },
+  {
+    "slug": "american-psychological-foundation",
+    "name": "American Psychological Foundation",
+    "legacy_path": "funders/January2019/6vorotDzNC4QLJOTrdOx.png",
+    "normalized_path": "/logos/funders/american-psychological-foundation.png",
+    "source_url": "https://ecrcentral.org/funders/January2019/6vorotDzNC4QLJOTrdOx.png"
+  },
+  {
+    "slug": "american-society-for-mass-spectrometry",
+    "name": "American Society for Mass Spectrometry",
+    "legacy_path": "funders/May2020/JMe5M9XyBTrjv8xnsNDt.png",
+    "normalized_path": "/logos/funders/american-society-for-mass-spectrometry.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/JMe5M9XyBTrjv8xnsNDt.png"
+  },
+  {
+    "slug": "american-society-for-microbiology",
+    "name": "American Society for Microbiology",
+    "legacy_path": "funders/May2020/E4z2jPvoVWNagOookUjt.png",
+    "normalized_path": "/logos/funders/american-society-for-microbiology.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/E4z2jPvoVWNagOookUjt.png"
+  },
+  {
+    "slug": "american-society-of-health-system-pharmacists-foundation",
+    "name": "American Society of Health-System Pharmacists Foundation",
+    "legacy_path": "funders/May2020/Sm8Sgtdi34SfIVOMelYs.jpg",
+    "normalized_path": "/logos/funders/american-society-of-health-system-pharmacists-foundation.jpg",
+    "source_url": "https://ecrcentral.org/funders/May2020/Sm8Sgtdi34SfIVOMelYs.jpg"
+  },
+  {
+    "slug": "bayer-healthcare",
+    "name": "Bayer HealthCare",
+    "legacy_path": "funders/May2020/Vqukz7YdgghUwxDdpw8z.png",
+    "normalized_path": "/logos/funders/bayer-healthcare.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/Vqukz7YdgghUwxDdpw8z.png"
+  },
+  {
+    "slug": "bill-and-melinda-gates-foundation",
+    "name": "Bill and Melinda Gates Foundation",
+    "legacy_path": "funders/May2020/bAY2Ngf2uTqHydrKKJRJ.png",
+    "normalized_path": "/logos/funders/bill-and-melinda-gates-foundation.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/bAY2Ngf2uTqHydrKKJRJ.png"
+  },
+  {
+    "slug": "biometrika",
+    "name": "Biometrika",
+    "legacy_path": "funders/May2020/RfxKGRL9CK4cPyLaAmiH.png",
+    "normalized_path": "/logos/funders/biometrika.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/RfxKGRL9CK4cPyLaAmiH.png"
+  },
+  {
+    "slug": "blavatnik-family-foundation",
+    "name": "Blavatnik Family Foundation",
+    "legacy_path": "funders/May2020/viXypJRccvZ3htmh6AWF.jpg",
+    "normalized_path": "/logos/funders/blavatnik-family-foundation.jpg",
+    "source_url": "https://ecrcentral.org/funders/May2020/viXypJRccvZ3htmh6AWF.jpg"
+  },
+  {
+    "slug": "cancer-research-uk",
+    "name": "Cancer Research UK",
+    "legacy_path": "funders/January2019/EVSCCtycYi4XNiNRrJBF.png",
+    "normalized_path": "/logos/funders/cancer-research-uk.png",
+    "source_url": "https://ecrcentral.org/funders/January2019/EVSCCtycYi4XNiNRrJBF.png"
+  },
+  {
+    "slug": "center-for-research-and-interdisciplinarity",
+    "name": "Center for Research and Interdisciplinarity",
+    "legacy_path": "funders/May2020/3s9OpYxlzfHgy0ULexOq.png",
+    "normalized_path": "/logos/funders/center-for-research-and-interdisciplinarity.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/3s9OpYxlzfHgy0ULexOq.png"
+  },
+  {
+    "slug": "college-of-food-agricultural-and-natural-resource-sciences",
+    "name": "College of Food, Agricultural and Natural Resource Sciences",
+    "legacy_path": "funders/May2020/RMjxDopWrctYJPu4LKkI.gif",
+    "normalized_path": "/logos/funders/college-of-food-agricultural-and-natural-resource-sciences.gif",
+    "source_url": "https://ecrcentral.org/funders/May2020/RMjxDopWrctYJPu4LKkI.gif"
+  },
+  {
+    "slug": "conicet",
+    "name": "CONICET",
+    "legacy_path": "funders/May2020/ptxZqSXmY0rNpyy3qj2c.png",
+    "normalized_path": "/logos/funders/conicet.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/ptxZqSXmY0rNpyy3qj2c.png"
+  },
+  {
+    "slug": "cornell-university",
+    "name": "Cornell University",
+    "legacy_path": "funders/May2019/5dXeIqVx2Bd7HmXTu5el.png",
+    "normalized_path": "/logos/funders/cornell-university.png",
+    "source_url": "https://ecrcentral.org/funders/May2019/5dXeIqVx2Bd7HmXTu5el.png"
+  },
+  {
+    "slug": "croucher-foundation-limited",
+    "name": "Croucher Foundation Limited",
+    "legacy_path": "funders/May2020/rydSBkfSSwEpOWnqEXEg.png",
+    "normalized_path": "/logos/funders/croucher-foundation-limited.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/rydSBkfSSwEpOWnqEXEg.png"
+  },
+  {
+    "slug": "csl",
+    "name": "CSL",
+    "legacy_path": "funders/May2020/uGBG1suXDI6IBHYw0Uh9.png",
+    "normalized_path": "/logos/funders/csl.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/uGBG1suXDI6IBHYw0Uh9.png"
+  },
+  {
+    "slug": "earth-institute-columbia-university",
+    "name": "Earth Institute, Columbia University",
+    "legacy_path": "funders/May2020/89xRzwtVS0oJhOozlK15.png",
+    "normalized_path": "/logos/funders/earth-institute-columbia-university.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/89xRzwtVS0oJhOozlK15.png"
+  },
+  {
+    "slug": "elife",
+    "name": "eLife",
+    "legacy_path": "funders/June2020/5j2Of1UJ7If21ljPbGw9.png",
+    "normalized_path": "/logos/funders/elife.png",
+    "source_url": "https://ecrcentral.org/funders/June2020/5j2Of1UJ7If21ljPbGw9.png"
+  },
+  {
+    "slug": "elizabeth-george-foundation",
+    "name": "Elizabeth George Foundation",
+    "legacy_path": "funders/May2020/G4F2CFI0eRxipedDDgi3.jpg",
+    "normalized_path": "/logos/funders/elizabeth-george-foundation.jpg",
+    "source_url": "https://ecrcentral.org/funders/May2020/G4F2CFI0eRxipedDDgi3.jpg"
+  },
+  {
+    "slug": "emil-aaltonen-foundation",
+    "name": "Emil Aaltonen Foundation",
+    "legacy_path": "funders/May2020/PimVeFnExwyiwLS8GGMX.jpg",
+    "normalized_path": "/logos/funders/emil-aaltonen-foundation.jpg",
+    "source_url": "https://ecrcentral.org/funders/May2020/PimVeFnExwyiwLS8GGMX.jpg"
+  },
+  {
+    "slug": "environmental-leadership-program",
+    "name": "Environmental Leadership Program",
+    "legacy_path": "funders/May2020/1RDRb5zKZS2SMnnhp68e.png",
+    "normalized_path": "/logos/funders/environmental-leadership-program.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/1RDRb5zKZS2SMnnhp68e.png"
+  },
+  {
+    "slug": "eppley-foundation-for-research",
+    "name": "Eppley Foundation for Research",
+    "legacy_path": "funders/May2020/DiWEOOdm5EuKEwzEj4kx.png",
+    "normalized_path": "/logos/funders/eppley-foundation-for-research.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/DiWEOOdm5EuKEwzEj4kx.png"
+  },
+  {
+    "slug": "eth-zurich",
+    "name": "ETH Zurich",
+    "legacy_path": "funders/May2020/CRdRrphPBDKCTzJtYe10.png",
+    "normalized_path": "/logos/funders/eth-zurich.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/CRdRrphPBDKCTzJtYe10.png"
+  },
+  {
+    "slug": "european-molecular-biology-laboratory-embl",
+    "name": "European Molecular Biology Laboratory (EMBL)",
+    "legacy_path": "funders/May2020/Kb1Onyb7xcCww3BIPRgy.png",
+    "normalized_path": "/logos/funders/european-molecular-biology-laboratory-embl.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/Kb1Onyb7xcCww3BIPRgy.png"
+  },
+  {
+    "slug": "european-molecular-biology-organization-embo",
+    "name": "European Molecular Biology Organization (EMBO)",
+    "legacy_path": "funders/June2020/xUIaPo32a8v6zgJP1jdi.png",
+    "normalized_path": "/logos/funders/european-molecular-biology-organization-embo.png",
+    "source_url": "https://ecrcentral.org/funders/June2020/xUIaPo32a8v6zgJP1jdi.png"
+  },
+  {
+    "slug": "european-research-council",
+    "name": "European Research Council",
+    "legacy_path": "funders/May2020/f79rr7AA3i2jRazHMCFF.png",
+    "normalized_path": "/logos/funders/european-research-council.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/f79rr7AA3i2jRazHMCFF.png"
+  },
+  {
+    "slug": "federation-of-european-biochemical-societies",
+    "name": "Federation of European Biochemical Societies",
+    "legacy_path": "funders/May2020/uuhrqyhzZ6xITmXtf05F.png",
+    "normalized_path": "/logos/funders/federation-of-european-biochemical-societies.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/uuhrqyhzZ6xITmXtf05F.png"
+  },
+  {
+    "slug": "fondation-pour-laide-a-la-recherche-sur-la-sclerose-en-plaques",
+    "name": "Fondation pour l'Aide à la Recherche sur la Sclérose en Plaques",
+    "legacy_path": "funders/May2019/kG1Yhkb6zALaM7Vg96jA.png",
+    "normalized_path": "/logos/funders/fondation-pour-laide-a-la-recherche-sur-la-sclerose-en-plaques.png",
+    "source_url": "https://ecrcentral.org/funders/May2019/kG1Yhkb6zALaM7Vg96jA.png"
+  },
+  {
+    "slug": "foreign-and-commonwealth-office",
+    "name": "Foreign and Commonwealth Office",
+    "legacy_path": "funders/May2020/69JoeZlEZ3sAk7uh0pym.png",
+    "normalized_path": "/logos/funders/foreign-and-commonwealth-office.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/69JoeZlEZ3sAk7uh0pym.png"
+  },
+  {
+    "slug": "fulbright-israel",
+    "name": "Fulbright Israel",
+    "legacy_path": "funders/May2020/6lwLNFZMOAcx7UmSL6GO.png",
+    "normalized_path": "/logos/funders/fulbright-israel.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/6lwLNFZMOAcx7UmSL6GO.png"
+  },
+  {
+    "slug": "fulbright-program",
+    "name": "Fulbright Program",
+    "legacy_path": "funders/May2020/1xEctJW1sNUwYajsQdm3.png",
+    "normalized_path": "/logos/funders/fulbright-program.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/1xEctJW1sNUwYajsQdm3.png"
+  },
+  {
+    "slug": "fund-for-scientific-research-frsfnrs",
+    "name": "Fund for Scientific Research (F.R.S.–FNRS)",
+    "legacy_path": "funders/May2020/0FtV3RCSQlabJOMAU4K1.png",
+    "normalized_path": "/logos/funders/fund-for-scientific-research-frsfnrs.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/0FtV3RCSQlabJOMAU4K1.png"
+  },
+  {
+    "slug": "fundacao-de-amparo-a-pesquisa-do-estado-de-sao-paulo",
+    "name": "Fundação de Amparo à Pesquisa do Estado de São Paulo",
+    "legacy_path": "funders/May2020/GFxdiw7ymYu4VLYAHBAL.png",
+    "normalized_path": "/logos/funders/fundacao-de-amparo-a-pesquisa-do-estado-de-sao-paulo.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/GFxdiw7ymYu4VLYAHBAL.png"
+  },
+  {
+    "slug": "fundation-loreal",
+    "name": "Fundation L'ORÉAL",
+    "legacy_path": "funders/June2020/vUgPkn110NPUWICFXUeT.jpg",
+    "normalized_path": "/logos/funders/fundation-loreal.jpg",
+    "source_url": "https://ecrcentral.org/funders/June2020/vUgPkn110NPUWICFXUeT.jpg"
+  },
+  {
+    "slug": "fyssen-fondation",
+    "name": "Fyssen Fondation",
+    "legacy_path": "funders/May2020/F2Fv44vUZpDnSXzK1HK1.png",
+    "normalized_path": "/logos/funders/fyssen-fondation.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/F2Fv44vUZpDnSXzK1HK1.png"
+  },
+  {
+    "slug": "giract",
+    "name": "Giract",
+    "legacy_path": "funders/July2020/F5vpctNscAXn6dvMuRLA.jpg",
+    "normalized_path": "/logos/funders/giract.jpg",
+    "source_url": "https://ecrcentral.org/funders/July2020/F5vpctNscAXn6dvMuRLA.jpg"
+  },
+  {
+    "slug": "government-of-catalonia",
+    "name": "Government of Catalonia",
+    "legacy_path": "funders/May2020/K4FOX8EdyUfM3iOVx9Dl.png",
+    "normalized_path": "/logos/funders/government-of-catalonia.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/K4FOX8EdyUfM3iOVx9Dl.png"
+  },
+  {
+    "slug": "griffith-university",
+    "name": "Griffith University",
+    "legacy_path": "funders/May2020/8DwwVDJd2hynnI9Evok0.gif",
+    "normalized_path": "/logos/funders/griffith-university.gif",
+    "source_url": "https://ecrcentral.org/funders/May2020/8DwwVDJd2hynnI9Evok0.gif"
+  },
+  {
+    "slug": "gruss-lipper",
+    "name": "Gruss Lipper",
+    "legacy_path": "funders/May2020/AxebopTIf3dtYCfp8Mcu.png",
+    "normalized_path": "/logos/funders/gruss-lipper.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/AxebopTIf3dtYCfp8Mcu.png"
+  },
+  {
+    "slug": "h2020-marie-skodowska-curie-actions",
+    "name": "H2020 Marie Skłodowska-Curie Actions",
+    "legacy_path": "funders/May2020/RaFAFCcjaMQORSpczUgv.jpg",
+    "normalized_path": "/logos/funders/h2020-marie-skodowska-curie-actions.jpg",
+    "source_url": "https://ecrcentral.org/funders/May2020/RaFAFCcjaMQORSpczUgv.jpg"
+  },
+  {
+    "slug": "harry-frank-guggenheim-foundation",
+    "name": "Harry Frank Guggenheim Foundation",
+    "legacy_path": "funders/June2020/GhP0HYAjIM7sj6NIw5zT.gif",
+    "normalized_path": "/logos/funders/harry-frank-guggenheim-foundation.gif",
+    "source_url": "https://ecrcentral.org/funders/June2020/GhP0HYAjIM7sj6NIw5zT.gif"
+  },
+  {
+    "slug": "helen-hay-whitney-foundation",
+    "name": "Helen Hay Whitney Foundation",
+    "legacy_path": "funders/May2020/vX0h89EuydeCITmUX9Di.png",
+    "normalized_path": "/logos/funders/helen-hay-whitney-foundation.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/vX0h89EuydeCITmUX9Di.png"
+  },
+  {
+    "slug": "human-frontier-science-program-hfsp",
+    "name": "Human Frontier Science Program (HFSP)",
+    "legacy_path": "funders/June2020/TAQIl6TywUH7MfPWRRw1.png",
+    "normalized_path": "/logos/funders/human-frontier-science-program-hfsp.png",
+    "source_url": "https://ecrcentral.org/funders/June2020/TAQIl6TywUH7MfPWRRw1.png"
+  },
+  {
+    "slug": "indo-us-science-and-technology-forum",
+    "name": "Indo-US Science and Technology Forum",
+    "legacy_path": "funders/June2020/JgCgRvUN9iuVRolJx1Zj.gif",
+    "normalized_path": "/logos/funders/indo-us-science-and-technology-forum.gif",
+    "source_url": "https://ecrcentral.org/funders/June2020/JgCgRvUN9iuVRolJx1Zj.gif"
+  },
+  {
+    "slug": "institute-for-basic-science",
+    "name": "Institute for Basic Science",
+    "legacy_path": "funders/May2019/ZiDIjwo0HM40g6jiGeHe.gif",
+    "normalized_path": "/logos/funders/institute-for-basic-science.gif",
+    "source_url": "https://ecrcentral.org/funders/May2019/ZiDIjwo0HM40g6jiGeHe.gif"
+  },
+  {
+    "slug": "international-institute-for-applied-systems-analysis",
+    "name": "International Institute for Applied Systems Analysis",
+    "legacy_path": "funders/June2020/Dtc1y45iarwQhQ0NOaLQ.png",
+    "normalized_path": "/logos/funders/international-institute-for-applied-systems-analysis.png",
+    "source_url": "https://ecrcentral.org/funders/June2020/Dtc1y45iarwQhQ0NOaLQ.png"
+  },
+  {
+    "slug": "jane-coffin-childs-memorial-fund-for-cancer-research",
+    "name": "Jane Coffin Childs Memorial Fund for Cancer Research",
+    "legacy_path": "funders/May2020/GHfAqVfBvRcWzAfofLrh.jpg",
+    "normalized_path": "/logos/funders/jane-coffin-childs-memorial-fund-for-cancer-research.jpg",
+    "source_url": "https://ecrcentral.org/funders/May2020/GHfAqVfBvRcWzAfofLrh.jpg"
+  },
+  {
+    "slug": "jane-ja-aatos-erkon-saatio",
+    "name": "Jane ja Aatos Erkon Säätiö",
+    "legacy_path": "funders/May2020/KyvrYkAIn0dQNI1MJPOT.jpg",
+    "normalized_path": "/logos/funders/jane-ja-aatos-erkon-saatio.jpg",
+    "source_url": "https://ecrcentral.org/funders/May2020/KyvrYkAIn0dQNI1MJPOT.jpg"
+  },
+  {
+    "slug": "killam-trusts",
+    "name": "Killam Trusts",
+    "legacy_path": "funders/May2020/60YS2pDM7Qlttyuc8vGp.png",
+    "normalized_path": "/logos/funders/killam-trusts.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/60YS2pDM7Qlttyuc8vGp.png"
+  },
+  {
+    "slug": "la-caixa-fundation",
+    "name": "La Caixa Fundation",
+    "legacy_path": "funders/June2020/vuhTo3uvMSQULTZAgDwp.jpg",
+    "normalized_path": "/logos/funders/la-caixa-fundation.jpg",
+    "source_url": "https://ecrcentral.org/funders/June2020/vuhTo3uvMSQULTZAgDwp.jpg"
+  },
+  {
+    "slug": "les-amis-des-instituts-pasteur-a-bruxelles",
+    "name": "Les Amis des Instituts Pasteur à Bruxelles",
+    "legacy_path": "funders/May2020/98eotI0txOswoPsB8k4h.jpg",
+    "normalized_path": "/logos/funders/les-amis-des-instituts-pasteur-a-bruxelles.jpg",
+    "source_url": "https://ecrcentral.org/funders/May2020/98eotI0txOswoPsB8k4h.jpg"
+  },
+  {
+    "slug": "liber-ero-post-doctoral-fellowship-program",
+    "name": "Liber Ero post-doctoral fellowship program",
+    "legacy_path": "funders/June2020/YM5mdHxI5BVNQ6WJaku5.gif",
+    "normalized_path": "/logos/funders/liber-ero-post-doctoral-fellowship-program.gif",
+    "source_url": "https://ecrcentral.org/funders/June2020/YM5mdHxI5BVNQ6WJaku5.gif"
+  },
+  {
+    "slug": "lungevity-foundation",
+    "name": "LUNGevity Foundation",
+    "legacy_path": "funders/May2020/xXQDbI4N83kFMBbdJlEt.jpg",
+    "normalized_path": "/logos/funders/lungevity-foundation.jpg",
+    "source_url": "https://ecrcentral.org/funders/May2020/xXQDbI4N83kFMBbdJlEt.jpg"
+  },
+  {
+    "slug": "max-planck-society",
+    "name": "Max Planck Society",
+    "legacy_path": "funders/June2020/sh4Q5x2UWwrIX6Z9zrzt.png",
+    "normalized_path": "/logos/funders/max-planck-society.png",
+    "source_url": "https://ecrcentral.org/funders/June2020/sh4Q5x2UWwrIX6Z9zrzt.png"
+  },
+  {
+    "slug": "melanoma-research-alliance",
+    "name": "Melanoma Research Alliance",
+    "legacy_path": "funders/May2020/m9Bri70EdkOiyElV23TQ.png",
+    "normalized_path": "/logos/funders/melanoma-research-alliance.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/m9Bri70EdkOiyElV23TQ.png"
+  },
+  {
+    "slug": "michael-smith-foundation-for-health-research",
+    "name": "Michael Smith Foundation for Health Research",
+    "legacy_path": "funders/May2019/WCeBrVFvACN85mi12CMz.png",
+    "normalized_path": "/logos/funders/michael-smith-foundation-for-health-research.png",
+    "source_url": "https://ecrcentral.org/funders/May2019/WCeBrVFvACN85mi12CMz.png"
+  },
+  {
+    "slug": "mitacs-elevate",
+    "name": "Mitacs Elevate",
+    "legacy_path": "funders/June2020/gn8AoJaYz3cId94wsUmF.png",
+    "normalized_path": "/logos/funders/mitacs-elevate.png",
+    "source_url": "https://ecrcentral.org/funders/June2020/gn8AoJaYz3cId94wsUmF.png"
+  },
+  {
+    "slug": "nanyang-technological-university",
+    "name": "Nanyang Technological University",
+    "legacy_path": "funders/May2019/MoUvcJG2Zsu5Ai1EST15.jpg",
+    "normalized_path": "/logos/funders/nanyang-technological-university.jpg",
+    "source_url": "https://ecrcentral.org/funders/May2019/MoUvcJG2Zsu5Ai1EST15.jpg"
+  },
+  {
+    "slug": "national-centre-for-the-replacement-refinement-and-reduction-of-animals-in-research",
+    "name": "National Centre for the Replacement Refinement and Reduction of Animals in Research",
+    "legacy_path": "funders/May2020/SihFivTQbJ28h4USI8tu.png",
+    "normalized_path": "/logos/funders/national-centre-for-the-replacement-refinement-and-reduction-of-animals-in-research.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/SihFivTQbJ28h4USI8tu.png"
+  },
+  {
+    "slug": "national-institute-for-mathematical-and-biological-synthesis",
+    "name": "National Institute for Mathematical and Biological Synthesis",
+    "legacy_path": "funders/May2020/UQYi8HkeeJcFsBJnzTgs.png",
+    "normalized_path": "/logos/funders/national-institute-for-mathematical-and-biological-synthesis.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/UQYi8HkeeJcFsBJnzTgs.png"
+  },
+  {
+    "slug": "national-institutes-of-health-nih",
+    "name": "National Institutes of Health (NIH)",
+    "legacy_path": "funders/June2020/hTkBDGkvCdqDNLBUW2GO.png",
+    "normalized_path": "/logos/funders/national-institutes-of-health-nih.png",
+    "source_url": "https://ecrcentral.org/funders/June2020/hTkBDGkvCdqDNLBUW2GO.png"
+  },
+  {
+    "slug": "national-science-center-poland",
+    "name": "National Science Center Poland",
+    "legacy_path": "funders/June2020/4UxPXPFAL05kP2M3vaLV.png",
+    "normalized_path": "/logos/funders/national-science-center-poland.png",
+    "source_url": "https://ecrcentral.org/funders/June2020/4UxPXPFAL05kP2M3vaLV.png"
+  },
+  {
+    "slug": "national-socio-environmental-synthesis-center",
+    "name": "National Socio-Environmental Synthesis Center",
+    "legacy_path": "funders/May2020/vFLerB7LRWrj2nMI7HS3.png",
+    "normalized_path": "/logos/funders/national-socio-environmental-synthesis-center.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/vFLerB7LRWrj2nMI7HS3.png"
+  },
+  {
+    "slug": "netherlands-organisation-for-scientific-research",
+    "name": "Netherlands Organisation for Scientific Research",
+    "legacy_path": "funders/May2020/Cs8AUnSxN9bI2w3JGz4J.png",
+    "normalized_path": "/logos/funders/netherlands-organisation-for-scientific-research.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/Cs8AUnSxN9bI2w3JGz4J.png"
+  },
+  {
+    "slug": "open-bioinformatics-foundation",
+    "name": "Open Bioinformatics Foundation",
+    "legacy_path": "funders/May2020/UcZbicZm0jjhPyPLZLvg.png",
+    "normalized_path": "/logos/funders/open-bioinformatics-foundation.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/UcZbicZm0jjhPyPLZLvg.png"
+  },
+  {
+    "slug": "phi-beta-psi-sorority",
+    "name": "Phi Beta Psi Sorority",
+    "legacy_path": "funders/May2020/GdQPZ8GSKMkCLCGPRSGG.jpeg",
+    "normalized_path": "/logos/funders/phi-beta-psi-sorority.jpeg",
+    "source_url": "https://ecrcentral.org/funders/May2020/GdQPZ8GSKMkCLCGPRSGG.jpeg"
+  },
+  {
+    "slug": "research-council-of-norway",
+    "name": "Research Council of Norway",
+    "legacy_path": "funders/May2020/vXH5RK6xhnTTvThUh0ux.png",
+    "normalized_path": "/logos/funders/research-council-of-norway.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/vXH5RK6xhnTTvThUh0ux.png"
+  },
+  {
+    "slug": "research-foundation-flanders",
+    "name": "Research Foundation Flanders",
+    "legacy_path": "funders/May2020/u8em91WURDkeMEcPf94D.jpg",
+    "normalized_path": "/logos/funders/research-foundation-flanders.jpg",
+    "source_url": "https://ecrcentral.org/funders/May2020/u8em91WURDkeMEcPf94D.jpg"
+  },
+  {
+    "slug": "rhodes-trust",
+    "name": "Rhodes Trust",
+    "legacy_path": "funders/May2020/U7W1t039a5OfQFyvQnzY.png",
+    "normalized_path": "/logos/funders/rhodes-trust.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/U7W1t039a5OfQFyvQnzY.png"
+  },
+  {
+    "slug": "riken",
+    "name": "RIKEN",
+    "legacy_path": "funders/May2019/X5Nsm9qYpMSidwzt5Fdi.gif",
+    "normalized_path": "/logos/funders/riken.gif",
+    "source_url": "https://ecrcentral.org/funders/May2019/X5Nsm9qYpMSidwzt5Fdi.gif"
+  },
+  {
+    "slug": "royal-commission-for-the-exhibition-of-1851",
+    "name": "Royal Commission for the Exhibition of 1851",
+    "legacy_path": "funders/May2020/VwTWW3ay1naPwi3O08W6.png",
+    "normalized_path": "/logos/funders/royal-commission-for-the-exhibition-of-1851.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/VwTWW3ay1naPwi3O08W6.png"
+  },
+  {
+    "slug": "royal-society-of-biology",
+    "name": "Royal Society of Biology",
+    "legacy_path": "funders/May2020/GPv0dckUqbL6KoOWfOqZ.jpg",
+    "normalized_path": "/logos/funders/royal-society-of-biology.jpg",
+    "source_url": "https://ecrcentral.org/funders/May2020/GPv0dckUqbL6KoOWfOqZ.jpg"
+  },
+  {
+    "slug": "science-and-engineering-research-board",
+    "name": "Science and Engineering Research Board",
+    "legacy_path": "funders/May2020/RMrkrdICQ5hAyEBq0lVw.png",
+    "normalized_path": "/logos/funders/science-and-engineering-research-board.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/RMrkrdICQ5hAyEBq0lVw.png"
+  },
+  {
+    "slug": "smithsonian-tropical-research-institute",
+    "name": "Smithsonian Tropical Research Institute",
+    "legacy_path": "funders/May2020/7llAUlBV6EKisV5bx7Qr.jpeg",
+    "normalized_path": "/logos/funders/smithsonian-tropical-research-institute.jpeg",
+    "source_url": "https://ecrcentral.org/funders/May2020/7llAUlBV6EKisV5bx7Qr.jpeg"
+  },
+  {
+    "slug": "sobran",
+    "name": "SoBran",
+    "legacy_path": "funders/May2020/0bVix3Mf1IWgl64MWxe9.gif",
+    "normalized_path": "/logos/funders/sobran.gif",
+    "source_url": "https://ecrcentral.org/funders/May2020/0bVix3Mf1IWgl64MWxe9.gif"
+  },
+  {
+    "slug": "society-for-conservation-biology",
+    "name": "Society for Conservation Biology",
+    "legacy_path": "funders/June2020/iXUOz6Wfu8EmPFqKJQ8R.png",
+    "normalized_path": "/logos/funders/society-for-conservation-biology.png",
+    "source_url": "https://ecrcentral.org/funders/June2020/iXUOz6Wfu8EmPFqKJQ8R.png"
+  },
+  {
+    "slug": "springer-nature",
+    "name": "Springer Nature",
+    "legacy_path": "funders/May2020/KAJxSIORgcVkXvEljG0K.jpg",
+    "normalized_path": "/logos/funders/springer-nature.jpg",
+    "source_url": "https://ecrcentral.org/funders/May2020/KAJxSIORgcVkXvEljG0K.jpg"
+  },
+  {
+    "slug": "sundance-institute",
+    "name": "Sundance Institute",
+    "legacy_path": "funders/May2020/Ap9tT08En4M8m84eVf3I.png",
+    "normalized_path": "/logos/funders/sundance-institute.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/Ap9tT08En4M8m84eVf3I.png"
+  },
+  {
+    "slug": "swiss-national-science-foundation",
+    "name": "Swiss National Science Foundation",
+    "legacy_path": "funders/May2020/jjamgVpeRvZdbwD3jpy4.jpg",
+    "normalized_path": "/logos/funders/swiss-national-science-foundation.jpg",
+    "source_url": "https://ecrcentral.org/funders/May2020/jjamgVpeRvZdbwD3jpy4.jpg"
+  },
+  {
+    "slug": "the-allen-institute-for-artificial-intelligence",
+    "name": "The Allen Institute for Artificial Intelligence",
+    "legacy_path": "funders/May2020/Pg6z77vFt2sEKopnwdz3.jpg",
+    "normalized_path": "/logos/funders/the-allen-institute-for-artificial-intelligence.jpg",
+    "source_url": "https://ecrcentral.org/funders/May2020/Pg6z77vFt2sEKopnwdz3.jpg"
+  },
+  {
+    "slug": "the-company-of-biologists",
+    "name": "The Company of Biologists",
+    "legacy_path": "funders/June2020/VLuYOKVjd3Qptit7By88.png",
+    "normalized_path": "/logos/funders/the-company-of-biologists.png",
+    "source_url": "https://ecrcentral.org/funders/June2020/VLuYOKVjd3Qptit7By88.png"
+  },
+  {
+    "slug": "the-gruber-foundation",
+    "name": "The Gruber Foundation",
+    "legacy_path": "funders/May2020/H2i7IfAN4Z7NPHvCu36w.png",
+    "normalized_path": "/logos/funders/the-gruber-foundation.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/H2i7IfAN4Z7NPHvCu36w.png"
+  },
+  {
+    "slug": "the-milstein-awards",
+    "name": "The Milstein Awards",
+    "legacy_path": "funders/May2020/y5VOTxeJZtKoM1qnNF4g.jpg",
+    "normalized_path": "/logos/funders/the-milstein-awards.jpg",
+    "source_url": "https://ecrcentral.org/funders/May2020/y5VOTxeJZtKoM1qnNF4g.jpg"
+  },
+  {
+    "slug": "the-royal-society",
+    "name": "The Royal Society",
+    "legacy_path": "funders/January2019/DEGoQDeXC4Zgjic71r5F.png",
+    "normalized_path": "/logos/funders/the-royal-society.png",
+    "source_url": "https://ecrcentral.org/funders/January2019/DEGoQDeXC4Zgjic71r5F.png"
+  },
+  {
+    "slug": "university-corporation-for-atmospheric-research",
+    "name": "University Corporation for Atmospheric Research",
+    "legacy_path": "funders/May2020/dRjUIHzoK1OdUM4p4ydo.png",
+    "normalized_path": "/logos/funders/university-corporation-for-atmospheric-research.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/dRjUIHzoK1OdUM4p4ydo.png"
+  },
+  {
+    "slug": "university-of-california-institute-for-mexico-and-the-united-states",
+    "name": "University of California Institute for Mexico and the United States",
+    "legacy_path": "funders/May2020/k7F9rwxUcwUwbLgVUc8X.jpg",
+    "normalized_path": "/logos/funders/university-of-california-institute-for-mexico-and-the-united-states.jpg",
+    "source_url": "https://ecrcentral.org/funders/May2020/k7F9rwxUcwUwbLgVUc8X.jpg"
+  },
+  {
+    "slug": "university-of-cambridge",
+    "name": "University of Cambridge",
+    "legacy_path": "funders/May2020/1J3bCEDSuVoASiXLU3kO.jpeg",
+    "normalized_path": "/logos/funders/university-of-cambridge.jpeg",
+    "source_url": "https://ecrcentral.org/funders/May2020/1J3bCEDSuVoASiXLU3kO.jpeg"
+  },
+  {
+    "slug": "university-of-leeds",
+    "name": "University of Leeds",
+    "legacy_path": "funders/May2020/J7xb7yzEtSmkk68IhLM3.png",
+    "normalized_path": "/logos/funders/university-of-leeds.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/J7xb7yzEtSmkk68IhLM3.png"
+  },
+  {
+    "slug": "university-of-massachusetts-amherst",
+    "name": "University of Massachusetts Amherst",
+    "legacy_path": "funders/May2020/Vl4EFdEsX0AiRlPI3Sbn.png",
+    "normalized_path": "/logos/funders/university-of-massachusetts-amherst.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/Vl4EFdEsX0AiRlPI3Sbn.png"
+  },
+  {
+    "slug": "us-israel-binational-science-foundation-bsf",
+    "name": "U.S.-Israel Binational Science Foundation (BSF)",
+    "legacy_path": "funders/May2020/bjMoM37ruRcnKa9uR3CT.png",
+    "normalized_path": "/logos/funders/us-israel-binational-science-foundation-bsf.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/bjMoM37ruRcnKa9uR3CT.png"
+  },
+  {
+    "slug": "wellcome-trust",
+    "name": "Wellcome Trust",
+    "legacy_path": "funders/May2020/c7KRPF9YjArvShXYjI49.png",
+    "normalized_path": "/logos/funders/wellcome-trust.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/c7KRPF9YjArvShXYjI49.png"
+  },
+  {
+    "slug": "when-everyone-survives-foundation-wes-leukemia-research-foundation",
+    "name": "When Everyone Survives Foundation (WES Leukemia Research Foundation)",
+    "legacy_path": "funders/May2020/xirBhvWgAZHqeKz4JZU5.png",
+    "normalized_path": "/logos/funders/when-everyone-survives-foundation-wes-leukemia-research-foundation.png",
+    "source_url": "https://ecrcentral.org/funders/May2020/xirBhvWgAZHqeKz4JZU5.png"
+  }
+]

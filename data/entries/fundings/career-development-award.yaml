@@ -1,0 +1,47 @@
+id: funding-career-development-award
+legacy_id: 373
+slug: career-development-award
+name: Career Development Award
+description: null
+url: https://professional.heart.org/professional/ResearchPrograms/UCM_495968_Career-Development-Award.jsp
+funders:
+- american-heart-association
+legacy_funder_name: American Heart Association
+host_country: United States
+applicant_country: null
+career_levels:
+- phd
+years_since_phd: Scientist Development Grant applicants should have no more than four
+  years since his/her first faculty/staff appointment at the assistant professor level
+  or its equivalent and must not be fun
+duration: 3 years
+award: $231 000
+mobility_rule: null
+research_costs: null
+deadline: December
+deadline_month: December
+diversity: null
+comments: Supports highly promising healthcare and academic professionals, in the
+  early years of one’s first professional appointment, to explore innovative questions
+  or pilot studies that will provide preliminary data and training necessary to assure
+  the applicant’s future success as a research scientist in the field of cardiovascular
+  and stroke research. AHA funds research broadly related to cardiovascular disease
+  and stroke and supports research in clinical and basic sciences, bioengineering,
+  biotechnology and public health. Beginning Grant-In-Aid applicants must hold a faculty/staff
+  rank up to and including assistant professor (or equivalent), but may not have more
+  than seven years of experience at the assistant professor level.
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-06-02T13:56:08Z'
+subjects: []
+funding_purposes: []
+search_text: Career Development Award American Heart Association PhD United States
+source: legacy-import

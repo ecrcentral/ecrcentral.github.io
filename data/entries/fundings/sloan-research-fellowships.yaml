@@ -1,0 +1,51 @@
+id: funding-sloan-research-fellowships
+legacy_id: 577
+slug: sloan-research-fellowships
+name: Sloan Research Fellowships
+description: These two-year, $75,000 fellowships are awarded yearly to 126 researchers
+  in recognition of distinguished performance and a unique potential to make substantial
+  contributions to their field.
+url: https://sloan.org/fellowships
+funders:
+- alfred-p-sloan-foundation
+legacy_funder_name: Alfred P. Sloan Foundation
+host_country: United States
+applicant_country: null
+career_levels:
+- junior-faculty
+years_since_phd: NA
+duration: '2'
+award: $70 000
+mobility_rule: 'No'
+research_costs: null
+deadline: September
+deadline_month: September
+diversity: null
+comments: Limited Submission (3 per department) Fellowships support fundamental research
+  by early-career faculty. Candidates must hold a Ph.D. (or equivalent) in chemistry,
+  computational or evolutionary molecular biology, computer science, economics, mathematics,
+  neuroscience, ocean sciences, physics, or a related field. Candidates should be
+  no more than six years from completion of their most recent Ph.D. (or equivalent)
+  as of the year of their nomination. Awards are $55,000 over two years.
+benefits: Fellowship funds may be used by the fellow for any expense judged supportive
+  of the fellow’s research including staffing, professional travel, lab expenses,
+  equipment, or summer salary support.
+frequency: Annual
+fileds: null
+featured: true
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2022-01-16T16:42:22Z'
+subjects:
+- life-sciences
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Sloan Research Fellowships These two-year, $75,000 fellowships are awarded
+  yearly to 126 researchers in recognition of distinguished performance and a unique
+  potential to make substantial contributions to their field. Alfred P. Sloan Foundation
+  Junior Faculty Life Sciences Fellowship, scholarship or training United States
+source: legacy-import

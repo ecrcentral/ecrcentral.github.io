@@ -1,0 +1,44 @@
+id: funding-chancellors-postdoctoral-fellowship
+legacy_id: 216
+slug: chancellors-postdoctoral-fellowship
+name: Chancellor’s Postdoctoral Fellowship
+description: The Chancellor’s Postdoctoral Fellowship Program (CPFP) offers postdoctoral
+  research fellowships and faculty mentoring to outstanding scholars whose research,
+  teaching, and service will contribute to diversity and equal opportunity at the
+  University of California.
+url: https://www.postdoc.ucla.edu/prospective-postdoctoral-scholars/chancellors-postdoctoral-fellowship-program/
+funders:
+- university-of-california
+legacy_funder_name: University of California
+host_country: United States
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: No rule
+duration: '2'
+award: Fellowship; Research
+mobility_rule: 'No'
+research_costs: 'Yes'
+deadline: November
+deadline_month: November
+diversity: null
+comments: null
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T21:40:42Z'
+subjects: []
+funding_purposes: []
+search_text: Chancellor’s Postdoctoral Fellowship The Chancellor’s Postdoctoral Fellowship
+  Program (CPFP) offers postdoctoral research fellowships and faculty mentoring to
+  outstanding scholars whose research, teaching, and service will contribute to diversity
+  and equal opportunity at the University of California. University of California
+  PhD United States Worldwide
+source: legacy-import

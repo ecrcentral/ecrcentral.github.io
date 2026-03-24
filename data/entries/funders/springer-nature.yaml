@@ -1,0 +1,20 @@
+id: funder-springer-nature
+legacy_id: 640
+slug: springer-nature
+name: Springer Nature
+short_name: Springer Nature
+funder_registry_id: springer-nature
+country: Unites States
+website: https://www.springernature.com/gp
+logo: /logos/funders/springer-nature.jpg
+dora: true
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-05-27T05:49:28Z'
+updated_at: '2020-05-27T05:49:28Z'
+source: legacy-import

@@ -1,0 +1,21 @@
+id: resource-connect-on-coronavirus
+legacy_id: 126
+slug: connect-on-coronavirus
+name: Connect on Coronavirus
+url: https://www.immunology.org/coronavirus
+description: COVID-19 information website from British Society of Immunology with
+  resources and webinars.
+source_name: British Society for Immunology (BSI)
+funders: []
+resource_categories:
+- covid19-online-events
+- covid19-resources-guidebooks
+subjects: []
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: '2020-03-30T19:43:00Z'
+updated_at: '2020-03-31T17:49:48Z'
+source: legacy-import

@@ -1,0 +1,58 @@
+id: funding-chretien-international-research-grants
+legacy_id: 497
+slug: chretien-international-research-grants
+name: Chrétien International Research Grants
+description: In honor of the memory of Henri Chrétien, French Professor of Optics
+  and co-originator of the Ritchey-Chrétien telescope design, the American Astronomical
+  Society has been named to administer grants to further international collaborative
+  projects in observational astronomy. Emphasis is on long-term visits and the development
+  of close working relationships with astronomers in other countries. Preference will
+  be given to individuals of high promise who are otherwise unfunded.
+url: http://aas.org/grants-and-prizes/chr%C3%A9tien-international-research-grants
+funders:
+- american-astronomical-society
+legacy_funder_name: American Astronomical Society
+host_country: United States
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: NA
+duration: '1'
+award: $20 000
+mobility_rule: 'No'
+research_costs: null
+deadline: April
+deadline_month: April
+diversity: null
+comments: 'Eligibility: Astronomers with a Ph.D or equivalent; graduate students are
+  not eligible. Up to $20,000 (U.S.) is available each year to one or more individuals
+  or groups to be used for the support of international observational astronomy with
+  the emphasis upon long-term, international visits.'
+benefits: The awards may be used to cover any reasonable costs associated with astronomical
+  observational research including travel costs, salary, publication costs, and small
+  pieces of research equipment. If appropriate, the recipient's family is encouraged
+  to accompany him/her on the long-term international visit.
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+legacy_user_id: 1
+created_at: null
+updated_at: '2020-05-23T16:32:33Z'
+subjects:
+- astrophysics-and-astronomy
+funding_purposes:
+- research
+- collaboration
+search_text: Chrétien International Research Grants In honor of the memory of Henri
+  Chrétien, French Professor of Optics and co-originator of the Ritchey-Chrétien telescope
+  design, the American Astronomical Society has been named to administer grants to
+  further international collaborative projects in observational astronomy. Emphasis
+  is on long-term visits and the development of close working relationships with astronomers
+  in other countries. Preference will be given to individuals of high promise who
+  are otherwise unfunded. American Astronomical Society PhD Astrophysics and Astronomy
+  Research Collaboration United States Worldwide
+source: legacy-import

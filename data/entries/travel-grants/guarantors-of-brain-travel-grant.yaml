@@ -1,0 +1,31 @@
+id: travel-grant-guarantors-of-brain-travel-grant
+legacy_id: 52
+slug: guarantors-of-brain-travel-grant
+name: Guarantors of Brain Travel Grant
+url: https://guarantorsofbrain.org/grants/travel-grants/
+description: null
+funders: []
+legacy_funder_name: Guarantors of Brain
+applicant_country: UK-based, any nationality
+host_country: null
+award: £400-£1000
+deadline: 8weeks before conference/travel
+deadline_month: null
+membership: 'no'
+membership_time: NA
+purpose_text: null
+career_levels: []
+subjects: []
+travel_purposes:
+- conference
+- workshop-training-or-course
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: Guarantors of Brain Travel Grant Conference Workshop, training or course
+  UK-based, any nationality
+source: legacy-import

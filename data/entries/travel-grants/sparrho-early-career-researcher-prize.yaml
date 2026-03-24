@@ -1,0 +1,31 @@
+id: travel-grant-sparrho-early-career-researcher-prize
+legacy_id: 72
+slug: sparrho-early-career-researcher-prize
+name: Sparrho early career researcher prize
+url: http://grants.sparrho.com/index.html
+description: null
+funders: []
+legacy_funder_name: Sparrho
+applicant_country: Worldwide
+host_country: null
+award: £500
+deadline: 28th February 2019
+deadline_month: February
+membership: 'No'
+membership_time: null
+purpose_text: null
+career_levels:
+- phd
+- postdoc
+subjects: []
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: Sparrho early career researcher prize PhD Postdoc Conference Worldwide
+source: legacy-import

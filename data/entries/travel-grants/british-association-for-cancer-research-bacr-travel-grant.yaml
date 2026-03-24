@@ -1,0 +1,33 @@
+id: travel-grant-british-association-for-cancer-research-bacr-travel-grant
+legacy_id: 85
+slug: british-association-for-cancer-research-bacr-travel-grant
+name: British Association for Cancer Research (BACR) travel grant
+url: https://www.bacr.org.uk/fellowships/
+description: <p>BACR provides a number of travel bursaries and fellowships for members
+  of one year standing, awarded on a competitive basis</p>
+funders: []
+legacy_funder_name: BACR
+applicant_country: UK
+host_country: null
+award: £1000
+deadline: 28th February, 30th June and 31st October.
+deadline_month: February, June, October
+membership: 'Yes'
+membership_time: 1 year
+purpose_text: null
+career_levels:
+- postdoc
+subjects: []
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-02-19'
+verified_by: asntech
+created_at: null
+updated_at: null
+search_text: British Association for Cancer Research (BACR) travel grant <p>BACR provides
+  a number of travel bursaries and fellowships for members of one year standing, awarded
+  on a competitive basis</p> Postdoc Conference UK
+source: legacy-import
