@@ -8,7 +8,6 @@ venv/
 scripts/import/raw/
 *.egg-info/
 dist/
-build/
 
 # Node
 apps/web/node_modules
