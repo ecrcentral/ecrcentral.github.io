@@ -1,0 +1,85 @@
+name: Add a Funding Organization
+description: Submit a new funding organization or funder to ECRcentral
+title: "[Funder] "
+labels: ["new-entry", "funder", "needs-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for contributing to ECRcentral! Please fill in as much information as possible.
+        Fields marked with * are required.
+
+  - type: input
+    id: name
+    attributes:
+      label: "Organization name *"
+      description: The full official name of the funding organization
+      placeholder: "e.g., European Molecular Biology Organization"
+    validations:
+      required: true
+
+  - type: input
+    id: short_name
+    attributes:
+      label: Short name / acronym
+      placeholder: "e.g., EMBO"
+
+  - type: input
+    id: website
+    attributes:
+      label: "Website *"
+      description: Link to the organization's official website
+      placeholder: "https://..."
+    validations:
+      required: true
+
+  - type: input
+    id: country
+    attributes:
+      label: "Country *"
+      description: Country where the organization is based
+      placeholder: "e.g., Germany, United States, International"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Brief description of the organization and its mission
+      placeholder: "Describe what this organization does and what kinds of funding it offers..."
+
+  - type: input
+    id: funder_registry_id
+    attributes:
+      label: Open Funder Registry ID
+      description: CrossRef Open Funder Registry ID (if known)
+      placeholder: "e.g., 100001460"
+
+  - type: dropdown
+    id: dora
+    attributes:
+      label: DORA signatory
+      description: Is this organization a signatory of the San Francisco Declaration on Research Assessment (DORA)?
+      options:
+        - "Unknown"
+        - "Yes"
+        - "No"
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional notes
+      description: Any other relevant information (e.g., funding areas, regions served)
+
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: Checklist
+      options:
+        - label: I have verified this organization is a real, legitimate funding body
+          required: true
+        - label: I have checked that this organization does not already exist on ECRcentral
+          required: true
