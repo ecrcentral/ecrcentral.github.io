@@ -3,9 +3,9 @@ legacy_id: 74
 slug: open-bioinformatics-foundation-travel-fellowships
 name: Open Bioinformatics Foundation Travel Fellowships
 url: https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md
-description: <p>OBF Travel Fellowship program aimed at increasing diverse participation
+description: OBF Travel Fellowship program aimed at increasing diverse participation
   at events promoting open source bioinformatics software development and open science
-  in the biological research community.</p>
+  in the biological research community.
 funders:
 - open-bioinformatics-foundation
 legacy_funder_name: Open Bioinformatics Foundation
