@@ -60,17 +60,14 @@ def updated_at_key(record: Dict[str, Any]) -> str:
 def pick_featured(
     records: List[Dict[str, Any]],
     entity_type: str,
-    limit: int,
 ) -> List[Dict[str, Any]]:
     """
     Select featured items: featured=True AND review_status=approved AND status=active.
 
-    Sorted by updated_at descending, limited to `limit` items.
-    Returns slim records with just the fields needed for the homepage card.
+    Returns the full eligible pool (slimmed); client-side JS randomly picks n to display.
     """
     featured = [r for r in records if is_featured_approved_active(r)]
-    featured.sort(key=lambda r: updated_at_key(r), reverse=True)
-    return [slim(r, entity_type) for r in featured[:limit]]
+    return [slim(r, entity_type) for r in featured]
 
 
 def slim(record: Dict[str, Any], entity_type: str) -> Dict[str, Any]:
@@ -91,11 +88,16 @@ def slim(record: Dict[str, Any], entity_type: str) -> Dict[str, Any]:
     if entity_type == 'funder':
         base['country'] = record.get('country') or ''
         base['logo'] = record.get('logo') or ''
-        base['funding_count'] = record.get('funding_count', 0)
-        base['travel_grant_count'] = record.get('travel_grant_count', 0)
+        base['legacy_logo_path'] = record.get('legacy_logo_path') or ''
+        base['dora'] = record.get('dora', False)
+        base['short_name'] = record.get('short_name') or ''
+        base['website'] = record.get('website') or ''
+        base['active_funding_count'] = record.get('active_funding_count', 0)
+        base['active_travel_grant_count'] = record.get('active_travel_grant_count', 0)
 
     elif entity_type == 'funding':
         base['funder_names'] = record.get('funder_names') or []
+        base['funder_logos'] = record.get('funder_logos') or []
         base['funders'] = record.get('funders') or []
         base['applicant_country'] = record.get('applicant_country') or ''
         base['host_country'] = record.get('host_country') or ''
@@ -112,6 +114,7 @@ def slim(record: Dict[str, Any], entity_type: str) -> Dict[str, Any]:
 
     elif entity_type == 'travel_grant':
         base['funder_names'] = record.get('funder_names') or []
+        base['funder_logos'] = record.get('funder_logos') or []
         base['funders'] = record.get('funders') or []
         base['applicant_country'] = record.get('applicant_country') or ''
         base['career_levels'] = record.get('career_levels') or []
@@ -212,10 +215,10 @@ def main() -> None:
     print("\nBuilding homepage featured data …")
 
     homepage = {
-        'featured_fundings': pick_featured(fundings, 'funding', limit=6),
-        'featured_travel_grants': pick_featured(travel_grants, 'travel_grant', limit=6),
-        'featured_resources': pick_featured(resources, 'resource', limit=6),
-        'featured_funders': pick_featured(funders, 'funder', limit=8),
+        'featured_fundings': pick_featured(fundings, 'funding'),
+        'featured_travel_grants': pick_featured(travel_grants, 'travel_grant'),
+        'featured_resources': pick_featured(resources, 'resource'),
+        'featured_funders': pick_featured(funders, 'funder'),
         'recently_updated': build_recently_updated(fundings, travel_grants, resources, funders, limit=10),
     }
 

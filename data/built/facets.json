@@ -7,6 +7,11 @@
         "count": 63
       },
       {
+        "value": "the-world-academy-of-sciences",
+        "label": "The World Academy of Sciences",
+        "count": 9
+      },
+      {
         "value": "american-gastroenterological-association",
         "label": "American Gastroenterological Association",
         "count": 9
@@ -1432,6 +1437,11 @@
         "count": 1
       },
       {
+        "value": "uk-research-and-innovation",
+        "label": "UK Research and Innovation",
+        "count": 1
+      },
+      {
         "value": "national-centre-for-the-replacement-refinement-and-reduction-of-animals-in-research",
         "label": "National Centre for the Replacement Refinement and Reduction of Animals in Research",
         "count": 1
@@ -1496,7 +1506,7 @@
       {
         "value": "Worldwide",
         "label": "Worldwide",
-        "count": 262
+        "count": 272
       },
       {
         "value": "United States",
@@ -1506,7 +1516,7 @@
       {
         "value": "Developing countries",
         "label": "Developing countries",
-        "count": 9
+        "count": 12
       },
       {
         "value": "United Kingdom",
@@ -1534,13 +1544,8 @@
         "count": 4
       },
       {
-        "value": "Any",
-        "label": "Any",
-        "count": 4
-      },
-      {
-        "value": "USA, Canada",
-        "label": "USA, Canada",
+        "value": "United States, Canada",
+        "label": "United States, Canada",
         "count": 3
       },
       {
@@ -1584,18 +1589,8 @@
         "count": 2
       },
       {
-        "value": "all",
-        "label": "all",
-        "count": 2
-      },
-      {
-        "value": "USA",
-        "label": "USA",
-        "count": 2
-      },
-      {
-        "value": "INDIA",
-        "label": "INDIA",
+        "value": "Least Developed Countries (LDC)",
+        "label": "Least Developed Countries (LDC)",
         "count": 2
       },
       {
@@ -1604,13 +1599,8 @@
         "count": 1
       },
       {
-        "value": "USA, Canada, and permanent residents of the USA",
-        "label": "USA, Canada, and permanent residents of the USA",
-        "count": 1
-      },
-      {
-        "value": "No restrictions",
-        "label": "No restrictions",
+        "value": "United States, Canada, and permanent residents of the USA",
+        "label": "United States, Canada, and permanent residents of the USA",
         "count": 1
       },
       {
@@ -1619,8 +1609,8 @@
         "count": 1
       },
       {
-        "value": "USA, Permanent residents of the USA",
-        "label": "USA, Permanent residents of the USA",
+        "value": "United States, Permanent residents of the USA",
+        "label": "United States, Permanent residents of the USA",
         "count": 1
       },
       {
@@ -1659,8 +1649,8 @@
         "count": 1
       },
       {
-        "value": "Mexico, USA",
-        "label": "Mexico, USA",
+        "value": "Mexico, United States",
+        "label": "Mexico, United States",
         "count": 1
       },
       {
@@ -1669,8 +1659,8 @@
         "count": 1
       },
       {
-        "value": "USA, Canada, Mexico (or hold a Green Card)",
-        "label": "USA, Canada, Mexico (or hold a Green Card)",
+        "value": "United States, Canada, Mexico (or hold a Green Card)",
+        "label": "United States, Canada, Mexico (or hold a Green Card)",
         "count": 1
       },
       {
@@ -1729,38 +1719,8 @@
         "count": 1
       },
       {
-        "value": "All countries",
-        "label": "All countries",
-        "count": 1
-      },
-      {
-        "value": "Africa, Asia, Latin America",
-        "label": "Africa, Asia, Latin America",
-        "count": 1
-      },
-      {
         "value": "Low and Middle income countries",
         "label": "Low and Middle income countries",
-        "count": 1
-      },
-      {
-        "value": "UK",
-        "label": "UK",
-        "count": 1
-      },
-      {
-        "value": "All",
-        "label": "All",
-        "count": 1
-      },
-      {
-        "value": "Global",
-        "label": "Global",
-        "count": 1
-      },
-      {
-        "value": "Africa, Asia or Latin America",
-        "label": "Africa, Asia or Latin America",
         "count": 1
       },
       {
@@ -1771,6 +1731,21 @@
       {
         "value": "MENA region",
         "label": "MENA region",
+        "count": 1
+      },
+      {
+        "value": "Developing countries (excluding Pakistan)",
+        "label": "Developing countries (excluding Pakistan)",
+        "count": 1
+      },
+      {
+        "value": "Middle East and North Africa (MENA)",
+        "label": "Middle East and North Africa (MENA)",
+        "count": 1
+      },
+      {
+        "value": "Sub-Saharan Africa",
+        "label": "Sub-Saharan Africa",
         "count": 1
       },
       {
@@ -1787,23 +1762,13 @@
         "value": "UK & Egypt",
         "label": "UK & Egypt",
         "count": 1
-      },
-      {
-        "value": "International",
-        "label": "International",
-        "count": 1
-      },
-      {
-        "value": "China",
-        "label": "China",
-        "count": 1
       }
     ],
     "host_country": [
       {
         "value": "United States",
         "label": "United States",
-        "count": 451
+        "count": 452
       },
       {
         "value": "Worldwide",
@@ -1813,7 +1778,7 @@
       {
         "value": "United Kingdom",
         "label": "United Kingdom",
-        "count": 41
+        "count": 42
       },
       {
         "value": "Germany",
@@ -1846,8 +1811,8 @@
         "count": 7
       },
       {
-        "value": "USA, Canada",
-        "label": "USA, Canada",
+        "value": "United States, Canada",
+        "label": "United States, Canada",
         "count": 7
       },
       {
@@ -1876,6 +1841,11 @@
         "count": 5
       },
       {
+        "value": "Brazil",
+        "label": "Brazil",
+        "count": 4
+      },
+      {
         "value": "Finland",
         "label": "Finland",
         "count": 4
@@ -1886,18 +1856,8 @@
         "count": 4
       },
       {
-        "value": "China",
-        "label": "China",
-        "count": 4
-      },
-      {
         "value": "Sweden",
         "label": "Sweden",
-        "count": 3
-      },
-      {
-        "value": "Brazil",
-        "label": "Brazil",
         "count": 3
       },
       {
@@ -1911,14 +1871,19 @@
         "count": 3
       },
       {
-        "value": "UK",
-        "label": "UK",
-        "count": 3
-      },
-      {
         "value": "Singapore",
         "label": "Singapore",
         "count": 3
+      },
+      {
+        "value": "China",
+        "label": "China",
+        "count": 3
+      },
+      {
+        "value": "Pakistan",
+        "label": "Pakistan",
+        "count": 2
       },
       {
         "value": "Ireland",
@@ -1931,19 +1896,14 @@
         "count": 2
       },
       {
-        "value": "U.S.A",
-        "label": "U.S.A",
+        "value": "Developing countries",
+        "label": "Developing countries",
         "count": 2
       },
       {
-        "value": "INDIA",
-        "label": "INDIA",
+        "value": "Italy",
+        "label": "Italy",
         "count": 2
-      },
-      {
-        "value": "Pakistan",
-        "label": "Pakistan",
-        "count": 1
       },
       {
         "value": "Kenya",
@@ -1981,8 +1941,8 @@
         "count": 1
       },
       {
-        "value": "USA, Europe",
-        "label": "USA, Europe",
+        "value": "United States, Europe",
+        "label": "United States, Europe",
         "count": 1
       },
       {
@@ -2036,13 +1996,13 @@
         "count": 1
       },
       {
-        "value": "USA, Mexico",
-        "label": "USA, Mexico",
+        "value": "United States, Mexico",
+        "label": "United States, Mexico",
         "count": 1
       },
       {
-        "value": "USA, Canada, Mexico",
-        "label": "USA, Canada, Mexico",
+        "value": "United States, Canada, Mexico",
+        "label": "United States, Canada, Mexico",
         "count": 1
       },
       {
@@ -2053,11 +2013,6 @@
       {
         "value": "Argentina",
         "label": "Argentina",
-        "count": 1
-      },
-      {
-        "value": "USA",
-        "label": "USA",
         "count": 1
       },
       {
@@ -2096,6 +2051,11 @@
         "count": 1
       },
       {
+        "value": "Türkiye",
+        "label": "Türkiye",
+        "count": 1
+      },
+      {
         "value": "Wales",
         "label": "Wales",
         "count": 1
@@ -2109,38 +2069,28 @@
         "value": "UK & Egypt",
         "label": "UK & Egypt",
         "count": 1
-      },
-      {
-        "value": "Italy",
-        "label": "Italy",
-        "count": 1
-      },
-      {
-        "value": "P. R. China",
-        "label": "P. R. China",
-        "count": 1
       }
     ],
     "career_levels": [
       {
         "value": "phd",
         "label": "phd",
-        "count": 307
-      },
-      {
-        "value": "md",
-        "label": "md",
-        "count": 108
+        "count": 304
       },
       {
         "value": "postdoc",
         "label": "postdoc",
-        "count": 105
+        "count": 108
+      },
+      {
+        "value": "md",
+        "label": "md",
+        "count": 106
       },
       {
         "value": "junior-faculty",
         "label": "junior-faculty",
-        "count": 105
+        "count": 106
       },
       {
         "value": "master-students",
@@ -2195,14 +2145,14 @@
         "count": 20
       },
       {
+        "value": "natural-sciences",
+        "label": "natural-sciences",
+        "count": 16
+      },
+      {
         "value": "biology",
         "label": "biology",
         "count": 14
-      },
-      {
-        "value": "natural-sciences",
-        "label": "natural-sciences",
-        "count": 12
       },
       {
         "value": "ecology-and-evolutionary-biology",
@@ -2440,6 +2390,11 @@
         "count": 2
       },
       {
+        "value": "applied-sciences",
+        "label": "applied-sciences",
+        "count": 2
+      },
+      {
         "value": "technical-sciences",
         "label": "technical-sciences",
         "count": 1
@@ -2633,6 +2588,11 @@
         "value": "library-and-information-science",
         "label": "library-and-information-science",
         "count": 1
+      },
+      {
+        "value": "social-sciences",
+        "label": "social-sciences",
+        "count": 1
       }
     ],
     "funding_purposes": [
@@ -2654,12 +2614,22 @@
       {
         "value": "collaboration",
         "label": "collaboration",
-        "count": 14
+        "count": 19
       },
       {
         "value": "equipment",
         "label": "equipment",
         "count": 11
+      },
+      {
+        "value": "policy",
+        "label": "policy",
+        "count": 8
+      },
+      {
+        "value": "fellowship-scholarship-training",
+        "label": "fellowship-scholarship-training",
+        "count": 8
       },
       {
         "value": "publishing-and-editorial",
@@ -2711,7 +2681,7 @@
       {
         "value": "November",
         "label": "November",
-        "count": 35
+        "count": 36
       },
       {
         "value": "July",
@@ -2719,9 +2689,9 @@
         "count": 34
       },
       {
-        "value": "February",
-        "label": "February",
-        "count": 29
+        "value": "April",
+        "label": "April",
+        "count": 30
       },
       {
         "value": "August",
@@ -2729,8 +2699,8 @@
         "count": 29
       },
       {
-        "value": "April",
-        "label": "April",
+        "value": "February",
+        "label": "February",
         "count": 28
       },
       {
@@ -2973,7 +2943,7 @@
       {
         "value": "Annual",
         "label": "Annual",
-        "count": 243
+        "count": 251
       },
       {
         "value": "Rolling",
@@ -3000,17 +2970,17 @@
       {
         "value": "active",
         "label": "active",
-        "count": 676
+        "count": 682
       },
       {
         "value": "draft",
         "label": "draft",
-        "count": 72
+        "count": 71
       },
       {
         "value": "expired",
         "label": "expired",
-        "count": 24
+        "count": 16
       }
     ],
     "featured": [
@@ -3022,7 +2992,7 @@
       {
         "value": "false",
         "label": "Not Featured",
-        "count": 764
+        "count": 761
       }
     ],
     "diversity": [
@@ -3034,7 +3004,7 @@
       {
         "value": "no",
         "label": "No Diversity Info",
-        "count": 741
+        "count": 738
       }
     ]
   },
@@ -3095,16 +3065,16 @@
       {
         "value": "Worldwide",
         "label": "Worldwide",
-        "count": 16
+        "count": 18
+      },
+      {
+        "value": "United Kingdom",
+        "label": "United Kingdom",
+        "count": 6
       },
       {
         "value": "Anyone, but work in UK",
         "label": "Anyone, but work in UK",
-        "count": 4
-      },
-      {
-        "value": "UK",
-        "label": "UK",
         "count": 4
       },
       {
@@ -3120,11 +3090,6 @@
       {
         "value": "Wordwide",
         "label": "Wordwide",
-        "count": 2
-      },
-      {
-        "value": "United Kingdom",
-        "label": "United Kingdom",
         "count": 2
       },
       {
@@ -3158,18 +3123,13 @@
         "count": 1
       },
       {
-        "value": "Any",
-        "label": "Any",
-        "count": 1
-      },
-      {
         "value": "Anyone, but work at UCL",
         "label": "Anyone, but work at UCL",
         "count": 1
       },
       {
-        "value": "Must have PhD or MD, from Egypt, Israel, Jordan, Lebanon, Palestinian Territories, UK",
-        "label": "Must have PhD or MD, from Egypt, Israel, Jordan, Lebanon, Palestinian Territories, UK",
+        "value": "Must have PhD or MD, from Egypt, Israel, Jordan, Lebanon, Palestinian Territories, United Kingdom",
+        "label": "Must have PhD or MD, from Egypt, Israel, Jordan, Lebanon, Palestinian Territories, United Kingdom",
         "count": 1
       },
       {
@@ -3335,11 +3295,6 @@
       {
         "value": "Click grant URL for list of eligible countries",
         "label": "Click grant URL for list of eligible countries",
-        "count": 1
-      },
-      {
-        "value": "Global",
-        "label": "Global",
         "count": 1
       }
     ],
@@ -3715,7 +3670,7 @@
       {
         "value": "United States",
         "label": "United States",
-        "count": 309
+        "count": 319
       },
       {
         "value": "United Kingdom",
@@ -3733,24 +3688,24 @@
         "count": 16
       },
       {
-        "value": "Australia",
-        "label": "Australia",
-        "count": 15
-      },
-      {
         "value": "Canada",
         "label": "Canada",
         "count": 15
       },
       {
-        "value": "USA",
-        "label": "USA",
-        "count": 9
+        "value": "Australia",
+        "label": "Australia",
+        "count": 15
       },
       {
         "value": "France",
         "label": "France",
         "count": 8
+      },
+      {
+        "value": "China",
+        "label": "China",
+        "count": 6
       },
       {
         "value": "India",
@@ -3765,11 +3720,6 @@
       {
         "value": "Spain",
         "label": "Spain",
-        "count": 5
-      },
-      {
-        "value": "China",
-        "label": "China",
         "count": 5
       },
       {
@@ -3788,6 +3738,16 @@
         "count": 4
       },
       {
+        "value": "Finland",
+        "label": "Finland",
+        "count": 3
+      },
+      {
+        "value": "Italy",
+        "label": "Italy",
+        "count": 3
+      },
+      {
         "value": "New Zealand",
         "label": "New Zealand",
         "count": 3
@@ -3803,18 +3763,8 @@
         "count": 3
       },
       {
-        "value": "Finland",
-        "label": "Finland",
-        "count": 3
-      },
-      {
         "value": "Austria",
         "label": "Austria",
-        "count": 2
-      },
-      {
-        "value": "Italy",
-        "label": "Italy",
         "count": 2
       },
       {
@@ -3868,8 +3818,8 @@
         "count": 1
       },
       {
-        "value": "USA, Israel",
-        "label": "USA, Israel",
+        "value": "United States, Israel",
+        "label": "United States, Israel",
         "count": 1
       },
       {
@@ -3880,16 +3830,6 @@
       {
         "value": "Oman",
         "label": "Oman",
-        "count": 1
-      },
-      {
-        "value": "People's Republic of China",
-        "label": "People's Republic of China",
-        "count": 1
-      },
-      {
-        "value": "Unites States",
-        "label": "Unites States",
         "count": 1
       },
       {
@@ -3920,28 +3860,27 @@
     ],
     "featured": [
       {
+        "value": "true",
+        "label": "Featured",
+        "count": 11
+      },
+      {
         "value": "false",
         "label": "Not Featured",
-        "count": 544
+        "count": 534
       }
     ],
     "status": [
       {
         "value": "active",
         "label": "active",
-        "count": 544
+        "count": 545
       }
     ],
     "dora": [
       {
-        "value": "true",
-        "label": "DORA Signatory",
-        "count": 30
-      },
-      {
-        "value": "false",
-        "label": "Not DORA",
-        "count": 514
+        "value": "DORA Signatory",
+        "count": 34
       }
     ]
   }

@@ -225,7 +225,7 @@ def build_funder_facets(records: List[Dict[str, Any]]) -> Dict[str, List[Dict[st
         'country': count_scalar(records, 'country'),
         'featured': count_bool_facet(records, 'featured', 'Featured', 'Not Featured'),
         'status': count_scalar(records, 'status'),
-        'dora': count_bool_facet(records, 'dora', 'DORA Signatory', 'Not DORA'),
+        'dora': [{'value': 'DORA Signatory', 'count': sum(1 for r in records if r.get('dora') is True)}],
     }
 
 

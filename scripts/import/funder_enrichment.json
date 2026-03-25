@@ -1,0 +1,205 @@
+[
+  {
+    "slug": "national-institutes-of-health-nih",
+    "website": "https://www.nih.gov",
+    "description": "The National Institutes of Health (NIH) is the primary federal agency in the United States responsible for biomedical and public health research, comprising 27 institutes and centres.",
+    "dora": false,
+    "logo_url": "https://www.nih.gov/themes/custom/nih2_uswds/assets/img/nih-logo.png"
+  },
+  {
+    "slug": "the-royal-society",
+    "website": "https://royalsociety.org",
+    "description": "The Royal Society is the UK's national academy of sciences, supporting excellence in science and encouraging the development and use of science for human benefit.",
+    "dora": null,
+    "logo_url": "https://royalsociety.org/assets/images/logo@2x.png"
+  },
+  {
+    "slug": "wellcome-trust",
+    "website": "https://wellcome.org",
+    "description": "Wellcome is a global charitable foundation that supports science to solve urgent health challenges, funding researchers and backing projects to improve health for everyone.",
+    "dora": true,
+    "logo_url": null
+  },
+  {
+    "slug": "national-science-foundation",
+    "website": "https://www.nsf.gov",
+    "description": "The National Science Foundation (NSF) is an independent US federal agency that promotes the progress of science and advances national health, prosperity, and welfare through research and education funding.",
+    "dora": false,
+    "logo_url": "https://www.nsf.gov/themes/custom/nsf_theme/components/molecules/logo/logo-desktop.png"
+  },
+  {
+    "slug": "european-molecular-biology-organization-embo",
+    "website": "https://www.embo.org",
+    "description": "EMBO is a professional organisation of life scientists that supports talented researchers, stimulates the exchange of scientific information, and helps build a research environment where scientists can achieve their best work.",
+    "dora": true,
+    "logo_url": null
+  },
+  {
+    "slug": "deutscher-akademischer-austauschdienst",
+    "website": "https://www.daad.de/en/",
+    "description": "The German Academic Exchange Service (DAAD) is the world's largest funding organisation for the international exchange of students and researchers, supporting academic mobility and international cooperation.",
+    "dora": null,
+    "logo_url": null
+  },
+  {
+    "slug": "burroughs-wellcome-fund",
+    "website": "https://www.bwfund.org",
+    "description": "The Burroughs Wellcome Fund is a private charitable foundation that advances biomedical sciences by supporting research and providing career development for scientists in the early stages of their careers.",
+    "dora": null,
+    "logo_url": "https://www.bwfund.org/wp-content/uploads/2020/10/bwf-logo-PNG@4x.png"
+  },
+  {
+    "slug": "biotechnology-and-biological-sciences-research-council-bbsrc",
+    "website": "https://www.ukri.org/councils/bbsrc/",
+    "description": "The Biotechnology and Biological Sciences Research Council (BBSRC) is the UK's main funding agency for academic research and training in the biosciences, and is part of UK Research and Innovation (UKRI).",
+    "dora": true,
+    "logo_url": null
+  },
+  {
+    "slug": "cancer-research-uk",
+    "website": "https://www.cancerresearchuk.org",
+    "description": "Cancer Research UK is the world's leading independent cancer research charity, funding scientists, doctors and nurses to help beat cancer sooner through research into prevention, diagnosis and treatment.",
+    "dora": true,
+    "logo_url": "https://images.ctfassets.net/u7vsjnoopqo5/4uDzgmkufKEz5N4ef7374L/6418128c52a524c1ffad4a815f68ecee/cruk-logo.svg"
+  },
+  {
+    "slug": "swiss-national-science-foundation",
+    "website": "https://www.snf.ch/en",
+    "description": "The Swiss National Science Foundation (SNSF) is Switzerland's leading institution for the promotion of scientific research, funding projects across all disciplines of science and humanities.",
+    "dora": true,
+    "logo_url": null
+  },
+  {
+    "slug": "australian-research-council",
+    "website": "https://www.arc.gov.au",
+    "description": "The Australian Research Council (ARC) is a government agency that manages the National Competitive Grants Program, delivering funding to support world-class research across all disciplines in Australia.",
+    "dora": null,
+    "logo_url": null
+  },
+  {
+    "slug": "academy-of-finland",
+    "website": "https://www.aka.fi/en/",
+    "description": "The Academy of Finland is a government agency and scientific body under the Ministry of Education and Culture, funding high-quality scientific research and advancing Finland's position as a leading research nation.",
+    "dora": true,
+    "logo_url": "https://www.aka.fi/globalassets/etusivujen-kuvat/aka_en_vaaka_sininen.svg"
+  },
+  {
+    "slug": "alexander-von-humboldt-stiftung",
+    "website": "https://www.humboldt-foundation.de/en/",
+    "description": "The Alexander von Humboldt Foundation promotes academic cooperation between excellent scientists and scholars from abroad and from Germany, funding research fellowships and prizes for outstanding researchers worldwide.",
+    "dora": null,
+    "logo_url": "https://assets.humboldt-foundation.de/2/images/AvH-Logo.svg"
+  },
+  {
+    "slug": "american-association-of-university-women",
+    "website": "https://www.aauw.org",
+    "description": "The American Association of University Women (AAUW) advances equity for women and girls through advocacy, education, and research, providing fellowships and grants to support women in higher education and research careers.",
+    "dora": null,
+    "logo_url": "https://www.aauw.org/app/themes/aauw/assets/images/logo.svg"
+  },
+  {
+    "slug": "h2020-marie-skodowska-curie-actions",
+    "website": "https://marie-sklodowska-curie-actions.ec.europa.eu/",
+    "description": "Marie Skłodowska-Curie Actions (MSCA) is the European Union's flagship programme for doctoral and postdoctoral training, supporting researchers at all career stages through fellowships, networks, and exchanges.",
+    "dora": null,
+    "logo_url": null
+  },
+  {
+    "slug": "american-gastroenterological-association",
+    "website": "https://www.gastro.org",
+    "description": "The American Gastroenterological Association (AGA) is a professional organisation of gastroenterologists that advances the science and practice of gastroenterology, providing research grants and career development awards.",
+    "dora": null,
+    "logo_url": null
+  },
+  {
+    "slug": "american-psychological-foundation",
+    "website": "https://www.apa.org/apf",
+    "description": "The American Psychological Foundation (APF) advances psychology as a science and profession by funding innovative grants and scholarships to support psychological research and education.",
+    "dora": null,
+    "logo_url": null
+  },
+  {
+    "slug": "american-association-for-cancer-research",
+    "website": "https://www.aacr.org",
+    "description": "The American Association for Cancer Research (AACR) is the oldest and largest cancer research organisation in the world, accelerating progress by funding cancer research and fostering the exchange of scientific knowledge.",
+    "dora": null,
+    "logo_url": null
+  },
+  {
+    "slug": "american-society-of-nephrology",
+    "website": "https://www.asn-online.org",
+    "description": "The American Society of Nephrology (ASN) leads the fight against kidney disease by educating health professionals, advancing research, and advocating for improved patient care and policies.",
+    "dora": null,
+    "logo_url": "https://www.asn-online.org/images/pages/logos/asn-header.png"
+  },
+  {
+    "slug": "national-multiple-sclerosis-society",
+    "website": "https://www.nationalmssociety.org",
+    "description": "The National Multiple Sclerosis Society mobilises people and resources to drive research into MS treatments and a cure, while also helping people affected by MS live their best lives.",
+    "dora": null,
+    "logo_url": null
+  },
+  {
+    "slug": "national-academies-of-sciences-engineering-and-medicine",
+    "website": "https://www.nationalacademies.org",
+    "description": "The National Academies of Sciences, Engineering, and Medicine provide independent, objective advice to inform policy with evidence, conducting studies and producing reports on scientific, engineering, and health topics.",
+    "dora": null,
+    "logo_url": null
+  },
+  {
+    "slug": "juvenile-diabetes-research-foundation",
+    "website": "https://www.breakthrought1d.org",
+    "description": "Breakthrough T1D (formerly JDRF) is the leading global organisation funding type 1 diabetes (T1D) research, accelerating life-changing breakthroughs to cure, prevent, and treat T1D.",
+    "dora": null,
+    "logo_url": null
+  },
+  {
+    "slug": "european-molecular-biology-laboratory-embl",
+    "website": "https://www.embl.org",
+    "description": "The European Molecular Biology Laboratory (EMBL) is Europe's flagship laboratory for the life sciences, conducting basic research in molecular biology and providing services and training to the scientific community.",
+    "dora": true,
+    "logo_url": "https://www.embl.org/assets/embl-logo/assets/logo.svg"
+  },
+  {
+    "slug": "pew-charitable-trusts",
+    "website": "https://www.pewtrusts.org",
+    "description": "The Pew Charitable Trusts is a non-profit global organisation applying a rigorous, analytical approach to improve public policy, inform the public, and invigorate civic life through research and evidence-based initiatives.",
+    "dora": null,
+    "logo_url": "https://www.pewresearch.org/wp-content/images/logo.png"
+  },
+  {
+    "slug": "simons-foundation-autism-research-initiative",
+    "website": "https://sfari.org",
+    "description": "The Simons Foundation Autism Research Initiative (SFARI) aims to improve the understanding, diagnosis and treatment of autism spectrum disorders by funding innovative research in the field.",
+    "dora": null,
+    "logo_url": "https://simonsfoundation.imgix.net/wp-content/uploads/sites/2/2017/09/18184923/cropped-Untitled-1.png"
+  },
+  {
+    "slug": "american-cancer-society",
+    "website": "https://www.cancer.org",
+    "description": "The American Cancer Society is a nationwide voluntary health organisation dedicated to eliminating cancer as a major health problem through research, education, advocacy, and patient services.",
+    "dora": null,
+    "logo_url": "https://www.cancer.org/content/dam/cancer-org/images/logos/acs/acs-logo.svg"
+  },
+  {
+    "slug": "american-chemical-society",
+    "website": "https://www.acs.org",
+    "description": "The American Chemical Society (ACS) is the world's largest scientific organisation of chemistry professionals, advancing the broader chemistry enterprise through research, education, and community support.",
+    "dora": null,
+    "logo_url": null
+  },
+  {
+    "slug": "melanoma-research-alliance",
+    "website": "https://www.melanomaresearchalliance.org",
+    "description": "The Melanoma Research Alliance (MRA) is the largest non-profit funder of melanoma research in the US, accelerating the development of effective treatments and prevention strategies through targeted research grants.",
+    "dora": null,
+    "logo_url": null
+  },
+  {
+    "slug": "ovarian-cancer-research-fund-alliance",
+    "website": "https://ocrfa.org",
+    "description": "The Ovarian Cancer Research Fund Alliance (OCRFA) is the largest global organisation dedicated to advancing ovarian cancer research and supporting women affected by the disease.",
+    "dora": null,
+    "logo_url": null
+  }
+]

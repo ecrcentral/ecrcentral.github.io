@@ -2661,6 +2661,13 @@
       "updated_at": "2020-05-22T02:02:54Z"
     },
     {
+      "id": "funding-purpose-policy",
+      "slug": "policy",
+      "name": "Policy",
+      "created_at": "2026-03-25T00:00:00Z",
+      "updated_at": "2026-03-25T00:00:00Z"
+    },
+    {
       "id": "funding-purpose-publishing-and-editorial",
       "legacy_id": 4,
       "slug": "publishing-and-editorial",

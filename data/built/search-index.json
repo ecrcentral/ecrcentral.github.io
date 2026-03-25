@@ -375,8 +375,12 @@
     "slug": "twas-postdoctoral-fellowship",
     "name": "TWAS Postdoctoral Fellowship",
     "description": null,
-    "funder_names": [],
-    "funders": [],
+    "funder_names": [
+      "The World Academy of Sciences"
+    ],
+    "funders": [
+      "the-world-academy-of-sciences"
+    ],
     "country": "Developing countries",
     "applicant_country": "Developing countries",
     "host_country": "Pakistan",
@@ -539,30 +543,6 @@
     "deadline_month": "",
     "search_text": "Basic Biomedical Research Fellowships | Senior Fellowships India Worldwide",
     "url": "http://www.wellcomedbt.org/fellowships/senior-fellowships",
-    "updated_at": "2018-12-29T13:58:04Z"
-  },
-  {
-    "id": "funding-fellowship",
-    "type": "funding",
-    "slug": "fellowship",
-    "name": "Fellowship",
-    "description": null,
-    "funder_names": [],
-    "funders": [],
-    "country": "Worldwide",
-    "applicant_country": "Worldwide",
-    "host_country": "United Kingdom",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "funding_purposes": [],
-    "funding_purpose_names": [],
-    "status": "active",
-    "featured": false,
-    "deadline_month": "",
-    "search_text": "Fellowship United Kingdom Worldwide",
-    "url": "https://wellcome.ac.uk/funding/sir-henry-wellcome-postdoctoral-fellowships",
     "updated_at": "2018-12-29T13:58:04Z"
   },
   {
@@ -2616,8 +2596,12 @@
     "career_level_names": [],
     "subjects": [],
     "subject_names": [],
-    "funding_purposes": [],
-    "funding_purpose_names": [],
+    "funding_purposes": [
+      "policy"
+    ],
+    "funding_purpose_names": [
+      "Policy"
+    ],
     "status": "active",
     "featured": false,
     "deadline_month": "February, December",
@@ -2866,6 +2850,30 @@
     "updated_at": "2018-12-29T13:58:25Z"
   },
   {
+    "id": "funding-pcf-young-investigator-awards",
+    "type": "funding",
+    "slug": "pcf-young-investigator-awards",
+    "name": "PCF Young Investigator Awards",
+    "description": null,
+    "funder_names": [],
+    "funders": [],
+    "country": "United States",
+    "applicant_country": "",
+    "host_country": "United States",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "funding_purposes": [],
+    "funding_purpose_names": [],
+    "status": "active",
+    "featured": false,
+    "deadline_month": "March",
+    "search_text": "Young Investigator Awards United States",
+    "url": "http://www.pcf.org/site/c.leJRIROrEpH/b.5849007/k.F70A/Open_RFAs.htm",
+    "updated_at": "2018-12-29T13:58:25Z"
+  },
+  {
     "id": "funding-petroleum-research-fund-doctoral-new-investigator-grants-dni",
     "type": "funding",
     "slug": "petroleum-research-fund-doctoral-new-investigator-grants-dni",
@@ -2887,30 +2895,6 @@
     "deadline_month": "March",
     "search_text": "Petroleum Research Fund Doctoral New Investigator Grants (DNI) United States",
     "url": "http://www.acs.org/content/acs/en/funding-and-awards/grants/prf/programs/dni.html",
-    "updated_at": "2018-12-29T13:58:25Z"
-  },
-  {
-    "id": "funding-young-investigator-awards-2",
-    "type": "funding",
-    "slug": "young-investigator-awards-2",
-    "name": "Young Investigator Awards",
-    "description": null,
-    "funder_names": [],
-    "funders": [],
-    "country": "United States",
-    "applicant_country": "",
-    "host_country": "United States",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "funding_purposes": [],
-    "funding_purpose_names": [],
-    "status": "active",
-    "featured": false,
-    "deadline_month": "March",
-    "search_text": "Young Investigator Awards United States",
-    "url": "http://www.pcf.org/site/c.leJRIROrEpH/b.5849007/k.F70A/Open_RFAs.htm",
     "updated_at": "2018-12-29T13:58:25Z"
   },
   {
@@ -3312,8 +3296,12 @@
     "career_level_names": [],
     "subjects": [],
     "subject_names": [],
-    "funding_purposes": [],
-    "funding_purpose_names": [],
+    "funding_purposes": [
+      "policy"
+    ],
+    "funding_purpose_names": [
+      "Policy"
+    ],
     "status": "active",
     "featured": false,
     "deadline_month": "September",
@@ -3706,6 +3694,30 @@
     "updated_at": "2018-12-29T13:58:31Z"
   },
   {
+    "id": "funding-young-investigator-program",
+    "type": "funding",
+    "slug": "air-force-young-investigator-program",
+    "name": "Air Force Young Investigator Program",
+    "description": null,
+    "funder_names": [],
+    "funders": [],
+    "country": "United States",
+    "applicant_country": "",
+    "host_country": "United States",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "funding_purposes": [],
+    "funding_purpose_names": [],
+    "status": "active",
+    "featured": false,
+    "deadline_month": "August",
+    "search_text": "Young Investigator Program United States",
+    "url": "http://www.onr.navy.mil/science-technology/directorates/office-research-discovery-invention/sponsored-research/yip.aspx",
+    "updated_at": "2018-12-29T13:58:31Z"
+  },
+  {
     "id": "funding-ams-subventions-for-publications-2",
     "type": "funding",
     "slug": "ams-subventions-for-publications-2",
@@ -3919,30 +3931,6 @@
     "deadline_month": "",
     "search_text": "Rita Allen Scholars Program United States",
     "url": "http://ritaallen.org/scholars/",
-    "updated_at": "2018-12-29T13:58:31Z"
-  },
-  {
-    "id": "funding-young-investigator-program",
-    "type": "funding",
-    "slug": "young-investigator-program",
-    "name": "Young Investigator Program",
-    "description": null,
-    "funder_names": [],
-    "funders": [],
-    "country": "United States",
-    "applicant_country": "",
-    "host_country": "United States",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "funding_purposes": [],
-    "funding_purpose_names": [],
-    "status": "active",
-    "featured": false,
-    "deadline_month": "August",
-    "search_text": "Young Investigator Program United States",
-    "url": "http://www.onr.navy.mil/science-technology/directorates/office-research-discovery-invention/sponsored-research/yip.aspx",
     "updated_at": "2018-12-29T13:58:31Z"
   },
   {
@@ -4349,7 +4337,7 @@
     ],
     "country": "Worldwide",
     "applicant_country": "Worldwide",
-    "host_country": "USA, Europe",
+    "host_country": "United States, Europe",
     "career_levels": [
       "phd",
       "phd"
@@ -4561,8 +4549,8 @@
     "funders": [
       "burroughs-wellcome-fund"
     ],
-    "country": "USA, Canada, and permanent residents of the USA",
-    "applicant_country": "USA, Canada, and permanent residents of the USA",
+    "country": "United States, Canada, and permanent residents of the USA",
+    "applicant_country": "United States, Canada, and permanent residents of the USA",
     "host_country": "United States",
     "career_levels": [
       "postdoc",
@@ -4685,9 +4673,9 @@
     "funders": [
       "alliance-for-cancer-gene-therapy"
     ],
-    "country": "No restrictions",
-    "applicant_country": "No restrictions",
-    "host_country": "USA, Canada",
+    "country": "Worldwide",
+    "applicant_country": "Worldwide",
+    "host_country": "United States, Canada",
     "career_levels": [
       "junior-faculty"
     ],
@@ -4983,7 +4971,7 @@
     ],
     "country": "NA",
     "applicant_country": "NA",
-    "host_country": "UK",
+    "host_country": "United Kingdom",
     "career_levels": [
       "postdoc",
       "junior-faculty"
@@ -5117,7 +5105,7 @@
     ],
     "country": "United States",
     "applicant_country": "United States",
-    "host_country": "USA, Canada",
+    "host_country": "United States, Canada",
     "career_levels": [
       "junior-faculty"
     ],
@@ -6021,8 +6009,8 @@
     "funders": [
       "arvo-foundation"
     ],
-    "country": "Any",
-    "applicant_country": "Any",
+    "country": "Worldwide",
+    "applicant_country": "Worldwide",
     "host_country": "United States",
     "career_levels": [
       "postdoc",
@@ -6337,8 +6325,8 @@
     "funders": [
       "national-institutes-of-health-nih"
     ],
-    "country": "USA, Permanent residents of the USA",
-    "applicant_country": "USA, Permanent residents of the USA",
+    "country": "United States, Permanent residents of the USA",
+    "applicant_country": "United States, Permanent residents of the USA",
     "host_country": "United States",
     "career_levels": [
       "junior-faculty",
@@ -7551,9 +7539,9 @@
     "funders": [
       "actelion-pharmaceuticals"
     ],
-    "country": "USA, Canada",
-    "applicant_country": "USA, Canada",
-    "host_country": "USA, Canada",
+    "country": "United States, Canada",
+    "applicant_country": "United States, Canada",
+    "host_country": "United States, Canada",
     "career_levels": [
       "phd",
       "postdoc"
@@ -7635,9 +7623,9 @@
     "funders": [
       "society-of-interventional-radiology"
     ],
-    "country": "USA, Canada",
-    "applicant_country": "USA, Canada",
-    "host_country": "USA, Canada",
+    "country": "United States, Canada",
+    "applicant_country": "United States, Canada",
+    "host_country": "United States, Canada",
     "career_levels": [
       "phd",
       "postdoc",
@@ -7941,7 +7929,7 @@
     ],
     "country": "Worldwide",
     "applicant_country": "Worldwide",
-    "host_country": "USA, Canada",
+    "host_country": "United States, Canada",
     "career_levels": [
       "phd",
       "postdoc"
@@ -8809,10 +8797,12 @@
       "Social and Behavioral Sciences"
     ],
     "funding_purposes": [
-      "fellowship-scholarship-or-training"
+      "fellowship-scholarship-or-training",
+      "policy"
     ],
     "funding_purpose_names": [
-      "Fellowship, scholarship or training"
+      "Fellowship, scholarship or training",
+      "Policy"
     ],
     "status": "active",
     "featured": false,
@@ -8982,10 +8972,10 @@
     "updated_at": "2020-05-23T17:09:02Z"
   },
   {
-    "id": "funding-young-investigator-awards-3",
+    "id": "funding-apa-young-investigator-awards",
     "type": "funding",
-    "slug": "young-investigator-awards-3",
-    "name": "Young Investigator Awards",
+    "slug": "apa-young-investigator-awards",
+    "name": "APA Young Investigator Awards",
     "description": null,
     "funder_names": [],
     "funders": [],
@@ -10277,9 +10267,9 @@
     "funders": [
       "university-of-california-institute-for-mexico-and-the-united-states"
     ],
-    "country": "Mexico, USA",
-    "applicant_country": "Mexico, USA",
-    "host_country": "USA, Mexico",
+    "country": "Mexico, United States",
+    "applicant_country": "Mexico, United States",
+    "host_country": "United States, Mexico",
     "career_levels": [
       "phd"
     ],
@@ -10479,7 +10469,7 @@
     ],
     "country": "Worldwide",
     "applicant_country": "Worldwide",
-    "host_country": "USA, Canada, Mexico",
+    "host_country": "United States, Canada, Mexico",
     "career_levels": [
       "phd",
       "postdoc",
@@ -10556,9 +10546,9 @@
   {
     "id": "funding-young-investigator-award",
     "type": "funding",
-    "slug": "young-investigator-award",
-    "name": "Young Investigator Award",
-    "description": "The Young Investigator Award (YIA) provides funding to promising investigators to encourage and promote quality research in clinical oncology. The purpose of this grant is to fund physicians during the transition from a fellowship program to a faculty appointment.\r\n\r\nThe Young Investigator Award is…",
+    "slug": "asco-young-investigator-award",
+    "name": "ASCO Young Investigator Award",
+    "description": "The ASCO Young Investigator Award (YIA) provides funding to promising investigators to encourage and promote quality research in clinical oncology. The purpose of this grant is to fund physicians during the transition from a fellowship program to a faculty appointment.\r\n\r\nThe Young Investigator Awar…",
     "funder_names": [
       "American Society for Clinical Oncology"
     ],
@@ -11234,8 +11224,8 @@
   {
     "id": "funding-young-investigator-awards-4",
     "type": "funding",
-    "slug": "young-investigator-awards-4",
-    "name": "Young Investigator Awards",
+    "slug": "atf-young-investigator-awards",
+    "name": "ATF Young Investigator Awards",
     "description": "The Young Investigator Award was created to encourage young clinical and scientific investigators to pursue a career in the field of Ataxia research. It is our hope that Ataxia research will be invigorated by the work of young, talented individuals supported by this award.\r\n\r\nFull application instru…",
     "funder_names": [
       "National Ataxia Foundation"
@@ -12495,10 +12485,12 @@
       "Medicine and Health Sciences"
     ],
     "funding_purposes": [
-      "fellowship-scholarship-or-training"
+      "fellowship-scholarship-or-training",
+      "policy"
     ],
     "funding_purpose_names": [
-      "Fellowship, scholarship or training"
+      "Fellowship, scholarship or training",
+      "Policy"
     ],
     "status": "active",
     "featured": false,
@@ -12667,10 +12659,12 @@
       "Public Affairs, Public Policy and Public Administration"
     ],
     "funding_purposes": [
-      "fellowship-scholarship-or-training"
+      "fellowship-scholarship-or-training",
+      "policy"
     ],
     "funding_purpose_names": [
-      "Fellowship, scholarship or training"
+      "Fellowship, scholarship or training",
+      "Policy"
     ],
     "status": "active",
     "featured": false,
@@ -12877,9 +12871,9 @@
     "funders": [
       "francis-family-foundation"
     ],
-    "country": "USA, Canada",
-    "applicant_country": "USA, Canada",
-    "host_country": "USA, Canada",
+    "country": "United States, Canada",
+    "applicant_country": "United States, Canada",
+    "host_country": "United States, Canada",
     "career_levels": [
       "phd",
       "md"
@@ -13098,11 +13092,13 @@
     ],
     "funding_purposes": [
       "research",
-      "publishing-and-editorial"
+      "publishing-and-editorial",
+      "policy"
     ],
     "funding_purpose_names": [
       "Research",
-      "Publishing and editorial"
+      "Publishing and editorial",
+      "Policy"
     ],
     "status": "active",
     "featured": false,
@@ -14183,8 +14179,8 @@
     "funders": [
       "lungevity-foundation"
     ],
-    "country": "USA, Canada, Mexico (or hold a Green Card)",
-    "applicant_country": "USA, Canada, Mexico (or hold a Green Card)",
+    "country": "United States, Canada, Mexico (or hold a Green Card)",
+    "applicant_country": "United States, Canada, Mexico (or hold a Green Card)",
     "host_country": "United States",
     "career_levels": [
       "phd",
@@ -20155,7 +20151,7 @@
     "funders": [],
     "country": "United States",
     "applicant_country": "United States",
-    "host_country": "USA, Canada",
+    "host_country": "United States, Canada",
     "career_levels": [
       "phd",
       "md"
@@ -20564,8 +20560,12 @@
     "career_level_names": [],
     "subjects": [],
     "subject_names": [],
-    "funding_purposes": [],
-    "funding_purpose_names": [],
+    "funding_purposes": [
+      "policy"
+    ],
+    "funding_purpose_names": [
+      "Policy"
+    ],
     "status": "active",
     "featured": false,
     "deadline_month": "December",
@@ -22431,7 +22431,7 @@
     ],
     "country": "Worldwide",
     "applicant_country": "Worldwide",
-    "host_country": "USA",
+    "host_country": "United States",
     "career_levels": [
       "phd"
     ],
@@ -22999,8 +22999,8 @@
     "description": "The EUTOPIA Science and Innovation Fellowship Programme has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement n. 945380, for a total number of 76 post-doctoral fellowships, over 4 years.",
     "funder_names": [],
     "funders": [],
-    "country": "All countries",
-    "applicant_country": "All countries",
+    "country": "Worldwide",
+    "applicant_country": "Worldwide",
     "host_country": "Europe",
     "career_levels": [
       "postdoc"
@@ -23358,6 +23358,46 @@
     "updated_at": "2022-01-24T08:57:26Z"
   },
   {
+    "id": "funding-esrc-policy-fellowships-2021",
+    "type": "funding",
+    "slug": "ukri-policy-fellowships",
+    "name": "UKRI Policy Fellowships",
+    "description": "The new UKRI Policy Fellowships call provides 25 fellowship opportunities across 10 hosts within UK and devolved governments. Offering an exciting opportunity to early and mid-career researchers to develop their career and enhance their understanding of applying research in government contexts. Fell…",
+    "funder_names": [
+      "UK Research and Innovation"
+    ],
+    "funders": [
+      "uk-research-and-innovation"
+    ],
+    "country": "United Kingdom",
+    "applicant_country": "United Kingdom",
+    "host_country": "United Kingdom",
+    "career_levels": [
+      "phd",
+      "postdoc",
+      "junior-faculty"
+    ],
+    "career_level_names": [
+      "PhD",
+      "Postdoc",
+      "Junior Faculty"
+    ],
+    "subjects": [],
+    "subject_names": [],
+    "funding_purposes": [
+      "policy"
+    ],
+    "funding_purpose_names": [
+      "Policy"
+    ],
+    "status": "active",
+    "featured": false,
+    "deadline_month": "September",
+    "search_text": "UKRI Policy Fellowships 2025 <p>The new UKRI Policy Fellowships call provides 25 fellowship opportunities across 10 hosts within UK and devolved governments. Offering an exciting opportunity to early and mid-career researchers to develop their career and enhance their understanding of applying research in government contexts. Fellows will spend up to 18 months collaborating with their host organisation to co-design research to inform policy on a priority policy area, and to help improve the exchange of knowledge between policy and academic institutions.</p> PhD Postdoc Junior Faculty United Kingdom United Kingdom",
+    "url": "https://www.ukri.org/opportunity/ukri-policy-fellowships-2025/",
+    "updated_at": "2022-01-24T09:01:26Z"
+  },
+  {
     "id": "funding-early-career-fellowship",
     "type": "funding",
     "slug": "early-career-fellowship",
@@ -23395,8 +23435,8 @@
     "description": "<p>Decrease the clinical impact of neurofibromatosis Neurofibromatosis (NF) is a group of three genetically distinct disorders that cause tumors to grow in the nervous system. It also produces other abnormalities in the skin and bones. There are three types of NF: 1) Neurofibromatosis Type 1 or NF1…",
     "funder_names": [],
     "funders": [],
-    "country": "Any",
-    "applicant_country": "Any",
+    "country": "Worldwide",
+    "applicant_country": "Worldwide",
     "host_country": "Any except Cuba and Iran",
     "career_levels": [
       "postdoc",
@@ -23562,36 +23602,6 @@
     "updated_at": "2022-11-14T11:05:34Z"
   },
   {
-    "id": "funding-zukonnect-fellowships-for-early-career-researchers-from-africa-asia-and-latin-america",
-    "type": "funding",
-    "slug": "zukonnect-fellowships-for-early-career-researchers-from-africa-asia-and-latin-america",
-    "name": "ZUKOnnect Fellowships for early career researchers from Africa, Asia and Latin America",
-    "description": "<p>The Zukunftskolleg Konnect Fellowships support early career researchers from Africa, Asia and Latin America related to one of the thirteen departments of the University of Konstanz. As ZUKOnnect Fellow, you can use this time to extend your research networks and to get to know the research environ…",
-    "funder_names": [],
-    "funders": [],
-    "country": "Africa, Asia, Latin America",
-    "applicant_country": "Africa, Asia, Latin America",
-    "host_country": "Germany",
-    "career_levels": [
-      "phd",
-      "postdoc"
-    ],
-    "career_level_names": [
-      "PhD",
-      "Postdoc"
-    ],
-    "subjects": [],
-    "subject_names": [],
-    "funding_purposes": [],
-    "funding_purpose_names": [],
-    "status": "active",
-    "featured": false,
-    "deadline_month": "",
-    "search_text": "ZUKOnnect Fellowships for early career researchers from Africa, Asia and Latin America <p>The Zukunftskolleg Konnect Fellowships support early career researchers from Africa, Asia and Latin America related to one of the thirteen departments of the University of Konstanz. As ZUKOnnect Fellow, you can use this time to extend your research networks and to get to know the research environment at the University of Konstanz, without losing your ties to your home university.</p>\r\n<p>As these fellowships can build a first bridge to the German and European academic system, we also encourage doctoral students in their last year to apply. The Zukunftskolleg will not offer employment contracts for ZUKOnnect Fellows.</p>\r\n<p><strong>Up to 4 (post-)doctoral stipends for an on-campus research stay at the Zukunftskolleg are available for up to 3 months (with justification for up to 4 months).</strong></p>\r\n<p>The on-site ZUKOnnect Fellowships are complemented by a digital affiliation extending it to a duration of 12-months. <strong>The start date for the digital affiliation is summer 2023. The preferred start date for the on-site ZUKOnnect Fellowships is between 15 September 2023 and 15 October 2023.</strong></p>\r\n<p>&nbsp;&nbsp;</p>\r\n<p><strong>We Offer:</strong></p>\r\n<p>- During the on-campus research stay, a stipend of &euro; 1,200/month for doctoral students and &euro; 2,000/month for postdoctoral researchers (following DAAD guidelines)</p>\r\n<p>- Standard expenses for one economy-class trip to Konstanz and back</p>\r\n<p>- The chance to participate in events organized by the Zukunftskolleg</p>\r\n<p>- Access to library resources - Access to IT services - Access to research support services (via Research Support)</p>\r\n<p>- After the on-campus research stay at the Zukunftskolleg, ZUKOnnect Fellows will benefit from a digital fellowship extending the total funding period to 12 months. The digital affiliation will be supported with up to &euro; 900 (lump sum).</p>\r\n<p><strong>Your Responsibilities</strong></p>\r\n<p>- You will live in Konstanz or nearby throughout the on-site ZUKOnnect Fellowship (the Welcome Centre at the University of Konstanz will support you with all organizational aspects of relocating to Konstanz).</p>\r\n<p>- During the digital affiliation and the on-campus research stay, you will actively contribute to the interdisciplinary dialogue at the Zukunftskolleg, e.g. during weekly Jour fixe meetings (in the semester)</p>\r\n<p>- You will interact with fellows and researchers in relevant departments at the University of Konstanz.</p>\r\n<p>- You will give a presentation in a seminar or a public lecture.</p>\r\n<p>- You will acknowledge the Zukunftskolleg&rsquo;s support in any publications resulting from the stay.</p>\r\n<p>- You will write a short report on your activities and achievements (within 6 months of completing your ZUKOnnect Fellowship).</p>\r\n<p><strong>The Requirements</strong></p>\r\n<p>- You are educated AND currently work in Latin America, Asia and/or Africa.</p>\r\n<p>- You hold a doctorate (max. 2 years of postdoctoral experience) OR are a doctoral student in your last year.</p>\r\n<p>- Your doctorate was/ is going to be completed at a university in Latin America, Asia or Africa. - You do not hold a permanent professorship, nor do you have a habilitation or equivalent qualification (Venia legendi).</p>\r\n<p>- Your research project fits to one of the disciplines represented at the University of Konstanz.</p>\r\n<p>- You should name a researcher at the University of Konstanz &ndash; possibly a current Fellow of the Zukunftskolleg &ndash; with whom you intend to collaborate (please do not contact person(s) in advance).</p>\r\n<p>Please submit your application documents in English as separate PDF files via our online application portal. The reference number is 2022/289.</p>\r\n<p>&nbsp;</p>\r\n<p><strong>Applications should include:</strong></p>\r\n<p>- A letter of motivation (including your objectives for the research stay at the Zukunftskolleg and an explanation of how your research ties in with the research landscape at the university; maximum 2 pages)</p>\r\n<p>- Short summary of your ongoing research project (maximum 3 pages incl. references)</p>\r\n<p>- A detailed work and time plan for your on-campus research project at the Zukunftskolleg (maximum 2 pages)</p>\r\n<p>- Relevant certificates (doctoral certificate OR a letter from your doctoral supervisor confirming the status of your doctoral thesis)</p>\r\n<p>- One academic letter of reference, ideally on official letterhead paper and signed by the respective reviewer</p>\r\n<p>Other additional certificates and documents uploaded to the application platform will not be considered and will manually be removed during the eligibility check.</p>\r\n<p>More information is available online, where you will also find an extensive FAQ document.</p>\r\n<p>Further questions can be directed via e-mail: zukonnect@uni-konstanz.de.</p>\r\n<p>We also offer an online info session on the 1 February 2023 at 13:00 (CET).</p>\r\n<p>If the budget situation permits, the Zukunftskolleg can grant financial support for family members who accompany the ZUKOnnect Fellows during the scholarship.</p> PhD Postdoc Germany Africa, Asia, Latin America",
-    "url": "https://www.uni-konstanz.de/zukunftskolleg/fellowships/zukonnect-fellowship/",
-    "updated_at": "2022-11-24T14:18:14Z"
-  },
-  {
     "id": "funding-global-development-awards-competition-2022-japanese-award-for-outstanding-research-on-development-or",
     "type": "funding",
     "slug": "global-development-awards-competition-2022-japanese-award-for-outstanding-research-on-development-or",
@@ -23624,30 +23634,6 @@
     "search_text": "Global Development Awards Competition 2022 - Japanese Award for Outstanding Research on Development (ORD)-EXTENDED DEADLINE 6 JAN <p>Competition Theme The Global Development Network (GDN) invites researchers from low-income or middle-income countries to submit research proposals within the theme &lsquo;Post-COVID-19 Governance - Learning from challenging circumstances to build better governance systems&rsquo; for the Japanese Award for Outstanding Research on Development (ORD). More information about the theme of the competition is available at the end of this document.</p>\r\n<p>The Award The Japanese Award for Outstanding Research on Development is a competitive research grant program under the umbrella of the Global Development Awards Competition (GDAC), administered by GDN, funded under the Policy and Human Resources Development Fund (PHRD) trust fund managed by the World Bank, and generously supported by the Ministry of Finance, Government of Japan. This award program identifies and funds outstanding research proposals in low- or middle-income countries with high potential for excellence in research and clear policy implications for addressing development issues. The three winning projects will receive grants worth US$ 60,000.</p>\r\n<p>Finalists will be invited to join a communications training in preparation of a pitch of their project in front of a high-level Jury, which will decide which research proposal to award. A physical event is planned in early November 2022 for the presentations to the high-level Jury by the finalists, if conditions allow it, and projects are expected to start in early 2023.</p>\r\n<p>In case social distancing policies do not make travelling possible, the event will be held on a virtual setting. The awards will be given to the researcher(s) whose proposals hold the greatest promise for improving our understanding of development issues and puts forth clear, articulate and well researched policy implications to address relevant developmental problems. The first prize winner will receive a grant of US$ 30,000. The second prize and third prize winners will receive a grant of US$ 20,000 and US$ 10,000 respectively. The funds will be used to support the research work proposed by the winners towards the completion of their research. Additionally, awardees will be paired with world-class academic in their area of work who will play the role of a Scientific and Technical Advisor.</p>\r\n<p>The deadline for submission of applications is on the 14 November 2022 (Indian Standard Time 6:00 PM) Gender Bias GDN recognizes the imbalance in the opportunities provided to women in professional research, as well as the consequences of unconscious gender bias in review processes in environments across the world. GDN also recognizes the impact these factors can have on the prospects of women researchers in securing awards and funding. Starting with the 2022 edition, GDN is planning to embed more equitable grant-making processes to guarantee that more women have the opportunity to compete and win while still maintaining a high-quality standard on the evaluation.</p>\r\n<p>Therefore, GDN will institute a selection process for GDAC where we will make all efforts to guarantee gender representation amongst the 3 finalists of the ORD category. We are taking this step in parallel to a revamped Capacity-building Framework for individuals or NGOs that are interested in GDAC since we will aim to support them regardless of their success in the review process. This means that we will develop activities for prospective applicants, grantees, and past grantees so that they develop some skills useful for other competitions or endeavors. We hope this will contribute to building capacity and empowering southern researchers including women.</p>\r\n<p>GDN strongly encourages female researchers to engage and apply. Connector Grant The 2022 edition will introduce the Connector Grant which aims to stimulate international cooperation through the development of collaborative projects to support scale-up efforts with research-based evidence. The Connector grant will be awarded to ORD grantees, based on a project developed in collaboration with the MIDP grantees who received the JSDF grant.&nbsp;</p>\r\n<div style=\"caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\">*Additional information about the open sessions are below. We are providing these sessions in order to support individuals or NGOs interested that might not understand some of guidelines or would benefit from some hints and tips on how to present their ideas and increase their chances&nbsp;of success within or outside GDAC.</div>\r\n<div style=\"caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\">\r\n<div>&nbsp;</div>\r\n<div>In these meetings, we will discuss:<br />\r\n<ul>\r\n<li style=\"margin-left: 15px;\">How to apply (platform)</li>\r\n<li style=\"margin-left: 15px;\">What is an application for GDAC</li>\r\n<li style=\"margin-left: 15px;\">Eligibility Criteria for each category</li>\r\n</ul>\r\n</div>\r\n<blockquote style=\"margin: 0px 0px 0px 40px; border: none; padding: 0px;\">\r\n<div><img class=\"an1\" style=\"height: 1.2em; width: 1.2em; vertical-align: middle;\" src=\"https://fonts.gstatic.com/s/e/notoemoji/14.0/1f4cc/72.png\" alt=\"?\" data-emoji=\"?\" aria-label=\"?\" />&nbsp; ORD: 27 Sep, 4 &amp; 11 Oct</div>\r\n<div><img class=\"an1\" style=\"height: 1.2em; width: 1.2em; vertical-align: middle;\" src=\"https://fonts.gstatic.com/s/e/notoemoji/14.0/1f4cc/72.png\" alt=\"?\" data-emoji=\"?\" aria-label=\"?\" />&nbsp; MIDP: 29 Sep, 6 &amp; 13 Oct</div>\r\n</blockquote>\r\n<div>\r\n<div>\r\n<div>&nbsp;</div>\r\nThis will be an opportunity to have an open Q&amp;A with the team and other prospective applicants! More info&nbsp;<img class=\"an1\" style=\"height: 1.2em; width: 1.2em; vertical-align: middle;\" src=\"https://fonts.gstatic.com/s/e/notoemoji/14.0/27a1_fe0f/72.png\" alt=\"➡️\" data-emoji=\"➡️\" aria-label=\"➡️\" />&nbsp;&nbsp;<a style=\"color: #1155cc;\" href=\"http://bit.ly/GDAC2022_sessions\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=http://bit.ly/GDAC2022_sessions&amp;source=gmail&amp;ust=1664894451207000&amp;usg=AOvVaw1FzvPJT974G72qZ4zXEMk-\">http://bit.ly/<wbr />GDAC2022_sessions</a></div>\r\n<div>&nbsp;</div>\r\n<div>There are also posts about this on social media from our account in case you could share them:&nbsp;<a style=\"color: #1155cc;\" href=\"https://twitter.com/GDNint/status/1572169627328983045\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://twitter.com/GDNint/status/1572169627328983045&amp;source=gmail&amp;ust=1664894451207000&amp;usg=AOvVaw0Nd6YCKdvXxpOZCdwUVqd5\">Twitter&nbsp;</a>;&nbsp;<a style=\"color: #1155cc;\" href=\"https://www.facebook.com/GDNint/posts/pfbid02uM4NL1cSWmjUSLZfqR4rEDtSVEiqy8xd7PKs6cSPtg6UUxem6qZM4Z9qWM19NHAhl\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.facebook.com/GDNint/posts/pfbid02uM4NL1cSWmjUSLZfqR4rEDtSVEiqy8xd7PKs6cSPtg6UUxem6qZM4Z9qWM19NHAhl&amp;source=gmail&amp;ust=1664894451207000&amp;usg=AOvVaw2SGtK2LypPI-sGkA5Bsq3f\">Facebook</a>;&nbsp;<a style=\"color: #1155cc;\" href=\"https://www.linkedin.com/feed/update/urn:li:activity:6977934314013405184/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.linkedin.com/feed/update/urn:li:activity:6977934314013405184/&amp;source=gmail&amp;ust=1664894451207000&amp;usg=AOvVaw2zcIrE6nr9kGqLqLwzHShe\">Link<wbr />edIn</a>.&nbsp;</div>\r\n</div>\r\n</div>\r\n<p>This grant will support the award recipients&rsquo; collaborative efforts towards measuring and analyzing scale-up impact, as well as to enhance the robustness of their M&amp;E activities.</p>\r\n<p>The application to this grant will only take place after the full implementation of the funded ORD project and will not be part of the selection of the ORD winners.</p>\r\n<p>Important Dates</p>\r\n<p>⮚ Deadline for submissions: 14 November 2022</p>\r\n<p>⮚ Announcement of Eligibility screening results: 21 November 2022</p>\r\n<p>⮚ Announcement of First Level review results (shortlisted applications) and comments from reviewers: 23 December 2022</p>\r\n<p>⮚ Resubmission of the updated application by the shortlisted applicants: 6 January 2023 ⮚ Announcement of Second Level review results (finalists) and comments from reviewers: 10 February 2023</p>\r\n<p>⮚ Resubmission of updated applications by the finalists: 17 February 2022</p>\r\n<p>⮚ Announcement of finalists: 17 February 2023</p>\r\n<p>⮚ Announcement of winners: March/April 2023 Finalists are expected to be available for the Communications Training and the physical event for the presentation of their projects to the jury in March/April. The date will be announced in late 2022.</p> PhD Postdoc Junior Faculty Senior Faculty N/A Low and Middle income countries",
     "url": "http://www.gdn.int/gdac/2022",
     "updated_at": "2022-11-25T15:51:40Z"
-  },
-  {
-    "id": "funding-new-ukri-policy-fellowships-2023",
-    "type": "funding",
-    "slug": "new-ukri-policy-fellowships-2023",
-    "name": "New UKRI Policy Fellowships 2023",
-    "description": "<p style=\"font-size: 16px; margin: 0px; caret-color: #000000; color: #000000; font-family: Calibri, Arial, Helvetica, sans-serif;\"><em><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #002451;\">The UKRI Policy Fellowships scheme led by ESRC in partnershi…",
-    "funder_names": [],
-    "funders": [],
-    "country": "UK",
-    "applicant_country": "UK",
-    "host_country": "UK",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "funding_purposes": [],
-    "funding_purpose_names": [],
-    "status": "active",
-    "featured": false,
-    "deadline_month": "",
-    "search_text": "New UKRI Policy Fellowships 2023 <p style=\"font-size: 16px; margin: 0px; caret-color: #000000; color: #000000; font-family: Calibri, Arial, Helvetica, sans-serif;\"><em><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #002451;\">The UKRI Policy Fellowships scheme led by ESRC in partnership with ADR-UK, AHRC &amp; BBSRC</span><span style=\"margin: 0px;\"><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #002451;\">,</span><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px;\"><span style=\"margin: 0px; color: #002451;\">&nbsp;</span></span></span><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #002451;\">has announced 49</span><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px;\"><span style=\"margin: 0px; color: #002451;\">&nbsp;</span></span><span style=\"color: #0000ff;\"><a style=\"color: #0000ff; margin: 0px;\" title=\"Original URL: https://www.ukri.org/opportunity/ukri-policy-fellowships-2023/. Click or tap if you trust this link.\" href=\"https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.ukri.org%2Fopportunity%2Fukri-policy-fellowships-2023%2F&amp;data=05%7C01%7CESRCPolicyImpact%40esrc.ukri.org%7C040e028c7dff4329db3f08db1bdfa423%7C8bb7e08edaa44a8e927efca38db04b7e%7C0%7C0%7C638134419559549121%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=zOadCj1ZsjwKuAr6WeQs9zUDuBfKURM2ge5F6WHIwKo%3D&amp;reserved=0\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://gbr01.safelinks.protection.outlook.com/?url%3Dhttps%253A%252F%252Fwww.ukri.org%252Fopportunity%252Fukri-policy-fellowships-2023%252F%26data%3D05%257C01%257CESRCPolicyImpact%2540esrc.ukri.org%257C040e028c7dff4329db3f08db1bdfa423%257C8bb7e08edaa44a8e927efca38db04b7e%257C0%257C0%257C638134419559549121%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%253D%257C3000%257C%257C%257C%26sdata%3DzOadCj1ZsjwKuAr6WeQs9zUDuBfKURM2ge5F6WHIwKo%253D%26reserved%3D0&amp;source=gmail&amp;ust=1678380903404000&amp;usg=AOvVaw1d8ZwbMecUMyjBeITVanwj\"><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px;\">UKRI Policy Fellowships</span></a></span><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #002451;\">. Fellowship opportunities will be based with a host in 1 of</span><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px;\"><span style=\"margin: 0px; color: #002451;\">&nbsp;</span></span><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #002451;\">27 different UK government departments, devolved governments and What Works Centres.</span></em></p>\r\n<p style=\"font-size: 16px; margin: 0px 0px 0px 18pt; caret-color: #000000; color: #000000; font-family: Calibri, Arial, Helvetica, sans-serif;\"><span style=\"font-size: 9pt; font-family: Arial, sans-serif; margin: 0px;\"><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #002451;\"><em>&nbsp;</em></span></span></p>\r\n<p style=\"font-size: 16px; margin: 0px; caret-color: #000000; color: #000000; font-family: Calibri, Arial, Helvetica, sans-serif;\"><em><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #002451;\">The UKRI Policy Fellowships are designed to improve the exchange of specialist knowledge between academic institutions and policy, facilitating deeper, more enduring connections between researchers and policy makers. These</span><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #333333;\"><span style=\"margin: 0px; color: #002451;\">&nbsp;</span></span><span style=\"margin: 0px;\"><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #002451;\">exciting opportunities will allow fellows to undertake cutting edge research and inform decision-making on the most pressing policy problems of our time. The fellowships aim to support career development and enhance fellows understanding of applying research in government contexts.</span></span><span style=\"margin: 0px;\"><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px;\"><span style=\"margin: 0px; color: #002451;\">&nbsp;</span></span></span><span style=\"margin: 0px;\"><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #002451;\">All fellows will</span><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px;\"><span style=\"margin: 0px; color: #002451;\">&nbsp;</span></span><span style=\"font-size: 10pt; font-family: Arial, sans-serif; margin: 0px;\"><span style=\"margin: 0px;\"><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #002451;\">become part of a cohort of academic researchers and receive training, mentoring and networking opportunities with likeminded individuals.</span></span></span></span></em></p>\r\n<p style=\"font-size: 16px; margin: 0px; caret-color: #000000; color: #000000; font-family: Calibri, Arial, Helvetica, sans-serif;\"><span style=\"margin: 0px;\"><span style=\"font-size: 10pt; font-family: Arial, sans-serif; margin: 0px;\"><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #002451;\"><em>&nbsp;</em></span></span></span></p>\r\n<p style=\"font-size: 16px; margin: 0px; caret-color: #000000; color: #000000; font-family: Calibri, Arial, Helvetica, sans-serif;\"><em><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #002451;\">Fellowship opportunities will be organised around the UKRI strategic themes, which address national and global challenges, with an additional cross-cutting theme looking at data and evaluation. The strategic themes are:</span></em></p>\r\n<p style=\"font-size: 16px; margin: 0px; caret-color: #000000; color: #000000; font-family: Calibri, Arial, Helvetica, sans-serif;\"><span style=\"font-size: 10pt; font-family: Arial, sans-serif; margin: 0px;\"><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #002451;\"><em>&nbsp;</em></span></span></p>\r\n<p style=\"font-size: 16px; margin: 0px 0px 0px 36pt; caret-color: #000000; color: #000000; font-family: Calibri, Arial, Helvetica, sans-serif;\"><em><span style=\"font-size: 9pt; font-family: Symbol; margin: 0px;\"><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #002451;\">&middot;</span><span style=\"margin: 0px;\"><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #002451;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px;\"><span style=\"margin: 0px; color: #002451;\">&nbsp;</span></span></span></span><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #002451;\">building a green future</span></em></p>\r\n<p style=\"font-size: 16px; margin: 0px 0px 0px 36pt; caret-color: #000000; color: #000000; font-family: Calibri, Arial, Helvetica, sans-serif;\"><em><span style=\"font-size: 9pt; font-family: Symbol; margin: 0px;\"><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #002451;\">&middot;</span><span style=\"margin: 0px;\"><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #002451;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px;\"><span style=\"margin: 0px; color: #002451;\">&nbsp;</span></span></span></span><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #002451;\">ageing and wellbeing</span></em></p>\r\n<p style=\"font-size: 16px; margin: 0px 0px 0px 36pt; caret-color: #000000; color: #000000; font-family: Calibri, Arial, Helvetica, sans-serif;\"><em><span style=\"font-size: 9pt; font-family: Symbol; margin: 0px;\"><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #002451;\">&middot;</span><span style=\"margin: 0px;\"><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #002451;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px;\"><span style=\"margin: 0px; color: #002451;\">&nbsp;</span></span></span></span><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #002451;\">tackling infections</span></em></p>\r\n<p style=\"font-size: 16px; margin: 0px 0px 0px 36pt; caret-color: #000000; color: #000000; font-family: Calibri, Arial, Helvetica, sans-serif;\"><em><span style=\"font-size: 9pt; font-family: Symbol; margin: 0px;\"><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #002451;\">&middot;</span><span style=\"margin: 0px;\"><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #002451;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px;\"><span style=\"margin: 0px; color: #002451;\">&nbsp;</span></span></span></span><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #002451;\">building a secure and resilient world</span></em></p>\r\n<p style=\"font-size: 16px; margin: 0px 0px 0px 36pt; caret-color: #000000; color: #000000; font-family: Calibri, Arial, Helvetica, sans-serif;\"><em><span style=\"font-size: 9pt; font-family: Symbol; margin: 0px;\"><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #002451;\">&middot;</span><span style=\"margin: 0px;\"><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #002451;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px;\"><span style=\"margin: 0px; color: #002451;\">&nbsp;</span></span></span></span><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #002451;\">creating opportunities, improving outcomes</span></em></p>\r\n<p style=\"font-size: 16px; margin: 0px 0px 0px 36pt; caret-color: #000000; color: #000000; font-family: Calibri, Arial, Helvetica, sans-serif;\"><em><span style=\"font-size: 10pt; font-family: Symbol; margin: 0px;\"><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #002451;\">&middot;</span><span style=\"margin: 0px;\"><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #002451;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px;\"><span style=\"margin: 0px; color: #002451;\">&nbsp;</span></span></span></span><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #002451;\">data and evaluation</span></em></p>\r\n<p style=\"font-size: 16px; margin: 0px 0px 0px 36pt; caret-color: #000000; color: #000000; font-family: Calibri, Arial, Helvetica, sans-serif;\"><span style=\"margin: 0px;\"><span style=\"font-size: 10pt; font-family: Arial, sans-serif; margin: 0px;\"><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #002451;\"><em>&nbsp;</em></span></span></span></p>\r\n<p style=\"font-size: 16px; margin-top: 0px; margin-bottom: 0px; caret-color: #000000; color: #000000; font-family: Calibri, Arial, Helvetica, sans-serif;\"><em><span style=\"margin: 0px;\"><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #002451;\">All fellowship</span></span><span style=\"margin: 0px;\"><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px;\"><span style=\"margin: 0px; color: #002451;\">&nbsp;</span></span><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #002451;\">opportunitie</span></span><span style=\"margin: 0px;\"><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #002451;\">s are 18 months in duration and open to applications from researchers based at an organisation</span><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px;\"><span style=\"margin: 0px; color: #002451;\">&nbsp;</span></span><span style=\"font-size: 10pt; line-height: 14.2667px; font-family: Arial, sans-serif; margin: 0px;\"><span style=\"font-size: 11pt; line-height: normal; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #002451;\">eligible for UKRI funding.</span></span><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px;\"><span style=\"margin: 0px; color: #002451;\">&nbsp;</span></span><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #002451;\">O</span><span style=\"font-size: 10pt; line-height: 14.2667px; font-family: Arial, sans-serif; margin: 0px;\"><span style=\"font-size: 11pt; line-height: normal; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #002451;\">pportunities with a UK or devolved government host are aimed at early to mid-career</span><span style=\"font-size: 11pt; line-height: normal; font-family: Calibri, Helvetica, sans-serif; margin: 0px;\"><span style=\"margin: 0px; color: #002451;\">&nbsp;</span></span></span></span><span style=\"margin: 0px;\"><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #002451;\">academics and fellowships with a What Works Network centre host are open to all career stages.</span><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px;\"><span style=\"margin: 0px; color: #002451;\">&nbsp;</span></span></span><span style=\"margin: 0px;\"><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #002451;\">Depending on the fellowship, researchers will be in the economic and social sciences, arts and humanities or biotechnology and biological sciences; or be able to demonstrate the generation of interdisciplinary insights through combining these disciplines with other recognised academic disciplines.</span></span><span style=\"margin: 0px;\"><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px;\"><span style=\"margin: 0px; color: #002451;\">&nbsp;</span></span><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #002451;\">Full details can be found at</span><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px;\"><span style=\"margin: 0px; color: #002451;\">&nbsp;</span></span></span><span style=\"color: #0000ff;\"><a style=\"color: #0000ff; margin: 0px;\" title=\"Original URL: https://www.ukri.org/opportunity/ukri-policy-fellowships-2023/. Click or tap if you trust this link.\" href=\"https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.ukri.org%2Fopportunity%2Fukri-policy-fellowships-2023%2F&amp;data=05%7C01%7CESRCPolicyImpact%40esrc.ukri.org%7C040e028c7dff4329db3f08db1bdfa423%7C8bb7e08edaa44a8e927efca38db04b7e%7C0%7C0%7C638134419559549121%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=zOadCj1ZsjwKuAr6WeQs9zUDuBfKURM2ge5F6WHIwKo%3D&amp;reserved=0\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://gbr01.safelinks.protection.outlook.com/?url%3Dhttps%253A%252F%252Fwww.ukri.org%252Fopportunity%252Fukri-policy-fellowships-2023%252F%26data%3D05%257C01%257CESRCPolicyImpact%2540esrc.ukri.org%257C040e028c7dff4329db3f08db1bdfa423%257C8bb7e08edaa44a8e927efca38db04b7e%257C0%257C0%257C638134419559549121%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%253D%257C3000%257C%257C%257C%26sdata%3DzOadCj1ZsjwKuAr6WeQs9zUDuBfKURM2ge5F6WHIwKo%253D%26reserved%3D0&amp;source=gmail&amp;ust=1678380903405000&amp;usg=AOvVaw0BA0EQ_iafQ51GKrdQcpjA\"><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px;\">UKRI policy fellowships 2023 &ndash; UKRI</span></a></span><u></u></em></p>\r\n<p style=\"font-size: 16px; margin-top: 0px; margin-bottom: 0px; caret-color: #000000; color: #000000; font-family: Calibri, Arial, Helvetica, sans-serif;\">&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p style=\"font-size: 16px; margin-top: 0px; margin-bottom: 0px; caret-color: #000000; color: #000000; font-family: Calibri, Arial, Helvetica, sans-serif;\"><em><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px; color: #002451;\">A webinar including an insight from a current fellow, a current host, a What Works Network centre, how to apply and a Q&amp;A session is being held at 10am on March 14</span><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px;\"><span style=\"margin: 0px; color: #002451;\">&nbsp;</span></span><span style=\"margin: 0px; color: #0000ff;\"><a style=\"color: #0000ff; margin: 0px;\" title=\"Original URL: https://www.eventbrite.co.uk/e/ukri-policy-fellowships-2023-applicant-webinar-tickets-560456750227. Click or tap if you trust this link.\" href=\"https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.eventbrite.co.uk%2Fe%2Fukri-policy-fellowships-2023-applicant-webinar-tickets-560456750227&amp;data=05%7C01%7CESRCPolicyImpact%40esrc.ukri.org%7C040e028c7dff4329db3f08db1bdfa423%7C8bb7e08edaa44a8e927efca38db04b7e%7C0%7C0%7C638134419559549121%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=fZQZRroEPi5tAxq00NWiaPZ%2B3SzPmj76ZWkEXDEIE%2Bw%3D&amp;reserved=0\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://gbr01.safelinks.protection.outlook.com/?url%3Dhttps%253A%252F%252Fwww.eventbrite.co.uk%252Fe%252Fukri-policy-fellowships-2023-applicant-webinar-tickets-560456750227%26data%3D05%257C01%257CESRCPolicyImpact%2540esrc.ukri.org%257C040e028c7dff4329db3f08db1bdfa423%257C8bb7e08edaa44a8e927efca38db04b7e%257C0%257C0%257C638134419559549121%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%253D%257C3000%257C%257C%257C%26sdata%3DfZQZRroEPi5tAxq00NWiaPZ%252B3SzPmj76ZWkEXDEIE%252Bw%253D%26reserved%3D0&amp;source=gmail&amp;ust=1678380903405000&amp;usg=AOvVaw0KbyeCfv1eroDLEBzQ8pVc\"><span style=\"font-size: 11pt; font-family: Calibri, Helvetica, sans-serif; margin: 0px;\">https://www.eventbrite.co.<wbr />uk/e/ukri-policy-fellowships-<wbr />2023-applicant-webinar-<wbr />tickets-560456750227</span></a></span></em></p> UK UK",
-    "url": "https://www.ukri.org/opportunity/ukri-policy-fellowships-2023/",
-    "updated_at": "2023-03-09T10:20:41Z"
   },
   {
     "id": "funding-icomst-2023-the-international-congress-of-meat-science-and-technology-pre-congress-phd-course",
@@ -23771,8 +23757,8 @@
     "description": "<p><strong>Five 2-year Postdoctoral Fellowships at the Zukunftskolleg</strong> (Fulltime, E 13 TV-L) Reference No: 2023/167</p>\r\n<p>The preferred start date is <strong>April 1st, 2024</strong>. Conditionally on the submission of an external grant, the position can be extended for an additional year.…",
     "funder_names": [],
     "funders": [],
-    "country": "all",
-    "applicant_country": "all",
+    "country": "Worldwide",
+    "applicant_country": "Worldwide",
     "host_country": "Germany",
     "career_levels": [
       "postdoc"
@@ -23799,8 +23785,8 @@
     "description": "<p>The Getty Conservation Institute&rsquo;s (GCI) Postdoctoral Fellowship in Conservation Science is a two-year program designed to provide recent PhDs in chemistry and other physical or material sciences with experience in conservation science. The 2024&ndash;2026 Postdoctoral Fellow will be an int…",
     "funder_names": [],
     "funders": [],
-    "country": "Any",
-    "applicant_country": "Any",
+    "country": "Worldwide",
+    "applicant_country": "Worldwide",
     "host_country": "United States",
     "career_levels": [
       "phd",
@@ -23829,8 +23815,8 @@
     "description": "<p>The EUTOPIA European University is pleased to announce the opening of the fourth call for 16 post-doctoral fellowships within the EUTOPIA Science and Innovation Fellowships Program (EUTOPIA-SIF) co-funded by the European Union&rsquo;s Horizon 2020 research and innovation programme under the Marie…",
     "funder_names": [],
     "funders": [],
-    "country": "All",
-    "applicant_country": "All",
+    "country": "Worldwide",
+    "applicant_country": "Worldwide",
     "host_country": "France, Belgium, United Kindgom, Spain, Sweden, Slovenia",
     "career_levels": [
       "postdoc"
@@ -23857,8 +23843,8 @@
     "description": "<p>In 2022, the Doherty Institute received a significant philanthropic donation from Mr Geoff Cumming to establish the Cumming Global Centre for Pandemic Therapeutics (Cumming Global Centre). This mission-driven, globally connected research centre will enable rapid design and development of treatmen…",
     "funder_names": [],
     "funders": [],
-    "country": "Global",
-    "applicant_country": "Global",
+    "country": "Worldwide",
+    "applicant_country": "Worldwide",
     "host_country": "Australia",
     "career_levels": [
       "postdoc",
@@ -23880,36 +23866,6 @@
     "search_text": "Cumming Global Centre for Pandemic Therapeutics Foundation Grants 2023 <p>In 2022, the Doherty Institute received a significant philanthropic donation from Mr Geoff Cumming to establish the Cumming Global Centre for Pandemic Therapeutics (Cumming Global Centre). This mission-driven, globally connected research centre will enable rapid design and development of treatments for pathogens of pandemic potential.</p>\r\n<p>The Centre will provide long-term research funding through a variety of research programs, transforming the management of future pandemics and saving lives. In alignment with the Cumming Global Centre mission, the 2023 Foundation Grants have been launched to fund projects which aim to identify approaches to develop novel therapeutics at far greater speed than current technologies allow.</p>\r\n<p>Internal investigators were invited to apply through the first round, which has now closed and was open exclusively to Doherty Institute, University of Melbourne, and Royal Melbourne Hospital applicants.</p>\r\n<p>The second round has the same research parameters but is open globally, with support for three years of funding.</p>\r\n<p>Work on all pathogens is welcome, providing the research is directly relevant to a pathogen of pandemic potential. High throughput screens for small molecules or rational drug design that are only focused on a single pathogen and not families of pathogens will not be funded. Clinical trials will also not be funded.</p>\r\n<p>Main focus areas will include:</p>\r\n<ul>\r\n<li>Development of platform technologies that will develop therapeutics for pathogens of pandemic potential at speed</li>\r\n<li>Fundamental virology, bacteriology or immunology that will identify novel targets for therapeutics for pathogens of pandemic potential</li>\r\n<li>Development of therapeutics that have activity across viral or relevant bacterial families e.g. therapeutics that have activity against all sarbecoviruses not just SARS-CoV-2</li>\r\n<li>Innovation in relation to enabling capabilities such as animal models, organoid systems, assay development, bioinformatics, genomics or biomarkers or other capabilities that can support therapeutic development</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>This second round is open to investigators from organisations and institutions globally.</p> Postdoc Junior Faculty Senior Faculty Australia Global",
     "url": "https://www.doherty.edu.au/cumming-global-centre-for-pandemic-therapeutics/work-with-us/grants",
     "updated_at": "2023-11-14T11:15:58Z"
-  },
-  {
-    "id": "funding-zukonnect-fellowships-for-scholars-from-africa-asia-and-latin-america-2",
-    "type": "funding",
-    "slug": "zukonnect-fellowships-for-scholars-from-africa-asia-and-latin-america-2",
-    "name": "ZUKOnnect Fellowships for Scholars from Africa, Asia and Latin America",
-    "description": "<p><strong>OVERVIEW </strong></p>\r\n<p>The Zukunftskolleg Konnect Fellowships support early career researchers from Africa, Asia and Latin America, who do research that fits to one of the thirteen departments at the University of Konstanz. As a ZUKOnnect Fellow, you can use this time to extend your r…",
-    "funder_names": [],
-    "funders": [],
-    "country": "Africa, Asia or Latin America",
-    "applicant_country": "Africa, Asia or Latin America",
-    "host_country": "Germany",
-    "career_levels": [
-      "phd",
-      "postdoc"
-    ],
-    "career_level_names": [
-      "PhD",
-      "Postdoc"
-    ],
-    "subjects": [],
-    "subject_names": [],
-    "funding_purposes": [],
-    "funding_purpose_names": [],
-    "status": "active",
-    "featured": false,
-    "deadline_month": "February",
-    "search_text": "ZUKOnnect Fellowships for Scholars from Africa, Asia and Latin America <p><strong>OVERVIEW </strong></p>\r\n<p>The Zukunftskolleg Konnect Fellowships support early career researchers from Africa, Asia and Latin America, who do research that fits to one of the thirteen departments at the University of Konstanz. As a ZUKOnnect Fellow, you can use this time to extend your research networks and to get to know the research environment at the University of Konstanz while keeping your position at home. As these fellowships can build a first bridge to the German and European academic system, we also encourage doctoral students in their last year to apply. The Zukunftskolleg will not offer employment contracts for ZUKOnnect Fellows. The Zukunftskolleg is an Institute for Advanced Study (IAS). It offers fellowships as well as a diverse support network to promote the independence of early career researchers. Researchers at the postdoctoral level can work with minimal administrative constraints, and enjoy the freedom to engage in meaningful exchange with other up-and-coming colleagues as well as with distinguished senior researchers. Researchers in the humanities, social and natural sciences come to Konstanz from around the world to perform first-class research. The Zukunftskolleg is a keystone in the University of Konstanz's institutional strategy and the University of Konstanz is one of Germany&rsquo;s eleven Universities of Excellence.</p>\r\n<p><strong>WE OFFER </strong></p>\r\n<p>- During the on-campus research stay, a stipend of &euro; 1,300/month for doctoral students and &euro; 2,000/month for postdoctoral researchers (following DAAD guidelines).</p>\r\n<p>- Standard expenses for one economy-class trip to Konstanz and back. - The chance to participate in events organized by the Zukunftskolleg.</p>\r\n<p>- Access to library resources.</p>\r\n<p>- Access to IT services.</p>\r\n<p>- Access to research support services (via Research Support).</p>\r\n<p>- ZUKOnnect Fellows will benefit from a digital affiliation extending the total period to 12 months. The digital affiliation will be supported with up to &euro; 900 (lump sum).</p>\r\n<p>- German language course (online and on site to be confirmed for 2024)</p>\r\n<p>- Career Kit Plus - weekly series of seminars and workshops offered by the University of Konstanz staff members or external trainers (e.g. open access, good practice in academic writing, career perspectives, funding opportunities, but also sight visits and other encounters) Programme for 2024 to be confirmed.</p>\r\n<p>- \"Fellows go Local\" - ZUKOnnect meetings with fellows, staff, PhD students in town, helping to adjust in the local region supported by the Universit&auml;tsgesellschaft Konstanz.</p>\r\n<p><strong>YOUR RESPONSIBILITIES </strong></p>\r\n<p>- You will live in Konstanz or nearby throughout the on-site ZUKOnnect Fellowship (the Welcome Centre at the University of Konstanz will support you with all organizational aspects of relocating to Konstanz).</p>\r\n<p>- During the digital affiliation and the on-campus research stay, you will actively contribute to the interdisciplinary dialogue at the Zukunftskolleg, e.g. during weekly Jour fixe meetings (in the semester). - You will interact with fellows and researchers in relevant departments at the university of Konstanz.</p>\r\n<p>- You will give a presentation in a seminar or a public lecture.</p>\r\n<p>- You will acknowledge the Zukunftskolleg&rsquo;s support in any publications resulting from the stay.</p>\r\n<p>- You will write a short report on your activities and achievements (within 6 months of completing your ZUKOnnect Fellowship).</p>\r\n<p><strong>THE REQUIREMENTS </strong></p>\r\n<p>- You are educated AND currently work in Latin America, Asia and/or Africa.</p>\r\n<p>- You hold a doctorate (max. 2 years, doctoral degree granted after 15 February 2022) OR are a doctoral student in your final year.</p>\r\n<p>- Your doctorate was/ is going to be completed at a university in Latin America, Asia or Africa.</p>\r\n<p>- You do not hold a permanent professorship, nor do you have a habilitation or equivalent qualification (Venia legendi).</p>\r\n<p>- Your research project fits to one of the disciplines represented at the University of Konstanz.</p> PhD Postdoc Germany Africa, Asia or Latin America",
-    "url": "https://www.uni-konstanz.de/zukunftskolleg/fellowships/zukonnect-fellowship/",
-    "updated_at": "2024-01-03T14:23:50Z"
   },
   {
     "id": "funding-beckman-young-investigator-award",
@@ -24098,6 +24054,34 @@
     "updated_at": "2024-09-06T23:03:07Z"
   },
   {
+    "id": "funding-ucla-postdoctoral-fellowship-in-california-conservation-science",
+    "type": "funding",
+    "slug": "ucla-postdoctoral-fellowship-in-california-conservation-science",
+    "name": "UCLA Postdoctoral Fellowship in California Conservation Science",
+    "description": "Seeking to hire one or more postdoctoral scholars who conduct innovative biological research at the interface of applied and basic science. The Center's long-term goal is to help fund a cadre of innovative young scientists who will work closely with UCLA faculty, help broaden the mission of conserva…",
+    "funder_names": [],
+    "funders": [],
+    "country": "United States",
+    "applicant_country": "",
+    "host_country": "United States",
+    "career_levels": [
+      "phd"
+    ],
+    "career_level_names": [
+      "PhD"
+    ],
+    "subjects": [],
+    "subject_names": [],
+    "funding_purposes": [],
+    "funding_purpose_names": [],
+    "status": "active",
+    "featured": false,
+    "deadline_month": "November",
+    "search_text": "UCLA Postdoctoral Fellowship in California Conservation Science Seeking to hire one or more postdoctoral scholars who conduct innovative biological research at the interface of applied and basic science. The Center's long-term goal is to help fund a cadre of innovative young scientists who will work closely with UCLA faculty, help broaden the mission of conservation science for the campus, and lead to long-term collaborations between our academic scientists and applied conservation practitioners that will direct and lead California conservation efforts. The Fellowship is for two years. The position offers a competitive salary, full benefits, and a research/travel allowance of $7500. PhD U.S.A",
+    "url": "https://www.ioes.ucla.edu/lakretz/",
+    "updated_at": "2024-09-19T17:59:05Z"
+  },
+  {
     "id": "funding-mopga-visiting-research-fellowships-in-france",
     "type": "funding",
     "slug": "mopga-visiting-research-fellowships-in-france",
@@ -24133,8 +24117,8 @@
     "description": "<p data-pm-slice=\"1 1 []\">The Hanse-Wissenschaftskolleg (HWK) in Delmenhorst is a leading Institute for Advanced Study located in Northwest Germany, dedicated to fostering exceptional research across all academic disciplines. Through its prestigious Fellowship program, HWK offers talented scholars&m…",
     "funder_names": [],
     "funders": [],
-    "country": "Any",
-    "applicant_country": "Any",
+    "country": "Worldwide",
+    "applicant_country": "Worldwide",
     "host_country": "Germany",
     "career_levels": [
       "junior-faculty",
@@ -24190,6 +24174,332 @@
     "search_text": "GINGKO Grants Programme <p>GINGKO provides grants to support academic research into the history, art history and religions of MENA. GINGKO also offers grants for people organising transformative interfaith and intercultural encounters between people from MENA and the West. The Werner Mark Linz Memorial Grant (WMLM) is a medium-scale award to fund academic research projects, conferences or symposiums on one or more of GINGKO&rsquo;s academic subject areas &ndash; the history, art history or religions of the MENA region &ndash; in any time period. GINGKO awards up to one WMLM Grant per year, normally up to a maximum of &pound;10,000 for each grant. The Research Grant is a small-scale award to fund academic research, conferences or symposiums on one or more of GINGKO&rsquo;s academic subject areas &ndash; the history, art history or religions of the MENA region &ndash; in any time period. GINGKO awards up to three Research Grants per year, normally up to a maximum of &pound;3,000 for each grant. The Encounters can be but need not be academic in nature. They must aim to improve mutual understanding between MENA and the West. GINGKO awards up to three Encounter Grants per year, normally up to a maximum of &pound;3,000 for each grant.</p> PhD Postdoc Junior Faculty Senior Faculty MENA region MENA region",
     "url": "https://www.gingko.org.uk/grants/",
     "updated_at": "2025-04-07T11:36:36Z"
+  },
+  {
+    "id": "funding-twas-fellowships-research-and-advanced-training",
+    "type": "funding",
+    "slug": "twas-fellowships-research-and-advanced-training",
+    "name": "TWAS Fellowships for Research and Advanced Training",
+    "description": "Fellowships for young scientists in developing countries to spend 3 to 12 months at a research institution in a developing country other than their own, enabling South-South scientific collaboration in natural sciences. Minimum qualification is an MSc degree.",
+    "funder_names": [
+      "The World Academy of Sciences"
+    ],
+    "funders": [
+      "the-world-academy-of-sciences"
+    ],
+    "country": "Developing countries",
+    "applicant_country": "Developing countries",
+    "host_country": "Developing countries",
+    "career_levels": [
+      "phd",
+      "postdoc"
+    ],
+    "career_level_names": [
+      "PhD",
+      "Postdoc"
+    ],
+    "subjects": [
+      "natural-sciences"
+    ],
+    "subject_names": [
+      "Natural Sciences"
+    ],
+    "funding_purposes": [
+      "fellowship-scholarship-training",
+      "collaboration"
+    ],
+    "funding_purpose_names": [
+      "fellowship-scholarship-training",
+      "Collaboration"
+    ],
+    "status": "active",
+    "featured": false,
+    "deadline_month": "",
+    "search_text": "TWAS Fellowships Research Advanced Training developing countries South-South natural sciences MSc",
+    "url": "https://twas.org/opportunity/twas-fellowships-research-and-advanced-training",
+    "updated_at": "2026-03-25T00:00:00Z"
+  },
+  {
+    "id": "funding-twas-cui-postdoctoral-fellowship",
+    "type": "funding",
+    "slug": "twas-cui-postdoctoral-fellowship",
+    "name": "TWAS-CUI Postdoctoral Fellowship",
+    "description": "Postdoctoral fellowships for young scientists from developing countries (excluding Pakistan) to pursue research at COMSATS University Islamabad (CUI) in Pakistan. Applicants must have obtained their PhD within the last 5 years.",
+    "funder_names": [
+      "The World Academy of Sciences"
+    ],
+    "funders": [
+      "the-world-academy-of-sciences"
+    ],
+    "country": "Developing countries (excluding Pakistan)",
+    "applicant_country": "Developing countries (excluding Pakistan)",
+    "host_country": "Pakistan",
+    "career_levels": [
+      "postdoc"
+    ],
+    "career_level_names": [
+      "Postdoc"
+    ],
+    "subjects": [],
+    "subject_names": [],
+    "funding_purposes": [
+      "fellowship-scholarship-training"
+    ],
+    "funding_purpose_names": [
+      "fellowship-scholarship-training"
+    ],
+    "status": "active",
+    "featured": false,
+    "deadline_month": "",
+    "search_text": "TWAS CUI Postdoctoral Fellowship COMSATS Pakistan developing countries",
+    "url": "https://twas.org/opportunity/twas-cui-postdoctoral-fellowship-programme",
+    "updated_at": "2026-03-25T00:00:00Z"
+  },
+  {
+    "id": "funding-twas-dfg-cooperation-visits-mena",
+    "type": "funding",
+    "slug": "twas-dfg-cooperation-visits-mena",
+    "name": "TWAS-DFG Cooperation Visits Programme (MENA)",
+    "description": "Postdoctoral researchers from the Middle East and North Africa (MENA) region can conduct a three-month collaborative visit to a German research institute, supported jointly by TWAS and the German Research Foundation (DFG).",
+    "funder_names": [
+      "The World Academy of Sciences"
+    ],
+    "funders": [
+      "the-world-academy-of-sciences"
+    ],
+    "country": "Middle East and North Africa (MENA)",
+    "applicant_country": "Middle East and North Africa (MENA)",
+    "host_country": "Germany",
+    "career_levels": [
+      "postdoc"
+    ],
+    "career_level_names": [
+      "Postdoc"
+    ],
+    "subjects": [],
+    "subject_names": [],
+    "funding_purposes": [
+      "fellowship-scholarship-training",
+      "collaboration"
+    ],
+    "funding_purpose_names": [
+      "fellowship-scholarship-training",
+      "Collaboration"
+    ],
+    "status": "active",
+    "featured": false,
+    "deadline_month": "April",
+    "search_text": "TWAS DFG Cooperation Visits MENA Middle East North Africa Germany postdoc German Research Foundation",
+    "url": "https://twas.org/opportunity/twas-dfg-cooperation-visits-programme-mena",
+    "updated_at": "2026-03-25T00:00:00Z"
+  },
+  {
+    "id": "funding-twas-dfg-cooperation-visits-ssa",
+    "type": "funding",
+    "slug": "twas-dfg-cooperation-visits-ssa",
+    "name": "TWAS-DFG Cooperation Visits Programme (Sub-Saharan Africa)",
+    "description": "Postdoctoral researchers from sub-Saharan Africa can conduct a three-month collaborative visit to a German research institute, supported jointly by TWAS and the German Research Foundation (DFG).",
+    "funder_names": [
+      "The World Academy of Sciences"
+    ],
+    "funders": [
+      "the-world-academy-of-sciences"
+    ],
+    "country": "Sub-Saharan Africa",
+    "applicant_country": "Sub-Saharan Africa",
+    "host_country": "Germany",
+    "career_levels": [
+      "postdoc"
+    ],
+    "career_level_names": [
+      "Postdoc"
+    ],
+    "subjects": [],
+    "subject_names": [],
+    "funding_purposes": [
+      "fellowship-scholarship-training",
+      "collaboration"
+    ],
+    "funding_purpose_names": [
+      "fellowship-scholarship-training",
+      "Collaboration"
+    ],
+    "status": "active",
+    "featured": false,
+    "deadline_month": "April",
+    "search_text": "TWAS DFG Cooperation Visits Sub-Saharan Africa Germany postdoc German Research Foundation",
+    "url": "https://twas.org/opportunity/twas-dfg-cooperation-visits-programme-ssa",
+    "updated_at": "2026-03-25T00:00:00Z"
+  },
+  {
+    "id": "funding-twas-fapesp-postdoctoral-fellowship",
+    "type": "funding",
+    "slug": "twas-fapesp-postdoctoral-fellowship",
+    "name": "TWAS-FAPESP Postdoctoral Fellowship (LDC)",
+    "description": "Postdoctoral fellowships for researchers from Least Developed Countries who wish to pursue research in all areas of natural, applied, and social sciences at host institutions in Brazil. Fellows must have obtained their PhD within the last 7 years.",
+    "funder_names": [
+      "The World Academy of Sciences"
+    ],
+    "funders": [
+      "the-world-academy-of-sciences"
+    ],
+    "country": "Least Developed Countries (LDC)",
+    "applicant_country": "Least Developed Countries (LDC)",
+    "host_country": "Brazil",
+    "career_levels": [
+      "postdoc"
+    ],
+    "career_level_names": [
+      "Postdoc"
+    ],
+    "subjects": [
+      "natural-sciences",
+      "applied-sciences",
+      "social-sciences"
+    ],
+    "subject_names": [
+      "Natural Sciences",
+      "applied-sciences",
+      "social-sciences"
+    ],
+    "funding_purposes": [
+      "fellowship-scholarship-training"
+    ],
+    "funding_purpose_names": [
+      "fellowship-scholarship-training"
+    ],
+    "status": "active",
+    "featured": false,
+    "deadline_month": "",
+    "search_text": "TWAS FAPESP Postdoctoral Fellowship Brazil Least Developed Countries LDC natural applied social sciences",
+    "url": "https://twas.org/opportunity/twas-fapesp-postdoctoral-fellowship-programme-least-developed-countries-ldc",
+    "updated_at": "2026-03-25T00:00:00Z"
+  },
+  {
+    "id": "funding-twas-sissa-lincei-research-cooperation-visits",
+    "type": "funding",
+    "slug": "twas-sissa-lincei-research-cooperation-visits",
+    "name": "TWAS-SISSA-Lincei Research Cooperation Visits Programme",
+    "description": "Young scientists from least developed countries holding an MSc or higher degree can visit research laboratories in the Friuli Venezia Giulia Region of Italy for three months to carry out collaborative research projects. Applicants must be under 40 years of age.",
+    "funder_names": [
+      "The World Academy of Sciences"
+    ],
+    "funders": [
+      "the-world-academy-of-sciences"
+    ],
+    "country": "Least Developed Countries (LDC)",
+    "applicant_country": "Least Developed Countries (LDC)",
+    "host_country": "Italy",
+    "career_levels": [
+      "phd",
+      "postdoc"
+    ],
+    "career_level_names": [
+      "PhD",
+      "Postdoc"
+    ],
+    "subjects": [],
+    "subject_names": [],
+    "funding_purposes": [
+      "fellowship-scholarship-training",
+      "collaboration"
+    ],
+    "funding_purpose_names": [
+      "fellowship-scholarship-training",
+      "Collaboration"
+    ],
+    "status": "active",
+    "featured": false,
+    "deadline_month": "",
+    "search_text": "TWAS SISSA Lincei Research Cooperation Visits Italy Least Developed Countries young scientists MSc",
+    "url": "https://twas.org/opportunity/twas-sissa-lincei-research-cooperation-visits-programme",
+    "updated_at": "2026-03-25T00:00:00Z"
+  },
+  {
+    "id": "funding-twas-tubitak-postdoctoral-fellowship",
+    "type": "funding",
+    "slug": "twas-tubitak-postdoctoral-fellowship",
+    "name": "TWAS-TÜBİTAK Postdoctoral Fellowship",
+    "description": "Postdoctoral fellowships for foreign scholars from developing countries to conduct research in natural and applied sciences at host institutions in Türkiye. Applicants must hold a PhD and be under 45 years of age.",
+    "funder_names": [
+      "The World Academy of Sciences"
+    ],
+    "funders": [
+      "the-world-academy-of-sciences"
+    ],
+    "country": "Developing countries",
+    "applicant_country": "Developing countries",
+    "host_country": "Türkiye",
+    "career_levels": [
+      "postdoc"
+    ],
+    "career_level_names": [
+      "Postdoc"
+    ],
+    "subjects": [
+      "natural-sciences",
+      "applied-sciences"
+    ],
+    "subject_names": [
+      "Natural Sciences",
+      "applied-sciences"
+    ],
+    "funding_purposes": [
+      "fellowship-scholarship-training"
+    ],
+    "funding_purpose_names": [
+      "fellowship-scholarship-training"
+    ],
+    "status": "active",
+    "featured": false,
+    "deadline_month": "",
+    "search_text": "TWAS TÜBİTAK TUBITAK Postdoctoral Fellowship Turkey Türkiye developing countries natural applied sciences",
+    "url": "https://twas.org/opportunity/twas-tubitak-postdoctoral-fellowship-programme",
+    "updated_at": "2026-03-25T00:00:00Z"
+  },
+  {
+    "id": "funding-twas-unesco-associateship-scheme",
+    "type": "funding",
+    "slug": "twas-unesco-associateship-scheme",
+    "name": "TWAS-UNESCO Associateship Scheme",
+    "description": "Enables competent researchers from developing countries to visit centres of excellence in the South regularly. An associate is appointed for three years and may visit a centre twice during that period for research collaboration in natural sciences. Over 300 centres of excellence participate globally…",
+    "funder_names": [
+      "The World Academy of Sciences"
+    ],
+    "funders": [
+      "the-world-academy-of-sciences"
+    ],
+    "country": "Developing countries",
+    "applicant_country": "Developing countries",
+    "host_country": "Developing countries",
+    "career_levels": [
+      "postdoc",
+      "junior-faculty"
+    ],
+    "career_level_names": [
+      "Postdoc",
+      "Junior Faculty"
+    ],
+    "subjects": [
+      "natural-sciences"
+    ],
+    "subject_names": [
+      "Natural Sciences"
+    ],
+    "funding_purposes": [
+      "fellowship-scholarship-training",
+      "collaboration"
+    ],
+    "funding_purpose_names": [
+      "fellowship-scholarship-training",
+      "Collaboration"
+    ],
+    "status": "active",
+    "featured": false,
+    "deadline_month": "",
+    "search_text": "TWAS UNESCO Associateship Scheme developing countries South centres of excellence natural sciences research collaboration",
+    "url": "https://twas.org/opportunity/twas-unesco-associateship-scheme",
+    "updated_at": "2026-03-25T00:00:00Z"
   },
   {
     "id": "funding-aaas-lemelson-invention-ambassadors-program",
@@ -25000,10 +25310,10 @@
     "updated_at": "2020-05-24T10:23:55Z"
   },
   {
-    "id": "funding-young-investigator-awards-5",
+    "id": "funding-swf-young-investigator-awards",
     "type": "funding",
-    "slug": "young-investigator-awards-5",
-    "name": "Young Investigator Awards",
+    "slug": "swf-young-investigator-awards",
+    "name": "SWF Young Investigator Awards",
     "description": null,
     "funder_names": [],
     "funders": [],
@@ -25286,30 +25596,6 @@
     "search_text": "ARO Young Investigator Program United States",
     "url": "http://www.arl.army.mil/www/pages/8/ARLBAA_W911NF-12-R-0011-03-Mod_26MAR15.pdf",
     "updated_at": "2020-05-24T19:51:08Z"
-  },
-  {
-    "id": "funding-young-professor-grant-program",
-    "type": "funding",
-    "slug": "young-professor-grant-program",
-    "name": "Young Professor Grant Program",
-    "description": null,
-    "funder_names": [],
-    "funders": [],
-    "country": "United States",
-    "applicant_country": "",
-    "host_country": "United States",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "funding_purposes": [],
-    "funding_purpose_names": [],
-    "status": "draft",
-    "featured": false,
-    "deadline_month": "",
-    "search_text": "Young Professor Grant Program United States",
-    "url": "http://www.dupont.com/corporate-functions/sustainability/outreach/education-commitment/Universities.html",
-    "updated_at": "2020-05-24T19:56:11Z"
   },
   {
     "id": "funding-postdoctoral-fellowships",
@@ -26502,102 +26788,6 @@
     "updated_at": "2020-09-29T12:32:41Z"
   },
   {
-    "id": "funding-esrc-policy-fellowships-2021",
-    "type": "funding",
-    "slug": "esrc-policy-fellowships-2021",
-    "name": "ESRC Policy Fellowships 2021",
-    "description": "<p>The new ESRC Policy Fellowships call provides 25 fellowship opportunities across 10 hosts within UK and devolved governments. Offering an exciting opportunity to early and mid-career researchers to develop their career and enhance their understanding of applying research in government contexts. F…",
-    "funder_names": [],
-    "funders": [],
-    "country": "United Kingdom",
-    "applicant_country": "United Kingdom",
-    "host_country": "United Kingdom",
-    "career_levels": [
-      "phd",
-      "postdoc",
-      "junior-faculty"
-    ],
-    "career_level_names": [
-      "PhD",
-      "Postdoc",
-      "Junior Faculty"
-    ],
-    "subjects": [],
-    "subject_names": [],
-    "funding_purposes": [],
-    "funding_purpose_names": [],
-    "status": "expired",
-    "featured": false,
-    "deadline_month": "September",
-    "search_text": "ESRC Policy Fellowships 2021 <p>The new ESRC Policy Fellowships call provides 25 fellowship opportunities across 10 hosts within UK and devolved governments. Offering an exciting opportunity to early and mid-career researchers to develop their career and enhance their understanding of applying research in government contexts. Fellows will spend up to 18 months collaborating with their host organisation to co-design research to inform policy on a priority policy area, and to help improve the exchange of knowledge between policy and academic institutions.</p> PhD Postdoc Junior Faculty United Kingdom United Kingdom",
-    "url": "https://www.ukri.org/opportunity/esrc-policy-fellowships-2021/",
-    "updated_at": "2022-01-24T09:01:26Z"
-  },
-  {
-    "id": "funding-the-china-medical-board-cmb-postdoctoral-research-fellowship-in-china",
-    "type": "funding",
-    "slug": "the-china-medical-board-cmb-postdoctoral-research-fellowship-in-china",
-    "name": "The China Medical Board (CMB) Postdoctoral Research Fellowship in China",
-    "description": "Facilitated by the U-M Medical School and funded by the China Medical Board(link is external) (CMB), the CMB Postdoctoral Research Fellowship Program places early-career researchers or advanced students (MD, PhD, or equivalent) from US institutions into select labs at highly-ranked academic institut…",
-    "funder_names": [],
-    "funders": [],
-    "country": "USA",
-    "applicant_country": "USA",
-    "host_country": "P. R. China",
-    "career_levels": [
-      "phd",
-      "postdoc",
-      "md"
-    ],
-    "career_level_names": [
-      "PhD",
-      "Postdoc",
-      "MD"
-    ],
-    "subjects": [],
-    "subject_names": [],
-    "funding_purposes": [],
-    "funding_purpose_names": [],
-    "status": "expired",
-    "featured": false,
-    "deadline_month": "",
-    "search_text": "The China Medical Board (CMB) Postdoctoral Research Fellowship in China Facilitated by the U-M Medical School and funded by the China Medical Board(link is external) (CMB), the CMB Postdoctoral Research Fellowship Program places early-career researchers or advanced students (MD, PhD, or equivalent) from US institutions into select labs at highly-ranked academic institutions in China under the guidance of a local and a U-M mentor.\r\n\r\nFellows spend 1-2 years training at one of three program host sites: Peking University Health Science Center, Central South University Xiangya School of Medicine, or Shanghai Technology University. Fellows are provided with NIH-equivalent stipends, benefits, and funds to accommodate travel between the US and China. A certificate of completion will be awarded upon successful completion of the program.\r\n\r\nEach postdoctoral fellow will be co-mentored by a faculty member from the U-M Medical School and the Chinese host institution. Fellows and their mentors will work together to develop and submit an individualized mentorship and training plan as part of the application process. The fellowship year typically runs July-June and begins with a week-long orientation at the NIH with the world’s leading global health experts, after which fellows will spend 11-12 months on-site at the host institution to carry out a mentored research project and training activities aimed at building the trainee’s methodologic skills and content expertise in a field relevant to health and biomedical science. PhD Postdoc MD P. R. China USA",
-    "url": "https://medicine.umich.edu/dept/globalreach/cmb-postdoctoral-research-fellows",
-    "updated_at": "2024-04-02T14:11:43Z"
-  },
-  {
-    "id": "funding-the-china-medical-board-cmb-postdoctoral-research-fellowship-in-china-2",
-    "type": "funding",
-    "slug": "the-china-medical-board-cmb-postdoctoral-research-fellowship-in-china-2",
-    "name": "The China Medical Board (CMB) Postdoctoral Research Fellowship in China",
-    "description": "Overview:\r\n\r\nFacilitated by the U-M Medical School and funded by the China Medical Board(link is external) (CMB), the CMB Postdoctoral Research Fellowship Program places early-career researchers or advanced students (MD, PhD, or equivalent) from US institutions into select labs at highly-ranked acad…",
-    "funder_names": [],
-    "funders": [],
-    "country": "USA",
-    "applicant_country": "USA",
-    "host_country": "China",
-    "career_levels": [
-      "phd",
-      "postdoc",
-      "md"
-    ],
-    "career_level_names": [
-      "PhD",
-      "Postdoc",
-      "MD"
-    ],
-    "subjects": [],
-    "subject_names": [],
-    "funding_purposes": [],
-    "funding_purpose_names": [],
-    "status": "expired",
-    "featured": false,
-    "deadline_month": "",
-    "search_text": "The China Medical Board (CMB) Postdoctoral Research Fellowship in China Overview:\r\n\r\nFacilitated by the U-M Medical School and funded by the China Medical Board(link is external) (CMB), the CMB Postdoctoral Research Fellowship Program places early-career researchers or advanced students (MD, PhD, or equivalent) from US institutions into select labs at highly-ranked academic institutions in China under the guidance of a local and a U-M mentor.\r\n\r\nFellows spend 1-2 years training at one of three program host sites: Peking University Health Science Center, Central South University Xiangya School of Medicine, or Shanghai Technology University. Fellows are provided with NIH-equivalent stipends, benefits, and funds to accommodate travel between the US and China. A certificate of completion will be awarded upon successful completion of the program.\r\n\r\nEach postdoctoral fellow will be co-mentored by a faculty member from the U-M Medical School and the Chinese host institution. Fellows and their mentors will work together to develop and submit an individualized mentorship and training plan as part of the application process. The fellowship year typically runs July-June and begins with a week-long orientation at the NIH with the world’s leading global health experts, after which fellows will spend 11-12 months on-site at the host institution to carry out a mentored research project and training activities aimed at building the trainee’s methodologic skills and content expertise in a field relevant to health and biomedical science. \r\n\r\nEligibility:\r\n\r\nCandidates for CMB fellowships who meet the following criteria will be eligible to apply for this program: \r\n1. US citizen or Permanent Resident\r\n2. Have completed a doctoral degree, or equivalent degree in a relevant field (e.g., M.D., Ph.D., DDS, PharmD, DVM, etc.) or are currently enrolled in a doctoral program (completed qualifying exams or equivalent)\r\n3. Accepted as a training fellow at the US grantee institution\r\n4. Available to spend 11-12 months at research site in China, extendable to 2 years\r\n5. Able to submit a research proposal describing their research and mentoring/career development plans during the fellowship\r\n6. A working knowledge of Chinese language is helpful but not essential \r\n\r\nHow to Apply\r\n\r\nApplications are accepted on a rolling basis. Prospective participants are encouraged to reach out to Amy Huang (yanhuang@umich.edu),  Director of Asia Programs at the University of Michigan Medical School, to discuss their interest and to explore connections to relevant mentors/labs. Candidates are asked to submit the following in a single PDF file:\r\n1. NIH-formatted biosketches for the applicant and proposed co-mentors\r\n2. Statement of career goals (maximum 800 words)\r\n3. Proposed project (including project title, abstract, background, specific aims, methods, and significance; maximum 1500 words)\r\n4. Three letters of recommendation from current mentors/supervisors PhD Postdoc MD China USA",
-    "url": "https://medicine.umich.edu/dept/globalreach/cmb-postdoctoral-research-fellows",
-    "updated_at": "2024-04-02T14:18:28Z"
-  },
-  {
     "id": "funding-university-of-constance-germany",
     "type": "funding",
     "slug": "university-of-constance-germany",
@@ -26605,8 +26795,8 @@
     "description": "12 Doctoral Positions (part-time 60 %, E 13 TV-L ). The positions are located at the graduate program \"Post-Eurocentric Europe: Narratives of a World Province in Transformation\", Department of Literature, Art and Media studies.",
     "funder_names": [],
     "funders": [],
-    "country": "International",
-    "applicant_country": "International",
+    "country": "Worldwide",
+    "applicant_country": "Worldwide",
     "host_country": "Germany",
     "career_levels": [
       "phd"
@@ -26633,8 +26823,8 @@
     "description": "The University of Konstanz is one of eleven Universities of Excellence in Germany. Since 2007 it has been successful in the German ExcellenceInitiative and its follow-up programme, the Excellence Strategy.\r\n\r\nThe Zukunftskolleg is an Institute for Advanced Study for early career postdoctoral researc…",
     "funder_names": [],
     "funders": [],
-    "country": "all",
-    "applicant_country": "all",
+    "country": "Worldwide",
+    "applicant_country": "Worldwide",
     "host_country": "Germany",
     "career_levels": [
       "postdoc"
@@ -26654,34 +26844,6 @@
     "updated_at": "2024-06-26T16:39:30Z"
   },
   {
-    "id": "funding-ucla-postdoctoral-fellowship-in-california-conservation-science",
-    "type": "funding",
-    "slug": "ucla-postdoctoral-fellowship-in-california-conservation-science",
-    "name": "UCLA Postdoctoral Fellowship in California Conservation Science",
-    "description": "Seeking to hire one or more postdoctoral scholars who conduct innovative biological research at the interface of applied and basic science. The Center's long-term goal is to help fund a cadre of innovative young scientists who will work closely with UCLA faculty, help broaden the mission of conserva…",
-    "funder_names": [],
-    "funders": [],
-    "country": "U.S.A",
-    "applicant_country": "",
-    "host_country": "U.S.A",
-    "career_levels": [
-      "phd"
-    ],
-    "career_level_names": [
-      "PhD"
-    ],
-    "subjects": [],
-    "subject_names": [],
-    "funding_purposes": [],
-    "funding_purpose_names": [],
-    "status": "expired",
-    "featured": false,
-    "deadline_month": "",
-    "search_text": "UCLA Postdoctoral Fellowship in California Conservation Science Seeking to hire one or more postdoctoral scholars who conduct innovative biological research at the interface of applied and basic science. The Center's long-term goal is to help fund a cadre of innovative young scientists who will work closely with UCLA faculty, help broaden the mission of conservation science for the campus, and lead to long-term collaborations between our academic scientists and applied conservation practitioners that will direct and lead California conservation efforts. The Fellowship is for two years. The position offers a competitive salary, full benefits, and a research/travel allowance of $7500. PhD U.S.A",
-    "url": "https://www.ioes.ucla.edu/jobs/postdoctoral-fellowship-for-the-la-kretz-center-for-california-conservation-science/",
-    "updated_at": "2024-09-19T17:59:05Z"
-  },
-  {
     "id": "funding-early-career-fellowships-william-st-clair",
     "type": "funding",
     "slug": "early-career-fellowships-william-st-clair",
@@ -26691,7 +26853,7 @@
     "funders": [],
     "country": "Worldwide",
     "applicant_country": "Worldwide",
-    "host_country": "UK",
+    "host_country": "United Kingdom",
     "career_levels": [
       "postdoc"
     ],
@@ -26740,108 +26902,6 @@
     "updated_at": "2024-11-13T09:13:26Z"
   },
   {
-    "id": "funding-sustainability-meets-strength-growth-opportunities-in-polymeric-inorganic-fibers",
-    "type": "funding",
-    "slug": "sustainability-meets-strength-growth-opportunities-in-polymeric-inorganic-fibers",
-    "name": "Sustainability Meets Strength: Growth Opportunities in Polymeric Inorganic Fibers",
-    "description": "In the dynamic world of advanced materials, polymeric inorganic fibers are carving out a critical niche. Often overshadowed by their more widely known counterparts—like carbon or aramid fibers—these materials blend the structural versatility of polymers with the exceptional durability of inorganic c…",
-    "funder_names": [],
-    "funders": [],
-    "country": "INDIA",
-    "applicant_country": "INDIA",
-    "host_country": "INDIA",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "funding_purposes": [],
-    "funding_purpose_names": [],
-    "status": "expired",
-    "featured": false,
-    "deadline_month": "",
-    "search_text": "Sustainability Meets Strength: Growth Opportunities in Polymeric Inorganic Fibers In the dynamic world of advanced materials, polymeric inorganic fibers are carving out a critical niche. Often overshadowed by their more widely known counterparts—like carbon or aramid fibers—these materials blend the structural versatility of polymers with the exceptional durability of inorganic compounds. As industries push the boundaries of performance, the Polymeric Inorganic Fibers Market is gaining momentum, with applications spreading across aerospace, defense, construction, and energy.\r\n\r\nWhat Are Polymeric Inorganic Fibers?\r\n\r\nUnlike conventional organic polymers, polymeric inorganic fibers are made by integrating elements like silicon, aluminum, or boron into a polymer backbone. Common types include alumina, silica, and silicon carbide (SiC) fibers. These fibers retain the lightweight and flexible characteristics of polymers but offer extreme thermal stability, corrosion resistance, and mechanical strength.\r\n\r\nIn short, they’re the best of both worlds—polymeric processability with ceramic-like performance.\r\n\r\nKey Market Drivers\r\n\r\nRising Demand for Heat-Resistant Materials\r\nIndustries such as aerospace, nuclear energy, and metallurgy are increasingly operating under extreme thermal conditions. Polymeric inorganic fibers can withstand temperatures exceeding 1200°C, making them indispensable for thermal insulation, jet engine components, and fire protection.\r\n\r\nLightweighting Trends in Transportation\r\nAs automakers and aircraft manufacturers chase fuel efficiency, lightweight materials are in high demand. These fibers provide structural reinforcement with a lower weight-to-strength ratio compared to metals, contributing to emissions reduction and fuel savings.\r\n\r\nGrowth in Renewable Energy Infrastructure\r\nWind turbines, solar panels, and next-gen batteries benefit from these fibers in various components—from insulation to structural composites—due to their durability and environmental resistance.\r\n\r\nDefense and Security Investments\r\nMilitary vehicles and protective gear increasingly rely on high-performance materials. With superior impact resistance and non-flammability, polymeric inorganic fibers are gaining favor in armor systems and ballistic protection. INDIA INDIA",
-    "url": "https://www.marketresearchfuture.com/reports/polymeric-inorganic-fibers-market-25551",
-    "updated_at": "2025-04-09T02:34:47Z"
-  },
-  {
-    "id": "funding-sustainability-meets-strength-growth-opportunities-in-polymeric-inorganic-fibers-2",
-    "type": "funding",
-    "slug": "sustainability-meets-strength-growth-opportunities-in-polymeric-inorganic-fibers-2",
-    "name": "Sustainability Meets Strength: Growth Opportunities in Polymeric Inorganic Fibers",
-    "description": "In the dynamic world of advanced materials, polymeric inorganic fibers are carving out a critical niche. Often overshadowed by their more widely known counterparts—like carbon or aramid fibers—these materials blend the structural versatility of polymers with the exceptional durability of inorganic c…",
-    "funder_names": [],
-    "funders": [],
-    "country": "INDIA",
-    "applicant_country": "INDIA",
-    "host_country": "INDIA",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "funding_purposes": [],
-    "funding_purpose_names": [],
-    "status": "expired",
-    "featured": false,
-    "deadline_month": "",
-    "search_text": "Sustainability Meets Strength: Growth Opportunities in Polymeric Inorganic Fibers In the dynamic world of advanced materials, polymeric inorganic fibers are carving out a critical niche. Often overshadowed by their more widely known counterparts—like carbon or aramid fibers—these materials blend the structural versatility of polymers with the exceptional durability of inorganic compounds. As industries push the boundaries of performance, the Polymeric Inorganic Fibers Market is gaining momentum, with applications spreading across aerospace, defense, construction, and energy.\r\n\r\nWhat Are Polymeric Inorganic Fibers?\r\n\r\nUnlike conventional organic polymers, polymeric inorganic fibers are made by integrating elements like silicon, aluminum, or boron into a polymer backbone. Common types include alumina, silica, and silicon carbide (SiC) fibers. These fibers retain the lightweight and flexible characteristics of polymers but offer extreme thermal stability, corrosion resistance, and mechanical strength.\r\n\r\nIn short, they’re the best of both worlds—polymeric processability with ceramic-like performance.\r\n\r\nKey Market Drivers\r\n\r\nRising Demand for Heat-Resistant Materials\r\nIndustries such as aerospace, nuclear energy, and metallurgy are increasingly operating under extreme thermal conditions. Polymeric inorganic fibers can withstand temperatures exceeding 1200°C, making them indispensable for thermal insulation, jet engine components, and fire protection.\r\n\r\nLightweighting Trends in Transportation\r\nAs automakers and aircraft manufacturers chase fuel efficiency, lightweight materials are in high demand. These fibers provide structural reinforcement with a lower weight-to-strength ratio compared to metals, contributing to emissions reduction and fuel savings.\r\n\r\nGrowth in Renewable Energy Infrastructure\r\nWind turbines, solar panels, and next-gen batteries benefit from these fibers in various components—from insulation to structural composites—due to their durability and environmental resistance.\r\n\r\nDefense and Security Investments\r\nMilitary vehicles and protective gear increasingly rely on high-performance materials. With superior impact resistance and non-flammability, polymeric inorganic fibers are gaining favor in armor systems and ballistic protection. INDIA INDIA",
-    "url": "https://www.marketresearchfuture.com/reports/polymeric-inorganic-fibers-market-25551",
-    "updated_at": "2025-04-09T02:35:08Z"
-  },
-  {
-    "id": "funding-china-academy-of-railway-sciences-corporation-limited",
-    "type": "funding",
-    "slug": "china-academy-of-railway-sciences-corporation-limited",
-    "name": "China Academy of Railway Sciences Corporation Limited",
-    "description": null,
-    "funder_names": [],
-    "funders": [],
-    "country": "China",
-    "applicant_country": "China",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "funding_purposes": [],
-    "funding_purpose_names": [],
-    "status": "expired",
-    "featured": false,
-    "deadline_month": "",
-    "search_text": "China Academy of Railway Sciences Corporation Limited China",
-    "url": "https://www.rails.cn/en/",
-    "updated_at": "2025-05-09T08:15:38Z"
-  },
-  {
-    "id": "funding-2026-ucla-postdoctoral-fellowship-in-california-conservation-science",
-    "type": "funding",
-    "slug": "2026-ucla-postdoctoral-fellowship-in-california-conservation-science",
-    "name": "2026 UCLA Postdoctoral Fellowship in California Conservation Science",
-    "description": "The 2026 UCLA La Kretz Center Postdoctoral Fellowship in California Conservation Science \r\n\r\nThe UCLA La Kretz Center for California Conservation Science invites applications for its 2026 Postdoctoral Fellowship in California Conservation Science. We seek to hire one or more postdoctoral scholars wh…",
-    "funder_names": [],
-    "funders": [],
-    "country": "U.S.A",
-    "applicant_country": "",
-    "host_country": "U.S.A",
-    "career_levels": [
-      "phd",
-      "postdoc"
-    ],
-    "career_level_names": [
-      "PhD",
-      "Postdoc"
-    ],
-    "subjects": [],
-    "subject_names": [],
-    "funding_purposes": [],
-    "funding_purpose_names": [],
-    "status": "expired",
-    "featured": false,
-    "deadline_month": "",
-    "search_text": "2026 UCLA Postdoctoral Fellowship in California Conservation Science The 2026 UCLA La Kretz Center Postdoctoral Fellowship in California Conservation Science \r\n\r\nThe UCLA La Kretz Center for California Conservation Science invites applications for its 2026 Postdoctoral Fellowship in California Conservation Science. We seek to hire one or more postdoctoral scholars who conduct innovative biological research at the interface of applied and basic science. Our long-term goal is to help fund a cadre of innovative young scientists who will work closely with UCLA faculty, help broaden the mission of conservation science for the campus, and lead to long-term collaborations between our academic scientists and applied conservation practitioners that will direct and lead California conservation efforts. \r\n\r\nCandidates may work in any discipline that provides the scientific underpinnings for the preservation, protection, management, or restoration of at-risk species, environments, or ecological communities in California. Current and past La Kretz Postdocs have worked on a wide variety of research topics, ranging from urban biodiversity and evolutionary adaptation, to wildfire management and conservation, to the interface of conservation and animal behavior; we are open to work in any California ecosystem or group of organisms, as long as the research is innovative, creative, and has clear practical significance. An important initiative, the California Conservation Genomics Project (CCGP), is a large, multi-campus initiative led by the La Kretz Center that is delivering genomic resources to California decision-makers to enhance species and habitat management, and candidates may seek to build off of that project in the realm of conservation genomics. For a full description of past fellows and their work, please visit us at https://www.ioes.ucla.edu/lakretz/ \r\n\r\nFellows must have both an on-campus UCLA mentor, and an off-campus, non-university mentor. The on-campus UCLA mentor must also be a La Kretz Center affiliate. A list of applicable affiliates is available at https://www.ioes.ucla.edu/lakretz/people/. \r\n\r\nThe Fellow is expected to work closely with their identified UCLA mentor and one or more off-campus agency partner(s) in developing their project. All applications should include a letter (which may be brief) from each mentor stating their support for the project, what they can contribute to it, and how it fits into their work in conservation biology. Applications that do not include these letters of support will be considered incomplete and ineligible for consideration, and we strongly advise candidates to secure mentor support as early as possible. While we encourage project proponents to identify co-funding, from mentors or other agencies, co-funding is not a requirement. Off-campus mentors may be drawn from any California agency or NGO, including federal and state groups. A partial list of some of our active partners and contact people includes: \r\n\r\nThe Nature Conservancy: Sophie Parker (restoration; urban conservation; invasive species) Note: TNC has been a particularly active partner and cofunder in recent years, and we encourage applicants working with TNC mentors to consult : https://tnc.box.com/s/uetrddu6sncp3nipgn8a1hh6fi3jisgi\r\nLA Natural History Museum: Jann Vendetti (mollusk ecology and evolution; species natural history)\r\nUS Geological Survey: Robert Fisher (applied conservation; biodiversity; ecology and evolution)\r\nUS Geological Survey: Damian Higgins (research manager, western ecological research center)\r\nUS Bureau of Land Management: Mike Westphal (applied conservation, climate change)\r\nUS Fish and Wildlife Service: Cat Darst (endangered species management)\r\nNatural Communities Coalition: James Sulentich/Danny L. Fry (protection/recovery of sensitive species)\r\nNational Park Service: Katy Delaney (amphibian and avian ecology, evolution, and conservation)\r\nNational Park Service: Seth Riley (mammalian ecology, evolution, and conservation)\r\n\r\nThe La Kretz Fellowship is for two years, subject to review after the first year. The target start date is September 2026, but this date is quite flexible. The position offers a competitive salary, full benefits, and a research/travel allowance of $7500. Candidates who have recently completed their Ph.D. or will have completed it before their start date are encouraged to apply. \r\n\r\nTo apply, please send applications to lakretz@ioes.ucla.edu as a single PDF file that includes: \r\n\r\n(i) Cover Letter: Briefly introducing yourself and your project\r\n(ii) CV: Composed of your work and accomplishments.\r\n(iii) Research and Management Accomplishments Statement (maximum one page)\r\n(iv) Project Proposal: Lays out, in some detail, your project (e.g., motivation, methods, expected outcomes/results), why this work is important to academic and applied audiences, and how it integrates with the research of your mentors (maximum three pages, including figures and references)\r\n(v) Letters of Support: A brief letter from your on-campus UCLA mentor AND your off-campus agency/NGO mentor\r\n(vi) Two of Your Relevant Publications.\r\n\r\nIn addition, have:\r\n \r\n(vii) Two Letters of Reference: One letter must be from your Ph.D. advisor. Note, reference letters are in addition to the letters of support from your proposed mentors. Please arrange to have reference letters emailed to lakretz@ioes.ucla.edu with the subject line “La Kretz Postdoc letter for (your last name)”. \r\n\r\nThe deadline for completed applications is September 15th, 2025 at 5pm (PST). . \r\n\r\nPlease email all questions to Brad Shaffer, Director of the La Kretz Center, at brad.shaffer@ucla.edu. PhD Postdoc U.S.A",
-    "url": "https://www.ioes.ucla.edu/lakretz/",
-    "updated_at": "2025-07-07T17:46:57Z"
-  },
-  {
     "id": "travel-grant-aai-travel-for-techniques-program",
     "type": "travel_grant",
     "slug": "aai-travel-for-techniques-program",
@@ -26886,7 +26946,7 @@
     "type": "travel_grant",
     "slug": "open-bioinformatics-foundation-travel-fellowships",
     "name": "Open Bioinformatics Foundation Travel Fellowships",
-    "description": "<p>OBF Travel Fellowship program aimed at increasing diverse participation at events promoting open source bioinformatics software development and open science in the biological research community.</p>",
+    "description": "OBF Travel Fellowship program aimed at increasing diverse participation at events promoting open source bioinformatics software development and open science in the biological research community.",
     "funder_names": [
       "Open Bioinformatics Foundation"
     ],
@@ -27267,8 +27327,8 @@
     "description": "<p>BACR provides a number of travel bursaries and fellowships for members of one year standing, awarded on a competitive basis</p>",
     "funder_names": [],
     "funders": [],
-    "country": "UK",
-    "applicant_country": "UK",
+    "country": "United Kingdom",
+    "applicant_country": "United Kingdom",
     "host_country": "",
     "career_levels": [
       "postdoc"
@@ -27327,8 +27387,8 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "Any",
-    "applicant_country": "Any",
+    "country": "Worldwide",
+    "applicant_country": "Worldwide",
     "host_country": "",
     "career_levels": [],
     "career_level_names": [],
@@ -27551,8 +27611,8 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "Must have PhD or MD, from Egypt, Israel, Jordan, Lebanon, Palestinian Territories, UK",
-    "applicant_country": "Must have PhD or MD, from Egypt, Israel, Jordan, Lebanon, Palestinian Territories, UK",
+    "country": "Must have PhD or MD, from Egypt, Israel, Jordan, Lebanon, Palestinian Territories, United Kingdom",
+    "applicant_country": "Must have PhD or MD, from Egypt, Israel, Jordan, Lebanon, Palestinian Territories, United Kingdom",
     "host_country": "",
     "career_levels": [],
     "career_level_names": [],
@@ -28191,8 +28251,8 @@
     "description": "<p>Honor Fell Travel Awards are sponsored by the Company of Biologists (the publishers of The Journal of Cell Science and Development) and they provide financial support for BSCB members at the beginning of their research careers to attend meetings and courses.</p>",
     "funder_names": [],
     "funders": [],
-    "country": "UK",
-    "applicant_country": "UK",
+    "country": "United Kingdom",
+    "applicant_country": "United Kingdom",
     "host_country": "",
     "career_levels": [],
     "career_level_names": [],
@@ -28415,8 +28475,8 @@
     "funders": [
       "biotechnology-and-biological-sciences-research-council-bbsrc"
     ],
-    "country": "UK",
-    "applicant_country": "UK",
+    "country": "United Kingdom",
+    "applicant_country": "United Kingdom",
     "host_country": "",
     "career_levels": [],
     "career_level_names": [],
@@ -30083,8 +30143,8 @@
     "funders": [
       "cancer-research-uk"
     ],
-    "country": "UK",
-    "applicant_country": "UK",
+    "country": "United Kingdom",
+    "applicant_country": "United Kingdom",
     "host_country": "",
     "career_levels": [],
     "career_level_names": [],
@@ -30149,8 +30209,8 @@
     "description": "IIASA offers PhD student fellowships to undertake a summer project on a topic related to the IIASA research agenda. \r\nAnnually, from 1 June to 31 August, IIASA hosts up to 50 doctoral students from around the world in its Young Scientists Summer Program (YSSP).",
     "funder_names": [],
     "funders": [],
-    "country": "Global",
-    "applicant_country": "Global",
+    "country": "Worldwide",
+    "applicant_country": "Worldwide",
     "host_country": "",
     "career_levels": [
       "phd"
@@ -34756,6 +34816,240 @@
     "updated_at": "2023-08-12T16:54:09Z"
   },
   {
+    "id": "funder-canadian-institutes-of-health-research",
+    "type": "funder",
+    "slug": "canadian-institutes-of-health-research",
+    "name": "Canadian Institutes of Health Research",
+    "description": "The Canadian Institutes of Health Research (CIHR) is the Government of Canada's health research investment agency, funding health research and innovation to improve the health of Canadians.",
+    "funder_names": [],
+    "funders": [],
+    "country": "Canada",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "aliases": [],
+    "status": "active",
+    "featured": true,
+    "website": "https://cihr-irsc.gc.ca/",
+    "updated_at": "2019-01-17T00:40:55Z"
+  },
+  {
+    "id": "funder-cancer-research-uk",
+    "type": "funder",
+    "slug": "cancer-research-uk",
+    "name": "Cancer Research UK",
+    "description": "Cancer Research UK is the world's leading independent cancer research charity, funding scientists, doctors and nurses to help beat cancer sooner through research into prevention, diagnosis and treatment.",
+    "funder_names": [],
+    "funders": [],
+    "country": "United Kingdom",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "aliases": [],
+    "status": "active",
+    "featured": true,
+    "website": "https://www.cancerresearchuk.org",
+    "updated_at": "2019-01-17T00:40:55Z"
+  },
+  {
+    "id": "funder-national-science-foundation",
+    "type": "funder",
+    "slug": "national-science-foundation",
+    "name": "National Science Foundation",
+    "description": "The National Science Foundation (NSF) is an independent US federal agency that promotes the progress of science and advances national health, prosperity, and welfare through research and education funding.",
+    "funder_names": [],
+    "funders": [],
+    "country": "United States",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "aliases": [],
+    "status": "active",
+    "featured": true,
+    "website": "https://www.nsf.gov",
+    "updated_at": "2019-01-17T00:40:55Z"
+  },
+  {
+    "id": "funder-academy-of-finland",
+    "type": "funder",
+    "slug": "academy-of-finland",
+    "name": "Academy of Finland",
+    "description": "The Academy of Finland is a government agency and scientific body under the Ministry of Education and Culture, funding high-quality scientific research and advancing Finland's position as a leading research nation.",
+    "funder_names": [],
+    "funders": [],
+    "country": "Finland",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "aliases": [],
+    "status": "active",
+    "featured": true,
+    "website": "https://www.aka.fi/en/",
+    "updated_at": "2020-05-22T23:03:04Z"
+  },
+  {
+    "id": "funder-the-royal-society",
+    "type": "funder",
+    "slug": "the-royal-society",
+    "name": "The Royal Society",
+    "description": "The Royal Society is the UK's national academy of sciences, supporting excellence in science and encouraging the development and use of science for human benefit.",
+    "funder_names": [],
+    "funders": [],
+    "country": "United Kingdom",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "aliases": [],
+    "status": "active",
+    "featured": true,
+    "website": "https://royalsociety.org",
+    "updated_at": "2020-05-24T21:05:13Z"
+  },
+  {
+    "id": "funder-wellcome-trust",
+    "type": "funder",
+    "slug": "wellcome-trust",
+    "name": "Wellcome Trust",
+    "description": "Wellcome is a global charitable foundation that supports science to solve urgent health challenges, funding researchers and backing projects to improve health for everyone.",
+    "funder_names": [],
+    "funders": [],
+    "country": "United Kingdom",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "aliases": [],
+    "status": "active",
+    "featured": true,
+    "website": "https://wellcome.org",
+    "updated_at": "2020-05-27T04:17:38Z"
+  },
+  {
+    "id": "funder-european-molecular-biology-laboratory-embl",
+    "type": "funder",
+    "slug": "european-molecular-biology-laboratory-embl",
+    "name": "European Molecular Biology Laboratory (EMBL)",
+    "description": "The European Molecular Biology Laboratory (EMBL) is Europe's flagship laboratory for the life sciences, conducting basic research in molecular biology and providing services and training to the scientific community.",
+    "funder_names": [],
+    "funders": [],
+    "country": "Germany",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "aliases": [],
+    "status": "active",
+    "featured": true,
+    "website": "https://www.embl.org",
+    "updated_at": "2020-05-27T04:47:14Z"
+  },
+  {
+    "id": "funder-fulbright-program",
+    "type": "funder",
+    "slug": "fulbright-program",
+    "name": "Fulbright Program",
+    "description": "The Fulbright Program is a prestigious international educational exchange program sponsored by the U.S. government, aimed at increasing mutual understanding between the people of the United States and other countries.",
+    "funder_names": [],
+    "funders": [],
+    "country": "United States",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "aliases": [],
+    "status": "active",
+    "featured": true,
+    "website": "https://fulbrightscholars.org/",
+    "updated_at": "2020-05-30T02:46:44Z"
+  },
+  {
+    "id": "funder-european-molecular-biology-organization-embo",
+    "type": "funder",
+    "slug": "european-molecular-biology-organization-embo",
+    "name": "European Molecular Biology Organization (EMBO)",
+    "description": "EMBO is a professional organisation of life scientists that supports talented researchers, stimulates the exchange of scientific information, and helps build a research environment where scientists can achieve their best work.",
+    "funder_names": [],
+    "funders": [],
+    "country": "Germany",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "aliases": [],
+    "status": "active",
+    "featured": true,
+    "website": "https://www.embo.org/",
+    "updated_at": "2020-06-09T07:53:33Z"
+  },
+  {
+    "id": "funder-national-institutes-of-health-nih",
+    "type": "funder",
+    "slug": "national-institutes-of-health-nih",
+    "name": "National Institutes of Health (NIH)",
+    "description": "The National Institutes of Health (NIH) is the primary federal agency in the United States responsible for biomedical and public health research, comprising 27 institutes and centres.",
+    "funder_names": [],
+    "funders": [],
+    "country": "United States",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "aliases": [],
+    "status": "active",
+    "featured": true,
+    "website": "https://www.nih.gov",
+    "updated_at": "2020-06-09T18:03:59Z"
+  },
+  {
+    "id": "funder-the-world-academy-of-sciences",
+    "type": "funder",
+    "slug": "the-world-academy-of-sciences",
+    "name": "The World Academy of Sciences",
+    "description": "The World Academy of Sciences (TWAS) is an autonomous international organization that promotes sustainable prosperity through research, education, policy, and diplomacy. TWAS supports science and scientists in the developing world through fellowships, grants, and prizes.",
+    "funder_names": [],
+    "funders": [],
+    "country": "Italy",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "aliases": [
+      "TWAS",
+      "Third World Academy of Sciences"
+    ],
+    "status": "active",
+    "featured": true,
+    "website": "https://twas.org",
+    "updated_at": "2026-03-25T00:00:00Z"
+  },
+  {
     "id": "funder-agilent-technologies",
     "type": "funder",
     "slug": "agilent-technologies",
@@ -34907,7 +35201,7 @@
     "type": "funder",
     "slug": "american-association-for-cancer-research",
     "name": "American Association for Cancer Research",
-    "description": null,
+    "description": "The American Association for Cancer Research (AACR) is the oldest and largest cancer research organisation in the world, accelerating progress by funding cancer research and fostering the exchange of scientific knowledge.",
     "funder_names": [],
     "funders": [],
     "country": "United States",
@@ -34920,7 +35214,7 @@
     "aliases": [],
     "status": "active",
     "featured": false,
-    "website": "",
+    "website": "https://www.aacr.org",
     "updated_at": "2019-01-17T00:40:55Z"
   },
   {
@@ -34991,7 +35285,7 @@
     "type": "funder",
     "slug": "american-cancer-society",
     "name": "American Cancer Society",
-    "description": null,
+    "description": "The American Cancer Society is a nationwide voluntary health organisation dedicated to eliminating cancer as a major health problem through research, education, advocacy, and patient services.",
     "funder_names": [],
     "funders": [],
     "country": "United States",
@@ -35004,7 +35298,7 @@
     "aliases": [],
     "status": "active",
     "featured": false,
-    "website": "",
+    "website": "https://www.cancer.org",
     "updated_at": "2019-01-17T00:40:55Z"
   },
   {
@@ -35012,7 +35306,7 @@
     "type": "funder",
     "slug": "american-chemical-society",
     "name": "American Chemical Society",
-    "description": null,
+    "description": "The American Chemical Society (ACS) is the world's largest scientific organisation of chemistry professionals, advancing the broader chemistry enterprise through research, education, and community support.",
     "funder_names": [],
     "funders": [],
     "country": "United States",
@@ -35025,7 +35319,7 @@
     "aliases": [],
     "status": "active",
     "featured": false,
-    "website": "",
+    "website": "https://www.acs.org",
     "updated_at": "2019-01-17T00:40:55Z"
   },
   {
@@ -35390,7 +35684,7 @@
     "type": "funder",
     "slug": "american-psychological-foundation",
     "name": "American Psychological Foundation",
-    "description": null,
+    "description": "The American Psychological Foundation (APF) advances psychology as a science and profession by funding innovative grants and scholarships to support psychological research and education.",
     "funder_names": [],
     "funders": [],
     "country": "United States",
@@ -35403,7 +35697,7 @@
     "aliases": [],
     "status": "active",
     "featured": false,
-    "website": "",
+    "website": "https://www.apa.org/apf",
     "updated_at": "2019-01-17T00:40:55Z"
   },
   {
@@ -35537,7 +35831,7 @@
     "type": "funder",
     "slug": "american-society-of-nephrology",
     "name": "American Society of Nephrology",
-    "description": null,
+    "description": "The American Society of Nephrology (ASN) leads the fight against kidney disease by educating health professionals, advancing research, and advocating for improved patient care and policies.",
     "funder_names": [],
     "funders": [],
     "country": "United States",
@@ -35550,7 +35844,7 @@
     "aliases": [],
     "status": "active",
     "featured": false,
-    "website": "",
+    "website": "https://www.asn-online.org",
     "updated_at": "2019-01-17T00:40:55Z"
   },
   {
@@ -35705,7 +35999,7 @@
     "type": "funder",
     "slug": "australian-research-council",
     "name": "Australian Research Council",
-    "description": null,
+    "description": "The Australian Research Council (ARC) is a government agency that manages the National Competitive Grants Program, delivering funding to support world-class research across all disciplines in Australia.",
     "funder_names": [],
     "funders": [],
     "country": "Australia",
@@ -35718,7 +36012,7 @@
     "aliases": [],
     "status": "active",
     "featured": false,
-    "website": "",
+    "website": "https://www.arc.gov.au",
     "updated_at": "2019-01-17T00:40:55Z"
   },
   {
@@ -35852,7 +36146,7 @@
     "type": "funder",
     "slug": "burroughs-wellcome-fund",
     "name": "Burroughs Wellcome Fund",
-    "description": null,
+    "description": "The Burroughs Wellcome Fund is a private charitable foundation that advances biomedical sciences by supporting research and providing career development for scientists in the early stages of their careers.",
     "funder_names": [],
     "funders": [],
     "country": "United States",
@@ -35865,49 +36159,7 @@
     "aliases": [],
     "status": "active",
     "featured": false,
-    "website": "",
-    "updated_at": "2019-01-17T00:40:55Z"
-  },
-  {
-    "id": "funder-canadian-institutes-of-health-research",
-    "type": "funder",
-    "slug": "canadian-institutes-of-health-research",
-    "name": "Canadian Institutes of Health Research",
-    "description": null,
-    "funder_names": [],
-    "funders": [],
-    "country": "Canada",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "aliases": [],
-    "status": "active",
-    "featured": false,
-    "website": "",
-    "updated_at": "2019-01-17T00:40:55Z"
-  },
-  {
-    "id": "funder-cancer-research-uk",
-    "type": "funder",
-    "slug": "cancer-research-uk",
-    "name": "Cancer Research UK",
-    "description": null,
-    "funder_names": [],
-    "funders": [],
-    "country": "United Kingdom",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "aliases": [],
-    "status": "active",
-    "featured": false,
-    "website": "",
+    "website": "https://www.bwfund.org",
     "updated_at": "2019-01-17T00:40:55Z"
   },
   {
@@ -36902,7 +37154,7 @@
     "type": "funder",
     "slug": "juvenile-diabetes-research-foundation",
     "name": "Juvenile Diabetes Research Foundation",
-    "description": null,
+    "description": "Breakthrough T1D (formerly JDRF) is the leading global organisation funding type 1 diabetes (T1D) research, accelerating life-changing breakthroughs to cure, prevent, and treat T1D.",
     "funder_names": [],
     "funders": [],
     "country": "United Kingdom",
@@ -36915,7 +37167,7 @@
     "aliases": [],
     "status": "active",
     "featured": false,
-    "website": "",
+    "website": "https://www.breakthrought1d.org",
     "updated_at": "2019-01-17T00:40:55Z"
   },
   {
@@ -37322,7 +37574,7 @@
     "type": "funder",
     "slug": "national-multiple-sclerosis-society",
     "name": "National Multiple Sclerosis Society",
-    "description": null,
+    "description": "The National Multiple Sclerosis Society mobilises people and resources to drive research into MS treatments and a cure, while also helping people affected by MS live their best lives.",
     "funder_names": [],
     "funders": [],
     "country": "United States",
@@ -37335,7 +37587,7 @@
     "aliases": [],
     "status": "active",
     "featured": false,
-    "website": "",
+    "website": "https://www.nationalmssociety.org",
     "updated_at": "2019-01-17T00:40:55Z"
   },
   {
@@ -37389,27 +37641,6 @@
     "funder_names": [],
     "funders": [],
     "country": "Singapore",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "aliases": [],
-    "status": "active",
-    "featured": false,
-    "website": "",
-    "updated_at": "2019-01-17T00:40:55Z"
-  },
-  {
-    "id": "funder-national-science-foundation",
-    "type": "funder",
-    "slug": "national-science-foundation",
-    "name": "National Science Foundation",
-    "description": null,
-    "funder_names": [],
-    "funders": [],
-    "country": "United States",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -37700,7 +37931,7 @@
     "type": "funder",
     "slug": "pew-charitable-trusts",
     "name": "Pew Charitable Trusts",
-    "description": null,
+    "description": "The Pew Charitable Trusts is a non-profit global organisation applying a rigorous, analytical approach to improve public policy, inform the public, and invigorate civic life through research and evidence-based initiatives.",
     "funder_names": [],
     "funders": [],
     "country": "United States",
@@ -37713,7 +37944,7 @@
     "aliases": [],
     "status": "active",
     "featured": false,
-    "website": "",
+    "website": "https://www.pewtrusts.org",
     "updated_at": "2019-01-17T00:40:55Z"
   },
   {
@@ -38683,27 +38914,6 @@
     "updated_at": "2019-01-17T00:40:55Z"
   },
   {
-    "id": "funder-wellcome-trust-2",
-    "type": "funder",
-    "slug": "wellcome-trust-2",
-    "name": "Wellcome Trust",
-    "description": null,
-    "funder_names": [],
-    "funders": [],
-    "country": "United Kingdom",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "aliases": [],
-    "status": "active",
-    "featured": false,
-    "website": "",
-    "updated_at": "2019-01-17T00:40:55Z"
-  },
-  {
     "id": "funder-wenner-gren-foundation",
     "type": "funder",
     "slug": "wenner-gren-foundation",
@@ -39023,7 +39233,7 @@
     "type": "funder",
     "slug": "american-association-of-university-women",
     "name": "American Association of University Women",
-    "description": null,
+    "description": "The American Association of University Women (AAUW) advances equity for women and girls through advocacy, education, and research, providing fellowships and grants to support women in higher education and research careers.",
     "funder_names": [],
     "funders": [],
     "country": "United States",
@@ -39036,7 +39246,7 @@
     "aliases": [],
     "status": "active",
     "featured": false,
-    "website": "",
+    "website": "https://www.aauw.org",
     "updated_at": "2019-05-20T07:10:58Z"
   },
   {
@@ -42173,7 +42383,7 @@
     "type": "funder",
     "slug": "national-academies-of-sciences-engineering-and-medicine",
     "name": "National Academies of Sciences, Engineering, and Medicine",
-    "description": null,
+    "description": "The National Academies of Sciences, Engineering, and Medicine provide independent, objective advice to inform policy with evidence, conducting studies and producing reports on scientific, engineering, and health topics.",
     "funder_names": [],
     "funders": [],
     "country": "United States",
@@ -42186,7 +42396,7 @@
     "aliases": [],
     "status": "active",
     "featured": false,
-    "website": "",
+    "website": "https://www.nationalacademies.org",
     "updated_at": "2020-05-21T09:36:16Z"
   },
   {
@@ -42404,7 +42614,7 @@
     "type": "funder",
     "slug": "ovarian-cancer-research-fund-alliance",
     "name": "Ovarian Cancer Research Fund Alliance",
-    "description": null,
+    "description": "The Ovarian Cancer Research Fund Alliance (OCRFA) is the largest global organisation dedicated to advancing ovarian cancer research and supporting women affected by the disease.",
     "funder_names": [],
     "funders": [],
     "country": "United States",
@@ -42417,7 +42627,7 @@
     "aliases": [],
     "status": "active",
     "featured": false,
-    "website": "",
+    "website": "https://ocrfa.org",
     "updated_at": "2020-05-21T09:36:16Z"
   },
   {
@@ -42887,7 +43097,7 @@
     "type": "funder",
     "slug": "simons-foundation-autism-research-initiative",
     "name": "Simons Foundation Autism Research Initiative",
-    "description": null,
+    "description": "The Simons Foundation Autism Research Initiative (SFARI) aims to improve the understanding, diagnosis and treatment of autism spectrum disorders by funding innovative research in the field.",
     "funder_names": [],
     "funders": [],
     "country": "United States",
@@ -42900,7 +43110,7 @@
     "aliases": [],
     "status": "active",
     "featured": false,
-    "website": "",
+    "website": "https://sfari.org",
     "updated_at": "2020-05-21T09:36:16Z"
   },
   {
@@ -43748,7 +43958,7 @@
     "type": "funder",
     "slug": "biotechnology-and-biological-sciences-research-council-bbsrc",
     "name": "Biotechnology and Biological Sciences Research Council - BBSRC",
-    "description": null,
+    "description": "The Biotechnology and Biological Sciences Research Council (BBSRC) is the UK's main funding agency for academic research and training in the biosciences, and is part of UK Research and Innovation (UKRI).",
     "funder_names": [],
     "funders": [],
     "country": "United Kingdom",
@@ -43761,7 +43971,7 @@
     "aliases": [],
     "status": "active",
     "featured": false,
-    "website": "",
+    "website": "https://www.ukri.org/councils/bbsrc/",
     "updated_at": "2020-05-21T09:47:09Z"
   },
   {
@@ -43769,7 +43979,7 @@
     "type": "funder",
     "slug": "alexander-von-humboldt-stiftung",
     "name": "Alexander von Humboldt-Stiftung",
-    "description": null,
+    "description": "The Alexander von Humboldt Foundation promotes academic cooperation between excellent scientists and scholars from abroad and from Germany, funding research fellowships and prizes for outstanding researchers worldwide.",
     "funder_names": [],
     "funders": [],
     "country": "Germany",
@@ -43782,7 +43992,7 @@
     "aliases": [],
     "status": "active",
     "featured": false,
-    "website": "",
+    "website": "https://www.humboldt-foundation.de/en/",
     "updated_at": "2020-05-21T20:36:48Z"
   },
   {
@@ -43912,27 +44122,6 @@
     "updated_at": "2020-05-22T19:18:03Z"
   },
   {
-    "id": "funder-academy-of-finland",
-    "type": "funder",
-    "slug": "academy-of-finland",
-    "name": "Academy of Finland",
-    "description": null,
-    "funder_names": [],
-    "funders": [],
-    "country": "Finland",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "aliases": [],
-    "status": "active",
-    "featured": false,
-    "website": "",
-    "updated_at": "2020-05-22T23:03:04Z"
-  },
-  {
     "id": "funder-the-allen-institute-for-artificial-intelligence",
     "type": "funder",
     "slug": "the-allen-institute-for-artificial-intelligence",
@@ -44021,7 +44210,7 @@
     "type": "funder",
     "slug": "melanoma-research-alliance",
     "name": "Melanoma Research Alliance",
-    "description": null,
+    "description": "The Melanoma Research Alliance (MRA) is the largest non-profit funder of melanoma research in the US, accelerating the development of effective treatments and prevention strategies through targeted research grants.",
     "funder_names": [],
     "funders": [],
     "country": "United States",
@@ -44189,7 +44378,7 @@
     "type": "funder",
     "slug": "swiss-national-science-foundation",
     "name": "Swiss National Science Foundation",
-    "description": null,
+    "description": "The Swiss National Science Foundation (SNSF) is Switzerland's leading institution for the promotion of scientific research, funding projects across all disciplines of science and humanities.",
     "funder_names": [],
     "funders": [],
     "country": "Switserland",
@@ -44549,7 +44738,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "USA, Israel",
+    "country": "United States, Israel",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -44756,7 +44945,7 @@
     "type": "funder",
     "slug": "american-gastroenterological-association",
     "name": "American Gastroenterological Association",
-    "description": null,
+    "description": "The American Gastroenterological Association (AGA) is a professional organisation of gastroenterologists that advances the science and practice of gastroenterology, providing research grants and career development awards.",
     "funder_names": [],
     "funders": [],
     "country": "United States",
@@ -44769,29 +44958,8 @@
     "aliases": [],
     "status": "active",
     "featured": false,
-    "website": "",
+    "website": "https://www.gastro.org",
     "updated_at": "2020-05-24T21:01:31Z"
-  },
-  {
-    "id": "funder-the-royal-society",
-    "type": "funder",
-    "slug": "the-royal-society",
-    "name": "The Royal Society",
-    "description": null,
-    "funder_names": [],
-    "funders": [],
-    "country": "United Kingdom",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "aliases": [],
-    "status": "active",
-    "featured": false,
-    "website": "",
-    "updated_at": "2020-05-24T21:05:13Z"
   },
   {
     "id": "funder-the-research-council",
@@ -44885,7 +45053,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "USA",
+    "country": "United States",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -44927,7 +45095,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "USA",
+    "country": "United States",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -44948,7 +45116,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "USA",
+    "country": "United States",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -44969,7 +45137,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "People's Republic of China",
+    "country": "China",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -44990,7 +45158,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "USA",
+    "country": "United States",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -45011,7 +45179,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "USA",
+    "country": "United States",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -45071,7 +45239,7 @@
     "type": "funder",
     "slug": "deutscher-akademischer-austauschdienst",
     "name": "Deutscher Akademischer Austauschdienst",
-    "description": null,
+    "description": "The German Academic Exchange Service (DAAD) is the world's largest funding organisation for the international exchange of students and researchers, supporting academic mobility and international cooperation.",
     "funder_names": [],
     "funders": [],
     "country": "Germany",
@@ -45084,7 +45252,7 @@
     "aliases": [],
     "status": "active",
     "featured": false,
-    "website": "",
+    "website": "https://www.daad.de/en/",
     "updated_at": "2020-05-25T22:57:55Z"
   },
   {
@@ -45137,7 +45305,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "USA",
+    "country": "United States",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -45200,7 +45368,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "USA",
+    "country": "United States",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -45263,7 +45431,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "USA",
+    "country": "United States",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -45302,7 +45470,7 @@
     "type": "funder",
     "slug": "h2020-marie-skodowska-curie-actions",
     "name": "H2020 Marie Skłodowska-Curie Actions",
-    "description": null,
+    "description": "Marie Skłodowska-Curie Actions (MSCA) is the European Union's flagship programme for doctoral and postdoctoral training, supporting researchers at all career stages through fellowships, networks, and exchanges.",
     "funder_names": [],
     "funders": [],
     "country": "European Union",
@@ -45315,29 +45483,8 @@
     "aliases": [],
     "status": "active",
     "featured": false,
-    "website": "",
+    "website": "https://marie-sklodowska-curie-actions.ec.europa.eu/",
     "updated_at": "2020-05-27T04:11:59Z"
-  },
-  {
-    "id": "funder-wellcome-trust",
-    "type": "funder",
-    "slug": "wellcome-trust",
-    "name": "Wellcome Trust",
-    "description": null,
-    "funder_names": [],
-    "funders": [],
-    "country": "United Kingdom",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "aliases": [],
-    "status": "active",
-    "featured": false,
-    "website": "",
-    "updated_at": "2020-05-27T04:17:38Z"
   },
   {
     "id": "funder-university-of-cambridge",
@@ -45359,27 +45506,6 @@
     "featured": false,
     "website": "",
     "updated_at": "2020-05-27T04:21:13Z"
-  },
-  {
-    "id": "funder-european-molecular-biology-laboratory-embl",
-    "type": "funder",
-    "slug": "european-molecular-biology-laboratory-embl",
-    "name": "European Molecular Biology Laboratory (EMBL)",
-    "description": null,
-    "funder_names": [],
-    "funders": [],
-    "country": "Germany",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "aliases": [],
-    "status": "active",
-    "featured": false,
-    "website": "",
-    "updated_at": "2020-05-27T04:47:14Z"
   },
   {
     "id": "funder-open-bioinformatics-foundation",
@@ -45410,7 +45536,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "Unites States",
+    "country": "United States",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -45676,27 +45802,6 @@
     "updated_at": "2020-05-29T08:10:00Z"
   },
   {
-    "id": "funder-fulbright-program",
-    "type": "funder",
-    "slug": "fulbright-program",
-    "name": "Fulbright Program",
-    "description": null,
-    "funder_names": [],
-    "funders": [],
-    "country": "United States",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "aliases": [],
-    "status": "active",
-    "featured": false,
-    "website": "https://www.cies.org/",
-    "updated_at": "2020-05-30T02:46:44Z"
-  },
-  {
     "id": "funder-helen-hay-whitney-foundation",
     "type": "funder",
     "slug": "helen-hay-whitney-foundation",
@@ -45737,48 +45842,6 @@
     "featured": false,
     "website": "",
     "updated_at": "2020-06-09T07:51:35Z"
-  },
-  {
-    "id": "funder-european-molecular-biology-organization-embo",
-    "type": "funder",
-    "slug": "european-molecular-biology-organization-embo",
-    "name": "European Molecular Biology Organization (EMBO)",
-    "description": null,
-    "funder_names": [],
-    "funders": [],
-    "country": "Germany",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "aliases": [],
-    "status": "active",
-    "featured": false,
-    "website": "https://www.embo.org/",
-    "updated_at": "2020-06-09T07:53:33Z"
-  },
-  {
-    "id": "funder-national-institutes-of-health-nih",
-    "type": "funder",
-    "slug": "national-institutes-of-health-nih",
-    "name": "National Institutes of Health (NIH)",
-    "description": null,
-    "funder_names": [],
-    "funders": [],
-    "country": "United States",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "aliases": [],
-    "status": "active",
-    "featured": false,
-    "website": "",
-    "updated_at": "2020-06-09T18:03:59Z"
   },
   {
     "id": "funder-human-frontier-science-program-hfsp",
@@ -45872,7 +45935,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "USA",
+    "country": "United States",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -46178,5 +46241,28 @@
     "featured": false,
     "website": "",
     "updated_at": "2022-01-16T16:39:26Z"
+  },
+  {
+    "id": "funder-uk-research-and-innovation",
+    "type": "funder",
+    "slug": "uk-research-and-innovation",
+    "name": "UK Research and Innovation",
+    "description": "UK Research and Innovation (UKRI) is a non-departmental public body that directs research and innovation funding across the UK. It brings together the seven Research Councils, Innovate UK, and Research England to support science, engineering, and humanities research and innovation.",
+    "funder_names": [],
+    "funders": [],
+    "country": "United Kingdom",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "aliases": [
+      "UKRI"
+    ],
+    "status": "active",
+    "featured": false,
+    "website": "https://www.ukri.org",
+    "updated_at": "2026-03-25T00:00:00Z"
   }
 ]

@@ -96,6 +96,9 @@ def enrich_funding(
     enriched = dict(record)
     funder_slugs = record.get('funders', []) or []
     enriched['funder_names'] = resolve_slugs_to_names(funder_slugs, funder_index)
+    enriched['funder_logos'] = [
+        funder_index.get(slug, {}).get('logo') for slug in funder_slugs
+    ]
     enriched['career_level_names'] = resolve_slugs_to_names(
         record.get('career_levels', []) or [], career_level_index
     )
@@ -117,9 +120,11 @@ def enrich_travel_grant(
 ) -> Dict[str, Any]:
     """Add denormalized display fields to a travel grant record."""
     enriched = dict(record)
-    enriched['funder_names'] = resolve_slugs_to_names(
-        record.get('funders', []) or [], funder_index
-    )
+    tg_funder_slugs = record.get('funders', []) or []
+    enriched['funder_names'] = resolve_slugs_to_names(tg_funder_slugs, funder_index)
+    enriched['funder_logos'] = [
+        funder_index.get(slug, {}).get('logo') for slug in tg_funder_slugs
+    ]
     enriched['career_level_names'] = resolve_slugs_to_names(
         record.get('career_levels', []) or [], career_level_index
     )
