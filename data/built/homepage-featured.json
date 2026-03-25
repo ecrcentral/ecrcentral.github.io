@@ -342,6 +342,95 @@
       "search_text": "Sloan Research Fellowships These two-year, $75,000 fellowships are awarded yearly to 126 researchers in recognition of distinguished performance and a unique potential to make substantial contributions to their field. Alfred P. Sloan Foundation Junior Faculty Life Sciences Fellowship, scholarship or training United States",
       "legacy_funder_name": "Alfred P. Sloan Foundation",
       "frequency": "Annual"
+    },
+    {
+      "id": "funding-faraday-discovery-fellowships",
+      "type": "funding",
+      "_type": "funding",
+      "slug": "faraday-discovery-fellowships",
+      "name": "Faraday Discovery Fellowships",
+      "description": "Prestigious long-term awards supporting the most talented mid-career research leaders to undertake high-quality, original research across all STEM fields within the Royal Society's remit.",
+      "url": "https://royalsociety.org/grants/faraday-discovery-fellowships/",
+      "status": "active",
+      "featured": true,
+      "updated_at": "2026-03-26T00:00:00Z",
+      "funder_names": [
+        "The Royal Society"
+      ],
+      "funder_logos": [
+        "/logos/funders/the-royal-society.png"
+      ],
+      "funders": [
+        "the-royal-society"
+      ],
+      "applicant_country": "Worldwide",
+      "host_country": "United Kingdom",
+      "career_levels": [
+        "junior-faculty",
+        "senior-faculty"
+      ],
+      "career_level_names": [
+        "Junior Faculty",
+        "Senior Faculty"
+      ],
+      "deadline": "2026-09-22",
+      "deadline_month": "September",
+      "award": "Up to £8 million over 10 years",
+      "subjects": [
+        "engineering",
+        "physics",
+        "artificial-intelligence",
+        "natural-sciences"
+      ],
+      "funding_purposes": [
+        "fellowship-scholarship-or-training",
+        "research"
+      ],
+      "search_text": "Faraday Discovery Fellowships Royal Society mid-career research leaders STEM original research United Kingdom Worldwide Fellowship research",
+      "legacy_funder_name": "",
+      "frequency": "Annual"
+    },
+    {
+      "id": "funding-wellcome-early-career-awards",
+      "type": "funding",
+      "_type": "funding",
+      "slug": "wellcome-early-career-awards",
+      "name": "Wellcome Early-Career Awards",
+      "description": "Funding for early-career researchers ready to develop their research identity through innovative projects that advance understanding in their field, or develop methodologies, frameworks, tools or tech…",
+      "url": "https://wellcome.org/research-funding/schemes/wellcome-early-career-awards",
+      "status": "active",
+      "featured": true,
+      "updated_at": "2026-03-26T00:00:00Z",
+      "funder_names": [
+        "Wellcome Trust"
+      ],
+      "funder_logos": [
+        "/logos/funders/wellcome-trust.png"
+      ],
+      "funders": [
+        "wellcome-trust"
+      ],
+      "applicant_country": "United Kingdom, Republic of Ireland, Low- and middle-income countries",
+      "host_country": "United Kingdom, Republic of Ireland, Low- and middle-income countries",
+      "career_levels": [
+        "postdoc"
+      ],
+      "career_level_names": [
+        "Postdoc"
+      ],
+      "deadline": "",
+      "deadline_month": "",
+      "award": "Salary plus up to £400,000 research expenses",
+      "subjects": [
+        "all-subjects"
+      ],
+      "funding_purposes": [
+        "fellowship-scholarship-or-training",
+        "research"
+      ],
+      "search_text": "Wellcome Early-Career Awards Funding for early-career researchers ready to develop their research identity. Wellcome Trust Postdoc United Kingdom Ireland Low- and middle-income countries All subjects Fellowship research",
+      "legacy_funder_name": "",
+      "frequency": "Three times per year"
     }
   ],
   "featured_travel_grants": [
@@ -376,6 +465,32 @@
       "award": "$15,00"
     },
     {
+      "id": "travel-grant-iscb-conference-travel-fellowships",
+      "type": "travel_grant",
+      "_type": "travel_grant",
+      "slug": "iscb-conference-travel-fellowships",
+      "name": "ISCB Conference Travel Fellowships",
+      "description": "<p>This Travel Fellowship funds exclusively for ISCB student and Postdoc members to attend the annual conferences such as RECOMB, ISMB, ECCB, and InCoB.</p>",
+      "url": "https://www.iscb.org/iscb-conference-travel-fellowships",
+      "status": "active",
+      "featured": true,
+      "updated_at": "",
+      "funder_names": [],
+      "funder_logos": [],
+      "funders": [],
+      "applicant_country": "Worldwide",
+      "career_levels": [
+        "phd",
+        "postdoc"
+      ],
+      "career_level_names": [
+        "PhD",
+        "Postdoc"
+      ],
+      "deadline": "Check conferences websites",
+      "award": ""
+    },
+    {
       "id": "travel-grant-open-bioinformatics-foundation-travel-fellowships",
       "type": "travel_grant",
       "_type": "travel_grant",
@@ -408,6 +523,36 @@
       ],
       "deadline": "April, August, December",
       "award": "USD 1,000"
+    },
+    {
+      "id": "travel-grant-research-travel-award",
+      "type": "travel_grant",
+      "_type": "travel_grant",
+      "slug": "research-travel-award",
+      "name": "Research Travel Award",
+      "description": null,
+      "url": "https://www.cancerresearchuk.org/funding-for-researchers/our-funding-schemes/research-travel-award",
+      "status": "active",
+      "featured": true,
+      "updated_at": "",
+      "funder_names": [
+        "Cancer Research UK"
+      ],
+      "funder_logos": [
+        "/logos/funders/cancer-research-uk.svg"
+      ],
+      "funders": [
+        "cancer-research-uk"
+      ],
+      "applicant_country": "Applicant must be based in the UK",
+      "career_levels": [
+        "postdoc"
+      ],
+      "career_level_names": [
+        "Postdoc"
+      ],
+      "deadline": "currently closed for applications",
+      "award": "Typically under £10000"
     },
     {
       "id": "travel-grant-royal-society-of-chemistry-international-exchanges-award",
@@ -492,6 +637,30 @@
       "subject_names": []
     },
     {
+      "id": "resource-list-of-format-free-journals",
+      "type": "resource",
+      "_type": "resource",
+      "slug": "list-of-format-free-journals",
+      "name": "List of format-free journals",
+      "description": "List of life science and biomedical journals that accept format-free initial submissions or part of YPYW or B2J initiatives. https://doi.org/10.15252/embr.201845731",
+      "url": "https://asntech.github.io/format-free-journals/",
+      "status": "active",
+      "featured": true,
+      "updated_at": "2019-05-09T06:33:47Z",
+      "funder_names": [],
+      "funders": [],
+      "resource_categories": [
+        "policy",
+        "publishing"
+      ],
+      "resource_category_names": [
+        "Policy",
+        "Publishing"
+      ],
+      "subjects": [],
+      "subject_names": []
+    },
+    {
       "id": "resource-guidelines-for-inclusive-academic-practices",
       "type": "resource",
       "_type": "resource",
@@ -560,7 +729,7 @@
       "dora": true,
       "short_name": "Cancer Research UK",
       "website": "https://www.cancerresearchuk.org",
-      "active_funding_count": 0,
+      "active_funding_count": 2,
       "active_travel_grant_count": 3
     },
     {
@@ -620,7 +789,7 @@
       "dora": true,
       "short_name": "The Royal Society",
       "website": "https://royalsociety.org",
-      "active_funding_count": 4,
+      "active_funding_count": 5,
       "active_travel_grant_count": 4
     },
     {
@@ -640,7 +809,7 @@
       "dora": true,
       "short_name": "Wellcome Trust",
       "website": "https://wellcome.org",
-      "active_funding_count": 6,
+      "active_funding_count": 7,
       "active_travel_grant_count": 0
     },
     {
@@ -746,6 +915,185 @@
   ],
   "recently_updated": [
     {
+      "id": "funding-faraday-discovery-fellowships",
+      "type": "funding",
+      "_type": "funding",
+      "slug": "faraday-discovery-fellowships",
+      "name": "Faraday Discovery Fellowships",
+      "description": "Prestigious long-term awards supporting the most talented mid-career research leaders to undertake high-quality, original research across all STEM fields within the Royal Society's remit.",
+      "url": "https://royalsociety.org/grants/faraday-discovery-fellowships/",
+      "status": "active",
+      "featured": true,
+      "updated_at": "2026-03-26T00:00:00Z",
+      "funder_names": [
+        "The Royal Society"
+      ],
+      "funder_logos": [
+        "/logos/funders/the-royal-society.png"
+      ],
+      "funders": [
+        "the-royal-society"
+      ],
+      "applicant_country": "Worldwide",
+      "host_country": "United Kingdom",
+      "career_levels": [
+        "junior-faculty",
+        "senior-faculty"
+      ],
+      "career_level_names": [
+        "Junior Faculty",
+        "Senior Faculty"
+      ],
+      "deadline": "2026-09-22",
+      "deadline_month": "September",
+      "award": "Up to £8 million over 10 years",
+      "subjects": [
+        "engineering",
+        "physics",
+        "artificial-intelligence",
+        "natural-sciences"
+      ],
+      "funding_purposes": [
+        "fellowship-scholarship-or-training",
+        "research"
+      ],
+      "search_text": "Faraday Discovery Fellowships Royal Society mid-career research leaders STEM original research United Kingdom Worldwide Fellowship research",
+      "legacy_funder_name": "",
+      "frequency": "Annual"
+    },
+    {
+      "id": "funding-wellcome-early-career-awards",
+      "type": "funding",
+      "_type": "funding",
+      "slug": "wellcome-early-career-awards",
+      "name": "Wellcome Early-Career Awards",
+      "description": "Funding for early-career researchers ready to develop their research identity through innovative projects that advance understanding in their field, or develop methodologies, frameworks, tools or tech…",
+      "url": "https://wellcome.org/research-funding/schemes/wellcome-early-career-awards",
+      "status": "active",
+      "featured": true,
+      "updated_at": "2026-03-26T00:00:00Z",
+      "funder_names": [
+        "Wellcome Trust"
+      ],
+      "funder_logos": [
+        "/logos/funders/wellcome-trust.png"
+      ],
+      "funders": [
+        "wellcome-trust"
+      ],
+      "applicant_country": "United Kingdom, Republic of Ireland, Low- and middle-income countries",
+      "host_country": "United Kingdom, Republic of Ireland, Low- and middle-income countries",
+      "career_levels": [
+        "postdoc"
+      ],
+      "career_level_names": [
+        "Postdoc"
+      ],
+      "deadline": "",
+      "deadline_month": "",
+      "award": "Salary plus up to £400,000 research expenses",
+      "subjects": [
+        "all-subjects"
+      ],
+      "funding_purposes": [
+        "fellowship-scholarship-or-training",
+        "research"
+      ],
+      "search_text": "Wellcome Early-Career Awards Funding for early-career researchers ready to develop their research identity. Wellcome Trust Postdoc United Kingdom Ireland Low- and middle-income countries All subjects Fellowship research",
+      "legacy_funder_name": "",
+      "frequency": "Three times per year"
+    },
+    {
+      "id": "funding-cancer-research-uk-advanced-clinician-scientist-fellowship",
+      "type": "funding",
+      "_type": "funding",
+      "slug": "cancer-research-uk-advanced-clinician-scientist-fellowship",
+      "name": "Cancer Research UK Advanced Clinician Scientist Fellowship",
+      "description": "Supports clinician-scientists who have completed fellowship training to establish themselves as independent researchers and develop a strong track record in cancer research, while maintaining their cl…",
+      "url": "https://www.cancerresearchuk.org/for-researchers/apply-for-and-manage-your-funding/our-funding-schemes/advanced-clinician-scientist-fellowship",
+      "status": "active",
+      "featured": false,
+      "updated_at": "2026-03-26T00:00:00Z",
+      "funder_names": [
+        "Cancer Research UK"
+      ],
+      "funder_logos": [
+        "/logos/funders/cancer-research-uk.svg"
+      ],
+      "funders": [
+        "cancer-research-uk"
+      ],
+      "applicant_country": "United Kingdom",
+      "host_country": "United Kingdom",
+      "career_levels": [
+        "postdoc",
+        "junior-faculty"
+      ],
+      "career_level_names": [
+        "Postdoc",
+        "Junior Faculty"
+      ],
+      "deadline": "",
+      "deadline_month": "",
+      "award": "Salary plus research costs",
+      "subjects": [
+        "medicine-and-health-sciences",
+        "diseases"
+      ],
+      "funding_purposes": [
+        "fellowship-scholarship-or-training",
+        "research"
+      ],
+      "search_text": "Cancer Research UK Advanced Clinician Scientist Fellowship Supports clinician-scientists in cancer research United Kingdom Fellowship research",
+      "legacy_funder_name": "",
+      "frequency": ""
+    },
+    {
+      "id": "funding-cancer-research-uk-career-development-fellowship",
+      "type": "funding",
+      "_type": "funding",
+      "slug": "cancer-research-uk-career-development-fellowship",
+      "name": "Cancer Research UK Career Development Fellowship",
+      "description": "Supports early-career cancer researchers to develop the skills and experience needed to become independent research leaders, funding a programme of cancer research alongside career development activit…",
+      "url": "https://www.cancerresearchuk.org/for-researchers/apply-for-and-manage-your-funding/our-funding-schemes/career-development-fellowship",
+      "status": "active",
+      "featured": false,
+      "updated_at": "2026-03-26T00:00:00Z",
+      "funder_names": [
+        "Cancer Research UK"
+      ],
+      "funder_logos": [
+        "/logos/funders/cancer-research-uk.svg"
+      ],
+      "funders": [
+        "cancer-research-uk"
+      ],
+      "applicant_country": "United Kingdom",
+      "host_country": "United Kingdom",
+      "career_levels": [
+        "postdoc",
+        "junior-faculty"
+      ],
+      "career_level_names": [
+        "Postdoc",
+        "Junior Faculty"
+      ],
+      "deadline": "",
+      "deadline_month": "",
+      "award": "Salary plus research costs",
+      "subjects": [
+        "medicine-and-health-sciences",
+        "diseases"
+      ],
+      "funding_purposes": [
+        "fellowship-scholarship-or-training",
+        "research"
+      ],
+      "search_text": "Cancer Research UK Career Development Fellowship early-career cancer researchers independent research leaders United Kingdom Fellowship research",
+      "legacy_funder_name": "",
+      "frequency": ""
+    },
+    {
       "id": "funding-twas-fellowships-research-and-advanced-training",
       "type": "funding",
       "_type": "funding",
@@ -782,7 +1130,7 @@
         "natural-sciences"
       ],
       "funding_purposes": [
-        "fellowship-scholarship-training",
+        "fellowship-scholarship-or-training",
         "collaboration"
       ],
       "search_text": "TWAS Fellowships Research Advanced Training developing countries South-South natural sciences MSc",
@@ -822,7 +1170,7 @@
       "award": "",
       "subjects": [],
       "funding_purposes": [
-        "fellowship-scholarship-training"
+        "fellowship-scholarship-or-training"
       ],
       "search_text": "TWAS CUI Postdoctoral Fellowship COMSATS Pakistan developing countries",
       "legacy_funder_name": "",
@@ -861,7 +1209,7 @@
       "award": "",
       "subjects": [],
       "funding_purposes": [
-        "fellowship-scholarship-training",
+        "fellowship-scholarship-or-training",
         "collaboration"
       ],
       "search_text": "TWAS DFG Cooperation Visits MENA Middle East North Africa Germany postdoc German Research Foundation",
@@ -901,7 +1249,7 @@
       "award": "",
       "subjects": [],
       "funding_purposes": [
-        "fellowship-scholarship-training",
+        "fellowship-scholarship-or-training",
         "collaboration"
       ],
       "search_text": "TWAS DFG Cooperation Visits Sub-Saharan Africa Germany postdoc German Research Foundation",
@@ -945,7 +1293,7 @@
         "social-sciences"
       ],
       "funding_purposes": [
-        "fellowship-scholarship-training"
+        "fellowship-scholarship-or-training"
       ],
       "search_text": "TWAS FAPESP Postdoctoral Fellowship Brazil Least Developed Countries LDC natural applied social sciences",
       "legacy_funder_name": "",
@@ -986,138 +1334,12 @@
       "award": "",
       "subjects": [],
       "funding_purposes": [
-        "fellowship-scholarship-training",
+        "fellowship-scholarship-or-training",
         "collaboration"
       ],
       "search_text": "TWAS SISSA Lincei Research Cooperation Visits Italy Least Developed Countries young scientists MSc",
       "legacy_funder_name": "",
       "frequency": "Annual"
-    },
-    {
-      "id": "funding-twas-tubitak-postdoctoral-fellowship",
-      "type": "funding",
-      "_type": "funding",
-      "slug": "twas-tubitak-postdoctoral-fellowship",
-      "name": "TWAS-TÜBİTAK Postdoctoral Fellowship",
-      "description": "Postdoctoral fellowships for foreign scholars from developing countries to conduct research in natural and applied sciences at host institutions in Türkiye. Applicants must hold a PhD and be under 45…",
-      "url": "https://twas.org/opportunity/twas-tubitak-postdoctoral-fellowship-programme",
-      "status": "active",
-      "featured": false,
-      "updated_at": "2026-03-25T00:00:00Z",
-      "funder_names": [
-        "The World Academy of Sciences"
-      ],
-      "funder_logos": [
-        "/logos/funders/the-world-academy-of-sciences.png"
-      ],
-      "funders": [
-        "the-world-academy-of-sciences"
-      ],
-      "applicant_country": "Developing countries",
-      "host_country": "Türkiye",
-      "career_levels": [
-        "postdoc"
-      ],
-      "career_level_names": [
-        "Postdoc"
-      ],
-      "deadline": "",
-      "deadline_month": "",
-      "award": "",
-      "subjects": [
-        "natural-sciences",
-        "applied-sciences"
-      ],
-      "funding_purposes": [
-        "fellowship-scholarship-training"
-      ],
-      "search_text": "TWAS TÜBİTAK TUBITAK Postdoctoral Fellowship Turkey Türkiye developing countries natural applied sciences",
-      "legacy_funder_name": "",
-      "frequency": "Annual"
-    },
-    {
-      "id": "funding-twas-unesco-associateship-scheme",
-      "type": "funding",
-      "_type": "funding",
-      "slug": "twas-unesco-associateship-scheme",
-      "name": "TWAS-UNESCO Associateship Scheme",
-      "description": "Enables competent researchers from developing countries to visit centres of excellence in the South regularly. An associate is appointed for three years and may visit a centre twice during that period…",
-      "url": "https://twas.org/opportunity/twas-unesco-associateship-scheme",
-      "status": "active",
-      "featured": false,
-      "updated_at": "2026-03-25T00:00:00Z",
-      "funder_names": [
-        "The World Academy of Sciences"
-      ],
-      "funder_logos": [
-        "/logos/funders/the-world-academy-of-sciences.png"
-      ],
-      "funders": [
-        "the-world-academy-of-sciences"
-      ],
-      "applicant_country": "Developing countries",
-      "host_country": "Developing countries",
-      "career_levels": [
-        "postdoc",
-        "junior-faculty"
-      ],
-      "career_level_names": [
-        "Postdoc",
-        "Junior Faculty"
-      ],
-      "deadline": "",
-      "deadline_month": "",
-      "award": "",
-      "subjects": [
-        "natural-sciences"
-      ],
-      "funding_purposes": [
-        "fellowship-scholarship-training",
-        "collaboration"
-      ],
-      "search_text": "TWAS UNESCO Associateship Scheme developing countries South centres of excellence natural sciences research collaboration",
-      "legacy_funder_name": "",
-      "frequency": "Annual"
-    },
-    {
-      "id": "funder-the-world-academy-of-sciences",
-      "type": "funder",
-      "_type": "funder",
-      "slug": "the-world-academy-of-sciences",
-      "name": "The World Academy of Sciences",
-      "description": "The World Academy of Sciences (TWAS) is an autonomous international organization that promotes sustainable prosperity through research, education, policy, and diplomacy. TWAS supports science and scie…",
-      "url": "https://twas.org",
-      "status": "active",
-      "featured": true,
-      "updated_at": "2026-03-25T00:00:00Z",
-      "country": "Italy",
-      "logo": "/logos/funders/the-world-academy-of-sciences.png",
-      "legacy_logo_path": "",
-      "dora": false,
-      "short_name": "TWAS",
-      "website": "https://twas.org",
-      "active_funding_count": 9,
-      "active_travel_grant_count": 0
-    },
-    {
-      "id": "funder-uk-research-and-innovation",
-      "type": "funder",
-      "_type": "funder",
-      "slug": "uk-research-and-innovation",
-      "name": "UK Research and Innovation",
-      "description": "UK Research and Innovation (UKRI) is a non-departmental public body that directs research and innovation funding across the UK. It brings together the seven Research Councils, Innovate UK, and Researc…",
-      "url": "https://www.ukri.org",
-      "status": "active",
-      "featured": false,
-      "updated_at": "2026-03-25T00:00:00Z",
-      "country": "United Kingdom",
-      "logo": "/logos/funders/uk-research-and-innovation.png",
-      "legacy_logo_path": "",
-      "dora": true,
-      "short_name": "UKRI",
-      "website": "https://www.ukri.org",
-      "active_funding_count": 1,
-      "active_travel_grant_count": 0
     }
   ]
 }

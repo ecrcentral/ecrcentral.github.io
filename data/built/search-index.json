@@ -342,6 +342,98 @@
     "updated_at": "2022-01-16T16:42:22Z"
   },
   {
+    "id": "funding-faraday-discovery-fellowships",
+    "type": "funding",
+    "slug": "faraday-discovery-fellowships",
+    "name": "Faraday Discovery Fellowships",
+    "description": "Prestigious long-term awards supporting the most talented mid-career research leaders to undertake high-quality, original research across all STEM fields within the Royal Society's remit.",
+    "funder_names": [
+      "The Royal Society"
+    ],
+    "funders": [
+      "the-royal-society"
+    ],
+    "country": "Worldwide",
+    "applicant_country": "Worldwide",
+    "host_country": "United Kingdom",
+    "career_levels": [
+      "junior-faculty",
+      "senior-faculty"
+    ],
+    "career_level_names": [
+      "Junior Faculty",
+      "Senior Faculty"
+    ],
+    "subjects": [
+      "engineering",
+      "physics",
+      "artificial-intelligence",
+      "natural-sciences"
+    ],
+    "subject_names": [
+      "Engineering",
+      "Physics",
+      "Artificial intelligence",
+      "Natural Sciences"
+    ],
+    "funding_purposes": [
+      "fellowship-scholarship-or-training",
+      "research"
+    ],
+    "funding_purpose_names": [
+      "Fellowship, scholarship or training",
+      "Research"
+    ],
+    "status": "active",
+    "featured": true,
+    "deadline_month": "September",
+    "search_text": "Faraday Discovery Fellowships Royal Society mid-career research leaders STEM original research United Kingdom Worldwide Fellowship research",
+    "url": "https://royalsociety.org/grants/faraday-discovery-fellowships/",
+    "updated_at": "2026-03-26T00:00:00Z"
+  },
+  {
+    "id": "funding-wellcome-early-career-awards",
+    "type": "funding",
+    "slug": "wellcome-early-career-awards",
+    "name": "Wellcome Early-Career Awards",
+    "description": "Funding for early-career researchers ready to develop their research identity through innovative projects that advance understanding in their field, or develop methodologies, frameworks, tools or techniques benefiting health-related research.",
+    "funder_names": [
+      "Wellcome Trust"
+    ],
+    "funders": [
+      "wellcome-trust"
+    ],
+    "country": "United Kingdom, Republic of Ireland, Low- and middle-income countries",
+    "applicant_country": "United Kingdom, Republic of Ireland, Low- and middle-income countries",
+    "host_country": "United Kingdom, Republic of Ireland, Low- and middle-income countries",
+    "career_levels": [
+      "postdoc"
+    ],
+    "career_level_names": [
+      "Postdoc"
+    ],
+    "subjects": [
+      "all-subjects"
+    ],
+    "subject_names": [
+      "All subjects"
+    ],
+    "funding_purposes": [
+      "fellowship-scholarship-or-training",
+      "research"
+    ],
+    "funding_purpose_names": [
+      "Fellowship, scholarship or training",
+      "Research"
+    ],
+    "status": "active",
+    "featured": true,
+    "deadline_month": "",
+    "search_text": "Wellcome Early-Career Awards Funding for early-career researchers ready to develop their research identity. Wellcome Trust Postdoc United Kingdom Ireland Low- and middle-income countries All subjects Fellowship research",
+    "url": "https://wellcome.org/research-funding/schemes/wellcome-early-career-awards",
+    "updated_at": "2026-03-26T00:00:00Z"
+  },
+  {
     "id": "funding-faculty-early-career-development-program-career",
     "type": "funding",
     "slug": "faculty-early-career-development-program-career",
@@ -24205,11 +24297,11 @@
       "Natural Sciences"
     ],
     "funding_purposes": [
-      "fellowship-scholarship-training",
+      "fellowship-scholarship-or-training",
       "collaboration"
     ],
     "funding_purpose_names": [
-      "fellowship-scholarship-training",
+      "Fellowship, scholarship or training",
       "Collaboration"
     ],
     "status": "active",
@@ -24243,10 +24335,10 @@
     "subjects": [],
     "subject_names": [],
     "funding_purposes": [
-      "fellowship-scholarship-training"
+      "fellowship-scholarship-or-training"
     ],
     "funding_purpose_names": [
-      "fellowship-scholarship-training"
+      "Fellowship, scholarship or training"
     ],
     "status": "active",
     "featured": false,
@@ -24279,11 +24371,11 @@
     "subjects": [],
     "subject_names": [],
     "funding_purposes": [
-      "fellowship-scholarship-training",
+      "fellowship-scholarship-or-training",
       "collaboration"
     ],
     "funding_purpose_names": [
-      "fellowship-scholarship-training",
+      "Fellowship, scholarship or training",
       "Collaboration"
     ],
     "status": "active",
@@ -24317,11 +24409,11 @@
     "subjects": [],
     "subject_names": [],
     "funding_purposes": [
-      "fellowship-scholarship-training",
+      "fellowship-scholarship-or-training",
       "collaboration"
     ],
     "funding_purpose_names": [
-      "fellowship-scholarship-training",
+      "Fellowship, scholarship or training",
       "Collaboration"
     ],
     "status": "active",
@@ -24359,14 +24451,14 @@
     ],
     "subject_names": [
       "Natural Sciences",
-      "applied-sciences",
-      "social-sciences"
+      "Applied Sciences",
+      "Social Sciences"
     ],
     "funding_purposes": [
-      "fellowship-scholarship-training"
+      "fellowship-scholarship-or-training"
     ],
     "funding_purpose_names": [
-      "fellowship-scholarship-training"
+      "Fellowship, scholarship or training"
     ],
     "status": "active",
     "featured": false,
@@ -24401,11 +24493,11 @@
     "subjects": [],
     "subject_names": [],
     "funding_purposes": [
-      "fellowship-scholarship-training",
+      "fellowship-scholarship-or-training",
       "collaboration"
     ],
     "funding_purpose_names": [
-      "fellowship-scholarship-training",
+      "Fellowship, scholarship or training",
       "Collaboration"
     ],
     "status": "active",
@@ -24442,13 +24534,13 @@
     ],
     "subject_names": [
       "Natural Sciences",
-      "applied-sciences"
+      "Applied Sciences"
     ],
     "funding_purposes": [
-      "fellowship-scholarship-training"
+      "fellowship-scholarship-or-training"
     ],
     "funding_purpose_names": [
-      "fellowship-scholarship-training"
+      "Fellowship, scholarship or training"
     ],
     "status": "active",
     "featured": false,
@@ -24487,11 +24579,11 @@
       "Natural Sciences"
     ],
     "funding_purposes": [
-      "fellowship-scholarship-training",
+      "fellowship-scholarship-or-training",
       "collaboration"
     ],
     "funding_purpose_names": [
-      "fellowship-scholarship-training",
+      "Fellowship, scholarship or training",
       "Collaboration"
     ],
     "status": "active",
@@ -24500,6 +24592,98 @@
     "search_text": "TWAS UNESCO Associateship Scheme developing countries South centres of excellence natural sciences research collaboration",
     "url": "https://twas.org/opportunity/twas-unesco-associateship-scheme",
     "updated_at": "2026-03-25T00:00:00Z"
+  },
+  {
+    "id": "funding-cancer-research-uk-advanced-clinician-scientist-fellowship",
+    "type": "funding",
+    "slug": "cancer-research-uk-advanced-clinician-scientist-fellowship",
+    "name": "Cancer Research UK Advanced Clinician Scientist Fellowship",
+    "description": "Supports clinician-scientists who have completed fellowship training to establish themselves as independent researchers and develop a strong track record in cancer research, while maintaining their clinical practice.",
+    "funder_names": [
+      "Cancer Research UK"
+    ],
+    "funders": [
+      "cancer-research-uk"
+    ],
+    "country": "United Kingdom",
+    "applicant_country": "United Kingdom",
+    "host_country": "United Kingdom",
+    "career_levels": [
+      "postdoc",
+      "junior-faculty"
+    ],
+    "career_level_names": [
+      "Postdoc",
+      "Junior Faculty"
+    ],
+    "subjects": [
+      "medicine-and-health-sciences",
+      "diseases"
+    ],
+    "subject_names": [
+      "Medicine and Health Sciences",
+      "Diseases"
+    ],
+    "funding_purposes": [
+      "fellowship-scholarship-or-training",
+      "research"
+    ],
+    "funding_purpose_names": [
+      "Fellowship, scholarship or training",
+      "Research"
+    ],
+    "status": "active",
+    "featured": false,
+    "deadline_month": "",
+    "search_text": "Cancer Research UK Advanced Clinician Scientist Fellowship Supports clinician-scientists in cancer research United Kingdom Fellowship research",
+    "url": "https://www.cancerresearchuk.org/for-researchers/apply-for-and-manage-your-funding/our-funding-schemes/advanced-clinician-scientist-fellowship",
+    "updated_at": "2026-03-26T00:00:00Z"
+  },
+  {
+    "id": "funding-cancer-research-uk-career-development-fellowship",
+    "type": "funding",
+    "slug": "cancer-research-uk-career-development-fellowship",
+    "name": "Cancer Research UK Career Development Fellowship",
+    "description": "Supports early-career cancer researchers to develop the skills and experience needed to become independent research leaders, funding a programme of cancer research alongside career development activities.",
+    "funder_names": [
+      "Cancer Research UK"
+    ],
+    "funders": [
+      "cancer-research-uk"
+    ],
+    "country": "United Kingdom",
+    "applicant_country": "United Kingdom",
+    "host_country": "United Kingdom",
+    "career_levels": [
+      "postdoc",
+      "junior-faculty"
+    ],
+    "career_level_names": [
+      "Postdoc",
+      "Junior Faculty"
+    ],
+    "subjects": [
+      "medicine-and-health-sciences",
+      "diseases"
+    ],
+    "subject_names": [
+      "Medicine and Health Sciences",
+      "Diseases"
+    ],
+    "funding_purposes": [
+      "fellowship-scholarship-or-training",
+      "research"
+    ],
+    "funding_purpose_names": [
+      "Fellowship, scholarship or training",
+      "Research"
+    ],
+    "status": "active",
+    "featured": false,
+    "deadline_month": "",
+    "search_text": "Cancer Research UK Career Development Fellowship early-career cancer researchers independent research leaders United Kingdom Fellowship research",
+    "url": "https://www.cancerresearchuk.org/for-researchers/apply-for-and-manage-your-funding/our-funding-schemes/career-development-fellowship",
+    "updated_at": "2026-03-26T00:00:00Z"
   },
   {
     "id": "funding-aaas-lemelson-invention-ambassadors-program",
@@ -26942,6 +27126,40 @@
     "updated_at": ""
   },
   {
+    "id": "travel-grant-iscb-conference-travel-fellowships",
+    "type": "travel_grant",
+    "slug": "iscb-conference-travel-fellowships",
+    "name": "ISCB Conference Travel Fellowships",
+    "description": "<p>This Travel Fellowship funds exclusively for ISCB student and Postdoc members to attend the annual conferences such as RECOMB, ISMB, ECCB, and InCoB.</p>",
+    "funder_names": [],
+    "funders": [],
+    "country": "Worldwide",
+    "applicant_country": "Worldwide",
+    "host_country": "",
+    "career_levels": [
+      "phd",
+      "postdoc"
+    ],
+    "career_level_names": [
+      "PhD",
+      "Postdoc"
+    ],
+    "subjects": [],
+    "subject_names": [],
+    "travel_purposes": [
+      "conference"
+    ],
+    "travel_purpose_names": [
+      "Conference"
+    ],
+    "status": "active",
+    "featured": true,
+    "deadline_month": "",
+    "search_text": "ISCB Conference Travel Fellowships <p>This Travel Fellowship funds exclusively for ISCB student and Postdoc members to attend the annual conferences such as RECOMB, ISMB, ECCB, and InCoB.</p> PhD Postdoc Conference Worldwide",
+    "url": "https://www.iscb.org/iscb-conference-travel-fellowships",
+    "updated_at": ""
+  },
+  {
     "id": "travel-grant-open-bioinformatics-foundation-travel-fellowships",
     "type": "travel_grant",
     "slug": "open-bioinformatics-foundation-travel-fellowships",
@@ -26985,6 +27203,44 @@
     "deadline_month": "April, August, December",
     "search_text": "Open Bioinformatics Foundation Travel Fellowships <p>OBF Travel Fellowship program aimed at increasing diverse participation at events promoting open source bioinformatics software development and open science in the biological research community.</p> Open Bioinformatics Foundation PhD Postdoc Master students Life Sciences Bioinformatics Conference Worldwide",
     "url": "https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md",
+    "updated_at": ""
+  },
+  {
+    "id": "travel-grant-research-travel-award",
+    "type": "travel_grant",
+    "slug": "research-travel-award",
+    "name": "Research Travel Award",
+    "description": null,
+    "funder_names": [
+      "Cancer Research UK"
+    ],
+    "funders": [
+      "cancer-research-uk"
+    ],
+    "country": "Applicant must be based in the UK",
+    "applicant_country": "Applicant must be based in the UK",
+    "host_country": "",
+    "career_levels": [
+      "postdoc"
+    ],
+    "career_level_names": [
+      "Postdoc"
+    ],
+    "subjects": [],
+    "subject_names": [],
+    "travel_purposes": [
+      "collaboration",
+      "learn-new-technique"
+    ],
+    "travel_purpose_names": [
+      "Collaboration",
+      "Learn new technique"
+    ],
+    "status": "active",
+    "featured": true,
+    "deadline_month": "",
+    "search_text": "Research Travel Award Cancer Research UK Postdoc Collaboration Learn new technique Applicant must be based in the UK",
+    "url": "https://www.cancerresearchuk.org/funding-for-researchers/our-funding-schemes/research-travel-award",
     "updated_at": ""
   },
   {
@@ -28530,40 +28786,6 @@
     "updated_at": ""
   },
   {
-    "id": "travel-grant-iscb-conference-travel-fellowships",
-    "type": "travel_grant",
-    "slug": "iscb-conference-travel-fellowships",
-    "name": "ISCB Conference Travel Fellowships",
-    "description": "<p>This Travel Fellowship funds exclusively for ISCB student and Postdoc members to attend the annual conferences such as RECOMB, ISMB, ECCB, and InCoB.</p>",
-    "funder_names": [],
-    "funders": [],
-    "country": "Worldwide",
-    "applicant_country": "Worldwide",
-    "host_country": "",
-    "career_levels": [
-      "phd",
-      "postdoc"
-    ],
-    "career_level_names": [
-      "PhD",
-      "Postdoc"
-    ],
-    "subjects": [],
-    "subject_names": [],
-    "travel_purposes": [
-      "conference"
-    ],
-    "travel_purpose_names": [
-      "Conference"
-    ],
-    "status": "active",
-    "featured": false,
-    "deadline_month": "",
-    "search_text": "ISCB Conference Travel Fellowships <p>This Travel Fellowship funds exclusively for ISCB student and Postdoc members to attend the annual conferences such as RECOMB, ISMB, ECCB, and InCoB.</p> PhD Postdoc Conference Worldwide",
-    "url": "https://www.iscb.org/iscb-conference-travel-fellowships",
-    "updated_at": ""
-  },
-  {
     "id": "travel-grant-iscb-student-council-symposium-travel-fellowships",
     "type": "travel_grant",
     "slug": "iscb-student-council-symposium-travel-fellowships",
@@ -29161,44 +29383,6 @@
     "deadline_month": "",
     "search_text": "R&D Topics 2018 Travel Grant PhD Conference",
     "url": "http://www.rndtopics.com",
-    "updated_at": ""
-  },
-  {
-    "id": "travel-grant-research-travel-award",
-    "type": "travel_grant",
-    "slug": "research-travel-award",
-    "name": "Research Travel Award",
-    "description": null,
-    "funder_names": [
-      "Cancer Research UK"
-    ],
-    "funders": [
-      "cancer-research-uk"
-    ],
-    "country": "Applicant must be based in the UK",
-    "applicant_country": "Applicant must be based in the UK",
-    "host_country": "",
-    "career_levels": [
-      "postdoc"
-    ],
-    "career_level_names": [
-      "Postdoc"
-    ],
-    "subjects": [],
-    "subject_names": [],
-    "travel_purposes": [
-      "collaboration",
-      "learn-new-technique"
-    ],
-    "travel_purpose_names": [
-      "Collaboration",
-      "Learn new technique"
-    ],
-    "status": "active",
-    "featured": false,
-    "deadline_month": "",
-    "search_text": "Research Travel Award Cancer Research UK Postdoc Collaboration Learn new technique Applicant must be based in the UK",
-    "url": "https://www.cancerresearchuk.org/funding-for-researchers/our-funding-schemes/research-travel-award",
     "updated_at": ""
   },
   {
@@ -30406,6 +30590,34 @@
     "updated_at": "2019-02-05T21:07:44Z"
   },
   {
+    "id": "resource-list-of-format-free-journals",
+    "type": "resource",
+    "slug": "list-of-format-free-journals",
+    "name": "List of format-free journals",
+    "description": "List of life science and biomedical journals that accept format-free initial submissions or part of YPYW or B2J initiatives. https://doi.org/10.15252/embr.201845731",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "policy",
+      "publishing"
+    ],
+    "resource_category_names": [
+      "Policy",
+      "Publishing"
+    ],
+    "status": "active",
+    "featured": true,
+    "url": "https://asntech.github.io/format-free-journals/",
+    "updated_at": "2019-05-09T06:33:47Z"
+  },
+  {
     "id": "resource-guidelines-for-inclusive-academic-practices",
     "type": "resource",
     "slug": "guidelines-for-inclusive-academic-practices",
@@ -31376,34 +31588,6 @@
     "featured": false,
     "url": "https://theprofessorisin.com/2016/09/12/thedreadedteachingstatement/",
     "updated_at": "2019-05-09T06:33:15Z"
-  },
-  {
-    "id": "resource-list-of-format-free-journals",
-    "type": "resource",
-    "slug": "list-of-format-free-journals",
-    "name": "List of format-free journals",
-    "description": "List of life science and biomedical journals that accept format-free initial submissions or part of YPYW or B2J initiatives. https://doi.org/10.15252/embr.201845731",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "policy",
-      "publishing"
-    ],
-    "resource_category_names": [
-      "Policy",
-      "Publishing"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://asntech.github.io/format-free-journals/",
-    "updated_at": "2019-05-09T06:33:47Z"
   },
   {
     "id": "resource-effective-self-management-for-early-career-researchers-in-natural-sciences",

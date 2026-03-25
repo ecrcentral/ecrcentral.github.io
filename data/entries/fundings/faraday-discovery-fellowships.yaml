@@ -1,0 +1,50 @@
+id: funding-faraday-discovery-fellowships
+legacy_id: null
+slug: faraday-discovery-fellowships
+name: Faraday Discovery Fellowships
+description: Prestigious long-term awards supporting the most talented mid-career
+  research leaders to undertake high-quality, original research across all STEM fields
+  within the Royal Society's remit.
+url: https://royalsociety.org/grants/faraday-discovery-fellowships/
+funders:
+- the-royal-society
+legacy_funder_name: null
+host_country: United Kingdom
+applicant_country: Worldwide
+career_levels:
+- junior-faculty
+- senior-faculty
+years_since_phd: 10-20
+duration: '10'
+award: Up to £8 million over 10 years
+mobility_rule: null
+research_costs: Up to £8 million (£6 million core plus up to £2 million additional)
+deadline: '2026-09-22'
+deadline_month: September
+diversity: null
+comments: Stage 1 deadline 22 September 2026; Stage 2 deadline 3 February 2027.
+  Open to any nationality; visa-required applicants eligible for Global Talent Visa
+  endorsement. Exceptional candidates with fewer than 10 years post-PhD experience
+  will be considered.
+benefits: null
+frequency: Annual
+fileds: null
+featured: true
+review_status: approved
+status: active
+last_verified: '2026-03-26'
+verified_by: asntech
+legacy_user_id: null
+created_at: '2026-03-26T00:00:00Z'
+updated_at: '2026-03-26T00:00:00Z'
+subjects:
+- engineering
+- physics
+- artificial-intelligence
+- natural-sciences
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: Faraday Discovery Fellowships Royal Society mid-career research leaders
+  STEM original research United Kingdom Worldwide Fellowship research
+source: manual

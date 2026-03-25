@@ -219,6 +219,11 @@
       "updated_at": "2020-05-17T03:06:37Z"
     },
     {
+      "id": "subject-applied-sciences",
+      "slug": "applied-sciences",
+      "name": "Applied Sciences"
+    },
+    {
       "id": "subject-archaeology",
       "legacy_id": 245,
       "slug": "archaeology",
@@ -2357,6 +2362,11 @@
       "parent_slug": "education",
       "created_at": null,
       "updated_at": "2020-05-17T03:07:16Z"
+    },
+    {
+      "id": "subject-social-sciences",
+      "slug": "social-sciences",
+      "name": "Social Sciences"
     },
     {
       "id": "subject-social-statistics",

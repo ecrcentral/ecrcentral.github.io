@@ -1,0 +1,47 @@
+id: funding-cancer-research-uk-advanced-clinician-scientist-fellowship
+legacy_id: null
+slug: cancer-research-uk-advanced-clinician-scientist-fellowship
+name: Cancer Research UK Advanced Clinician Scientist Fellowship
+description: Supports clinician-scientists who have completed fellowship training
+  to establish themselves as independent researchers and develop a strong track record
+  in cancer research, while maintaining their clinical practice.
+url: https://www.cancerresearchuk.org/for-researchers/apply-for-and-manage-your-funding/our-funding-schemes/advanced-clinician-scientist-fellowship
+funders:
+- cancer-research-uk
+legacy_funder_name: null
+host_country: United Kingdom
+applicant_country: United Kingdom
+career_levels:
+- postdoc
+- junior-faculty
+years_since_phd: null
+duration: '5'
+award: Salary plus research costs
+mobility_rule: null
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: Designed for clinician-scientists who have completed their fellowship training
+  and are ready to establish an independent cancer research programme alongside their
+  clinical career.
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-03-26'
+verified_by: asntech
+legacy_user_id: null
+created_at: '2026-03-26T00:00:00Z'
+updated_at: '2026-03-26T00:00:00Z'
+subjects:
+- medicine-and-health-sciences
+- diseases
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: Cancer Research UK Advanced Clinician Scientist Fellowship Supports clinician-scientists
+  in cancer research United Kingdom Fellowship research
+source: manual

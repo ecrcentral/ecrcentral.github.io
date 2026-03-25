@@ -1,0 +1,48 @@
+id: funding-wellcome-early-career-awards
+legacy_id: null
+slug: wellcome-early-career-awards
+name: Wellcome Early-Career Awards
+description: Funding for early-career researchers ready to develop their research
+  identity through innovative projects that advance understanding in their field, or
+  develop methodologies, frameworks, tools or techniques benefiting health-related
+  research.
+url: https://wellcome.org/research-funding/schemes/wellcome-early-career-awards
+funders:
+- wellcome-trust
+legacy_funder_name: null
+host_country: United Kingdom, Republic of Ireland, Low- and middle-income countries
+applicant_country: United Kingdom, Republic of Ireland, Low- and middle-income countries
+career_levels:
+- postdoc
+years_since_phd: '0-3'
+duration: '5'
+award: Salary plus up to £400,000 research expenses
+mobility_rule: null
+research_costs: Up to £400,000
+deadline: null
+deadline_month: null
+diversity: null
+comments: Applicants must have passed their PhD viva (or have 4+ years equivalent
+  research experience) by the application deadline and no more than 3 years postdoctoral
+  experience. Adjustments available for career breaks, part-time work, clinical training
+  and Covid-19 impact. Three funding rounds per year.
+benefits: null
+frequency: Three times per year
+fileds: null
+featured: true
+review_status: approved
+status: active
+last_verified: '2026-03-26'
+verified_by: asntech
+legacy_user_id: null
+created_at: '2026-03-26T00:00:00Z'
+updated_at: '2026-03-26T00:00:00Z'
+subjects:
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: Wellcome Early-Career Awards Funding for early-career researchers ready
+  to develop their research identity. Wellcome Trust Postdoc United Kingdom Ireland
+  Low- and middle-income countries All subjects Fellowship research
+source: manual

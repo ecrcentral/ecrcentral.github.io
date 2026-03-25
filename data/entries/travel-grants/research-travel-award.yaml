@@ -21,7 +21,7 @@ subjects: []
 travel_purposes:
 - collaboration
 - learn-new-technique
-featured: false
+featured: true
 review_status: approved
 status: active
 last_verified: '2026-02-19'

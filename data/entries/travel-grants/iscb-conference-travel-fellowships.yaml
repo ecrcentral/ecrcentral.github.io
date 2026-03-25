@@ -21,7 +21,7 @@ career_levels:
 subjects: []
 travel_purposes:
 - conference
-featured: false
+featured: true
 review_status: approved
 status: active
 last_verified: '2026-02-19'

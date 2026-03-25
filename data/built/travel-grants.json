@@ -53,6 +53,51 @@
     ]
   },
   {
+    "id": "travel-grant-iscb-conference-travel-fellowships",
+    "legacy_id": 77,
+    "slug": "iscb-conference-travel-fellowships",
+    "name": "ISCB Conference Travel Fellowships",
+    "url": "https://www.iscb.org/iscb-conference-travel-fellowships",
+    "description": "<p>This Travel Fellowship funds exclusively for ISCB student and Postdoc members to attend the annual conferences such as RECOMB, ISMB, ECCB, and InCoB.</p>",
+    "funders": [],
+    "legacy_funder_name": "International Society for Computational Biology",
+    "applicant_country": "Worldwide",
+    "host_country": null,
+    "award": null,
+    "deadline": "Check conferences websites",
+    "deadline_month": null,
+    "membership": "Yes",
+    "membership_time": null,
+    "purpose_text": null,
+    "career_levels": [
+      "phd",
+      "postdoc"
+    ],
+    "subjects": [],
+    "travel_purposes": [
+      "conference"
+    ],
+    "featured": true,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": null,
+    "updated_at": null,
+    "search_text": "ISCB Conference Travel Fellowships <p>This Travel Fellowship funds exclusively for ISCB student and Postdoc members to attend the annual conferences such as RECOMB, ISMB, ECCB, and InCoB.</p> PhD Postdoc Conference Worldwide",
+    "source": "legacy-import",
+    "funder_names": [],
+    "funder_logos": [],
+    "career_level_names": [
+      "PhD",
+      "Postdoc"
+    ],
+    "subject_names": [],
+    "travel_purpose_names": [
+      "Conference"
+    ]
+  },
+  {
     "id": "travel-grant-open-bioinformatics-foundation-travel-fellowships",
     "legacy_id": 74,
     "slug": "open-bioinformatics-foundation-travel-fellowships",
@@ -109,6 +154,57 @@
     ],
     "travel_purpose_names": [
       "Conference"
+    ]
+  },
+  {
+    "id": "travel-grant-research-travel-award",
+    "legacy_id": 65,
+    "slug": "research-travel-award",
+    "name": "Research Travel Award",
+    "url": "https://www.cancerresearchuk.org/funding-for-researchers/our-funding-schemes/research-travel-award",
+    "description": null,
+    "funders": [
+      "cancer-research-uk"
+    ],
+    "legacy_funder_name": "Cancer Research UK",
+    "applicant_country": "Applicant must be based in the UK",
+    "host_country": null,
+    "award": "Typically under £10000",
+    "deadline": "currently closed for applications",
+    "deadline_month": null,
+    "membership": "No",
+    "membership_time": null,
+    "purpose_text": null,
+    "career_levels": [
+      "postdoc"
+    ],
+    "subjects": [],
+    "travel_purposes": [
+      "collaboration",
+      "learn-new-technique"
+    ],
+    "featured": true,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": null,
+    "updated_at": null,
+    "search_text": "Research Travel Award Cancer Research UK Postdoc Collaboration Learn new technique Applicant must be based in the UK",
+    "source": "legacy-import",
+    "funder_names": [
+      "Cancer Research UK"
+    ],
+    "funder_logos": [
+      "/logos/funders/cancer-research-uk.svg"
+    ],
+    "career_level_names": [
+      "Postdoc"
+    ],
+    "subject_names": [],
+    "travel_purpose_names": [
+      "Collaboration",
+      "Learn new technique"
     ]
   },
   {
@@ -2183,51 +2279,6 @@
     ]
   },
   {
-    "id": "travel-grant-iscb-conference-travel-fellowships",
-    "legacy_id": 77,
-    "slug": "iscb-conference-travel-fellowships",
-    "name": "ISCB Conference Travel Fellowships",
-    "url": "https://www.iscb.org/iscb-conference-travel-fellowships",
-    "description": "<p>This Travel Fellowship funds exclusively for ISCB student and Postdoc members to attend the annual conferences such as RECOMB, ISMB, ECCB, and InCoB.</p>",
-    "funders": [],
-    "legacy_funder_name": "International Society for Computational Biology",
-    "applicant_country": "Worldwide",
-    "host_country": null,
-    "award": null,
-    "deadline": "Check conferences websites",
-    "deadline_month": null,
-    "membership": "Yes",
-    "membership_time": null,
-    "purpose_text": null,
-    "career_levels": [
-      "phd",
-      "postdoc"
-    ],
-    "subjects": [],
-    "travel_purposes": [
-      "conference"
-    ],
-    "featured": false,
-    "review_status": "approved",
-    "status": "active",
-    "last_verified": "2026-02-19",
-    "verified_by": "asntech",
-    "created_at": null,
-    "updated_at": null,
-    "search_text": "ISCB Conference Travel Fellowships <p>This Travel Fellowship funds exclusively for ISCB student and Postdoc members to attend the annual conferences such as RECOMB, ISMB, ECCB, and InCoB.</p> PhD Postdoc Conference Worldwide",
-    "source": "legacy-import",
-    "funder_names": [],
-    "funder_logos": [],
-    "career_level_names": [
-      "PhD",
-      "Postdoc"
-    ],
-    "subject_names": [],
-    "travel_purpose_names": [
-      "Conference"
-    ]
-  },
-  {
     "id": "travel-grant-iscb-student-council-symposium-travel-fellowships",
     "legacy_id": 76,
     "slug": "iscb-student-council-symposium-travel-fellowships",
@@ -3045,57 +3096,6 @@
     "subject_names": [],
     "travel_purpose_names": [
       "Conference"
-    ]
-  },
-  {
-    "id": "travel-grant-research-travel-award",
-    "legacy_id": 65,
-    "slug": "research-travel-award",
-    "name": "Research Travel Award",
-    "url": "https://www.cancerresearchuk.org/funding-for-researchers/our-funding-schemes/research-travel-award",
-    "description": null,
-    "funders": [
-      "cancer-research-uk"
-    ],
-    "legacy_funder_name": "Cancer Research UK",
-    "applicant_country": "Applicant must be based in the UK",
-    "host_country": null,
-    "award": "Typically under £10000",
-    "deadline": "currently closed for applications",
-    "deadline_month": null,
-    "membership": "No",
-    "membership_time": null,
-    "purpose_text": null,
-    "career_levels": [
-      "postdoc"
-    ],
-    "subjects": [],
-    "travel_purposes": [
-      "collaboration",
-      "learn-new-technique"
-    ],
-    "featured": false,
-    "review_status": "approved",
-    "status": "active",
-    "last_verified": "2026-02-19",
-    "verified_by": "asntech",
-    "created_at": null,
-    "updated_at": null,
-    "search_text": "Research Travel Award Cancer Research UK Postdoc Collaboration Learn new technique Applicant must be based in the UK",
-    "source": "legacy-import",
-    "funder_names": [
-      "Cancer Research UK"
-    ],
-    "funder_logos": [
-      "/logos/funders/cancer-research-uk.svg"
-    ],
-    "career_level_names": [
-      "Postdoc"
-    ],
-    "subject_names": [],
-    "travel_purpose_names": [
-      "Collaboration",
-      "Learn new technique"
     ]
   },
   {
