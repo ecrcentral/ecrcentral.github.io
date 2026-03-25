@@ -24,7 +24,7 @@ url: https://cdmrp.army.mil/nfrp/default
 funders: []
 legacy_funder_name: Department of Defense (USA)
 host_country: Any except Cuba and Iran
-applicant_country: Any
+applicant_country: Worldwide
 career_levels:
 - postdoc
 - md

@@ -45,6 +45,7 @@ legacy_user_id: 1
 created_at: null
 updated_at: '2018-12-29T13:58:24Z'
 subjects: []
-funding_purposes: []
+funding_purposes:
+- policy
 search_text: Gulf Research Program Science Policy Fellowships United States
 source: legacy-import

@@ -41,7 +41,8 @@ legacy_user_id: 1
 created_at: null
 updated_at: '2020-06-18T21:07:57Z'
 subjects: []
-funding_purposes: []
+funding_purposes:
+- policy
 search_text: Soros Justice Fellowships Open Society-U.S.’s Soros Justice Fellowships
   fund outstanding individuals to undertake projects that advance reform, spur debate,
   and catalyze change on a range of issues facing the U.S. criminal justice system.

@@ -4,7 +4,8 @@ slug: twas-postdoctoral-fellowship
 name: TWAS Postdoctoral Fellowship
 description: null
 url: https://twas.org/opportunities/fellowships/postdoc?title_field_value=&field_shared_global_countries_tid=All&field_shared_applicant_countries_tid=All&field_fellowship_field_sections_tid=All&field_fellowship_age_limit_value=&&&page=1
-funders: []
+funders:
+- the-world-academy-of-sciences
 legacy_funder_name: World Academy of Science
 host_country: Pakistan
 applicant_country: Developing countries

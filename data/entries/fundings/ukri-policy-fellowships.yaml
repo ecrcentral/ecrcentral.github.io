@@ -1,17 +1,18 @@
 id: funding-esrc-policy-fellowships-2021
 legacy_id: 748
-slug: esrc-policy-fellowships-2021
-name: ESRC Policy Fellowships 2021
-description: <p>The new ESRC Policy Fellowships call provides 25 fellowship opportunities
+slug: ukri-policy-fellowships
+name: UKRI Policy Fellowships
+description: The new UKRI Policy Fellowships call provides 25 fellowship opportunities
   across 10 hosts within UK and devolved governments. Offering an exciting opportunity
   to early and mid-career researchers to develop their career and enhance their understanding
   of applying research in government contexts. Fellows will spend up to 18 months
   collaborating with their host organisation to co-design research to inform policy
   on a priority policy area, and to help improve the exchange of knowledge between
-  policy and academic institutions.</p>
-url: https://www.ukri.org/opportunity/esrc-policy-fellowships-2021/
-funders: []
-legacy_funder_name: Economic and Social Research Council (ESRC)
+  policy and academic institutions.
+url: https://www.ukri.org/opportunity/ukri-policy-fellowships-2025/
+funders:
+- uk-research-and-innovation
+legacy_funder_name: UK Research and Innovation (UKRI)
 host_country: United Kingdom
 applicant_country: United Kingdom
 career_levels:
@@ -26,21 +27,22 @@ research_costs: null
 deadline: September
 deadline_month: September
 diversity: null
-comments: 'Please see ESRC opportunity page for full details and how to apply: https://www.ukri.org/opportunity/esrc-policy-fellowships-2021/'
+comments: 'Please see UKRI opportunity page for full details and how to apply: https://www.ukri.org/opportunity/ukri-policy-fellowships-2025/'
 benefits: Policy impact, new research, networking
 frequency: Annual
 fileds: See website. Broad - social science, economic, arts and humanities
 featured: false
 review_status: approved
-status: expired
+status: active
 last_verified: '2026-02-19'
 verified_by: asntech
 legacy_user_id: 1
 created_at: '2021-07-14T09:36:28Z'
 updated_at: '2022-01-24T09:01:26Z'
 subjects: []
-funding_purposes: []
-search_text: ESRC Policy Fellowships 2021 <p>The new ESRC Policy Fellowships call
+funding_purposes:
+- policy
+search_text: UKRI Policy Fellowships 2025 <p>The new UKRI Policy Fellowships call
   provides 25 fellowship opportunities across 10 hosts within UK and devolved governments.
   Offering an exciting opportunity to early and mid-career researchers to develop
   their career and enhance their understanding of applying research in government

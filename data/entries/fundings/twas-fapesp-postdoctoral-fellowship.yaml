@@ -1,0 +1,42 @@
+id: funding-twas-fapesp-postdoctoral-fellowship
+slug: twas-fapesp-postdoctoral-fellowship
+name: TWAS-FAPESP Postdoctoral Fellowship (LDC)
+description: Postdoctoral fellowships for researchers from Least Developed Countries
+  who wish to pursue research in all areas of natural, applied, and social sciences
+  at host institutions in Brazil. Fellows must have obtained their PhD within the
+  last 7 years.
+url: https://twas.org/opportunity/twas-fapesp-postdoctoral-fellowship-programme-least-developed-countries-ldc
+funders:
+  - the-world-academy-of-sciences
+host_country: Brazil
+applicant_country: Least Developed Countries (LDC)
+career_levels:
+  - postdoc
+years_since_phd: '7'
+duration: 12-24 months
+award: null
+mobility_rule: null
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: null
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-03-25'
+verified_by: asntech
+created_at: '2026-03-25T00:00:00Z'
+updated_at: '2026-03-25T00:00:00Z'
+subjects:
+  - natural-sciences
+  - applied-sciences
+  - social-sciences
+funding_purposes:
+  - fellowship-scholarship-training
+search_text: TWAS FAPESP Postdoctoral Fellowship Brazil Least Developed Countries LDC
+  natural applied social sciences
+source: manual
