@@ -5,11 +5,13 @@ name: American Society of Nephrology
 short_name: American Society of Nephrology
 funder_registry_id: '100001463'
 country: United States
-website: null
-logo: null
+website: https://www.asn-online.org
+logo: /logos/funders/american-society-of-nephrology.png
 dora: false
 aliases: []
-description: null
+description: The American Society of Nephrology (ASN) leads the fight against kidney
+  disease by educating health professionals, advancing research, and advocating for
+  improved patient care and policies.
 status: active
 featured: false
 review_status: approved

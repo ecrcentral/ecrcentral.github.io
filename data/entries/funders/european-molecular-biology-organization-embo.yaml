@@ -9,9 +9,11 @@ website: https://www.embo.org/
 logo: /logos/funders/european-molecular-biology-organization-embo.png
 dora: true
 aliases: []
-description: null
+description: EMBO is a professional organisation of life scientists that supports
+  talented researchers, stimulates the exchange of scientific information, and helps
+  build a research environment where scientists can achieve their best work.
 status: active
-featured: false
+featured: true
 review_status: approved
 last_verified: '2026-02-19'
 verified_by: asntech

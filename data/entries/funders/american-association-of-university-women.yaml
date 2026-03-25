@@ -5,11 +5,13 @@ name: American Association of University Women
 short_name: American Association of University Women
 funder_registry_id: '100005280'
 country: United States
-website: null
-logo: /logos/funders/american-association-of-university-women.png
+website: https://www.aauw.org
+logo: /logos/funders/american-association-of-university-women.svg
 dora: false
 aliases: []
-description: null
+description: The American Association of University Women (AAUW) advances equity for
+  women and girls through advocacy, education, and research, providing fellowships
+  and grants to support women in higher education and research careers.
 status: active
 featured: false
 review_status: approved

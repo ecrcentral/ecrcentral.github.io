@@ -5,11 +5,13 @@ name: H2020 Marie Skłodowska-Curie Actions
 short_name: H2020 Marie Skłodowska-Curie Actions
 funder_registry_id: '100010665'
 country: European Union
-website: null
+website: https://marie-sklodowska-curie-actions.ec.europa.eu/
 logo: /logos/funders/h2020-marie-skodowska-curie-actions.jpg
 dora: false
 aliases: []
-description: null
+description: Marie Skłodowska-Curie Actions (MSCA) is the European Union's flagship
+  programme for doctoral and postdoctoral training, supporting researchers at all
+  career stages through fellowships, networks, and exchanges.
 status: active
 featured: false
 review_status: approved

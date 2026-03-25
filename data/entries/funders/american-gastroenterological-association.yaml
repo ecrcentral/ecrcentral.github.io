@@ -5,11 +5,13 @@ name: American Gastroenterological Association
 short_name: American Gastroenterological Association
 funder_registry_id: '100009560'
 country: United States
-website: null
+website: https://www.gastro.org
 logo: /logos/funders/american-gastroenterological-association.png
 dora: false
 aliases: []
-description: null
+description: The American Gastroenterological Association (AGA) is a professional
+  organisation of gastroenterologists that advances the science and practice of gastroenterology,
+  providing research grants and career development awards.
 status: active
 featured: false
 review_status: approved

@@ -5,11 +5,13 @@ name: Ovarian Cancer Research Fund Alliance
 short_name: Ovarian Cancer Research Fund Alliance
 funder_registry_id: '100013401'
 country: United States
-website: null
+website: https://ocrfa.org
 logo: null
 dora: false
 aliases: []
-description: null
+description: The Ovarian Cancer Research Fund Alliance (OCRFA) is the largest global
+  organisation dedicated to advancing ovarian cancer research and supporting women
+  affected by the disease.
 status: active
 featured: false
 review_status: approved

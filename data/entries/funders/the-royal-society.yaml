@@ -5,13 +5,15 @@ name: The Royal Society
 short_name: The Royal Society
 funder_registry_id: '501100000288'
 country: United Kingdom
-website: null
+website: https://royalsociety.org
 logo: /logos/funders/the-royal-society.png
 dora: true
 aliases: []
-description: null
+description: The Royal Society is the UK's national academy of sciences, supporting
+  excellence in science and encouraging the development and use of science for human
+  benefit.
 status: active
-featured: false
+featured: true
 review_status: approved
 last_verified: '2026-02-19'
 verified_by: asntech

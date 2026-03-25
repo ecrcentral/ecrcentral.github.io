@@ -1,0 +1,23 @@
+id: funder-uk-research-and-innovation
+slug: uk-research-and-innovation
+name: UK Research and Innovation
+short_name: UKRI
+funder_registry_id: '100014013'
+country: United Kingdom
+website: https://www.ukri.org
+logo: /logos/funders/uk-research-and-innovation.png
+dora: true
+aliases:
+  - UKRI
+description: UK Research and Innovation (UKRI) is a non-departmental public body that
+  directs research and innovation funding across the UK. It brings together the seven
+  Research Councils, Innovate UK, and Research England to support science, engineering,
+  and humanities research and innovation.
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-03-25'
+verified_by: asntech
+created_at: '2026-03-25T00:00:00Z'
+updated_at: '2026-03-25T00:00:00Z'
+source: manual

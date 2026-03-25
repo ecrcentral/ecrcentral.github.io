@@ -5,13 +5,13 @@ name: Fulbright Program
 short_name: Fulbright Program
 funder_registry_id: '100010629'
 country: United States
-website: https://www.cies.org/
+website: https://fulbrightscholars.org/
 logo: /logos/funders/fulbright-program.png
 dora: false
 aliases: []
-description: null
+description: The Fulbright Program is a prestigious international educational exchange program sponsored by the U.S. government, aimed at increasing mutual understanding between the people of the United States and other countries.
 status: active
-featured: false
+featured: true
 review_status: approved
 last_verified: '2026-02-19'
 verified_by: asntech

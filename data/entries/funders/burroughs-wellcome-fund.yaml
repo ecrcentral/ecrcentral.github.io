@@ -5,11 +5,13 @@ name: Burroughs Wellcome Fund
 short_name: Burroughs Wellcome Fund
 funder_registry_id: '100000861'
 country: United States
-website: null
-logo: null
+website: https://www.bwfund.org
+logo: /logos/funders/burroughs-wellcome-fund.png
 dora: false
 aliases: []
-description: null
+description: The Burroughs Wellcome Fund is a private charitable foundation that advances
+  biomedical sciences by supporting research and providing career development for
+  scientists in the early stages of their careers.
 status: active
 featured: false
 review_status: approved

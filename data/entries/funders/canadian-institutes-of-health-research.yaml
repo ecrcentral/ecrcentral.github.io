@@ -5,13 +5,13 @@ name: Canadian Institutes of Health Research
 short_name: Canadian Institutes of Health Research
 funder_registry_id: '501100000024'
 country: Canada
-website: null
-logo: null
+website: https://cihr-irsc.gc.ca/
+logo: /logos/funders/canadian-institutes-of-health-research.svg
 dora: true
 aliases: []
-description: null
+description: The Canadian Institutes of Health Research (CIHR) is the Government of Canada's health research investment agency, funding health research and innovation to improve the health of Canadians.
 status: active
-featured: false
+featured: true
 review_status: approved
 last_verified: '2026-02-19'
 verified_by: asntech

@@ -1,0 +1,24 @@
+id: funder-the-world-academy-of-sciences
+slug: the-world-academy-of-sciences
+name: The World Academy of Sciences
+short_name: TWAS
+funder_registry_id: '100008166'
+country: Italy
+website: https://twas.org
+logo: /logos/funders/the-world-academy-of-sciences.png
+dora: false
+aliases:
+  - TWAS
+  - Third World Academy of Sciences
+description: The World Academy of Sciences (TWAS) is an autonomous international
+  organization that promotes sustainable prosperity through research, education,
+  policy, and diplomacy. TWAS supports science and scientists in the developing
+  world through fellowships, grants, and prizes.
+status: active
+featured: true
+review_status: approved
+last_verified: '2026-03-25'
+verified_by: asntech
+created_at: '2026-03-25T00:00:00Z'
+updated_at: '2026-03-25T00:00:00Z'
+source: manual

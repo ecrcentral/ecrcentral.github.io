@@ -5,11 +5,13 @@ name: Juvenile Diabetes Research Foundation
 short_name: Juvenile Diabetes Research Foundation
 funder_registry_id: '100008664'
 country: United Kingdom
-website: null
+website: https://www.breakthrought1d.org
 logo: null
 dora: false
 aliases: []
-description: null
+description: Breakthrough T1D (formerly JDRF) is the leading global organisation funding
+  type 1 diabetes (T1D) research, accelerating life-changing breakthroughs to cure,
+  prevent, and treat T1D.
 status: active
 featured: false
 review_status: approved

@@ -5,13 +5,15 @@ name: European Molecular Biology Laboratory (EMBL)
 short_name: European Molecular Biology Laboratory (EMBL)
 funder_registry_id: '100013060'
 country: Germany
-website: null
+website: https://www.embl.org
 logo: /logos/funders/european-molecular-biology-laboratory-embl.png
 dora: true
 aliases: []
-description: null
+description: The European Molecular Biology Laboratory (EMBL) is Europe's flagship
+  laboratory for the life sciences, conducting basic research in molecular biology
+  and providing services and training to the scientific community.
 status: active
-featured: false
+featured: true
 review_status: approved
 last_verified: '2026-02-19'
 verified_by: asntech

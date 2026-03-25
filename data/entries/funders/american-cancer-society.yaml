@@ -5,11 +5,13 @@ name: American Cancer Society
 short_name: American Cancer Society
 funder_registry_id: '100000048'
 country: United States
-website: null
+website: https://www.cancer.org
 logo: null
 dora: false
 aliases: []
-description: null
+description: The American Cancer Society is a nationwide voluntary health organisation
+  dedicated to eliminating cancer as a major health problem through research, education,
+  advocacy, and patient services.
 status: active
 featured: false
 review_status: approved

@@ -5,13 +5,15 @@ name: Wellcome Trust
 short_name: Wellcome Trust
 funder_registry_id: '100004440'
 country: United Kingdom
-website: null
+website: https://wellcome.org
 logo: /logos/funders/wellcome-trust.png
-dora: false
+dora: true
 aliases: []
-description: null
+description: Wellcome is a global charitable foundation that supports science to solve
+  urgent health challenges, funding researchers and backing projects to improve health
+  for everyone.
 status: active
-featured: false
+featured: true
 review_status: approved
 last_verified: '2026-02-19'
 verified_by: asntech

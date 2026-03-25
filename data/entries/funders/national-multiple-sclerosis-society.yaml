@@ -5,11 +5,13 @@ name: National Multiple Sclerosis Society
 short_name: National Multiple Sclerosis Society
 funder_registry_id: '100000890'
 country: United States
-website: null
+website: https://www.nationalmssociety.org
 logo: null
 dora: false
 aliases: []
-description: null
+description: The National Multiple Sclerosis Society mobilises people and resources
+  to drive research into MS treatments and a cure, while also helping people affected
+  by MS live their best lives.
 status: active
 featured: false
 review_status: approved

@@ -5,11 +5,13 @@ name: Simons Foundation Autism Research Initiative
 short_name: Simons Foundation Autism Research Initiative
 funder_registry_id: '100014370'
 country: United States
-website: null
-logo: null
+website: https://sfari.org
+logo: /logos/funders/simons-foundation-autism-research-initiative.png
 dora: false
 aliases: []
-description: null
+description: The Simons Foundation Autism Research Initiative (SFARI) aims to improve
+  the understanding, diagnosis and treatment of autism spectrum disorders by funding
+  innovative research in the field.
 status: active
 featured: false
 review_status: approved

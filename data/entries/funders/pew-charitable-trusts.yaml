@@ -5,11 +5,13 @@ name: Pew Charitable Trusts
 short_name: Pew Charitable Trusts
 funder_registry_id: '100000875'
 country: United States
-website: null
-logo: null
+website: https://www.pewtrusts.org
+logo: /logos/funders/pew-charitable-trusts.png
 dora: false
 aliases: []
-description: null
+description: The Pew Charitable Trusts is a non-profit global organisation applying
+  a rigorous, analytical approach to improve public policy, inform the public, and
+  invigorate civic life through research and evidence-based initiatives.
 status: active
 featured: false
 review_status: approved

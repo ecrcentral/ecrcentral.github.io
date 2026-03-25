@@ -5,13 +5,15 @@ name: National Institutes of Health (NIH)
 short_name: National Institutes of Health (NIH)
 funder_registry_id: '100000002'
 country: United States
-website: null
+website: https://www.nih.gov
 logo: /logos/funders/national-institutes-of-health-nih.png
 dora: false
 aliases: []
-description: null
+description: The National Institutes of Health (NIH) is the primary federal agency
+  in the United States responsible for biomedical and public health research, comprising
+  27 institutes and centres.
 status: active
-featured: false
+featured: true
 review_status: approved
 last_verified: '2026-02-19'
 verified_by: asntech

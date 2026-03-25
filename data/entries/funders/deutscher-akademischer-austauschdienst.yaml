@@ -5,11 +5,13 @@ name: Deutscher Akademischer Austauschdienst
 short_name: Deutscher Akademischer Austauschdienst
 funder_registry_id: '501100001655'
 country: Germany
-website: null
+website: https://www.daad.de/en/
 logo: null
 dora: false
 aliases: []
-description: null
+description: The German Academic Exchange Service (DAAD) is the world's largest funding
+  organisation for the international exchange of students and researchers, supporting
+  academic mobility and international cooperation.
 status: active
 featured: false
 review_status: approved

@@ -5,13 +5,15 @@ name: Cancer Research UK
 short_name: Cancer Research UK
 funder_registry_id: '501100000289'
 country: United Kingdom
-website: null
-logo: /logos/funders/cancer-research-uk.png
+website: https://www.cancerresearchuk.org
+logo: /logos/funders/cancer-research-uk.svg
 dora: true
 aliases: []
-description: null
+description: Cancer Research UK is the world's leading independent cancer research
+  charity, funding scientists, doctors and nurses to help beat cancer sooner through
+  research into prevention, diagnosis and treatment.
 status: active
-featured: false
+featured: true
 review_status: approved
 last_verified: '2026-02-19'
 verified_by: asntech

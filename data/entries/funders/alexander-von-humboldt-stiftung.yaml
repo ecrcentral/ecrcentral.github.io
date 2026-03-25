@@ -5,11 +5,13 @@ name: Alexander von Humboldt-Stiftung
 short_name: Alexander von Humboldt-Stiftung
 funder_registry_id: '100005156'
 country: Germany
-website: null
-logo: null
+website: https://www.humboldt-foundation.de/en/
+logo: /logos/funders/alexander-von-humboldt-stiftung.svg
 dora: false
 aliases: []
-description: null
+description: The Alexander von Humboldt Foundation promotes academic cooperation between
+  excellent scientists and scholars from abroad and from Germany, funding research
+  fellowships and prizes for outstanding researchers worldwide.
 status: active
 featured: false
 review_status: approved

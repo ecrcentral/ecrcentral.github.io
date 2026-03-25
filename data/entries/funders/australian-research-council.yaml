@@ -5,11 +5,13 @@ name: Australian Research Council
 short_name: Australian Research Council
 funder_registry_id: '501100000923'
 country: Australia
-website: null
+website: https://www.arc.gov.au
 logo: null
 dora: false
 aliases: []
-description: null
+description: The Australian Research Council (ARC) is a government agency that manages
+  the National Competitive Grants Program, delivering funding to support world-class
+  research across all disciplines in Australia.
 status: active
 featured: false
 review_status: approved

@@ -5,11 +5,13 @@ name: Biotechnology and Biological Sciences Research Council - BBSRC
 short_name: Biotechnology and Biological Sciences Research Council - BBSRC
 funder_registry_id: '501100000268'
 country: United Kingdom
-website: null
+website: https://www.ukri.org/councils/bbsrc/
 logo: null
-dora: false
+dora: true
 aliases: []
-description: null
+description: The Biotechnology and Biological Sciences Research Council (BBSRC) is
+  the UK's main funding agency for academic research and training in the biosciences,
+  and is part of UK Research and Innovation (UKRI).
 status: active
 featured: false
 review_status: approved

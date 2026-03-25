@@ -5,11 +5,13 @@ name: National Academies of Sciences, Engineering, and Medicine
 short_name: National Academies of Sciences, Engineering, and Medicine
 funder_registry_id: '100009643'
 country: United States
-website: null
+website: https://www.nationalacademies.org
 logo: null
 dora: false
 aliases: []
-description: null
+description: The National Academies of Sciences, Engineering, and Medicine provide
+  independent, objective advice to inform policy with evidence, conducting studies
+  and producing reports on scientific, engineering, and health topics.
 status: active
 featured: false
 review_status: approved

@@ -7,9 +7,11 @@ funder_registry_id: '501100001711'
 country: Switserland
 website: http://www.snf.ch/en
 logo: /logos/funders/swiss-national-science-foundation.jpg
-dora: false
+dora: true
 aliases: []
-description: null
+description: The Swiss National Science Foundation (SNSF) is Switzerland's leading
+  institution for the promotion of scientific research, funding projects across all
+  disciplines of science and humanities.
 status: active
 featured: false
 review_status: approved
