@@ -322,6 +322,7 @@ code {
   font-weight: var(--font-weight-semibold);
   color: var(--color-dark);
   line-height: var(--line-height-snug);
+  flex: 1;
 }
 
 .card-title a {
@@ -348,6 +349,31 @@ code {
   display: flex;
   align-items: center;
   gap: var(--space-1);
+}
+
+.card-funder-logo {
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  margin-right: 8px;
+}
+.card-funder-logo img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+.card-funder-logo-fallback {
+  width: 32px;
+  height: 32px;
+  border-radius: var(--radius-md);
+  background: var(--color-primary-light);
+  color: var(--color-primary);
+  font-size: 10px;
+  font-weight: var(--font-weight-bold);
+  align-items: center;
+  justify-content: center;
 }
 
 .card-description {

@@ -33,7 +33,8 @@ export interface Funding {
   description: string | null
   url: string
   funders: string[]
-  funder_names?: string[]   // denormalized
+  funder_names?: string[]         // denormalized
+  funder_logos?: (string | null)[] // denormalized
   legacy_funder_name: string | null
   host_country: string | null
   applicant_country: string | null
@@ -78,6 +79,7 @@ export interface TravelGrant {
   description: string | null
   funders: string[]
   funder_names?: string[]
+  funder_logos?: (string | null)[]
   legacy_funder_name: string | null
   applicant_country: string | null
   host_country: string | null

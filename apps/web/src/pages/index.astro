@@ -65,8 +65,8 @@ function recentTypeUrl(item: { _type: string; slug: string }): string {
       viewAllUrl="/fundings/"
       viewAllLabel={`View all ${activeFundingsCount} fundings`}
     >
-      <div class="cards-grid">
-        {featured_fundings.map(f => <FundingCard funding={f} />)}
+      <div class="cards-grid" data-random-n="6">
+        {featured_fundings.map(f => <FundingCard funding={f} homepage={true} />)}
       </div>
     </FeaturedSection>
   )}
@@ -79,8 +79,8 @@ function recentTypeUrl(item: { _type: string; slug: string }): string {
       viewAllLabel={`View all ${activeTravelGrantsCount} travel grants`}
       alt={true}
     >
-      <div class="cards-grid">
-        {featured_travel_grants.map(g => <TravelGrantCard grant={g} />)}
+      <div class="cards-grid" data-random-n="3">
+        {featured_travel_grants.map(g => <TravelGrantCard grant={g} homepage={true} />)}
       </div>
     </FeaturedSection>
   )}
@@ -92,7 +92,7 @@ function recentTypeUrl(item: { _type: string; slug: string }): string {
       viewAllUrl="/resources/"
       viewAllLabel={`View all ${activeResourcesCount} resources`}
     >
-      <div class="cards-grid">
+      <div class="cards-grid" data-random-n="3">
         {featured_resources.map(r => <ResourceCard resource={r} />)}
       </div>
     </FeaturedSection>
@@ -106,7 +106,7 @@ function recentTypeUrl(item: { _type: string; slug: string }): string {
       viewAllLabel={`View all ${activeFundersCount} funders`}
       alt={true}
     >
-      <div class="cards-grid">
+      <div class="cards-grid" data-random-n="3">
         {featured_funders.map(f => <FunderCard funder={f} />)}
       </div>
     </FeaturedSection>
@@ -163,6 +163,21 @@ function recentTypeUrl(item: { _type: string; slug: string }): string {
       </div>
     </section>
   )}
+
+  <!-- Randomise featured sections on each page load -->
+  <script>
+    document.querySelectorAll<HTMLElement>('.cards-grid[data-random-n]').forEach(grid => {
+      const n = parseInt(grid.dataset.randomN || '0', 10)
+      if (!n) return
+      const cards = Array.from(grid.children) as HTMLElement[]
+      // Fisher-Yates shuffle
+      for (let i = cards.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [cards[i], cards[j]] = [cards[j], cards[i]]
+      }
+      cards.forEach((card, i) => { card.style.display = i < n ? '' : 'none' })
+    })
+  </script>
 
   <!-- CTA -->
   <section class="cta-section">

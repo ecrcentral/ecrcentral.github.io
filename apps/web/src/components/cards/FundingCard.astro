@@ -4,9 +4,16 @@ import type { Funding } from '../../lib/schema'
 interface Props {
   funding: Funding
   compact?: boolean
+  homepage?: boolean
 }
 
-const { funding, compact = false } = Astro.props
+const { funding, compact = false, homepage = false } = Astro.props
+
+const firstFunderLogo = funding.funder_logos?.[0] ?? null
+const firstFunderName = funding.funder_names?.[0] ?? funding.legacy_funder_name ?? null
+const funderInitials = firstFunderName
+  ? firstFunderName.split(' ').slice(0, 2).map((w: string) => w[0]).join('').toUpperCase()
+  : '?'
 
 const statusClass: Record<string, string> = {
   active: 'badge-active',
@@ -48,22 +55,32 @@ const dataFundingPurposes = (funding.funding_purposes ?? []).join(',')
   <div class="card-body">
     <!-- Header row: title + badges -->
     <div class="card-header">
+      {homepage && firstFunderName && (
+        <div class="card-funder-logo" aria-hidden="true">
+          {firstFunderLogo
+            ? <img src={firstFunderLogo} alt="" loading="lazy" width="32" height="32" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'" />
+            : null}
+          <div class="card-funder-logo-fallback" style={`display:${firstFunderLogo ? 'none' : 'flex'}`}>{funderInitials}</div>
+        </div>
+      )}
       <h3 class="card-title">
         <a href={`/fundings/${funding.slug}/`}>{funding.name}</a>
       </h3>
-      <div style="display:flex;gap:6px;flex-shrink:0;align-items:center;flex-wrap:wrap;">
-        {funding.featured && (
-          <span class="badge badge-featured" title="Featured opportunity">
-            <svg width="10" height="10" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
-              <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
-            </svg>
-            Featured
+      {!homepage && (
+        <div style="display:flex;gap:6px;flex-shrink:0;align-items:center;flex-wrap:wrap;">
+          {funding.featured && (
+            <span class="badge badge-featured" title="Featured opportunity">
+              <svg width="10" height="10" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+              </svg>
+              Featured
+            </span>
+          )}
+          <span class={`badge ${statusClass[funding.status] || 'badge-draft'}`}>
+            {funding.status}
           </span>
-        )}
-        <span class={`badge ${statusClass[funding.status] || 'badge-draft'}`}>
-          {funding.status}
-        </span>
-      </div>
+        </div>
+      )}
     </div>
 
     <!-- Funder names -->

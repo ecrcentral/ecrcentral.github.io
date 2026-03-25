@@ -27,6 +27,7 @@ const groupLabels: Record<string, string> = {
   category: 'Category',
   resource_categories: 'Category',
   country: 'Country',
+  dora: 'DORA',
   featured: 'Featured',
   membership: 'Membership',
   diversity: 'Diversity Flag',
@@ -38,7 +39,7 @@ const groupOrder: Record<string, string[]> = {
   fundings: ['status', 'career_levels', 'funding_purposes', 'subject', 'funder', 'applicant_country', 'host_country', 'frequency', 'featured'],
   travel_grants: ['status', 'career_levels', 'travel_purposes', 'subject', 'funder', 'applicant_country', 'membership', 'featured'],
   resources: ['status', 'resource_categories', 'subject', 'featured'],
-  funders: ['status', 'country', 'featured'],
+  funders: ['status', 'country', 'dora', 'featured'],
 }
 
 const orderedGroups = (groupOrder[entityType] || Object.keys(facets))

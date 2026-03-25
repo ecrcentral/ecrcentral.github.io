@@ -120,6 +120,7 @@ const funderFacets = facets.funders || {}
       if (!filters.country.some(c => country.includes(c.toLowerCase()))) return false
     }
     if (filters.featured?.includes('true') && card.dataset.featured !== 'true') return false
+    if (filters.dora?.includes('DORA Signatory') && card.dataset.dora !== 'DORA Signatory') return false
     return true
   }
 
