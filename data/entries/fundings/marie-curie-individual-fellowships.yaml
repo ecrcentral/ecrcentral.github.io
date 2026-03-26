@@ -23,8 +23,8 @@ career_levels:
 - phd
 years_since_phd: '4'
 duration: '3'
-award: Living allowance + Mobility allowance + Family allowance + Research training
-  and networking costs
+award: Living, Mobility, and Family allowance + Research training
+  & networking costs
 mobility_rule: 'No'
 research_costs: null
 deadline: September

@@ -10,8 +10,8 @@ url: https://wellcome.org/research-funding/schemes/wellcome-early-career-awards
 funders:
 - wellcome-trust
 legacy_funder_name: null
-host_country: United Kingdom, Republic of Ireland, Low- and middle-income countries
-applicant_country: United Kingdom, Republic of Ireland, Low- and middle-income countries
+host_country: United Kingdom, Ireland, Low- and middle-income countries
+applicant_country: United Kingdom, Ireland, Low- and middle-income countries
 career_levels:
 - postdoc
 years_since_phd: '0-3'
