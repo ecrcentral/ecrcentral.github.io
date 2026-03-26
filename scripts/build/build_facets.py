@@ -22,6 +22,11 @@ from typing import Any, Dict, List, Optional, Tuple
 # Helpers
 # ---------------------------------------------------------------------------
 
+def slug_to_title(val: str) -> str:
+    """Convert a slug or raw value to Title Case (e.g. 'junior-faculty' → 'Junior Faculty')."""
+    return val.replace('-', ' ').replace('_', ' ').title()
+
+
 def load_json(path: Path) -> List[Dict[str, Any]]:
     """Load a JSON file as a list of dicts."""
     if not path.exists():
@@ -59,10 +64,10 @@ def count_scalar(
         elif label_index and key in label_index:
             labels[key] = label_index[key]
         else:
-            labels[key] = key
+            labels[key] = slug_to_title(key)
 
     return [
-        {'value': val, 'label': labels.get(val, val), 'count': cnt}
+        {'value': val, 'label': labels.get(val, slug_to_title(val)), 'count': cnt}
         for val, cnt in counter.most_common()
     ]
 
@@ -71,23 +76,22 @@ def count_array_field(
     records: List[Dict[str, Any]],
     field: str,
     label_field: Optional[str] = None,
-    name_suffix: str = '_names',
+    names_field: Optional[str] = None,
 ) -> List[Dict[str, Any]]:
     """
     Count occurrences of items in an array field across records.
 
     For array fields like career_levels (slugs), looks for a parallel
-    {field}_names array to get display names.
+    _names array (e.g. career_level_names) to get display names.
 
     Returns a sorted list of {value, label, count} dicts.
     """
     counter: Counter = Counter()
     slug_to_name: Dict[str, str] = {}
-    names_field = field + name_suffix
 
     for record in records:
         items = record.get(field) or []
-        names = record.get(names_field) or []
+        names = record.get(names_field or '') or []
         # Build slug→name mapping from this record
         for slug, name in zip(items, names):
             if slug and name:
@@ -97,7 +101,7 @@ def count_array_field(
                 counter[str(item)] += 1
 
     return [
-        {'value': val, 'label': slug_to_name.get(val, val), 'count': cnt}
+        {'value': val, 'label': slug_to_name.get(val, slug_to_title(val)), 'count': cnt}
         for val, cnt in counter.most_common()
     ]
 
@@ -169,9 +173,9 @@ def build_funding_facets(records: List[Dict[str, Any]]) -> Dict[str, List[Dict[s
         'funder': funder_facet,
         'applicant_country': count_scalar(records, 'applicant_country'),
         'host_country': count_scalar(records, 'host_country'),
-        'career_levels': count_array_field(records, 'career_levels'),
-        'subjects': count_array_field(records, 'subjects'),
-        'funding_purposes': count_array_field(records, 'funding_purposes'),
+        'career_levels': count_array_field(records, 'career_levels', names_field='career_level_names'),
+        'subjects': count_array_field(records, 'subjects', names_field='subject_names'),
+        'funding_purposes': count_array_field(records, 'funding_purposes', names_field='funding_purpose_names'),
         'deadline_month': count_scalar(records, 'deadline_month'),
         'frequency': count_scalar(records, 'frequency'),
         'status': count_scalar(records, 'status'),
@@ -200,9 +204,9 @@ def build_travel_grant_facets(records: List[Dict[str, Any]]) -> Dict[str, List[D
     return {
         'funder': funder_facet,
         'applicant_country': count_scalar(records, 'applicant_country'),
-        'career_levels': count_array_field(records, 'career_levels'),
-        'subjects': count_array_field(records, 'subjects'),
-        'travel_purposes': count_array_field(records, 'travel_purposes'),
+        'career_levels': count_array_field(records, 'career_levels', names_field='career_level_names'),
+        'subjects': count_array_field(records, 'subjects', names_field='subject_names'),
+        'travel_purposes': count_array_field(records, 'travel_purposes', names_field='travel_purpose_names'),
         'membership': count_presence_facet(records, 'membership', 'Membership Required', 'No Membership'),
         'deadline_month': count_scalar(records, 'deadline_month'),
         'status': count_scalar(records, 'status'),
@@ -212,8 +216,8 @@ def build_travel_grant_facets(records: List[Dict[str, Any]]) -> Dict[str, List[D
 def build_resource_facets(records: List[Dict[str, Any]]) -> Dict[str, List[Dict[str, Any]]]:
     """Compute all facets for resources."""
     return {
-        'resource_categories': count_array_field(records, 'resource_categories'),
-        'subjects': count_array_field(records, 'subjects'),
+        'resource_categories': count_array_field(records, 'resource_categories', names_field='resource_category_names'),
+        'subjects': count_array_field(records, 'subjects', names_field='subject_names'),
         'featured': count_bool_facet(records, 'featured', 'Featured', 'Not Featured'),
         'status': count_scalar(records, 'status'),
     }

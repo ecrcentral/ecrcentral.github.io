@@ -1520,7 +1520,7 @@
       },
       {
         "value": "Developing countries",
-        "label": "Developing countries",
+        "label": "Developing Countries",
         "count": 12
       },
       {
@@ -1560,7 +1560,7 @@
       },
       {
         "value": "NA",
-        "label": "NA",
+        "label": "Na",
         "count": 2
       },
       {
@@ -1570,7 +1570,7 @@
       },
       {
         "value": "USA/Canada",
-        "label": "USA/Canada",
+        "label": "Usa/Canada",
         "count": 2
       },
       {
@@ -1595,37 +1595,37 @@
       },
       {
         "value": "Least Developed Countries (LDC)",
-        "label": "Least Developed Countries (LDC)",
+        "label": "Least Developed Countries (Ldc)",
         "count": 2
       },
       {
-        "value": "United Kingdom, Republic of Ireland, Low- and middle-income countries",
-        "label": "United Kingdom, Republic of Ireland, Low- and middle-income countries",
+        "value": "United Kingdom, Ireland, Low- and middle-income countries",
+        "label": "United Kingdom, Ireland, Low  And Middle Income Countries",
         "count": 1
       },
       {
         "value": "UK or Ireland",
-        "label": "UK or Ireland",
+        "label": "Uk Or Ireland",
         "count": 1
       },
       {
         "value": "United States, Canada, and permanent residents of the USA",
-        "label": "United States, Canada, and permanent residents of the USA",
+        "label": "United States, Canada, And Permanent Residents Of The Usa",
         "count": 1
       },
       {
         "value": "USA and legal permanent residents of the USA",
-        "label": "USA and legal permanent residents of the USA",
+        "label": "Usa And Legal Permanent Residents Of The Usa",
         "count": 1
       },
       {
         "value": "United States, Permanent residents of the USA",
-        "label": "United States, Permanent residents of the USA",
+        "label": "United States, Permanent Residents Of The Usa",
         "count": 1
       },
       {
         "value": "USA and permanent residents of the USA",
-        "label": "USA and permanent residents of the USA",
+        "label": "Usa And Permanent Residents Of The Usa",
         "count": 1
       },
       {
@@ -1635,7 +1635,7 @@
       },
       {
         "value": "Emerging countries",
-        "label": "Emerging countries",
+        "label": "Emerging Countries",
         "count": 1
       },
       {
@@ -1645,17 +1645,17 @@
       },
       {
         "value": "USA/Japan",
-        "label": "USA/Japan",
+        "label": "Usa/Japan",
         "count": 1
       },
       {
         "value": "USA / Canada / UK / Ireland",
-        "label": "USA / Canada / UK / Ireland",
+        "label": "Usa / Canada / Uk / Ireland",
         "count": 1
       },
       {
         "value": "Worldwide except Australia and New Zealand",
-        "label": "Worldwide except Australia and New Zealand",
+        "label": "Worldwide Except Australia And New Zealand",
         "count": 1
       },
       {
@@ -1665,12 +1665,12 @@
       },
       {
         "value": "USA / Canada",
-        "label": "USA / Canada",
+        "label": "Usa / Canada",
         "count": 1
       },
       {
         "value": "United States, Canada, Mexico (or hold a Green Card)",
-        "label": "United States, Canada, Mexico (or hold a Green Card)",
+        "label": "United States, Canada, Mexico (Or Hold A Green Card)",
         "count": 1
       },
       {
@@ -1680,7 +1680,7 @@
       },
       {
         "value": "UK and from the European Economic Area",
-        "label": "UK and from the European Economic Area",
+        "label": "Uk And From The European Economic Area",
         "count": 1
       },
       {
@@ -1695,7 +1695,7 @@
       },
       {
         "value": "Germany, Austria and Switzerland",
-        "label": "Germany, Austria and Switzerland",
+        "label": "Germany, Austria And Switzerland",
         "count": 1
       },
       {
@@ -1710,7 +1710,7 @@
       },
       {
         "value": "USA and Canada",
-        "label": "USA and Canada",
+        "label": "Usa And Canada",
         "count": 1
       },
       {
@@ -1720,17 +1720,17 @@
       },
       {
         "value": "Developing country, emerging economy or transition state (excluding the People’s Republic of China and India)",
-        "label": "Developing country, emerging economy or transition state (excluding the People’s Republic of China and India)",
+        "label": "Developing Country, Emerging Economy Or Transition State (Excluding The People’S Republic Of China And India)",
         "count": 1
       },
       {
         "value": "Developing or transition country",
-        "label": "Developing or transition country",
+        "label": "Developing Or Transition Country",
         "count": 1
       },
       {
         "value": "Low and Middle income countries",
-        "label": "Low and Middle income countries",
+        "label": "Low And Middle Income Countries",
         "count": 1
       },
       {
@@ -1740,27 +1740,27 @@
       },
       {
         "value": "MENA region",
-        "label": "MENA region",
+        "label": "Mena Region",
         "count": 1
       },
       {
         "value": "Developing countries (excluding Pakistan)",
-        "label": "Developing countries (excluding Pakistan)",
+        "label": "Developing Countries (Excluding Pakistan)",
         "count": 1
       },
       {
         "value": "Middle East and North Africa (MENA)",
-        "label": "Middle East and North Africa (MENA)",
+        "label": "Middle East And North Africa (Mena)",
         "count": 1
       },
       {
         "value": "Sub-Saharan Africa",
-        "label": "Sub-Saharan Africa",
+        "label": "Sub Saharan Africa",
         "count": 1
       },
       {
         "value": "USA / Israel",
-        "label": "USA / Israel",
+        "label": "Usa / Israel",
         "count": 1
       },
       {
@@ -1770,7 +1770,7 @@
       },
       {
         "value": "UK & Egypt",
-        "label": "UK & Egypt",
+        "label": "Uk & Egypt",
         "count": 1
       }
     ],
@@ -1907,7 +1907,7 @@
       },
       {
         "value": "Developing countries",
-        "label": "Developing countries",
+        "label": "Developing Countries",
         "count": 2
       },
       {
@@ -1916,8 +1916,8 @@
         "count": 2
       },
       {
-        "value": "United Kingdom, Republic of Ireland, Low- and middle-income countries",
-        "label": "United Kingdom, Republic of Ireland, Low- and middle-income countries",
+        "value": "United Kingdom, Ireland, Low- and middle-income countries",
+        "label": "United Kingdom, Ireland, Low  And Middle Income Countries",
         "count": 1
       },
       {
@@ -1947,7 +1947,7 @@
       },
       {
         "value": "No rule",
-        "label": "No rule",
+        "label": "No Rule",
         "count": 1
       },
       {
@@ -1967,12 +1967,12 @@
       },
       {
         "value": "Not active",
-        "label": "Not active",
+        "label": "Not Active",
         "count": 1
       },
       {
         "value": "NA",
-        "label": "NA",
+        "label": "Na",
         "count": 1
       },
       {
@@ -1987,12 +1987,12 @@
       },
       {
         "value": "STRI Facility",
-        "label": "STRI Facility",
+        "label": "Stri Facility",
         "count": 1
       },
       {
         "value": "USA/Japan/Other",
-        "label": "USA/Japan/Other",
+        "label": "Usa/Japan/Other",
         "count": 1
       },
       {
@@ -2002,12 +2002,12 @@
       },
       {
         "value": "USA/Canada",
-        "label": "USA/Canada",
+        "label": "Usa/Canada",
         "count": 1
       },
       {
         "value": "USA/India",
-        "label": "USA/India",
+        "label": "Usa/India",
         "count": 1
       },
       {
@@ -2022,7 +2022,7 @@
       },
       {
         "value": "USA/South America/Latin Ameria or Nordic Countries",
-        "label": "USA/South America/Latin Ameria or Nordic Countries",
+        "label": "Usa/South America/Latin Ameria Or Nordic Countries",
         "count": 1
       },
       {
@@ -2032,17 +2032,17 @@
       },
       {
         "value": "European countries (EU28, Russia, Turkey)",
-        "label": "European countries (EU28, Russia, Turkey)",
+        "label": "European Countries (Eu28, Russia, Turkey)",
         "count": 1
       },
       {
         "value": "Selected EU and EEA Countries",
-        "label": "Selected EU and EEA Countries",
+        "label": "Selected Eu And Eea Countries",
         "count": 1
       },
       {
         "value": "Any except Cuba and Iran",
-        "label": "Any except Cuba and Iran",
+        "label": "Any Except Cuba And Iran",
         "count": 1
       },
       {
@@ -2062,7 +2062,7 @@
       },
       {
         "value": "MENA region",
-        "label": "MENA region",
+        "label": "Mena Region",
         "count": 1
       },
       {
@@ -2082,573 +2082,573 @@
       },
       {
         "value": "UK & Egypt",
-        "label": "UK & Egypt",
+        "label": "Uk & Egypt",
         "count": 1
       }
     ],
     "career_levels": [
       {
         "value": "phd",
-        "label": "phd",
+        "label": "PhD",
         "count": 304
       },
       {
         "value": "postdoc",
-        "label": "postdoc",
+        "label": "Postdoc",
         "count": 111
       },
       {
         "value": "junior-faculty",
-        "label": "junior-faculty",
+        "label": "Junior Faculty",
         "count": 109
       },
       {
         "value": "md",
-        "label": "md",
+        "label": "MD",
         "count": 106
       },
       {
         "value": "master-students",
-        "label": "master-students",
+        "label": "Master students",
         "count": 25
       },
       {
         "value": "senior-faculty",
-        "label": "senior-faculty",
+        "label": "Senior Faculty",
         "count": 16
       },
       {
         "value": "bachelor-students",
-        "label": "bachelor-students",
+        "label": "Bachelor students",
         "count": 10
       }
     ],
     "subjects": [
       {
         "value": "medicine-and-health-sciences",
-        "label": "medicine-and-health-sciences",
+        "label": "Medicine and Health Sciences",
         "count": 188
       },
       {
         "value": "life-sciences",
-        "label": "life-sciences",
+        "label": "Life Sciences",
         "count": 150
       },
       {
         "value": "all-subjects",
-        "label": "all-subjects",
+        "label": "All subjects",
         "count": 102
       },
       {
         "value": "physical-sciences-and-mathematics",
-        "label": "physical-sciences-and-mathematics",
+        "label": "Physical Sciences and Mathematics",
         "count": 38
       },
       {
         "value": "engineering",
-        "label": "engineering",
+        "label": "Engineering",
         "count": 37
       },
       {
         "value": "arts-and-humanities",
-        "label": "arts-and-humanities",
+        "label": "Arts and Humanities",
         "count": 31
       },
       {
         "value": "social-and-behavioral-sciences",
-        "label": "social-and-behavioral-sciences",
+        "label": "Social and Behavioral Sciences",
         "count": 20
       },
       {
         "value": "natural-sciences",
-        "label": "natural-sciences",
+        "label": "Natural Sciences",
         "count": 17
       },
       {
         "value": "biology",
-        "label": "biology",
+        "label": "Biology",
         "count": 14
       },
       {
         "value": "ecology-and-evolutionary-biology",
-        "label": "ecology-and-evolutionary-biology",
+        "label": "Ecology and Evolutionary Biology",
         "count": 11
       },
       {
         "value": "chemistry",
-        "label": "chemistry",
+        "label": "Chemistry",
         "count": 11
       },
       {
         "value": "physics",
-        "label": "physics",
+        "label": "Physics",
         "count": 8
       },
       {
         "value": "environmental-sciences",
-        "label": "environmental-sciences",
+        "label": "Environmental Sciences",
         "count": 7
       },
       {
         "value": "psychology",
-        "label": "psychology",
+        "label": "Psychology",
         "count": 7
       },
       {
         "value": "neuroscience",
-        "label": "neuroscience",
+        "label": "Neuroscience",
         "count": 7
       },
       {
         "value": "earth-sciences",
-        "label": "earth-sciences",
+        "label": "Earth Sciences",
         "count": 7
       },
       {
         "value": "mathematics",
-        "label": "mathematics",
+        "label": "Mathematics",
         "count": 6
       },
       {
         "value": "computer-sciences",
-        "label": "computer-sciences",
+        "label": "Computer Sciences",
         "count": 5
       },
       {
         "value": "astrophysics-and-astronomy",
-        "label": "astrophysics-and-astronomy",
+        "label": "Astrophysics and Astronomy",
         "count": 5
       },
       {
         "value": "anthropology",
-        "label": "anthropology",
+        "label": "Anthropology",
         "count": 5
       },
       {
         "value": "agriculture",
-        "label": "agriculture",
+        "label": "Agriculture",
         "count": 5
       },
       {
         "value": "diseases",
-        "label": "diseases",
+        "label": "Diseases",
         "count": 5
       },
       {
         "value": "bioinformatics",
-        "label": "bioinformatics",
+        "label": "Bioinformatics",
         "count": 4
       },
       {
         "value": "other-life-sciences",
-        "label": "other-life-sciences",
+        "label": "Other Life Sciences",
         "count": 4
       },
       {
         "value": "food-science",
-        "label": "food-science",
+        "label": "Food Science",
         "count": 4
       },
       {
         "value": "artificial-intelligence",
-        "label": "artificial-intelligence",
+        "label": "Artificial intelligence",
         "count": 3
       },
       {
         "value": "business",
-        "label": "business",
+        "label": "Business",
         "count": 3
       },
       {
         "value": "environmental-studies",
-        "label": "environmental-studies",
+        "label": "Environmental Studies",
         "count": 3
       },
       {
         "value": "public-health",
-        "label": "public-health",
+        "label": "Public Health",
         "count": 3
       },
       {
         "value": "genetics-and-genomics",
-        "label": "genetics-and-genomics",
+        "label": "Genetics and Genomics",
         "count": 3
       },
       {
         "value": "biochemistry-biophysics-and-structural-biology",
-        "label": "biochemistry-biophysics-and-structural-biology",
+        "label": "Biochemistry, Biophysics, and Structural Biology",
         "count": 3
       },
       {
         "value": "economics",
-        "label": "economics",
+        "label": "Economics",
         "count": 3
       },
       {
         "value": "theatre-and-performance-studies",
-        "label": "theatre-and-performance-studies",
+        "label": "Theatre and Performance Studies",
         "count": 3
       },
       {
         "value": "immunology",
-        "label": "immunology",
+        "label": "Immunology",
         "count": 3
       },
       {
         "value": "molecular-biology",
-        "label": "molecular-biology",
+        "label": "Molecular Biology",
         "count": 2
       },
       {
         "value": "psychiatry-and-psychology",
-        "label": "psychiatry-and-psychology",
+        "label": "Psychiatry and Psychology",
         "count": 2
       },
       {
         "value": "computer-engineering",
-        "label": "computer-engineering",
+        "label": "Computer Engineering",
         "count": 2
       },
       {
         "value": "pharmacy-and-pharmaceutical-sciences",
-        "label": "pharmacy-and-pharmaceutical-sciences",
+        "label": "Pharmacy and Pharmaceutical Sciences",
         "count": 2
       },
       {
         "value": "plant-sciences",
-        "label": "plant-sciences",
+        "label": "Plant Sciences",
         "count": 2
       },
       {
         "value": "veterinary-medicine",
-        "label": "veterinary-medicine",
+        "label": "Veterinary Medicine",
         "count": 2
       },
       {
         "value": "marine-biology",
-        "label": "marine-biology",
+        "label": "Marine Biology",
         "count": 2
       },
       {
         "value": "philosophy",
-        "label": "philosophy",
+        "label": "Philosophy",
         "count": 2
       },
       {
         "value": "religion",
-        "label": "religion",
+        "label": "Religion",
         "count": 2
       },
       {
         "value": "sociology",
-        "label": "sociology",
+        "label": "Sociology",
         "count": 2
       },
       {
         "value": "architecture",
-        "label": "architecture",
+        "label": "Architecture",
         "count": 2
       },
       {
         "value": "paleontology",
-        "label": "paleontology",
+        "label": "Paleontology",
         "count": 2
       },
       {
         "value": "computational-biology",
-        "label": "computational-biology",
+        "label": "Computational Biology",
         "count": 2
       },
       {
         "value": "zoology",
-        "label": "zoology",
+        "label": "Zoology",
         "count": 2
       },
       {
         "value": "science-and-technology-studies",
-        "label": "science-and-technology-studies",
+        "label": "Science and Technology Studies",
         "count": 2
       },
       {
         "value": "technology-and-innovation",
-        "label": "technology-and-innovation",
+        "label": "Technology and Innovation",
         "count": 2
       },
       {
         "value": "physiology",
-        "label": "physiology",
+        "label": "Physiology",
         "count": 2
       },
       {
         "value": "film-and-media-studies",
-        "label": "film-and-media-studies",
+        "label": "Film and Media Studies",
         "count": 2
       },
       {
         "value": "education",
-        "label": "education",
+        "label": "Education",
         "count": 2
       },
       {
         "value": "microbiology",
-        "label": "microbiology",
+        "label": "Microbiology",
         "count": 2
       },
       {
         "value": "energy",
-        "label": "energy",
+        "label": "Energy",
         "count": 2
       },
       {
         "value": "laboratory-and-basic-life-science-research",
-        "label": "laboratory-and-basic-life-science-research",
+        "label": "Laboratory and Basic Life Science Research",
         "count": 2
       },
       {
         "value": "applied-sciences",
-        "label": "applied-sciences",
+        "label": "Applied Sciences",
         "count": 2
       },
       {
         "value": "technical-sciences",
-        "label": "technical-sciences",
+        "label": "Technical Sciences",
         "count": 1
       },
       {
         "value": "engineering-science-and-materials",
-        "label": "engineering-science-and-materials",
+        "label": "Engineering Science and Materials",
         "count": 1
       },
       {
         "value": "educational-psychology",
-        "label": "educational-psychology",
+        "label": "Educational Psychology",
         "count": 1
       },
       {
         "value": "computational-engineering",
-        "label": "computational-engineering",
+        "label": "Computational Engineering",
         "count": 1
       },
       {
         "value": "chemicals-and-drugs",
-        "label": "chemicals-and-drugs",
+        "label": "Chemicals and Drugs",
         "count": 1
       },
       {
         "value": "medical-sciences",
-        "label": "medical-sciences",
+        "label": "Medical Sciences",
         "count": 1
       },
       {
         "value": "research-methods-in-life-sciences",
-        "label": "research-methods-in-life-sciences",
+        "label": "Research Methods in Life Sciences",
         "count": 1
       },
       {
         "value": "dentistry",
-        "label": "dentistry",
+        "label": "Dentistry",
         "count": 1
       },
       {
         "value": "other-medicine-and-health-sciences",
-        "label": "other-medicine-and-health-sciences",
+        "label": "Other Medicine and Health Sciences",
         "count": 1
       },
       {
         "value": "nursing",
-        "label": "nursing",
+        "label": "Nursing",
         "count": 1
       },
       {
         "value": "biodiversity",
-        "label": "biodiversity",
+        "label": "Biodiversity",
         "count": 1
       },
       {
         "value": "pharmacology-toxicology-and-environmental-health",
-        "label": "pharmacology-toxicology-and-environmental-health",
+        "label": "Pharmacology, Toxicology and Environmental Health",
         "count": 1
       },
       {
         "value": "english-language-and-literature",
-        "label": "english-language-and-literature",
+        "label": "English Language and Literature",
         "count": 1
       },
       {
         "value": "public-affairs-public-policy-and-public-administration",
-        "label": "public-affairs-public-policy-and-public-administration",
+        "label": "Public Affairs, Public Policy and Public Administration",
         "count": 1
       },
       {
         "value": "fine-arts",
-        "label": "fine-arts",
+        "label": "Fine Arts",
         "count": 1
       },
       {
         "value": "food-studies",
-        "label": "food-studies",
+        "label": "Food Studies",
         "count": 1
       },
       {
         "value": "creative-writing",
-        "label": "creative-writing",
+        "label": "Creative Writing",
         "count": 1
       },
       {
         "value": "ethology",
-        "label": "ethology",
+        "label": "Ethology",
         "count": 1
       },
       {
         "value": "logic",
-        "label": "logic",
+        "label": "Logic",
         "count": 1
       },
       {
         "value": "epistemology",
-        "label": "epistemology",
+        "label": "Epistemology",
         "count": 1
       },
       {
         "value": "archaeology",
-        "label": "archaeology",
+        "label": "Archaeology",
         "count": 1
       },
       {
         "value": "cell-and-developmental-biology",
-        "label": "cell-and-developmental-biology",
+        "label": "Cell and Developmental Biology",
         "count": 1
       },
       {
         "value": "biomedical-engineering-and-bioengineering",
-        "label": "biomedical-engineering-and-bioengineering",
+        "label": "Biomedical Engineering and Bioengineering",
         "count": 1
       },
       {
         "value": "proteomics",
-        "label": "proteomics",
+        "label": "Proteomics",
         "count": 1
       },
       {
         "value": "stem-cell-biology",
-        "label": "stem-cell-biology",
+        "label": "Stem Cell Biology",
         "count": 1
       },
       {
         "value": "systems-biology",
-        "label": "systems-biology",
+        "label": "Systems Biology",
         "count": 1
       },
       {
         "value": "bioresource-and-agricultural-engineering",
-        "label": "bioresource-and-agricultural-engineering",
+        "label": "Bioresource and Agricultural Engineering",
         "count": 1
       },
       {
         "value": "infectious-disease",
-        "label": "infectious-disease",
+        "label": "Infectious Disease",
         "count": 1
       },
       {
         "value": "translational-medical-research",
-        "label": "translational-medical-research",
+        "label": "Translational Medical Research",
         "count": 1
       },
       {
         "value": "urban-studies-and-planning",
-        "label": "urban-studies-and-planning",
+        "label": "Urban Studies and Planning",
         "count": 1
       },
       {
         "value": "materials-science-and-engineering",
-        "label": "materials-science-and-engineering",
+        "label": "Materials Science and Engineering",
         "count": 1
       },
       {
         "value": "statistics-and-probability",
-        "label": "statistics-and-probability",
+        "label": "Statistics and Probability",
         "count": 1
       },
       {
         "value": "history",
-        "label": "history",
+        "label": "History",
         "count": 1
       },
       {
         "value": "history-of-art-architecture-and-archaeology",
-        "label": "history-of-art-architecture-and-archaeology",
+        "label": "History of Art, Architecture, and Archaeology",
         "count": 1
       },
       {
         "value": "communication",
-        "label": "communication",
+        "label": "Communication",
         "count": 1
       },
       {
         "value": "literature-and-languages",
-        "label": "literature-and-languages",
+        "label": "Literature and Languages",
         "count": 1
       },
       {
         "value": "oceanography-and-atmospheric-sciences-and-meteorology",
-        "label": "oceanography-and-atmospheric-sciences-and-meteorology",
+        "label": "Oceanography and Atmospheric Sciences and Meteorology",
         "count": 1
       },
       {
         "value": "chemical-engineering",
-        "label": "chemical-engineering",
+        "label": "Chemical Engineering",
         "count": 1
       },
       {
         "value": "library-and-information-science",
-        "label": "library-and-information-science",
+        "label": "Library and Information Science",
         "count": 1
       },
       {
         "value": "social-sciences",
-        "label": "social-sciences",
+        "label": "Social Sciences",
         "count": 1
       }
     ],
     "funding_purposes": [
       {
         "value": "research",
-        "label": "research",
+        "label": "Research",
         "count": 224
       },
       {
         "value": "fellowship-scholarship-or-training",
-        "label": "fellowship-scholarship-or-training",
+        "label": "Fellowship, scholarship or training",
         "count": 211
       },
       {
         "value": "award",
-        "label": "award",
+        "label": "Award",
         "count": 20
       },
       {
         "value": "collaboration",
-        "label": "collaboration",
+        "label": "Collaboration",
         "count": 19
       },
       {
         "value": "equipment",
-        "label": "equipment",
+        "label": "Equipment",
         "count": 11
       },
       {
         "value": "policy",
-        "label": "policy",
+        "label": "Policy",
         "count": 8
       },
       {
         "value": "publishing-and-editorial",
-        "label": "publishing-and-editorial",
+        "label": "Publishing and editorial",
         "count": 7
       },
       {
         "value": "feasibility-studies",
-        "label": "feasibility-studies",
+        "label": "Feasibility Studies",
         "count": 2
       }
     ],
@@ -2935,7 +2935,7 @@
       },
       {
         "value": "31 October 2022, 11:00 am (Konstanz time)",
-        "label": "31 October 2022, 11:00 am (Konstanz time)",
+        "label": "31 October 2022, 11:00 Am (Konstanz Time)",
         "count": 1
       },
       {
@@ -2961,8 +2961,8 @@
         "count": 34
       },
       {
-        "value": "Twice a year",
-        "label": "Twice a year",
+        "value": "Biannual",
+        "label": "Biannual",
         "count": 23
       },
       {
@@ -2977,24 +2977,24 @@
       },
       {
         "value": "Three times per year",
-        "label": "Three times per year",
+        "label": "Three Times Per Year",
         "count": 1
       }
     ],
     "status": [
       {
         "value": "active",
-        "label": "active",
+        "label": "Active",
         "count": 686
       },
       {
         "value": "draft",
-        "label": "draft",
+        "label": "Draft",
         "count": 71
       },
       {
         "value": "expired",
-        "label": "expired",
+        "label": "Expired",
         "count": 16
       }
     ],
@@ -3089,17 +3089,17 @@
       },
       {
         "value": "Anyone, but work in UK",
-        "label": "Anyone, but work in UK",
+        "label": "Anyone, But Work In Uk",
         "count": 4
       },
       {
         "value": "Applicant must be based in the UK",
-        "label": "Applicant must be based in the UK",
+        "label": "Applicant Must Be Based In The Uk",
         "count": 3
       },
       {
         "value": "NA",
-        "label": "NA",
+        "label": "Na",
         "count": 3
       },
       {
@@ -3114,57 +3114,57 @@
       },
       {
         "value": "Joint application between member of staff at Oxford with collaborator in Africa",
-        "label": "Joint application between member of staff at Oxford with collaborator in Africa",
+        "label": "Joint Application Between Member Of Staff At Oxford With Collaborator In Africa",
         "count": 1
       },
       {
         "value": "US or Europe",
-        "label": "US or Europe",
+        "label": "Us Or Europe",
         "count": 1
       },
       {
         "value": "Everyone, but non-European citizens have to work in or travel in Europe",
-        "label": "Everyone, but non-European citizens have to work in or travel in Europe",
+        "label": "Everyone, But Non European Citizens Have To Work In Or Travel In Europe",
         "count": 1
       },
       {
         "value": "Legal resident of USA, Canada or UK",
-        "label": "Legal resident of USA, Canada or UK",
+        "label": "Legal Resident Of Usa, Canada Or Uk",
         "count": 1
       },
       {
         "value": "global - see details on website",
-        "label": "global - see details on website",
+        "label": "Global   See Details On Website",
         "count": 1
       },
       {
         "value": "Anyone, but work at UCL",
-        "label": "Anyone, but work at UCL",
+        "label": "Anyone, But Work At Ucl",
         "count": 1
       },
       {
         "value": "Must have PhD or MD, from Egypt, Israel, Jordan, Lebanon, Palestinian Territories, United Kingdom",
-        "label": "Must have PhD or MD, from Egypt, Israel, Jordan, Lebanon, Palestinian Territories, United Kingdom",
+        "label": "Must Have Phd Or Md, From Egypt, Israel, Jordan, Lebanon, Palestinian Territories, United Kingdom",
         "count": 1
       },
       {
         "value": "EMBO Member States, Associated Member states or Cooperation partners",
-        "label": "EMBO Member States, Associated Member states or Cooperation partners",
+        "label": "Embo Member States, Associated Member States Or Cooperation Partners",
         "count": 1
       },
       {
         "value": "Applicants must be a member of the SID (in good standing) and active in investigative dermatology in an US-based department, laboratory, or institution.",
-        "label": "Applicants must be a member of the SID (in good standing) and active in investigative dermatology in an US-based department, laboratory, or institution.",
+        "label": "Applicants Must Be A Member Of The Sid (In Good Standing) And Active In Investigative Dermatology In An Us Based Department, Laboratory, Or Institution.",
         "count": 1
       },
       {
         "value": "Scientists working in a country with high GDP are not eligible",
-        "label": "Scientists working in a country with high GDP are not eligible",
+        "label": "Scientists Working In A Country With High Gdp Are Not Eligible",
         "count": 1
       },
       {
         "value": "ESDR member based in Europe",
-        "label": "ESDR member based in Europe",
+        "label": "Esdr Member Based In Europe",
         "count": 1
       },
       {
@@ -3174,22 +3174,22 @@
       },
       {
         "value": "US",
-        "label": "US",
+        "label": "Us",
         "count": 1
       },
       {
         "value": "Anyone, but has to work in Germany",
-        "label": "Anyone, but has to work in Germany",
+        "label": "Anyone, But Has To Work In Germany",
         "count": 1
       },
       {
         "value": "UK-based, any nationality",
-        "label": "UK-based, any nationality",
+        "label": "Uk Based, Any Nationality",
         "count": 1
       },
       {
         "value": "Resident in UK, non-student, hold established position",
-        "label": "Resident in UK, non-student, hold established position",
+        "label": "Resident In Uk, Non Student, Hold Established Position",
         "count": 1
       },
       {
@@ -3199,7 +3199,7 @@
       },
       {
         "value": "Bosnia-Herzegovina, Bulgaria, Cyprus, Czech Republic, Estonia, Croatia, Hungary, Lithuania, Latvia, Luxembourg, Malta, Montenegro, Poland, Portugal, Slovenia, Slovakia, the former Yugoslav Re",
-        "label": "Bosnia-Herzegovina, Bulgaria, Cyprus, Czech Republic, Estonia, Croatia, Hungary, Lithuania, Latvia, Luxembourg, Malta, Montenegro, Poland, Portugal, Slovenia, Slovakia, the former Yugoslav Re",
+        "label": "Bosnia Herzegovina, Bulgaria, Cyprus, Czech Republic, Estonia, Croatia, Hungary, Lithuania, Latvia, Luxembourg, Malta, Montenegro, Poland, Portugal, Slovenia, Slovakia, The Former Yugoslav Re",
         "count": 1
       },
       {
@@ -3209,7 +3209,7 @@
       },
       {
         "value": "UK-based to go abroad, non-UK-based to go to UK",
-        "label": "UK-based to go abroad, non-UK-based to go to UK",
+        "label": "Uk Based To Go Abroad, Non Uk Based To Go To Uk",
         "count": 1
       },
       {
@@ -3219,12 +3219,12 @@
       },
       {
         "value": "Applicants must be attending U.S. institutions",
-        "label": "Applicants must be attending U.S. institutions",
+        "label": "Applicants Must Be Attending U.S. Institutions",
         "count": 1
       },
       {
         "value": "Must be in eligible country, coming to the UK to establish collaboration (Brazil, Malaysia, Mexico, South Africa, Turkey, Thailand, Vietnam)",
-        "label": "Must be in eligible country, coming to the UK to establish collaboration (Brazil, Malaysia, Mexico, South Africa, Turkey, Thailand, Vietnam)",
+        "label": "Must Be In Eligible Country, Coming To The Uk To Establish Collaboration (Brazil, Malaysia, Mexico, South Africa, Turkey, Thailand, Vietnam)",
         "count": 1
       },
       {
@@ -3239,178 +3239,178 @@
       },
       {
         "value": "Anyone, but visited institute should be outside UK",
-        "label": "Anyone, but visited institute should be outside UK",
+        "label": "Anyone, But Visited Institute Should Be Outside Uk",
         "count": 1
       },
       {
         "value": "(co)-author of PLOS publication",
-        "label": "(co)-author of PLOS publication",
+        "label": "(Co) Author Of Plos Publication",
         "count": 1
       },
       {
         "value": "Anyone, but for congress organization the organising committee should include professors from at least two universities from the Wallonia-Brussels Federation",
-        "label": "Anyone, but for congress organization the organising committee should include professors from at least two universities from the Wallonia-Brussels Federation",
+        "label": "Anyone, But For Congress Organization The Organising Committee Should Include Professors From At Least Two Universities From The Wallonia Brussels Federation",
         "count": 1
       },
       {
         "value": "applicant must be in the temporary employment of a Dutch institute",
-        "label": "applicant must be in the temporary employment of a Dutch institute",
+        "label": "Applicant Must Be In The Temporary Employment Of A Dutch Institute",
         "count": 1
       },
       {
         "value": "See funder's website",
-        "label": "See funder's website",
+        "label": "See Funder'S Website",
         "count": 1
       },
       {
         "value": "Resident in UK for at least 5 years, hold a degree from UK instutitution, studying at UK institution",
-        "label": "Resident in UK for at least 5 years, hold a degree from UK instutitution, studying at UK institution",
+        "label": "Resident In Uk For At Least 5 Years, Hold A Degree From Uk Instutitution, Studying At Uk Institution",
         "count": 1
       },
       {
         "value": "ECR must be employed with a SULSA department",
-        "label": "ECR must be employed with a SULSA department",
+        "label": "Ecr Must Be Employed With A Sulsa Department",
         "count": 1
       },
       {
         "value": "From ICGEB Member States (http://www.icgeb.org/member-states.html)",
-        "label": "From ICGEB Member States (http://www.icgeb.org/member-states.html)",
+        "label": "From Icgeb Member States (Http://Www.Icgeb.Org/Member States.Html)",
         "count": 1
       },
       {
         "value": "ICGEB Member States",
-        "label": "ICGEB Member States",
+        "label": "Icgeb Member States",
         "count": 1
       },
       {
         "value": "Be attending a GRC, working in the US, Hispanic or Latino, American Indian or Alaska Native, Black or African American, Native Hawaiian or Other Pacific Islander",
-        "label": "Be attending a GRC, working in the US, Hispanic or Latino, American Indian or Alaska Native, Black or African American, Native Hawaiian or Other Pacific Islander",
+        "label": "Be Attending A Grc, Working In The Us, Hispanic Or Latino, American Indian Or Alaska Native, Black Or African American, Native Hawaiian Or Other Pacific Islander",
         "count": 1
       },
       {
         "value": "From nation affected by the health problem of the meeting topic",
-        "label": "From nation affected by the health problem of the meeting topic",
+        "label": "From Nation Affected By The Health Problem Of The Meeting Topic",
         "count": 1
       },
       {
         "value": "Anyone, but has to be German or work at a German research institute",
-        "label": "Anyone, but has to be German or work at a German research institute",
+        "label": "Anyone, But Has To Be German Or Work At A German Research Institute",
         "count": 1
       },
       {
         "value": "Research needs to be funded by Arthritis Research UK",
-        "label": "Research needs to be funded by Arthritis Research UK",
+        "label": "Research Needs To Be Funded By Arthritis Research Uk",
         "count": 1
       },
       {
         "value": "Lead applicant should be based in UK",
-        "label": "Lead applicant should be based in UK",
+        "label": "Lead Applicant Should Be Based In Uk",
         "count": 1
       },
       {
         "value": "Click grant URL for list of eligible countries",
-        "label": "Click grant URL for list of eligible countries",
+        "label": "Click Grant Url For List Of Eligible Countries",
         "count": 1
       }
     ],
     "career_levels": [
       {
         "value": "phd",
-        "label": "phd",
+        "label": "PhD",
         "count": 30
       },
       {
         "value": "postdoc",
-        "label": "postdoc",
+        "label": "Postdoc",
         "count": 24
       },
       {
         "value": "junior-faculty",
-        "label": "junior-faculty",
+        "label": "Junior Faculty",
         "count": 8
       },
       {
         "value": "master-students",
-        "label": "master-students",
+        "label": "Master students",
         "count": 4
       },
       {
         "value": "senior-faculty",
-        "label": "senior-faculty",
+        "label": "Senior Faculty",
         "count": 2
       },
       {
         "value": "bachelor-students",
-        "label": "bachelor-students",
+        "label": "Bachelor students",
         "count": 1
       }
     ],
     "subjects": [
       {
         "value": "life-sciences",
-        "label": "life-sciences",
+        "label": "Life Sciences",
         "count": 7
       },
       {
         "value": "all-subjects",
-        "label": "all-subjects",
+        "label": "All subjects",
         "count": 4
       },
       {
         "value": "immunology",
-        "label": "immunology",
+        "label": "Immunology",
         "count": 1
       },
       {
         "value": "bioinformatics",
-        "label": "bioinformatics",
+        "label": "Bioinformatics",
         "count": 1
       },
       {
         "value": "medicine-and-health-sciences",
-        "label": "medicine-and-health-sciences",
+        "label": "Medicine and Health Sciences",
         "count": 1
       },
       {
         "value": "chemistry",
-        "label": "chemistry",
+        "label": "Chemistry",
         "count": 1
       },
       {
         "value": "physics",
-        "label": "physics",
+        "label": "Physics",
         "count": 1
       }
     ],
     "travel_purposes": [
       {
         "value": "conference",
-        "label": "conference",
+        "label": "Conference",
         "count": 72
       },
       {
         "value": "collaboration",
-        "label": "collaboration",
+        "label": "Collaboration",
         "count": 29
       },
       {
         "value": "learn-new-technique",
-        "label": "learn-new-technique",
+        "label": "Learn new technique",
         "count": 25
       },
       {
         "value": "workshop-training-or-course",
-        "label": "workshop-training-or-course",
+        "label": "Workshop, training or course",
         "count": 19
       },
       {
         "value": "research-visit",
-        "label": "research-visit",
+        "label": "Research visit",
         "count": 17
       },
       {
         "value": "field-work",
-        "label": "field-work",
+        "label": "Field work",
         "count": 7
       }
     ],
@@ -3546,17 +3546,17 @@
     "status": [
       {
         "value": "active",
-        "label": "active",
+        "label": "Active",
         "count": 105
       },
       {
         "value": "draft",
-        "label": "draft",
+        "label": "Draft",
         "count": 1
       },
       {
         "value": "archived",
-        "label": "archived",
+        "label": "Archived",
         "count": 1
       }
     ]
@@ -3565,97 +3565,97 @@
     "resource_categories": [
       {
         "value": "career-development",
-        "label": "career-development",
+        "label": "Career development",
         "count": 46
       },
       {
         "value": "science-communication",
-        "label": "science-communication",
+        "label": "Science Communication",
         "count": 42
       },
       {
         "value": "covid19-resources-guidebooks",
-        "label": "covid19-resources-guidebooks",
+        "label": "COVID19 Resources & guidebooks",
         "count": 24
       },
       {
         "value": "covid19-online-events",
-        "label": "covid19-online-events",
+        "label": "COVID19 Online events",
         "count": 22
       },
       {
         "value": "academic-writing",
-        "label": "academic-writing",
+        "label": "Academic writing",
         "count": 17
       },
       {
         "value": "publishing",
-        "label": "publishing",
+        "label": "Publishing",
         "count": 17
       },
       {
         "value": "public-involvement-in-research",
-        "label": "public-involvement-in-research",
+        "label": "Public Involvement in Research",
         "count": 16
       },
       {
         "value": "reproducibility",
-        "label": "reproducibility",
+        "label": "Reproducibility",
         "count": 14
       },
       {
         "value": "covid19-requests-for-help",
-        "label": "covid19-requests-for-help",
+        "label": "COVID19 Requests for help",
         "count": 12
       },
       {
         "value": "peer-review",
-        "label": "peer-review",
+        "label": "Peer review",
         "count": 11
       },
       {
         "value": "preprints",
-        "label": "preprints",
+        "label": "Preprints",
         "count": 11
       },
       {
         "value": "teaching",
-        "label": "teaching",
+        "label": "Teaching",
         "count": 10
       },
       {
         "value": "diversity-and-inclusion",
-        "label": "diversity-and-inclusion",
+        "label": "Diversity and inclusion",
         "count": 9
       },
       {
         "value": "policy",
-        "label": "policy",
+        "label": "Policy",
         "count": 8
       },
       {
         "value": "other",
-        "label": "other",
+        "label": "Other",
         "count": 8
       },
       {
         "value": "open-source",
-        "label": "open-source",
+        "label": "Open source",
         "count": 7
       },
       {
         "value": "mental-health",
-        "label": "mental-health",
+        "label": "Mental Health",
         "count": 3
       },
       {
         "value": "mentoring",
-        "label": "mentoring",
+        "label": "Mentoring",
         "count": 2
       },
       {
         "value": "conflict-management",
-        "label": "conflict-management",
+        "label": "Conflict management",
         "count": 1
       }
     ],
@@ -3675,7 +3675,7 @@
     "status": [
       {
         "value": "active",
-        "label": "active",
+        "label": "Active",
         "count": 163
       }
     ]
@@ -3694,7 +3694,7 @@
       },
       {
         "value": "NA",
-        "label": "NA",
+        "label": "Na",
         "count": 38
       },
       {
@@ -3888,7 +3888,7 @@
     "status": [
       {
         "value": "active",
-        "label": "active",
+        "label": "Active",
         "count": 545
       }
     ],
