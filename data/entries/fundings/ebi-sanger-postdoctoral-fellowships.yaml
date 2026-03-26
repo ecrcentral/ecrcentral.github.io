@@ -34,13 +34,11 @@ comments: The EMBL-EBI and the Wellcome Trust Sanger Institute share the Wellcom
   or may chose from a list of projects available at the beginning of each call.
 benefits: null
 frequency: Annual
-fileds: null
-featured: false
+featured: true
 review_status: approved
 status: active
 last_verified: '2026-02-19'
 verified_by: asntech
-legacy_user_id: 1
 created_at: null
 updated_at: '2020-05-26T08:17:06Z'
 subjects:

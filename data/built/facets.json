@@ -82,8 +82,13 @@
         "count": 4
       },
       {
+        "value": "european-molecular-biology-laboratory-embl",
+        "label": "European Molecular Biology Laboratory",
+        "count": 3
+      },
+      {
         "value": "european-molecular-biology-organization-embo",
-        "label": "European Molecular Biology Organization (EMBO)",
+        "label": "European Molecular Biology Organization",
         "count": 3
       },
       {
@@ -184,11 +189,6 @@
       {
         "value": "biotechnology-and-biological-sciences-research-council-bbsrc",
         "label": "Biotechnology and Biological Sciences Research Council - BBSRC",
-        "count": 3
-      },
-      {
-        "value": "european-molecular-biology-laboratory-embl",
-        "label": "European Molecular Biology Laboratory (EMBL)",
         "count": 3
       },
       {
@@ -1594,11 +1594,6 @@
         "count": 2
       },
       {
-        "value": "United Kingdom, Ireland, Low- and middle-income countries",
-        "label": "United Kingdom, Ireland, Low  And Middle Income Countries",
-        "count": 1
-      },
-      {
         "value": "UK or Ireland",
         "label": "Uk Or Ireland",
         "count": 1
@@ -1751,6 +1746,11 @@
       {
         "value": "Sub-Saharan Africa",
         "label": "Sub Saharan Africa",
+        "count": 1
+      },
+      {
+        "value": "United Kingdom, Ireland, Low- and middle-income countries",
+        "label": "United Kingdom, Ireland, Low  And Middle Income Countries",
         "count": 1
       },
       {
@@ -1911,11 +1911,6 @@
         "count": 2
       },
       {
-        "value": "United Kingdom, Ireland, Low- and middle-income countries",
-        "label": "United Kingdom, Ireland, Low  And Middle Income Countries",
-        "count": 1
-      },
-      {
         "value": "Kenya",
         "label": "Kenya",
         "count": 1
@@ -2063,6 +2058,11 @@
       {
         "value": "Türkiye",
         "label": "Türkiye",
+        "count": 1
+      },
+      {
+        "value": "United Kingdom, Ireland, Low- and middle-income countries",
+        "label": "United Kingdom, Ireland, Low  And Middle Income Countries",
         "count": 1
       },
       {
@@ -3042,7 +3042,7 @@
       },
       {
         "value": "european-molecular-biology-organization-embo",
-        "label": "European Molecular Biology Organization (EMBO)",
+        "label": "European Molecular Biology Organization",
         "count": 1
       },
       {

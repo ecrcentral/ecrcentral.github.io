@@ -62,6 +62,69 @@
     ]
   },
   {
+    "id": "funding-ebi-sanger-postdoctoral-fellowships",
+    "legacy_id": 59,
+    "slug": "ebi-sanger-postdoctoral-fellowships",
+    "name": "EBI-Sanger postdoctoral fellowships",
+    "description": "The EBI–Sanger Postdoctoral (ESPOD) Programme builds on the collaborative relationship between EMBL-EBI and the Wellcome Sanger Institute, offering projects that combine experimental (wet-lab) and computational (dry-lab) approaches.\r\n\r\nBoth institutions are located on the Wellcome Genome Campus: their proximity fosters great opportunities for close collaborations. Our researchers have easy access to scientific expertise, well-equipped facilities and an active seminar programme.",
+    "url": "https://www.ebi.ac.uk/research/postdocs/espods",
+    "funders": [
+      "wellcome-trust",
+      "european-molecular-biology-laboratory-embl"
+    ],
+    "legacy_funder_name": "EMBL-EBI and the Wellcome Trust Sanger Institute",
+    "host_country": "United Kingdom",
+    "applicant_country": "Worldwide",
+    "career_levels": [
+      "phd"
+    ],
+    "years_since_phd": null,
+    "duration": "3",
+    "award": null,
+    "mobility_rule": "No",
+    "research_costs": null,
+    "deadline": "July",
+    "deadline_month": "July",
+    "diversity": null,
+    "comments": "The EMBL-EBI and the Wellcome Trust Sanger Institute share the Wellcome Trust Genome Campus in Hinxton close to Cambridge. The two institutes have joined forces to offer postdoctoral fellowships focusing on projects that combine experimental (wet-lab) and computational (dry-lab) approaches. Candidates are invited to put forth projects of their choice involving one group at each of the two institutes or may chose from a list of projects available at the beginning of each call.",
+    "benefits": null,
+    "frequency": "Annual",
+    "featured": true,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "created_at": null,
+    "updated_at": "2020-05-26T08:17:06Z",
+    "subjects": [
+      "life-sciences"
+    ],
+    "funding_purposes": [
+      "fellowship-scholarship-or-training",
+      "research"
+    ],
+    "search_text": "EBI-Sanger postdoctoral fellowships The EBI–Sanger Postdoctoral (ESPOD) Programme builds on the collaborative relationship between EMBL-EBI and the Wellcome Sanger Institute, offering projects that combine experimental (wet-lab) and computational (dry-lab) approaches.\r\n\r\nBoth institutions are located on the Wellcome Genome Campus: their proximity fosters great opportunities for close collaborations. Our researchers have easy access to scientific expertise, well-equipped facilities and an active seminar programme. Wellcome Trust European Molecular Biology Laboratory (EMBL) PhD Life Sciences Fellowship, scholarship or training Research United Kingdom Worldwide",
+    "source": "legacy-import",
+    "funder_names": [
+      "Wellcome Trust",
+      "European Molecular Biology Laboratory"
+    ],
+    "funder_logos": [
+      "/logos/funders/wellcome-trust.png",
+      "/logos/funders/european-molecular-biology-laboratory-embl.png"
+    ],
+    "career_level_names": [
+      "PhD"
+    ],
+    "subject_names": [
+      "Life Sciences"
+    ],
+    "funding_purpose_names": [
+      "Fellowship, scholarship or training",
+      "Research"
+    ]
+  },
+  {
     "id": "funding-marie-curie-individual-fellowships",
     "legacy_id": 65,
     "slug": "marie-curie-individual-fellowships",
@@ -169,7 +232,7 @@
     "search_text": "EMBO Postdoctoral Fellowships The EMBO Postdoctoral Fellowships are awarded for a period of up to two years and support excellent postdoctoral researchers in laboratories throughout Europe and the world. International exchange is a key requirement. Now awarding grants for employment contracts in EMBC countries, EMBO Postdoctoral Fellowships also support the career development of the fellows through leadership courses and networking opportunities European Molecular Biology Organization (EMBO) PhD MD Life Sciences Molecular Biology Fellowship, scholarship or training Research Europe Worldwide",
     "source": "legacy-import",
     "funder_names": [
-      "European Molecular Biology Organization (EMBO)"
+      "European Molecular Biology Organization"
     ],
     "funder_logos": [
       "/logos/funders/european-molecular-biology-organization-embo.png"
@@ -582,7 +645,6 @@
       "simons-foundation"
     ],
     "legacy_funder_name": null,
-    "logo": "/funders/simons-foundation.png",
     "host_country": "Worldwide",
     "applicant_country": "Worldwide",
     "career_levels": [
@@ -630,68 +692,6 @@
     "subject_names": [
       "Neuroscience",
       "Biology"
-    ],
-    "funding_purpose_names": [
-      "Fellowship, scholarship or training",
-      "Research"
-    ]
-  },
-  {
-    "id": "funding-wellcome-early-career-awards",
-    "legacy_id": null,
-    "slug": "wellcome-early-career-awards",
-    "name": "Wellcome Early-Career Awards",
-    "description": "Funding for early-career researchers ready to develop their research identity through innovative projects that advance understanding in their field, or develop methodologies, frameworks, tools or techniques benefiting health-related research.",
-    "url": "https://wellcome.org/research-funding/schemes/wellcome-early-career-awards",
-    "funders": [
-      "wellcome-trust"
-    ],
-    "legacy_funder_name": null,
-    "host_country": "United Kingdom, Ireland, Low- and middle-income countries",
-    "applicant_country": "United Kingdom, Ireland, Low- and middle-income countries",
-    "career_levels": [
-      "postdoc"
-    ],
-    "years_since_phd": "0-3",
-    "duration": "5",
-    "award": "Salary plus up to £400,000 research expenses",
-    "mobility_rule": null,
-    "research_costs": "Up to £400,000",
-    "deadline": null,
-    "deadline_month": null,
-    "diversity": null,
-    "comments": "Applicants must have passed their PhD viva (or have 4+ years equivalent research experience) by the application deadline and no more than 3 years postdoctoral experience. Adjustments available for career breaks, part-time work, clinical training and Covid-19 impact. Three funding rounds per year.",
-    "benefits": null,
-    "frequency": "Three times per year",
-    "fileds": null,
-    "featured": true,
-    "review_status": "approved",
-    "status": "active",
-    "last_verified": "2026-03-26",
-    "verified_by": "asntech",
-    "legacy_user_id": null,
-    "created_at": "2026-03-26T00:00:00Z",
-    "updated_at": "2026-03-26T00:00:00Z",
-    "subjects": [
-      "all-subjects"
-    ],
-    "funding_purposes": [
-      "fellowship-scholarship-or-training",
-      "research"
-    ],
-    "search_text": "Wellcome Early-Career Awards Funding for early-career researchers ready to develop their research identity. Wellcome Trust Postdoc United Kingdom Ireland Low- and middle-income countries All subjects Fellowship research",
-    "source": "manual",
-    "funder_names": [
-      "Wellcome Trust"
-    ],
-    "funder_logos": [
-      "/logos/funders/wellcome-trust.png"
-    ],
-    "career_level_names": [
-      "Postdoc"
-    ],
-    "subject_names": [
-      "All subjects"
     ],
     "funding_purpose_names": [
       "Fellowship, scholarship or training",
@@ -15238,7 +15238,7 @@
     "search_text": "EMBO Postdoctoral Fellowships The EMBO Postdoctoral Fellowships are awarded for a period of up to two years and support excellent postdoctoral researchers in laboratories throughout Europe and the world. International exchange is a key requirement. Now awarding grants for employment contracts in EMBC countries, EMBO Postdoctoral Fellowships also support the career development of the fellows through leadership courses and networking opportunities. European Molecular Biology Organization (EMBO) PhD Life Sciences Worldwide Worldwide",
     "source": "legacy-import",
     "funder_names": [
-      "European Molecular Biology Organization (EMBO)"
+      "European Molecular Biology Organization"
     ],
     "funder_logos": [
       "/logos/funders/european-molecular-biology-organization-embo.png"
@@ -24215,7 +24215,7 @@
     "search_text": "EMBO Advanced Fellowships <p>This fellowship offers an additional two years of funding for EMBO Long-Term Fellows who can demonstrate exceptional progress during their current postdoctoral work.</p> European Molecular Biology Organization (EMBO) Postdoc Fellowship, scholarship or training Europe Worldwide",
     "source": "legacy-import",
     "funder_names": [
-      "European Molecular Biology Organization (EMBO)"
+      "European Molecular Biology Organization"
     ],
     "funder_logos": [
       "/logos/funders/european-molecular-biology-organization-embo.png"
@@ -27774,7 +27774,7 @@
     "source": "legacy-import",
     "funder_names": [
       "University of Cambridge",
-      "European Molecular Biology Laboratory (EMBL)"
+      "European Molecular Biology Laboratory"
     ],
     "funder_logos": [
       "/logos/funders/university-of-cambridge.jpeg",
@@ -27841,7 +27841,7 @@
     "source": "legacy-import",
     "funder_names": [
       "H2020 Marie Skłodowska-Curie Actions",
-      "European Molecular Biology Laboratory (EMBL)"
+      "European Molecular Biology Laboratory"
     ],
     "funder_logos": [
       "/logos/funders/h2020-marie-skodowska-curie-actions.jpg",
@@ -27854,71 +27854,6 @@
     "subject_names": [
       "Life Sciences",
       "All subjects"
-    ],
-    "funding_purpose_names": [
-      "Fellowship, scholarship or training",
-      "Research"
-    ]
-  },
-  {
-    "id": "funding-ebi-sanger-postdoctoral-fellowships",
-    "legacy_id": 59,
-    "slug": "ebi-sanger-postdoctoral-fellowships",
-    "name": "EBI-Sanger postdoctoral fellowships",
-    "description": "The EBI–Sanger Postdoctoral (ESPOD) Programme builds on the collaborative relationship between EMBL-EBI and the Wellcome Sanger Institute, offering projects that combine experimental (wet-lab) and computational (dry-lab) approaches.\r\n\r\nBoth institutions are located on the Wellcome Genome Campus: their proximity fosters great opportunities for close collaborations. Our researchers have easy access to scientific expertise, well-equipped facilities and an active seminar programme.",
-    "url": "https://www.ebi.ac.uk/research/postdocs/espods",
-    "funders": [
-      "wellcome-trust",
-      "european-molecular-biology-laboratory-embl"
-    ],
-    "legacy_funder_name": "EMBL-EBI and the Wellcome Trust Sanger Institute",
-    "host_country": "United Kingdom",
-    "applicant_country": "Worldwide",
-    "career_levels": [
-      "phd"
-    ],
-    "years_since_phd": null,
-    "duration": "3",
-    "award": null,
-    "mobility_rule": "No",
-    "research_costs": null,
-    "deadline": "July",
-    "deadline_month": "July",
-    "diversity": null,
-    "comments": "The EMBL-EBI and the Wellcome Trust Sanger Institute share the Wellcome Trust Genome Campus in Hinxton close to Cambridge. The two institutes have joined forces to offer postdoctoral fellowships focusing on projects that combine experimental (wet-lab) and computational (dry-lab) approaches. Candidates are invited to put forth projects of their choice involving one group at each of the two institutes or may chose from a list of projects available at the beginning of each call.",
-    "benefits": null,
-    "frequency": "Annual",
-    "fileds": null,
-    "featured": false,
-    "review_status": "approved",
-    "status": "active",
-    "last_verified": "2026-02-19",
-    "verified_by": "asntech",
-    "legacy_user_id": 1,
-    "created_at": null,
-    "updated_at": "2020-05-26T08:17:06Z",
-    "subjects": [
-      "life-sciences"
-    ],
-    "funding_purposes": [
-      "fellowship-scholarship-or-training",
-      "research"
-    ],
-    "search_text": "EBI-Sanger postdoctoral fellowships The EBI–Sanger Postdoctoral (ESPOD) Programme builds on the collaborative relationship between EMBL-EBI and the Wellcome Sanger Institute, offering projects that combine experimental (wet-lab) and computational (dry-lab) approaches.\r\n\r\nBoth institutions are located on the Wellcome Genome Campus: their proximity fosters great opportunities for close collaborations. Our researchers have easy access to scientific expertise, well-equipped facilities and an active seminar programme. Wellcome Trust European Molecular Biology Laboratory (EMBL) PhD Life Sciences Fellowship, scholarship or training Research United Kingdom Worldwide",
-    "source": "legacy-import",
-    "funder_names": [
-      "Wellcome Trust",
-      "European Molecular Biology Laboratory (EMBL)"
-    ],
-    "funder_logos": [
-      "/logos/funders/wellcome-trust.png",
-      "/logos/funders/european-molecular-biology-laboratory-embl.png"
-    ],
-    "career_level_names": [
-      "PhD"
-    ],
-    "subject_names": [
-      "Life Sciences"
     ],
     "funding_purpose_names": [
       "Fellowship, scholarship or training",
@@ -38041,6 +37976,68 @@
     "subject_names": [
       "Medicine and Health Sciences",
       "Diseases"
+    ],
+    "funding_purpose_names": [
+      "Fellowship, scholarship or training",
+      "Research"
+    ]
+  },
+  {
+    "id": "funding-wellcome-early-career-awards",
+    "legacy_id": null,
+    "slug": "wellcome-early-career-awards",
+    "name": "Wellcome Early-Career Awards",
+    "description": "Funding for early-career researchers ready to develop their research identity through innovative projects that advance understanding in their field, or develop methodologies, frameworks, tools or techniques benefiting health-related research.",
+    "url": "https://wellcome.org/research-funding/schemes/wellcome-early-career-awards",
+    "funders": [
+      "wellcome-trust"
+    ],
+    "legacy_funder_name": null,
+    "host_country": "United Kingdom, Ireland, Low- and middle-income countries",
+    "applicant_country": "United Kingdom, Ireland, Low- and middle-income countries",
+    "career_levels": [
+      "postdoc"
+    ],
+    "years_since_phd": "0-3",
+    "duration": "5",
+    "award": "Salary plus up to £400,000 research expenses",
+    "mobility_rule": null,
+    "research_costs": "Up to £400,000",
+    "deadline": null,
+    "deadline_month": null,
+    "diversity": null,
+    "comments": "Applicants must have passed their PhD viva (or have 4+ years equivalent research experience) by the application deadline and no more than 3 years postdoctoral experience. Adjustments available for career breaks, part-time work, clinical training and Covid-19 impact. Three funding rounds per year.",
+    "benefits": null,
+    "frequency": "Three times per year",
+    "fileds": null,
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-03-26",
+    "verified_by": "asntech",
+    "legacy_user_id": null,
+    "created_at": "2026-03-26T00:00:00Z",
+    "updated_at": "2026-03-26T00:00:00Z",
+    "subjects": [
+      "all-subjects"
+    ],
+    "funding_purposes": [
+      "fellowship-scholarship-or-training",
+      "research"
+    ],
+    "search_text": "Wellcome Early-Career Awards Funding for early-career researchers ready to develop their research identity. Wellcome Trust Postdoc United Kingdom Ireland Low- and middle-income countries All subjects Fellowship research",
+    "source": "manual",
+    "funder_names": [
+      "Wellcome Trust"
+    ],
+    "funder_logos": [
+      "/logos/funders/wellcome-trust.png"
+    ],
+    "career_level_names": [
+      "Postdoc"
+    ],
+    "subject_names": [
+      "All subjects"
     ],
     "funding_purpose_names": [
       "Fellowship, scholarship or training",

@@ -44,6 +44,51 @@
       "frequency": "Annual"
     },
     {
+      "id": "funding-ebi-sanger-postdoctoral-fellowships",
+      "type": "funding",
+      "_type": "funding",
+      "slug": "ebi-sanger-postdoctoral-fellowships",
+      "name": "EBI-Sanger postdoctoral fellowships",
+      "description": "The EBI–Sanger Postdoctoral (ESPOD) Programme builds on the collaborative relationship between EMBL-EBI and the Wellcome Sanger Institute, offering projects that combine experimental (wet-lab) and com…",
+      "url": "https://www.ebi.ac.uk/research/postdocs/espods",
+      "status": "active",
+      "featured": true,
+      "updated_at": "2020-05-26T08:17:06Z",
+      "funder_names": [
+        "Wellcome Trust",
+        "European Molecular Biology Laboratory"
+      ],
+      "funder_logos": [
+        "/logos/funders/wellcome-trust.png",
+        "/logos/funders/european-molecular-biology-laboratory-embl.png"
+      ],
+      "funders": [
+        "wellcome-trust",
+        "european-molecular-biology-laboratory-embl"
+      ],
+      "applicant_country": "Worldwide",
+      "host_country": "United Kingdom",
+      "career_levels": [
+        "phd"
+      ],
+      "career_level_names": [
+        "PhD"
+      ],
+      "deadline": "July",
+      "deadline_month": "July",
+      "award": "",
+      "subjects": [
+        "life-sciences"
+      ],
+      "funding_purposes": [
+        "fellowship-scholarship-or-training",
+        "research"
+      ],
+      "search_text": "EBI-Sanger postdoctoral fellowships The EBI–Sanger Postdoctoral (ESPOD) Programme builds on the collaborative relationship between EMBL-EBI and the Wellcome Sanger Institute, offering projects that combine experimental (wet-lab) and computational (dry-lab) approaches.\r\n\r\nBoth institutions are located on the Wellcome Genome Campus: their proximity fosters great opportunities for close collaborations. Our researchers have easy access to scientific expertise, well-equipped facilities and an active seminar programme. Wellcome Trust European Molecular Biology Laboratory (EMBL) PhD Life Sciences Fellowship, scholarship or training Research United Kingdom Worldwide",
+      "legacy_funder_name": "EMBL-EBI and the Wellcome Trust Sanger Institute",
+      "frequency": "Annual"
+    },
+    {
       "id": "funding-marie-curie-individual-fellowships",
       "type": "funding",
       "_type": "funding",
@@ -96,7 +141,7 @@
       "featured": true,
       "updated_at": "2020-05-30T23:38:54Z",
       "funder_names": [
-        "European Molecular Biology Organization (EMBO)"
+        "European Molecular Biology Organization"
       ],
       "funder_logos": [
         "/logos/funders/european-molecular-biology-organization-embo.png"
@@ -432,48 +477,6 @@
       "search_text": "Fellows-to-Faculty Award Simons Foundation postdoctoral career transition tenure-track faculty neuroscience biology Worldwide Annual",
       "legacy_funder_name": "",
       "frequency": "Annual"
-    },
-    {
-      "id": "funding-wellcome-early-career-awards",
-      "type": "funding",
-      "_type": "funding",
-      "slug": "wellcome-early-career-awards",
-      "name": "Wellcome Early-Career Awards",
-      "description": "Funding for early-career researchers ready to develop their research identity through innovative projects that advance understanding in their field, or develop methodologies, frameworks, tools or tech…",
-      "url": "https://wellcome.org/research-funding/schemes/wellcome-early-career-awards",
-      "status": "active",
-      "featured": true,
-      "updated_at": "2026-03-26T00:00:00Z",
-      "funder_names": [
-        "Wellcome Trust"
-      ],
-      "funder_logos": [
-        "/logos/funders/wellcome-trust.png"
-      ],
-      "funders": [
-        "wellcome-trust"
-      ],
-      "applicant_country": "United Kingdom, Ireland, Low- and middle-income countries",
-      "host_country": "United Kingdom, Ireland, Low- and middle-income countries",
-      "career_levels": [
-        "postdoc"
-      ],
-      "career_level_names": [
-        "Postdoc"
-      ],
-      "deadline": "",
-      "deadline_month": "",
-      "award": "Salary plus up to £400,000 research expenses",
-      "subjects": [
-        "all-subjects"
-      ],
-      "funding_purposes": [
-        "fellowship-scholarship-or-training",
-        "research"
-      ],
-      "search_text": "Wellcome Early-Career Awards Funding for early-career researchers ready to develop their research identity. Wellcome Trust Postdoc United Kingdom Ireland Low- and middle-income countries All subjects Fellowship research",
-      "legacy_funder_name": "",
-      "frequency": "Three times per year"
     }
   ],
   "featured_travel_grants": [
@@ -860,8 +863,8 @@
       "type": "funder",
       "_type": "funder",
       "slug": "european-molecular-biology-laboratory-embl",
-      "name": "European Molecular Biology Laboratory (EMBL)",
-      "description": "The European Molecular Biology Laboratory (EMBL) is Europe's flagship laboratory for the life sciences, conducting basic research in molecular biology and providing services and training to the scient…",
+      "name": "European Molecular Biology Laboratory",
+      "description": "EMBL is Europe's flagship laboratory for the life sciences, conducting basic research in molecular biology and providing services and training to the scientific community.",
       "url": "https://www.embl.org",
       "status": "active",
       "featured": true,
@@ -870,7 +873,7 @@
       "logo": "/logos/funders/european-molecular-biology-laboratory-embl.png",
       "legacy_logo_path": "",
       "dora": true,
-      "short_name": "European Molecular Biology Laboratory (EMBL)",
+      "short_name": "EMBL",
       "website": "https://www.embl.org",
       "active_funding_count": 3,
       "active_travel_grant_count": 0
@@ -900,7 +903,7 @@
       "type": "funder",
       "_type": "funder",
       "slug": "european-molecular-biology-organization-embo",
-      "name": "European Molecular Biology Organization (EMBO)",
+      "name": "European Molecular Biology Organization",
       "description": "EMBO is a professional organisation of life scientists that supports talented researchers, stimulates the exchange of scientific information, and helps build a research environment where scientists ca…",
       "url": "https://www.embo.org/",
       "status": "active",
@@ -910,7 +913,7 @@
       "logo": "/logos/funders/european-molecular-biology-organization-embo.png",
       "legacy_logo_path": "",
       "dora": true,
-      "short_name": "European Molecular Biology Organization (EMBO)",
+      "short_name": "EMBO",
       "website": "https://www.embo.org/",
       "active_funding_count": 3,
       "active_travel_grant_count": 1
@@ -1048,48 +1051,6 @@
       "frequency": "Annual"
     },
     {
-      "id": "funding-wellcome-early-career-awards",
-      "type": "funding",
-      "_type": "funding",
-      "slug": "wellcome-early-career-awards",
-      "name": "Wellcome Early-Career Awards",
-      "description": "Funding for early-career researchers ready to develop their research identity through innovative projects that advance understanding in their field, or develop methodologies, frameworks, tools or tech…",
-      "url": "https://wellcome.org/research-funding/schemes/wellcome-early-career-awards",
-      "status": "active",
-      "featured": true,
-      "updated_at": "2026-03-26T00:00:00Z",
-      "funder_names": [
-        "Wellcome Trust"
-      ],
-      "funder_logos": [
-        "/logos/funders/wellcome-trust.png"
-      ],
-      "funders": [
-        "wellcome-trust"
-      ],
-      "applicant_country": "United Kingdom, Ireland, Low- and middle-income countries",
-      "host_country": "United Kingdom, Ireland, Low- and middle-income countries",
-      "career_levels": [
-        "postdoc"
-      ],
-      "career_level_names": [
-        "Postdoc"
-      ],
-      "deadline": "",
-      "deadline_month": "",
-      "award": "Salary plus up to £400,000 research expenses",
-      "subjects": [
-        "all-subjects"
-      ],
-      "funding_purposes": [
-        "fellowship-scholarship-or-training",
-        "research"
-      ],
-      "search_text": "Wellcome Early-Career Awards Funding for early-career researchers ready to develop their research identity. Wellcome Trust Postdoc United Kingdom Ireland Low- and middle-income countries All subjects Fellowship research",
-      "legacy_funder_name": "",
-      "frequency": "Three times per year"
-    },
-    {
       "id": "funding-cancer-research-uk-advanced-clinician-scientist-fellowship",
       "type": "funding",
       "_type": "funding",
@@ -1178,6 +1139,48 @@
       "search_text": "Cancer Research UK Career Development Fellowship early-career cancer researchers independent research leaders United Kingdom Fellowship research",
       "legacy_funder_name": "",
       "frequency": ""
+    },
+    {
+      "id": "funding-wellcome-early-career-awards",
+      "type": "funding",
+      "_type": "funding",
+      "slug": "wellcome-early-career-awards",
+      "name": "Wellcome Early-Career Awards",
+      "description": "Funding for early-career researchers ready to develop their research identity through innovative projects that advance understanding in their field, or develop methodologies, frameworks, tools or tech…",
+      "url": "https://wellcome.org/research-funding/schemes/wellcome-early-career-awards",
+      "status": "active",
+      "featured": false,
+      "updated_at": "2026-03-26T00:00:00Z",
+      "funder_names": [
+        "Wellcome Trust"
+      ],
+      "funder_logos": [
+        "/logos/funders/wellcome-trust.png"
+      ],
+      "funders": [
+        "wellcome-trust"
+      ],
+      "applicant_country": "United Kingdom, Ireland, Low- and middle-income countries",
+      "host_country": "United Kingdom, Ireland, Low- and middle-income countries",
+      "career_levels": [
+        "postdoc"
+      ],
+      "career_level_names": [
+        "Postdoc"
+      ],
+      "deadline": "",
+      "deadline_month": "",
+      "award": "Salary plus up to £400,000 research expenses",
+      "subjects": [
+        "all-subjects"
+      ],
+      "funding_purposes": [
+        "fellowship-scholarship-or-training",
+        "research"
+      ],
+      "search_text": "Wellcome Early-Career Awards Funding for early-career researchers ready to develop their research identity. Wellcome Trust Postdoc United Kingdom Ireland Low- and middle-income countries All subjects Fellowship research",
+      "legacy_funder_name": "",
+      "frequency": "Three times per year"
     },
     {
       "id": "travel-grant-simons-foundation-travel-support-for-mathematicians",
