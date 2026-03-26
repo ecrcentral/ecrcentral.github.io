@@ -661,7 +661,7 @@
       "type": "resource",
       "_type": "resource",
       "slug": "the-open-grants-list",
-      "name": "The Open Grants List",
+      "name": "The Open Grants Database",
       "description": "A list of grants that are openly available which can help with learning grantsmanship, understanding particular funders and their programs, and communicating science.",
       "url": "https://www.ogrants.org/",
       "status": "active",
@@ -678,6 +678,36 @@
         "Career development",
         "Science Communication",
         "Academic writing"
+      ],
+      "subjects": [],
+      "subject_names": []
+    },
+    {
+      "id": "resource-on-being-a-scientist-a-guide-to-responsible-conduct-in-research",
+      "type": "resource",
+      "_type": "resource",
+      "slug": "on-being-a-scientist-a-guide-to-responsible-conduct-in-research",
+      "name": "On Being a Scientist: A Guide to Responsible Conduct in Research",
+      "description": "This free and short book presents an overview of the professional standards of science and explains why adherence to those standards is essential for continued scientific progress.",
+      "url": "https://graduateschool.nd.edu/assets/21763/on_being_a_scientist.pdf",
+      "status": "active",
+      "featured": true,
+      "updated_at": "2019-03-10T13:40:10Z",
+      "funder_names": [],
+      "funders": [],
+      "resource_categories": [
+        "reproducibility",
+        "science-communication",
+        "policy",
+        "publishing",
+        "peer-review"
+      ],
+      "resource_category_names": [
+        "Reproducibility",
+        "Science Communication",
+        "Policy",
+        "Publishing",
+        "Peer review"
       ],
       "subjects": [],
       "subject_names": []

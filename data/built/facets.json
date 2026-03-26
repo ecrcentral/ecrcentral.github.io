@@ -3674,12 +3674,12 @@
       {
         "value": "true",
         "label": "Featured",
-        "count": 4
+        "count": 5
       },
       {
         "value": "false",
         "label": "Not Featured",
-        "count": 159
+        "count": 158
       }
     ],
     "status": [

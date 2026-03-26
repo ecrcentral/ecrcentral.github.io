@@ -30651,7 +30651,7 @@
     "id": "resource-the-open-grants-list",
     "type": "resource",
     "slug": "the-open-grants-list",
-    "name": "The Open Grants List",
+    "name": "The Open Grants Database",
     "description": "A list of grants that are openly available which can help with learning grantsmanship, understanding particular funders and their programs, and communicating science.",
     "funder_names": [],
     "funders": [],
@@ -30676,6 +30676,40 @@
     "featured": true,
     "url": "https://www.ogrants.org/",
     "updated_at": "2019-02-05T21:07:44Z"
+  },
+  {
+    "id": "resource-on-being-a-scientist-a-guide-to-responsible-conduct-in-research",
+    "type": "resource",
+    "slug": "on-being-a-scientist-a-guide-to-responsible-conduct-in-research",
+    "name": "On Being a Scientist: A Guide to Responsible Conduct in Research",
+    "description": "This free and short book presents an overview of the professional standards of science and explains why adherence to those standards is essential for continued scientific progress.",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "reproducibility",
+      "science-communication",
+      "policy",
+      "publishing",
+      "peer-review"
+    ],
+    "resource_category_names": [
+      "Reproducibility",
+      "Science Communication",
+      "Policy",
+      "Publishing",
+      "Peer review"
+    ],
+    "status": "active",
+    "featured": true,
+    "url": "https://graduateschool.nd.edu/assets/21763/on_being_a_scientist.pdf",
+    "updated_at": "2019-03-10T13:40:10Z"
   },
   {
     "id": "resource-list-of-format-free-journals",
@@ -31588,40 +31622,6 @@
     "featured": false,
     "url": "https://research.jhu.edu/rdt/funding-opportunities/early-career/",
     "updated_at": "2019-03-01T12:27:54Z"
-  },
-  {
-    "id": "resource-on-being-a-scientist-a-guide-to-responsible-conduct-in-research",
-    "type": "resource",
-    "slug": "on-being-a-scientist-a-guide-to-responsible-conduct-in-research",
-    "name": "On Being a Scientist: A Guide to Responsible Conduct in Research",
-    "description": "This free and short book presents an overview of the professional standards of science and explains why adherence to those standards is essential for continued scientific progress.",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "reproducibility",
-      "science-communication",
-      "policy",
-      "publishing",
-      "peer-review"
-    ],
-    "resource_category_names": [
-      "Reproducibility",
-      "Science Communication",
-      "Policy",
-      "Publishing",
-      "Peer review"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://graduateschool.nd.edu/assets/21763/on_being_a_scientist.pdf",
-    "updated_at": "2019-03-10T13:40:10Z"
   },
   {
     "id": "resource-on-the-value-of-preprints-an-early-career-researcher-perspective",

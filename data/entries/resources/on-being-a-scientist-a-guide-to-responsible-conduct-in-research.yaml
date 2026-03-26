@@ -15,7 +15,7 @@ resource_categories:
 - publishing
 - peer-review
 subjects: []
-featured: false
+featured: true
 review_status: approved
 status: active
 last_verified: '2026-02-19'
