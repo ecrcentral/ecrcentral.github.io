@@ -391,6 +391,49 @@
       "frequency": "Annual"
     },
     {
+      "id": "funding-simons-foundation-fellows-to-faculty-award",
+      "type": "funding",
+      "_type": "funding",
+      "slug": "simons-foundation-fellows-to-faculty-award",
+      "name": "Fellows to Faculty Award",
+      "description": "Supports talented early-career scientists transitioning from postdoctoral positions into tenure-track or equivalent faculty roles. Provides postdoctoral funding for two years followed by a faculty res…",
+      "url": "https://www.simonsfoundation.org/grant/fellows-to-faculty-award/",
+      "status": "active",
+      "featured": true,
+      "updated_at": "2026-03-26T00:00:00Z",
+      "funder_names": [
+        "Simons Foundation"
+      ],
+      "funder_logos": [
+        "/logos/funders/simons-foundation.png"
+      ],
+      "funders": [
+        "simons-foundation"
+      ],
+      "applicant_country": "Worldwide",
+      "host_country": "Worldwide",
+      "career_levels": [
+        "postdoc"
+      ],
+      "career_level_names": [
+        "Postdoc"
+      ],
+      "deadline": "2026-01-14",
+      "deadline_month": "January",
+      "award": "$100,000",
+      "subjects": [
+        "neuroscience",
+        "biology"
+      ],
+      "funding_purposes": [
+        "fellowship-scholarship-or-training",
+        "research"
+      ],
+      "search_text": "Fellows-to-Faculty Award Simons Foundation postdoctoral career transition tenure-track faculty neuroscience biology Worldwide Annual",
+      "legacy_funder_name": "",
+      "frequency": "Annual"
+    },
+    {
       "id": "funding-wellcome-early-career-awards",
       "type": "funding",
       "_type": "funding",
@@ -440,7 +483,7 @@
       "_type": "travel_grant",
       "slug": "aai-travel-for-techniques-program",
       "name": "AAI Travel for Techniques Program",
-      "description": null,
+      "description": "TfT is a travel support program for AAI regular and associate member scientists intended to assist them in learning techniques needed for their research.",
       "url": "http://www.aai.org/Careers/TfT",
       "status": "active",
       "featured": true,
@@ -962,6 +1005,49 @@
       "frequency": "Annual"
     },
     {
+      "id": "funding-simons-foundation-fellows-to-faculty-award",
+      "type": "funding",
+      "_type": "funding",
+      "slug": "simons-foundation-fellows-to-faculty-award",
+      "name": "Fellows to Faculty Award",
+      "description": "Supports talented early-career scientists transitioning from postdoctoral positions into tenure-track or equivalent faculty roles. Provides postdoctoral funding for two years followed by a faculty res…",
+      "url": "https://www.simonsfoundation.org/grant/fellows-to-faculty-award/",
+      "status": "active",
+      "featured": true,
+      "updated_at": "2026-03-26T00:00:00Z",
+      "funder_names": [
+        "Simons Foundation"
+      ],
+      "funder_logos": [
+        "/logos/funders/simons-foundation.png"
+      ],
+      "funders": [
+        "simons-foundation"
+      ],
+      "applicant_country": "Worldwide",
+      "host_country": "Worldwide",
+      "career_levels": [
+        "postdoc"
+      ],
+      "career_level_names": [
+        "Postdoc"
+      ],
+      "deadline": "2026-01-14",
+      "deadline_month": "January",
+      "award": "$100,000",
+      "subjects": [
+        "neuroscience",
+        "biology"
+      ],
+      "funding_purposes": [
+        "fellowship-scholarship-or-training",
+        "research"
+      ],
+      "search_text": "Fellows-to-Faculty Award Simons Foundation postdoctoral career transition tenure-track faculty neuroscience biology Worldwide Annual",
+      "legacy_funder_name": "",
+      "frequency": "Annual"
+    },
+    {
       "id": "funding-wellcome-early-career-awards",
       "type": "funding",
       "_type": "funding",
@@ -1092,6 +1178,18 @@
       "search_text": "Cancer Research UK Career Development Fellowship early-career cancer researchers independent research leaders United Kingdom Fellowship research",
       "legacy_funder_name": "",
       "frequency": ""
+    },
+    {
+      "id": "travel-grant-simons-foundation-travel-support-for-mathematicians",
+      "type": "travel-grant",
+      "_type": "travel-grant",
+      "slug": "simons-foundation-travel-support-for-mathematicians",
+      "name": "Travel Support for Mathematicians",
+      "description": "Program designed to stimulate collaboration in mathematics primarily through funding of travel and related expenditures for tenure-track and tenured faculty at U.S. institutions.",
+      "url": "https://www.simonsfoundation.org/grant/travel-support-for-mathematicians/",
+      "status": "active",
+      "featured": false,
+      "updated_at": "2026-03-26T00:00:00Z"
     },
     {
       "id": "funding-twas-fellowships-research-and-advanced-training",
@@ -1253,91 +1351,6 @@
         "collaboration"
       ],
       "search_text": "TWAS DFG Cooperation Visits Sub-Saharan Africa Germany postdoc German Research Foundation",
-      "legacy_funder_name": "",
-      "frequency": "Annual"
-    },
-    {
-      "id": "funding-twas-fapesp-postdoctoral-fellowship",
-      "type": "funding",
-      "_type": "funding",
-      "slug": "twas-fapesp-postdoctoral-fellowship",
-      "name": "TWAS-FAPESP Postdoctoral Fellowship (LDC)",
-      "description": "Postdoctoral fellowships for researchers from Least Developed Countries who wish to pursue research in all areas of natural, applied, and social sciences at host institutions in Brazil. Fellows must h…",
-      "url": "https://twas.org/opportunity/twas-fapesp-postdoctoral-fellowship-programme-least-developed-countries-ldc",
-      "status": "active",
-      "featured": false,
-      "updated_at": "2026-03-25T00:00:00Z",
-      "funder_names": [
-        "The World Academy of Sciences"
-      ],
-      "funder_logos": [
-        "/logos/funders/the-world-academy-of-sciences.png"
-      ],
-      "funders": [
-        "the-world-academy-of-sciences"
-      ],
-      "applicant_country": "Least Developed Countries (LDC)",
-      "host_country": "Brazil",
-      "career_levels": [
-        "postdoc"
-      ],
-      "career_level_names": [
-        "Postdoc"
-      ],
-      "deadline": "",
-      "deadline_month": "",
-      "award": "",
-      "subjects": [
-        "natural-sciences",
-        "applied-sciences",
-        "social-sciences"
-      ],
-      "funding_purposes": [
-        "fellowship-scholarship-or-training"
-      ],
-      "search_text": "TWAS FAPESP Postdoctoral Fellowship Brazil Least Developed Countries LDC natural applied social sciences",
-      "legacy_funder_name": "",
-      "frequency": "Annual"
-    },
-    {
-      "id": "funding-twas-sissa-lincei-research-cooperation-visits",
-      "type": "funding",
-      "_type": "funding",
-      "slug": "twas-sissa-lincei-research-cooperation-visits",
-      "name": "TWAS-SISSA-Lincei Research Cooperation Visits Programme",
-      "description": "Young scientists from least developed countries holding an MSc or higher degree can visit research laboratories in the Friuli Venezia Giulia Region of Italy for three months to carry out collaborative…",
-      "url": "https://twas.org/opportunity/twas-sissa-lincei-research-cooperation-visits-programme",
-      "status": "active",
-      "featured": false,
-      "updated_at": "2026-03-25T00:00:00Z",
-      "funder_names": [
-        "The World Academy of Sciences"
-      ],
-      "funder_logos": [
-        "/logos/funders/the-world-academy-of-sciences.png"
-      ],
-      "funders": [
-        "the-world-academy-of-sciences"
-      ],
-      "applicant_country": "Least Developed Countries (LDC)",
-      "host_country": "Italy",
-      "career_levels": [
-        "phd",
-        "postdoc"
-      ],
-      "career_level_names": [
-        "PhD",
-        "Postdoc"
-      ],
-      "deadline": "",
-      "deadline_month": "",
-      "award": "",
-      "subjects": [],
-      "funding_purposes": [
-        "fellowship-scholarship-or-training",
-        "collaboration"
-      ],
-      "search_text": "TWAS SISSA Lincei Research Cooperation Visits Italy Least Developed Countries young scientists MSc",
       "legacy_funder_name": "",
       "frequency": "Annual"
     }

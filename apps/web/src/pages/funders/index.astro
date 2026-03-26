@@ -3,6 +3,7 @@ import BaseLayout from '../../components/layout/BaseLayout.astro'
 import FunderCard from '../../components/cards/FunderCard.astro'
 import FacetPanel from '../../components/facets/FacetPanel.astro'
 import SearchBox from '../../components/search/SearchBox.astro'
+import ViewToggle from '../../components/search/ViewToggle.astro'
 import { funders, facets } from '../../lib/data'
 
 const publicFunders = funders
@@ -36,6 +37,7 @@ const funderFacets = facets.funders || {}
 
       <div>
         <div class="listing-controls" style="margin-bottom:20px;">
+          <ViewToggle gridId="funders-grid" defaultView="grid" gridClass="cards-grid" />
           <div style="flex:1;max-width:420px;">
             <SearchBox
               placeholder="Search funders..."

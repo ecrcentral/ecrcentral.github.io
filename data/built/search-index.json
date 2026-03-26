@@ -392,6 +392,50 @@
     "updated_at": "2026-03-26T00:00:00Z"
   },
   {
+    "id": "funding-simons-foundation-fellows-to-faculty-award",
+    "type": "funding",
+    "slug": "simons-foundation-fellows-to-faculty-award",
+    "name": "Fellows to Faculty Award",
+    "description": "Supports talented early-career scientists transitioning from postdoctoral positions into tenure-track or equivalent faculty roles. Provides postdoctoral funding for two years followed by a faculty research grant for three years, covering salary, career development, and research costs.",
+    "funder_names": [
+      "Simons Foundation"
+    ],
+    "funders": [
+      "simons-foundation"
+    ],
+    "country": "Worldwide",
+    "applicant_country": "Worldwide",
+    "host_country": "Worldwide",
+    "career_levels": [
+      "postdoc"
+    ],
+    "career_level_names": [
+      "Postdoc"
+    ],
+    "subjects": [
+      "neuroscience",
+      "biology"
+    ],
+    "subject_names": [
+      "Neuroscience",
+      "Biology"
+    ],
+    "funding_purposes": [
+      "fellowship-scholarship-or-training",
+      "research"
+    ],
+    "funding_purpose_names": [
+      "Fellowship, scholarship or training",
+      "Research"
+    ],
+    "status": "active",
+    "featured": true,
+    "deadline_month": "January",
+    "search_text": "Fellows-to-Faculty Award Simons Foundation postdoctoral career transition tenure-track faculty neuroscience biology Worldwide Annual",
+    "url": "https://www.simonsfoundation.org/grant/fellows-to-faculty-award/",
+    "updated_at": "2026-03-26T00:00:00Z"
+  },
+  {
     "id": "funding-wellcome-early-career-awards",
     "type": "funding",
     "slug": "wellcome-early-career-awards",
@@ -16464,10 +16508,10 @@
     "name": "Simons Foundation Autism Research Initiative (SFARI) Pilot and Research Awards",
     "description": null,
     "funder_names": [
-      "Simons Foundation Autism Research Initiative"
+      "Simons Foundation"
     ],
     "funders": [
-      "simons-foundation-autism-research-initiative"
+      "simons-foundation"
     ],
     "country": "Worldwide",
     "applicant_country": "Worldwide",
@@ -20360,10 +20404,10 @@
     "name": "SFARI Pilot Awards",
     "description": "Grants awarded through this RFA are intended to provide early support for exploratory ideas, particularly those with novel hypotheses for autism.",
     "funder_names": [
-      "Simons Foundation Autism Research Initiative"
+      "Simons Foundation"
     ],
     "funders": [
-      "simons-foundation-autism-research-initiative"
+      "simons-foundation"
     ],
     "country": "United States",
     "applicant_country": "",
@@ -20394,10 +20438,10 @@
     "name": "SFARI Research Awards",
     "description": "Grants awarded through this RFA are intended to provide support for the investigation of key unresolved research questions in autism, particularly those that connect etiology to brain function and behavior.",
     "funder_names": [
-      "Simons Foundation Autism Research Initiative"
+      "Simons Foundation"
     ],
     "funders": [
-      "simons-foundation-autism-research-initiative"
+      "simons-foundation"
     ],
     "country": "United States",
     "applicant_country": "",
@@ -27090,7 +27134,7 @@
     "type": "travel_grant",
     "slug": "aai-travel-for-techniques-program",
     "name": "AAI Travel for Techniques Program",
-    "description": null,
+    "description": "TfT is a travel support program for AAI regular and associate member scientists intended to assist them in learning techniques needed for their research.",
     "funder_names": [
       "American Association of Immunologists"
     ],
@@ -30458,6 +30502,50 @@
     "search_text": "Yusuf and Farida Hamied Foundation International Exchanges Award The Royal Society Collaboration Learn new technique Anyone, but work in UK",
     "url": "https://royalsociety.org/grants-schemes-awards/grants/international-exchanges/",
     "updated_at": ""
+  },
+  {
+    "id": "travel-grant-simons-foundation-travel-support-for-mathematicians",
+    "type": "travel_grant",
+    "slug": "simons-foundation-travel-support-for-mathematicians",
+    "name": "Travel Support for Mathematicians",
+    "description": "Program designed to stimulate collaboration in mathematics primarily through funding of travel and related expenditures for tenure-track and tenured faculty at U.S. institutions.",
+    "funder_names": [
+      "Simons Foundation"
+    ],
+    "funders": [
+      "simons-foundation"
+    ],
+    "country": "United States",
+    "applicant_country": "United States",
+    "host_country": "Worldwide",
+    "career_levels": [
+      "junior-faculty",
+      "senior-faculty"
+    ],
+    "career_level_names": [
+      "Junior Faculty",
+      "Senior Faculty"
+    ],
+    "subjects": [
+      "mathematics"
+    ],
+    "subject_names": [
+      "Mathematics"
+    ],
+    "travel_purposes": [
+      "collaboration",
+      "research-visit"
+    ],
+    "travel_purpose_names": [
+      "Collaboration",
+      "Research visit"
+    ],
+    "status": "active",
+    "featured": false,
+    "deadline_month": "January",
+    "search_text": "Travel Support for Mathematicians Simons Foundation mathematics collaboration travel United States faculty",
+    "url": "https://www.simonsfoundation.org/grant/travel-support-for-mathematicians/",
+    "updated_at": "2026-03-26T00:00:00Z"
   },
   {
     "id": "travel-grant-bio-techne-travel-grants-go-everywhere",
@@ -38514,7 +38602,7 @@
     "type": "funder",
     "slug": "simons-foundation",
     "name": "Simons Foundation",
-    "description": null,
+    "description": "The Simons Foundation is a leading American private foundation based in New York City, established in 1994 by Jim and Marilyn Simons. Its core mission is to advance the frontiers of research in mathematics and the basic sciences.",
     "funder_names": [],
     "funders": [],
     "country": "United States",
@@ -38524,10 +38612,13 @@
     "career_level_names": [],
     "subjects": [],
     "subject_names": [],
-    "aliases": [],
+    "aliases": [
+      "Simons Foundation Autism Research Initiative",
+      "SFARI"
+    ],
     "status": "active",
     "featured": false,
-    "website": "",
+    "website": "https://www.simonsfoundation.org",
     "updated_at": "2019-01-17T00:40:55Z"
   },
   {
@@ -43274,27 +43365,6 @@
     "status": "active",
     "featured": false,
     "website": "",
-    "updated_at": "2020-05-21T09:36:16Z"
-  },
-  {
-    "id": "funder-simons-foundation-autism-research-initiative",
-    "type": "funder",
-    "slug": "simons-foundation-autism-research-initiative",
-    "name": "Simons Foundation Autism Research Initiative",
-    "description": "The Simons Foundation Autism Research Initiative (SFARI) aims to improve the understanding, diagnosis and treatment of autism spectrum disorders by funding innovative research in the field.",
-    "funder_names": [],
-    "funders": [],
-    "country": "United States",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "aliases": [],
-    "status": "active",
-    "featured": false,
-    "website": "https://sfari.org",
     "updated_at": "2020-05-21T09:36:16Z"
   },
   {

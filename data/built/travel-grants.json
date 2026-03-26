@@ -5,7 +5,7 @@
     "slug": "aai-travel-for-techniques-program",
     "name": "AAI Travel for Techniques Program",
     "url": "http://www.aai.org/Careers/TfT",
-    "description": null,
+    "description": "TfT is a travel support program for AAI regular and associate member scientists intended to assist them in learning techniques needed for their research.",
     "funders": [
       "american-association-of-immunologists"
     ],
@@ -4554,6 +4554,63 @@
     "travel_purpose_names": [
       "Collaboration",
       "Learn new technique"
+    ]
+  },
+  {
+    "id": "travel-grant-simons-foundation-travel-support-for-mathematicians",
+    "legacy_id": null,
+    "slug": "simons-foundation-travel-support-for-mathematicians",
+    "name": "Travel Support for Mathematicians",
+    "url": "https://www.simonsfoundation.org/grant/travel-support-for-mathematicians/",
+    "description": "Program designed to stimulate collaboration in mathematics primarily through funding of travel and related expenditures for tenure-track and tenured faculty at U.S. institutions.",
+    "funders": [
+      "simons-foundation"
+    ],
+    "legacy_funder_name": null,
+    "applicant_country": "United States",
+    "host_country": "Worldwide",
+    "award": "Up to $8,400 per year for five years ($6,000 travel and research expenses, $1,000 departmental discretionary funds)",
+    "deadline": "2026-01-29",
+    "deadline_month": "January",
+    "membership": "No",
+    "membership_time": null,
+    "purpose_text": null,
+    "career_levels": [
+      "junior-faculty",
+      "senior-faculty"
+    ],
+    "subjects": [
+      "mathematics"
+    ],
+    "travel_purposes": [
+      "collaboration",
+      "research-visit"
+    ],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-03-26",
+    "verified_by": "asntech",
+    "created_at": "2026-03-26T00:00:00Z",
+    "updated_at": "2026-03-26T00:00:00Z",
+    "search_text": "Travel Support for Mathematicians Simons Foundation mathematics collaboration travel United States faculty",
+    "source": "manual",
+    "funder_names": [
+      "Simons Foundation"
+    ],
+    "funder_logos": [
+      "/logos/funders/simons-foundation.png"
+    ],
+    "career_level_names": [
+      "Junior Faculty",
+      "Senior Faculty"
+    ],
+    "subject_names": [
+      "Mathematics"
+    ],
+    "travel_purpose_names": [
+      "Collaboration",
+      "Research visit"
     ]
   },
   {

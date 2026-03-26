@@ -163,15 +163,15 @@ def build_recently_updated(
 
     for record in travel_grants:
         if is_approved_active(record):
-            all_records.append(slim(record, 'travel_grant'))
+            all_records.append(slim(record, 'travel-grant'))
 
     for record in resources:
         if is_approved_active(record):
             all_records.append(slim(record, 'resource'))
 
-    for record in funders:
-        if is_approved_active(record):
-            all_records.append(slim(record, 'funder'))
+    #for record in funders:
+    #    if is_approved_active(record):
+    #        all_records.append(slim(record, 'funder'))
 
     all_records.sort(key=lambda r: r.get('updated_at') or '', reverse=True)
     return all_records[:limit]

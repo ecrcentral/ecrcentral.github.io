@@ -1,0 +1,50 @@
+id: funding-simons-foundation-fellows-to-faculty-award
+legacy_id: null
+slug: simons-foundation-fellows-to-faculty-award
+name: Fellows to Faculty Award
+description: Supports talented early-career scientists transitioning from postdoctoral
+  positions into tenure-track or equivalent faculty roles. Provides postdoctoral
+  funding for two years followed by a faculty research grant for three years, covering
+  salary, career development, and research costs.
+url: https://www.simonsfoundation.org/grant/fellows-to-faculty-award/
+funders:
+- simons-foundation
+legacy_funder_name: null
+logo: /funders/simons-foundation.png
+host_country: Worldwide
+applicant_country: Worldwide
+career_levels:
+- postdoc
+years_since_phd: null
+duration: '5'
+award: $100,000
+mobility_rule: null
+research_costs: Faculty research grant budget requested after securing position
+deadline: '2026-01-14'
+deadline_month: January
+diversity: null
+comments: Two-phase award — 2 years postdoctoral followed by 3 years faculty. Applicants
+  must be actively seeking tenure-track positions and not yet have accepted one.
+  Not compatible with K99/R00, BWF CAMS/CASI, HHMI Gray Fellows, or Ramón y Cajal
+  awards. Focuses on SFARI and SCPAB research areas.
+benefits: $85,000/year stipend + $10,000/year career development + $15,000/year benefits
+  (postdoctoral phase); faculty research grant (faculty phase). Health insurance and benefits covered during postdoctoral phase
+frequency: Annual
+fileds: null
+featured: true
+review_status: approved
+status: active
+last_verified: '2026-03-26'
+verified_by: asntech
+legacy_user_id: null
+created_at: '2026-03-26T00:00:00Z'
+updated_at: '2026-03-26T00:00:00Z'
+subjects:
+- neuroscience
+- biology
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: Fellows-to-Faculty Award Simons Foundation postdoctoral career transition
+  tenure-track faculty neuroscience biology Worldwide Annual
+source: manual

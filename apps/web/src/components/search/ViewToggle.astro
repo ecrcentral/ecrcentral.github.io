@@ -1,0 +1,87 @@
+---
+interface Props {
+  gridId: string
+  defaultView?: 'list' | 'grid'
+  listClass?: string
+  gridClass?: string
+}
+
+const {
+  gridId,
+  defaultView = 'list',
+  listClass = 'cards-list',
+  gridClass = 'cards-grid-2',
+} = Astro.props
+---
+
+<div
+  class="view-toggle"
+  role="group"
+  aria-label="View options"
+  data-grid-id={gridId}
+  data-default-view={defaultView}
+  data-list-class={listClass}
+  data-grid-class={gridClass}
+>
+  <button class="view-toggle-btn" data-view="list" aria-label="List view" title="List view" aria-pressed="false">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+      <line x1="3" y1="6" x2="21" y2="6"/>
+      <line x1="3" y1="12" x2="21" y2="12"/>
+      <line x1="3" y1="18" x2="21" y2="18"/>
+    </svg>
+  </button>
+  <button class="view-toggle-btn" data-view="grid" aria-label="Grid view" title="Grid view" aria-pressed="false">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+      <rect x="3" y="3" width="7" height="7"/>
+      <rect x="14" y="3" width="7" height="7"/>
+      <rect x="3" y="14" width="7" height="7"/>
+      <rect x="14" y="14" width="7" height="7"/>
+    </svg>
+  </button>
+</div>
+
+<script>
+  document.querySelectorAll<HTMLElement>('.view-toggle').forEach(toggle => {
+    const gridId = toggle.dataset.gridId!
+    const defaultView = toggle.dataset.defaultView as 'list' | 'grid'
+    const listClass = toggle.dataset.listClass!
+    const gridClass = toggle.dataset.gridClass!
+
+    const grid = document.getElementById(gridId)
+    if (!grid) return
+
+    const buttons = toggle.querySelectorAll<HTMLButtonElement>('.view-toggle-btn')
+
+    function applyView(view: 'list' | 'grid') {
+      if (!grid) return
+      if (view === 'grid') {
+        grid.classList.remove(listClass)
+        grid.classList.add(gridClass)
+      } else {
+        grid.classList.remove(gridClass)
+        grid.classList.add(listClass)
+      }
+      buttons.forEach(btn => {
+        const active = btn.dataset.view === view
+        btn.classList.toggle('is-active', active)
+        btn.setAttribute('aria-pressed', String(active))
+      })
+    }
+
+    // Each page has its own preference key
+    const storageKey = `ecr-view-${gridId}`
+
+    // Apply saved or default view on load
+    const saved = localStorage.getItem(storageKey) as 'list' | 'grid' | null
+    applyView(saved ?? defaultView)
+
+    // Handle button clicks
+    buttons.forEach(btn => {
+      btn.addEventListener('click', () => {
+        const view = btn.dataset.view as 'list' | 'grid'
+        localStorage.setItem(storageKey, view)
+        applyView(view)
+      })
+    })
+  })
+</script>

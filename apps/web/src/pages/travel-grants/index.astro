@@ -3,6 +3,7 @@ import BaseLayout from '../../components/layout/BaseLayout.astro'
 import TravelGrantCard from '../../components/cards/TravelGrantCard.astro'
 import FacetPanel from '../../components/facets/FacetPanel.astro'
 import SearchBox from '../../components/search/SearchBox.astro'
+import ViewToggle from '../../components/search/ViewToggle.astro'
 import { travelGrants, facets } from '../../lib/data'
 
 const publicGrants = travelGrants.filter(g => g.review_status === 'approved' || g.status === 'active')
@@ -36,6 +37,7 @@ const travelGrantFacets = facets.travel_grants || {}
       <!-- Main content -->
       <div>
         <div class="listing-controls" style="margin-bottom:20px;">
+          <ViewToggle gridId="grants-grid" />
           <div style="flex:1;max-width:420px;">
             <SearchBox
               placeholder="Search travel grants..."

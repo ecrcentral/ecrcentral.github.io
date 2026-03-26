@@ -5,11 +5,16 @@ name: Simons Foundation
 short_name: Simons Foundation
 funder_registry_id: '100000893'
 country: United States
-website: null
-logo: null
+website: https://www.simonsfoundation.org
+logo: /logos/funders/simons-foundation.png
 dora: false
-aliases: []
-description: null
+aliases:
+- Simons Foundation Autism Research Initiative
+- SFARI
+description: The Simons Foundation is 
+  a leading American private foundation based in New York City, established in 1994 
+  by Jim and Marilyn Simons. Its core mission is to advance the frontiers of research 
+  in mathematics and the basic sciences.
 status: active
 featured: false
 review_status: approved
