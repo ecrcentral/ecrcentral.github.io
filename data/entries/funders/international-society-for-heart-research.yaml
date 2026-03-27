@@ -1,0 +1,22 @@
+id: funder-international-society-for-heart-research
+slug: international-society-for-heart-research
+name: International Society for Heart Research
+short_name: ISHR
+funder_registry_id: null
+country: Worldwide
+website: https://ishrworld.org
+logo: null
+dora: false
+aliases:
+- ISHR
+description: International Society for Heart Research promotes research into the
+  physiology and pathophysiology of the heart and circulation, and supports early
+  career investigators through travel awards.
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-03-27'
+verified_by: asntech
+created_at: '2026-03-27T00:00:00Z'
+updated_at: '2026-03-27T00:00:00Z'
+source: manual

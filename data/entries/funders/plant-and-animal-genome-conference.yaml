@@ -1,0 +1,22 @@
+id: funder-plant-and-animal-genome-conference
+slug: plant-and-animal-genome-conference
+name: Plant and Animal Genome Conference
+short_name: PAG
+funder_registry_id: null
+country: United States
+website: https://intlpag.org
+logo: null
+dora: false
+aliases:
+- PAG
+description: The Plant and Animal Genome Conference is a leading international agricultural
+  genomics conference, offering travel grants to support attendance by students and
+  early career researchers.
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-03-27'
+verified_by: asntech
+created_at: '2026-03-27T00:00:00Z'
+updated_at: '2026-03-27T00:00:00Z'
+source: manual

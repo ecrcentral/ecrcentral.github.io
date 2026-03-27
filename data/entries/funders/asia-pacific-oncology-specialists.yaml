@@ -1,0 +1,21 @@
+id: funder-asia-pacific-oncology-specialists
+slug: asia-pacific-oncology-specialists
+name: Asia Pacific Oncology Specialists
+short_name: APOS
+funder_registry_id: null
+country: Asia Pacific
+website: https://apos-society.org
+logo: null
+dora: false
+aliases:
+- APOS
+description: Professional society dedicated to the education and professional development
+  of oncology practitioners and researchers across the Asia Pacific region.
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-03-27'
+verified_by: asntech
+created_at: '2026-03-27T00:00:00Z'
+updated_at: '2026-03-27T00:00:00Z'
+source: manual

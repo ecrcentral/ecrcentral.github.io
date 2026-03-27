@@ -1,0 +1,22 @@
+id: funder-european-federation-of-immunological-societies
+slug: european-federation-of-immunological-societies
+name: European Federation of Immunological Societies
+short_name: EFIS
+funder_registry_id: null
+country: European Union
+website: https://www.efis.org
+logo: null
+dora: false
+aliases:
+- EFIS
+description: EFIS is the umbrella organisation of European immunological societies,
+  promoting immunological research and supporting early career scientists through
+  travel grants and fellowships.
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-03-27'
+verified_by: asntech
+created_at: '2026-03-27T00:00:00Z'
+updated_at: '2026-03-27T00:00:00Z'
+source: manual

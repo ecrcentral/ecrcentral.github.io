@@ -1,0 +1,22 @@
+id: funder-european-scientific-working-group-on-influenza
+slug: european-scientific-working-group-on-influenza
+name: European Scientific Working Group on Influenza
+short_name: ESWI
+funder_registry_id: null
+country: Belgium
+website: https://eswi.org
+logo: null
+dora: false
+aliases:
+- ESWI
+description: ESWI is a multidisciplinary group that promotes awareness of the burden
+  of influenza and other respiratory viruses and supports early career scientists
+  in the field.
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-03-27'
+verified_by: asntech
+created_at: '2026-03-27T00:00:00Z'
+updated_at: '2026-03-27T00:00:00Z'
+source: manual

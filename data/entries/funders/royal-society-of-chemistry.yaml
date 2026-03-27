@@ -1,0 +1,22 @@
+id: funder-royal-society-of-chemistry
+slug: royal-society-of-chemistry
+name: Royal Society of Chemistry
+short_name: RSC
+funder_registry_id: null
+country: United Kingdom
+website: https://www.rsc.org
+logo: null
+dora: true
+aliases:
+- RSC
+description: The Royal Society of Chemistry is the UK's professional body for chemical
+  scientists, supporting the chemical sciences community through publishing, education,
+  grants, and awards.
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-03-27'
+verified_by: asntech
+created_at: '2026-03-27T00:00:00Z'
+updated_at: '2026-03-27T00:00:00Z'
+source: manual

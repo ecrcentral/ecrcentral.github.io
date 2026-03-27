@@ -1,0 +1,22 @@
+id: funder-csir-hrdg
+slug: csir-hrdg
+name: CSIR Human Resource Development Group
+short_name: CSIR-HRDG
+funder_registry_id: null
+country: India
+website: https://csirhrdg.res.in
+logo: null
+dora: false
+aliases:
+- CSIR-HRDG
+- Council of Scientific and Industrial Research
+description: The CSIR Human Resource Development Group manages fellowships, associateships,
+  and grants to develop scientific human resources in India.
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-03-27'
+verified_by: asntech
+created_at: '2026-03-27T00:00:00Z'
+updated_at: '2026-03-27T00:00:00Z'
+source: manual

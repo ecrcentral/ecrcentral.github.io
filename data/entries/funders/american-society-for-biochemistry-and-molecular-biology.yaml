@@ -1,0 +1,22 @@
+id: funder-american-society-for-biochemistry-and-molecular-biology
+slug: american-society-for-biochemistry-and-molecular-biology
+name: American Society for Biochemistry and Molecular Biology
+short_name: ASBMB
+funder_registry_id: null
+country: United States
+website: https://www.asbmb.org
+logo: null
+dora: false
+aliases:
+- ASBMB
+description: ASBMB is a nonprofit scientific and educational organization that represents
+  biochemists and molecular biologists, supporting career development through grants
+  and awards.
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-03-27'
+verified_by: asntech
+created_at: '2026-03-27T00:00:00Z'
+updated_at: '2026-03-27T00:00:00Z'
+source: manual
