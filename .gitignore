@@ -30,6 +30,8 @@ Thumbs.db
 *.log
 npm-debug.log*
 
+manuscript/
+
 # Build artifacts — committed so GitHub Pages works without CI build
 # Uncomment to exclude from git if you prefer CI-only builds:
 # data/built/

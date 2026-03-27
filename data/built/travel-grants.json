@@ -302,6 +302,94 @@
     ]
   },
   {
+    "id": "travel-grant-aacr-scholar-in-training-awards-annual-meeting",
+    "slug": "aacr-scholar-in-training-awards-annual-meeting",
+    "name": "AACR Scholar-in-Training Awards — Annual Meeting",
+    "url": "https://www.aacr.org/professionals/meetings/aacr-travel-grants/scholar-in-training-awards-annual-meeting/",
+    "description": "<p>Offsets registration, travel, and subsistence costs for young investigators presenting meritorious papers at the AACR Annual Meeting. Applicants must present their work in person.</p>",
+    "funders": [
+      "american-association-for-cancer-research"
+    ],
+    "applicant_country": "Worldwide",
+    "host_country": "Worldwide",
+    "award": null,
+    "deadline": "November (check current cycle)",
+    "deadline_month": "November",
+    "membership": "No",
+    "career_levels": [
+      "phd",
+      "postdoc"
+    ],
+    "subjects": [
+      "medicine-health"
+    ],
+    "travel_purposes": [
+      "conference"
+    ],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "source": "manual",
+    "funder_names": [
+      "American Association for Cancer Research"
+    ],
+    "funder_logos": [
+      null
+    ],
+    "career_level_names": [
+      "PhD",
+      "Postdoc"
+    ],
+    "subject_names": [
+      "medicine-health"
+    ],
+    "travel_purpose_names": [
+      "Conference"
+    ]
+  },
+  {
+    "id": "travel-grant-acu-early-career-conference-grants",
+    "slug": "acu-early-career-conference-grants",
+    "name": "ACU Early Career Conference Grants",
+    "url": "https://www.acu.ac.uk/funding-opportunities/for-university-staff/university-staff-grants/early-career-grants/",
+    "description": "<p>Conference travel support for early career researchers at Association of Commonwealth Universities (ACU) member universities to attend and take part in in-person conferences in Commonwealth countries outside their country of work.</p>",
+    "funders": [
+      "association-of-commonwealth-universities"
+    ],
+    "applicant_country": "Worldwide",
+    "host_country": "Worldwide",
+    "award": null,
+    "deadline": "Check current round",
+    "deadline_month": null,
+    "membership": "No",
+    "career_levels": [
+      "phd",
+      "postdoc"
+    ],
+    "subjects": [],
+    "travel_purposes": [
+      "conference"
+    ],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "source": "manual",
+    "funder_names": [
+      "Association of Commonwealth Universities"
+    ],
+    "funder_logos": [
+      null
+    ],
+    "career_level_names": [
+      "PhD",
+      "Postdoc"
+    ],
+    "subject_names": [],
+    "travel_purpose_names": [
+      "Conference"
+    ]
+  },
+  {
     "id": "travel-grant-adi-conference-travel-bursary",
     "legacy_id": 105,
     "slug": "adi-conference-travel-bursary",
@@ -478,6 +566,52 @@
     ]
   },
   {
+    "id": "travel-grant-apos-early-career-travel-award",
+    "slug": "apos-early-career-travel-award",
+    "name": "APOS Early Career Travel Award",
+    "url": "https://apos-society.org/early-career-travel-award/",
+    "description": "<p>Travel award for early career applicants to attend the Asia Pacific Oncology Specialists (APOS) annual meeting. Applicants may also apply for the Health Equity Scholarship but will receive only one award in the same cycle.</p>",
+    "funders": [
+      "asia-pacific-oncology-specialists"
+    ],
+    "applicant_country": "Worldwide",
+    "host_country": "Worldwide",
+    "award": null,
+    "deadline": "Review-cycle based",
+    "deadline_month": null,
+    "membership": "No",
+    "career_levels": [
+      "phd",
+      "postdoc"
+    ],
+    "subjects": [
+      "medicine-health"
+    ],
+    "travel_purposes": [
+      "conference"
+    ],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "source": "manual",
+    "funder_names": [
+      "Asia Pacific Oncology Specialists"
+    ],
+    "funder_logos": [
+      null
+    ],
+    "career_level_names": [
+      "PhD",
+      "Postdoc"
+    ],
+    "subject_names": [
+      "medicine-health"
+    ],
+    "travel_purpose_names": [
+      "Conference"
+    ]
+  },
+  {
     "id": "travel-grant-arr-travel-bursaries",
     "legacy_id": 75,
     "slug": "arr-travel-bursaries",
@@ -518,6 +652,98 @@
       "Postdoc"
     ],
     "subject_names": [],
+    "travel_purpose_names": [
+      "Conference"
+    ]
+  },
+  {
+    "id": "travel-grant-asbmb-graduate-student-postdoc-travel-award",
+    "slug": "asbmb-graduate-student-postdoc-travel-award",
+    "name": "ASBMB Graduate Student or Postdoctoral Researcher Travel Award",
+    "url": "https://www.asbmb.org/annual-meeting/travel-awards/graduate-student-postdoc",
+    "description": "<p>Competitive travel award that reimburses qualifying travel expenses for graduate students or postdoctoral researchers presenting at the ASBMB Annual Meeting.</p>",
+    "funders": [
+      "american-society-for-biochemistry-and-molecular-biology"
+    ],
+    "applicant_country": "Worldwide",
+    "host_country": "Worldwide",
+    "award": "Up to USD 1,000",
+    "deadline": "Meeting-specific",
+    "deadline_month": null,
+    "membership": "No",
+    "career_levels": [
+      "phd",
+      "postdoc"
+    ],
+    "subjects": [
+      "life-sciences-biology"
+    ],
+    "travel_purposes": [
+      "conference"
+    ],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "source": "manual",
+    "funder_names": [
+      "American Society for Biochemistry and Molecular Biology"
+    ],
+    "funder_logos": [
+      null
+    ],
+    "career_level_names": [
+      "PhD",
+      "Postdoc"
+    ],
+    "subject_names": [
+      "life-sciences-biology"
+    ],
+    "travel_purpose_names": [
+      "Conference"
+    ]
+  },
+  {
+    "id": "travel-grant-aspho-early-career-travel-awards",
+    "slug": "aspho-early-career-travel-awards",
+    "name": "ASPHO Early Career Travel Awards",
+    "url": "https://aspho.org/career-development/awards/early-career-travel-stipend",
+    "description": "<p>Travel support and complimentary registration for young investigators to attend the ASPHO Conference. Up to five awards available per cycle.</p>",
+    "funders": [
+      "american-society-of-pediatric-hematology-oncology"
+    ],
+    "applicant_country": "Worldwide",
+    "host_country": "Worldwide",
+    "award": null,
+    "deadline": "Meeting-specific",
+    "deadline_month": null,
+    "membership": "No",
+    "career_levels": [
+      "phd",
+      "postdoc"
+    ],
+    "subjects": [
+      "medicine-health"
+    ],
+    "travel_purposes": [
+      "conference"
+    ],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "source": "manual",
+    "funder_names": [
+      "American Society of Pediatric Hematology/Oncology"
+    ],
+    "funder_logos": [
+      null
+    ],
+    "career_level_names": [
+      "PhD",
+      "Postdoc"
+    ],
+    "subject_names": [
+      "medicine-health"
+    ],
     "travel_purpose_names": [
       "Conference"
     ]
@@ -777,6 +1003,46 @@
     ]
   },
   {
+    "id": "travel-grant-cass-foundation-travel-awards",
+    "slug": "cass-foundation-travel-awards",
+    "name": "CASS Foundation Travel Awards",
+    "url": "https://www.cassfoundation.org/grants-and-awards/travel-awards/travel-guidelines/",
+    "description": "Conference travel awards for early career researchers in Australia to present current research at international conferences. Research presented should not be based primarily on PhD studies. Two rounds per year.",
+    "funders": [
+      "cass-foundation"
+    ],
+    "applicant_country": "Australia",
+    "host_country": "Worldwide",
+    "award": "Up to AUD 5,000",
+    "deadline": "February; August",
+    "deadline_month": "February",
+    "membership": "No",
+    "career_levels": [
+      "postdoc"
+    ],
+    "subjects": [],
+    "travel_purposes": [
+      "conference"
+    ],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "source": "manual",
+    "funder_names": [
+      "The CASS Foundation"
+    ],
+    "funder_logos": [
+      null
+    ],
+    "career_level_names": [
+      "Postdoc"
+    ],
+    "subject_names": [],
+    "travel_purpose_names": [
+      "Conference"
+    ]
+  },
+  {
     "id": "travel-grant-charles-koch-foundation-travel-grants",
     "legacy_id": 20,
     "slug": "charles-koch-foundation-travel-grants",
@@ -1002,6 +1268,48 @@
     ]
   },
   {
+    "id": "travel-grant-csir-travel-grants",
+    "slug": "csir-travel-grants",
+    "name": "CSIR Travel Grants",
+    "url": "https://csirhrdg.res.in/Home/Index/1/Default/2677/69",
+    "description": "<p>Financial assistance for young Indian researchers to participate in or present at international conferences, seminars, workshops, courses, and training programs. Includes PhD students, research associates, resident doctors, and non-regular researchers.</p>",
+    "funders": [
+      "csir-hrdg"
+    ],
+    "applicant_country": "India",
+    "host_country": "Worldwide",
+    "award": null,
+    "deadline": "Check official page",
+    "deadline_month": null,
+    "membership": "No",
+    "career_levels": [
+      "phd",
+      "postdoc"
+    ],
+    "travel_purposes": [
+      "conference"
+    ],
+    "subjects": [],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "source": "manual",
+    "funder_names": [
+      "CSIR Human Resource Development Group"
+    ],
+    "funder_logos": [
+      null
+    ],
+    "career_level_names": [
+      "PhD",
+      "Postdoc"
+    ],
+    "subject_names": [],
+    "travel_purpose_names": [
+      "Conference"
+    ]
+  },
+  {
     "id": "travel-grant-daad-stipendien",
     "legacy_id": 61,
     "slug": "daad-stipendien",
@@ -1220,7 +1528,7 @@
     "slug": "ecological-society-travel-grant",
     "name": "Ecological Society Travel Grant",
     "url": "https://www.britishecologicalsociety.org/funding/training-travel-grants/",
-    "description": "<p>This grant supports the training and development of students and postgraduate research assistants to meet the costs of specialist field training courses and to network and publicise their research by presenting their work at workshops and conferences.</p>",
+    "description": "This grant supports the training and development of students and postgraduate research assistants to meet the costs of specialist field training courses and to network and publicise their research by presenting their work at workshops and conferences.",
     "funders": [],
     "legacy_funder_name": "British Ecological Society",
     "applicant_country": "Worldwide",
@@ -1260,52 +1568,97 @@
     ]
   },
   {
-    "id": "travel-grant-embo-short-term-fellowships",
-    "legacy_id": 9,
-    "slug": "embo-short-term-fellowships",
-    "name": "EMBO Short Term Fellowships",
-    "url": "http://www.embo.org/funding-awards/fellowships/short-term-fellowships#about",
-    "description": null,
+    "id": "travel-grant-efis-travel-grants",
+    "slug": "efis-travel-grants",
+    "name": "EFIS Travel Grants",
+    "url": "https://www.efis.org/efis/funding/travel-grants",
+    "description": "<p>Travel grants for PhD students and postdoctoral researchers with no more than 7 years of postdoctoral experience to attend Gordon Research Conferences (GRC). Applicant must be the first or corresponding author of the submitted abstract.</p>",
     "funders": [
-      "european-molecular-biology-organization-embo"
+      "european-federation-of-immunological-societies"
     ],
-    "legacy_funder_name": "EMBO",
-    "applicant_country": "EMBO Member States, Associated Member states or Cooperation partners",
-    "host_country": null,
-    "award": "travel+subsistence costs",
-    "deadline": "no deadline, recommended min 3months before proposed starting date",
+    "applicant_country": "Worldwide",
+    "host_country": "Worldwide",
+    "award": null,
+    "deadline": "Meeting-specific",
     "deadline_month": null,
-    "membership": "Yes",
-    "membership_time": "NA",
-    "purpose_text": null,
-    "career_levels": [],
+    "membership": "No",
+    "career_levels": [
+      "phd",
+      "postdoc"
+    ],
     "subjects": [
-      "all-subjects"
+      "life-sciences-biology",
+      "medicine-health"
     ],
     "travel_purposes": [
-      "collaboration"
+      "conference"
     ],
     "featured": false,
     "review_status": "approved",
     "status": "active",
-    "last_verified": "2026-02-19",
-    "verified_by": "asntech",
-    "created_at": null,
-    "updated_at": null,
-    "search_text": "EMBO Short Term Fellowships European Molecular Biology Organization (EMBO) All subjects Collaboration EMBO Member States, Associated Member states or Cooperation partners",
-    "source": "legacy-import",
+    "source": "manual",
+    "funder_names": [
+      "European Federation of Immunological Societies"
+    ],
+    "funder_logos": [
+      null
+    ],
+    "career_level_names": [
+      "PhD",
+      "Postdoc"
+    ],
+    "subject_names": [
+      "life-sciences-biology",
+      "medicine-health"
+    ],
+    "travel_purpose_names": [
+      "Conference"
+    ]
+  },
+  {
+    "id": "travel-grant-embo-scientific-exchange-grants",
+    "slug": "embo-scientific-exchange-grants",
+    "name": "EMBO Scientific Exchange Grants",
+    "url": "https://www.embo.org/funding/fellowships-grants-and-career-support/scientific-exchange-grants/eligibility/",
+    "description": "Research exchange travel support for active researchers with at least one year of graduate-level research experience. Supports exchanges between laboratories in different countries (not for exchanges within the same country).",
+    "funders": [
+      "european-molecular-biology-organization-embo"
+    ],
+    "applicant_country": "Worldwide",
+    "host_country": "Worldwide",
+    "award": null,
+    "deadline": "Check official page",
+    "deadline_month": null,
+    "membership": "No",
+    "career_levels": [
+      "phd",
+      "postdoc"
+    ],
+    "subjects": [
+      "life-sciences-biology"
+    ],
+    "travel_purposes": [
+      "research-visit"
+    ],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "source": "manual",
     "funder_names": [
       "European Molecular Biology Organization"
     ],
     "funder_logos": [
       "/logos/funders/european-molecular-biology-organization-embo.png"
     ],
-    "career_level_names": [],
+    "career_level_names": [
+      "PhD",
+      "Postdoc"
+    ],
     "subject_names": [
-      "All subjects"
+      "life-sciences-biology"
     ],
     "travel_purpose_names": [
-      "Collaboration"
+      "Research visit"
     ]
   },
   {
@@ -1437,6 +1790,52 @@
       "Junior Faculty"
     ],
     "subject_names": [],
+    "travel_purpose_names": [
+      "Conference"
+    ]
+  },
+  {
+    "id": "travel-grant-eswi-early-career-scientists-fund",
+    "slug": "eswi-early-career-scientists-fund",
+    "name": "ESWI Early Career Scientists Fund",
+    "url": "https://eswi.org/networks/ecas/ecas-fund",
+    "description": "<p>Travel and participation grants for early career scientists to attend the European Influenza Conference. Evaluated by the Scientific Programme Committee through open competition.</p>",
+    "funders": [
+      "european-scientific-working-group-on-influenza"
+    ],
+    "applicant_country": "Worldwide",
+    "host_country": "Worldwide",
+    "award": null,
+    "deadline": "Meeting-specific",
+    "deadline_month": null,
+    "membership": "No",
+    "career_levels": [
+      "phd",
+      "postdoc"
+    ],
+    "subjects": [
+      "medicine-health"
+    ],
+    "travel_purposes": [
+      "conference"
+    ],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "source": "manual",
+    "funder_names": [
+      "European Scientific Working Group on Influenza"
+    ],
+    "funder_logos": [
+      null
+    ],
+    "career_level_names": [
+      "PhD",
+      "Postdoc"
+    ],
+    "subject_names": [
+      "medicine-health"
+    ],
     "travel_purpose_names": [
       "Conference"
     ]
@@ -2324,6 +2723,52 @@
     ]
   },
   {
+    "id": "travel-grant-ishr-eci-travel-awards",
+    "slug": "ishr-eci-travel-awards",
+    "name": "ISHR Early Career Investigator Travel Awards",
+    "url": "https://ishrworld.org/page/ECItravel",
+    "description": "<p>Travel awards for early career investigators to attend the International Society for Heart Research World Congress. Applications are evaluated in two batches.</p>",
+    "funders": [
+      "international-society-for-heart-research"
+    ],
+    "applicant_country": "Worldwide",
+    "host_country": "Worldwide",
+    "award": null,
+    "deadline": "Batch-reviewed; check official page",
+    "deadline_month": null,
+    "membership": "No",
+    "career_levels": [
+      "phd",
+      "postdoc"
+    ],
+    "subjects": [
+      "medicine-health"
+    ],
+    "travel_purposes": [
+      "conference"
+    ],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "source": "manual",
+    "funder_names": [
+      "International Society for Heart Research"
+    ],
+    "funder_logos": [
+      null
+    ],
+    "career_level_names": [
+      "PhD",
+      "Postdoc"
+    ],
+    "subject_names": [
+      "medicine-health"
+    ],
+    "travel_purpose_names": [
+      "Conference"
+    ]
+  },
+  {
     "id": "travel-grant-isscr-travel-award",
     "legacy_id": 49,
     "slug": "isscr-travel-award",
@@ -2436,6 +2881,54 @@
     "funder_logos": [],
     "career_level_names": [],
     "subject_names": [],
+    "travel_purpose_names": [
+      "Conference"
+    ]
+  },
+  {
+    "id": "travel-grant-jem-early-career-travel-award",
+    "slug": "jem-early-career-travel-award",
+    "name": "JEM Early Career Travel Award",
+    "url": "https://rupress.org/jem/pages/early-career-travel-award",
+    "description": "<p>Travel award from the Journal of Experimental Medicine (Rockefeller University Press) for graduate students or early-career postdocs to attend selected scientific conferences.</p>",
+    "funders": [
+      "rockefeller-university-press"
+    ],
+    "applicant_country": "Worldwide",
+    "host_country": "Worldwide",
+    "award": null,
+    "deadline": "Meeting/year-specific",
+    "deadline_month": null,
+    "membership": "No",
+    "career_levels": [
+      "phd",
+      "postdoc"
+    ],
+    "subjects": [
+      "life-sciences-biology",
+      "medicine-health"
+    ],
+    "travel_purposes": [
+      "conference"
+    ],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "source": "manual",
+    "funder_names": [
+      "Rockefeller University Press"
+    ],
+    "funder_logos": [
+      null
+    ],
+    "career_level_names": [
+      "PhD",
+      "Postdoc"
+    ],
+    "subject_names": [
+      "life-sciences-biology",
+      "medicine-health"
+    ],
     "travel_purpose_names": [
       "Conference"
     ]
@@ -2561,6 +3054,54 @@
     "subject_names": [],
     "travel_purpose_names": [
       "Conference"
+    ]
+  },
+  {
+    "id": "travel-grant-lms-travel-grants-for-early-career-researchers",
+    "slug": "lms-travel-grants-for-early-career-researchers",
+    "name": "LMS Travel Grants for Early Career Researchers",
+    "url": "https://www.lms.ac.uk/grants/lms-travel-grants-early-career-researchers",
+    "description": "<p>Partial travel and/or accommodation support for PhD/research students or researchers within five years of PhD. Supports conference attendance or research visits in the UK or overseas. One grant per scheme per person per LMS financial year.</p>",
+    "funders": [
+      "london-mathematical-society"
+    ],
+    "applicant_country": "United Kingdom",
+    "host_country": "Worldwide",
+    "award": null,
+    "deadline": "Scheme page active",
+    "deadline_month": null,
+    "membership": "No",
+    "career_levels": [
+      "phd",
+      "postdoc"
+    ],
+    "subjects": [
+      "mathematics"
+    ],
+    "travel_purposes": [
+      "conference",
+      "research-visit"
+    ],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "source": "manual",
+    "funder_names": [
+      "London Mathematical Society"
+    ],
+    "funder_logos": [
+      null
+    ],
+    "career_level_names": [
+      "PhD",
+      "Postdoc"
+    ],
+    "subject_names": [
+      "Mathematics"
+    ],
+    "travel_purpose_names": [
+      "Conference",
+      "Research visit"
     ]
   },
   {
@@ -2978,6 +3519,104 @@
     ]
   },
   {
+    "id": "travel-grant-pag-travel-grants",
+    "slug": "pag-travel-grants",
+    "name": "PAG Travel Grants",
+    "url": "https://intlpag.org/PAG33/component/content/article/524-grants-2026?Itemid=101&catid=32",
+    "description": "<p>Travel stipends for eligible applicants to attend the Plant and Animal Genome Conference. Multiple grant streams are available with separate application details.</p>",
+    "funders": [
+      "plant-and-animal-genome-conference"
+    ],
+    "applicant_country": "Worldwide",
+    "host_country": "Worldwide",
+    "award": null,
+    "deadline": "Check current conference cycle",
+    "deadline_month": null,
+    "membership": "No",
+    "career_levels": [
+      "phd",
+      "postdoc"
+    ],
+    "subjects": [
+      "life-sciences-biology"
+    ],
+    "travel_purposes": [
+      "conference"
+    ],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "source": "manual",
+    "funder_names": [
+      "Plant and Animal Genome Conference"
+    ],
+    "funder_logos": [
+      null
+    ],
+    "career_level_names": [
+      "PhD",
+      "Postdoc"
+    ],
+    "subject_names": [
+      "life-sciences-biology"
+    ],
+    "travel_purpose_names": [
+      "Conference"
+    ]
+  },
+  {
+    "id": "travel-grant-pianoforte-partnership-travel-grants",
+    "slug": "pianoforte-partnership-travel-grants",
+    "name": "PIANOFORTE Partnership Travel Grants for Researchers",
+    "url": "https://pianoforte-partnership.eu/training-education/travel-grants-for-researchers",
+    "description": "<p>Travel grants for early career researchers in radiation protection research. Supports conference participation, course attendance, or exchange visits to research labs. EUR 40,000 per year available overall across the programme, with quarterly evaluations.</p>",
+    "funders": [
+      "pianoforte-partnership"
+    ],
+    "applicant_country": "Worldwide",
+    "host_country": "Worldwide",
+    "award": "EUR 40,000/year (programme total)",
+    "deadline": "Quarterly evaluations; applications open until end of programme",
+    "deadline_month": null,
+    "membership": "No",
+    "career_levels": [
+      "phd",
+      "master-students",
+      "postdoc"
+    ],
+    "subjects": [
+      "applied-sciences"
+    ],
+    "travel_purposes": [
+      "conference",
+      "learn-new-technique",
+      "research-visit"
+    ],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "source": "manual",
+    "funder_names": [
+      "PIANOFORTE Partnership"
+    ],
+    "funder_logos": [
+      null
+    ],
+    "career_level_names": [
+      "PhD",
+      "Master students",
+      "Postdoc"
+    ],
+    "subject_names": [
+      "Applied Sciences"
+    ],
+    "travel_purpose_names": [
+      "Conference",
+      "Learn new technique",
+      "Research visit"
+    ]
+  },
+  {
     "id": "travel-grant-plos-early-career-travel-award",
     "legacy_id": 90,
     "slug": "plos-early-career-travel-award",
@@ -3174,6 +3813,54 @@
     "subject_names": [],
     "travel_purpose_names": [
       "Conference"
+    ]
+  },
+  {
+    "id": "travel-grant-rsc-researcher-development-and-travel-grant",
+    "slug": "rsc-researcher-development-and-travel-grant",
+    "name": "RSC Researcher Development and Travel Grant",
+    "url": "https://www.rsc.org/funding-and-support/funding/researcher-development-and-travel-grant",
+    "description": "<p>Supports research career activities including travel to conferences, training events, meetings, and networking opportunities, whether virtual or in-person. Available to RSC members who are PhD students or early career scientists in academia or industry.</p>",
+    "funders": [
+      "royal-society-of-chemistry"
+    ],
+    "applicant_country": "Worldwide",
+    "host_country": "Worldwide",
+    "award": null,
+    "deadline": "Scheme page active",
+    "deadline_month": null,
+    "membership": "Yes",
+    "career_levels": [
+      "phd",
+      "postdoc"
+    ],
+    "subjects": [
+      "chemistry"
+    ],
+    "travel_purposes": [
+      "conference",
+      "workshop-training-or-course"
+    ],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "source": "manual",
+    "funder_names": [
+      "Royal Society of Chemistry"
+    ],
+    "funder_logos": [
+      null
+    ],
+    "career_level_names": [
+      "PhD",
+      "Postdoc"
+    ],
+    "subject_names": [
+      "Chemistry"
+    ],
+    "travel_purpose_names": [
+      "Conference",
+      "Workshop, training or course"
     ]
   },
   {
@@ -3729,47 +4416,6 @@
     "subject_names": [],
     "travel_purpose_names": [
       "Collaboration"
-    ]
-  },
-  {
-    "id": "travel-grant-tebu-bio-travel-grants",
-    "legacy_id": 86,
-    "slug": "tebu-bio-travel-grants",
-    "name": "tebu-bio Travel Grants",
-    "url": "https://www.tebu-bio.com/cms/1081/Get_your_400EUR_tebu_bio_Travel_Grant.html",
-    "description": "<p>tebu-bio offers travel grants (four draws per year) as an expression of their commitment towards developing European life sciences, to help European life scientists meet their expenses towards attending a life sciences meeting of their choice, anywhere in the world.</p>",
-    "funders": [],
-    "legacy_funder_name": "tebu-bio",
-    "applicant_country": "Europe",
-    "host_country": null,
-    "award": "€ 400",
-    "deadline": "Apply before 4 draws per year; see dates on the website",
-    "deadline_month": null,
-    "membership": "No",
-    "membership_time": null,
-    "purpose_text": null,
-    "career_levels": [],
-    "subjects": [],
-    "travel_purposes": [
-      "conference",
-      "workshop-training-or-course"
-    ],
-    "featured": false,
-    "review_status": "approved",
-    "status": "active",
-    "last_verified": "2026-02-19",
-    "verified_by": "asntech",
-    "created_at": null,
-    "updated_at": null,
-    "search_text": "tebu-bio Travel Grants <p>tebu-bio offers travel grants (four draws per year) as an expression of their commitment towards developing European life sciences, to help European life scientists meet their expenses towards attending a life sciences meeting of their choice, anywhere in the world.</p> Conference Workshop, training or course Europe",
-    "source": "legacy-import",
-    "funder_names": [],
-    "funder_logos": [],
-    "career_level_names": [],
-    "subject_names": [],
-    "travel_purpose_names": [
-      "Conference",
-      "Workshop, training or course"
     ]
   },
   {
@@ -4407,6 +5053,46 @@
     "subject_names": [],
     "travel_purpose_names": [
       "Collaboration"
+    ]
+  },
+  {
+    "id": "travel-grant-ut-austin-postdoctoral-scholars-travel-grant",
+    "slug": "ut-austin-postdoctoral-scholars-travel-grant",
+    "name": "UT Austin Postdoctoral Scholars Travel Grant Program",
+    "url": "https://postdocs.utexas.edu/TravelGrant",
+    "description": "<p>Travel award for University of Texas at Austin postdoctoral fellows to attend professional conferences and meetings. Encourages engagement in professional development opportunities.</p>",
+    "funders": [
+      "university-of-texas-at-austin"
+    ],
+    "applicant_country": "United States",
+    "host_country": "Worldwide",
+    "award": "Maximum USD 750",
+    "deadline": "Scheme page active",
+    "deadline_month": null,
+    "membership": "No",
+    "career_levels": [
+      "postdoc"
+    ],
+    "subjects": [],
+    "travel_purposes": [
+      "conference"
+    ],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "source": "manual",
+    "funder_names": [
+      "University of Texas at Austin"
+    ],
+    "funder_logos": [
+      null
+    ],
+    "career_level_names": [
+      "Postdoc"
+    ],
+    "subject_names": [],
+    "travel_purpose_names": [
+      "Conference"
     ]
   },
   {

@@ -1,4 +1,5 @@
 import { defineConfig } from 'astro/config'
+import sitemap from '@astrojs/sitemap'
 import { resolve } from 'path'
 import { fileURLToPath } from 'url'
 
@@ -8,6 +9,7 @@ const dataDir = resolve(__dirname, '../../data')
 export default defineConfig({
   output: 'static',
   site: 'https://ecrcentral.org',
+  integrations: [sitemap()],
   build: {
     assets: 'assets',
   },

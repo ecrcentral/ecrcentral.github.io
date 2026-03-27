@@ -9,7 +9,7 @@
       {
         "value": "the-world-academy-of-sciences",
         "label": "The World Academy of Sciences",
-        "count": 9
+        "count": 12
       },
       {
         "value": "american-gastroenterological-association",
@@ -34,11 +34,6 @@
       {
         "value": "american-psychological-foundation",
         "label": "American Psychological Foundation",
-        "count": 6
-      },
-      {
-        "value": "whitehall-foundation",
-        "label": "Whitehall Foundation",
         "count": 6
       },
       {
@@ -69,6 +64,11 @@
       {
         "value": "burroughs-wellcome-fund",
         "label": "Burroughs Wellcome Fund",
+        "count": 4
+      },
+      {
+        "value": "whitehall-foundation",
+        "label": "Whitehall Foundation",
         "count": 4
       },
       {
@@ -1511,7 +1511,7 @@
       {
         "value": "United States",
         "label": "United States",
-        "count": 96
+        "count": 95
       },
       {
         "value": "Developing countries",
@@ -1773,7 +1773,7 @@
       {
         "value": "United States",
         "label": "United States",
-        "count": 452
+        "count": 449
       },
       {
         "value": "United Kingdom",
@@ -2095,7 +2095,7 @@
       {
         "value": "junior-faculty",
         "label": "Junior Faculty",
-        "count": 109
+        "count": 108
       },
       {
         "value": "md",
@@ -2182,7 +2182,7 @@
       {
         "value": "neuroscience",
         "label": "Neuroscience",
-        "count": 8
+        "count": 7
       },
       {
         "value": "environmental-sciences",
@@ -2609,7 +2609,7 @@
       {
         "value": "research",
         "label": "Research",
-        "count": 225
+        "count": 224
       },
       {
         "value": "fellowship-scholarship-or-training",
@@ -2716,11 +2716,6 @@
       {
         "value": "March, September",
         "label": "March, September",
-        "count": 7
-      },
-      {
-        "value": "January, April, October",
-        "label": "January, April, October",
         "count": 6
       },
       {
@@ -2731,6 +2726,11 @@
       {
         "value": "April, October",
         "label": "April, October",
+        "count": 4
+      },
+      {
+        "value": "January, April, October",
+        "label": "January, April, October",
         "count": 4
       },
       {
@@ -2948,7 +2948,7 @@
       {
         "value": "Annual",
         "label": "Annual",
-        "count": 253
+        "count": 252
       },
       {
         "value": "Rolling",
@@ -2980,7 +2980,7 @@
       {
         "value": "active",
         "label": "Active",
-        "count": 687
+        "count": 684
       },
       {
         "value": "draft",
@@ -3002,7 +3002,7 @@
       {
         "value": "false",
         "label": "Not Featured",
-        "count": 763
+        "count": 760
       }
     ],
     "diversity": [
@@ -3014,7 +3014,7 @@
       {
         "value": "no",
         "label": "No Diversity Info",
-        "count": 743
+        "count": 740
       }
     ]
   },
@@ -3041,8 +3041,53 @@
         "count": 1
       },
       {
+        "value": "american-association-for-cancer-research",
+        "label": "American Association for Cancer Research",
+        "count": 1
+      },
+      {
+        "value": "association-of-commonwealth-universities",
+        "label": "Association of Commonwealth Universities",
+        "count": 1
+      },
+      {
+        "value": "asia-pacific-oncology-specialists",
+        "label": "Asia Pacific Oncology Specialists",
+        "count": 1
+      },
+      {
+        "value": "american-society-for-biochemistry-and-molecular-biology",
+        "label": "American Society for Biochemistry and Molecular Biology",
+        "count": 1
+      },
+      {
+        "value": "american-society-of-pediatric-hematology-oncology",
+        "label": "American Society of Pediatric Hematology/Oncology",
+        "count": 1
+      },
+      {
+        "value": "cass-foundation",
+        "label": "The CASS Foundation",
+        "count": 1
+      },
+      {
+        "value": "csir-hrdg",
+        "label": "CSIR Human Resource Development Group",
+        "count": 1
+      },
+      {
+        "value": "european-federation-of-immunological-societies",
+        "label": "European Federation of Immunological Societies",
+        "count": 1
+      },
+      {
         "value": "european-molecular-biology-organization-embo",
         "label": "European Molecular Biology Organization",
+        "count": 1
+      },
+      {
+        "value": "european-scientific-working-group-on-influenza",
+        "label": "European Scientific Working Group on Influenza",
         "count": 1
       },
       {
@@ -3056,6 +3101,36 @@
         "count": 1
       },
       {
+        "value": "international-society-for-heart-research",
+        "label": "International Society for Heart Research",
+        "count": 1
+      },
+      {
+        "value": "rockefeller-university-press",
+        "label": "Rockefeller University Press",
+        "count": 1
+      },
+      {
+        "value": "london-mathematical-society",
+        "label": "London Mathematical Society",
+        "count": 1
+      },
+      {
+        "value": "plant-and-animal-genome-conference",
+        "label": "Plant and Animal Genome Conference",
+        "count": 1
+      },
+      {
+        "value": "pianoforte-partnership",
+        "label": "PIANOFORTE Partnership",
+        "count": 1
+      },
+      {
+        "value": "royal-society-of-chemistry",
+        "label": "Royal Society of Chemistry",
+        "count": 1
+      },
+      {
         "value": "springer-nature",
         "label": "Springer Nature",
         "count": 1
@@ -3063,6 +3138,11 @@
       {
         "value": "the-company-of-biologists",
         "label": "The Company of Biologists",
+        "count": 1
+      },
+      {
+        "value": "university-of-texas-at-austin",
+        "label": "University of Texas at Austin",
         "count": 1
       },
       {
@@ -3080,12 +3160,12 @@
       {
         "value": "Worldwide",
         "label": "Worldwide",
-        "count": 18
+        "count": 31
       },
       {
         "value": "United Kingdom",
         "label": "United Kingdom",
-        "count": 6
+        "count": 7
       },
       {
         "value": "Anyone, but work in UK",
@@ -3108,8 +3188,8 @@
         "count": 2
       },
       {
-        "value": "Europe",
-        "label": "Europe",
+        "value": "United States",
+        "label": "United States",
         "count": 2
       },
       {
@@ -3138,18 +3218,23 @@
         "count": 1
       },
       {
+        "value": "Australia",
+        "label": "Australia",
+        "count": 1
+      },
+      {
         "value": "Anyone, but work at UCL",
         "label": "Anyone, But Work At Ucl",
         "count": 1
       },
       {
-        "value": "Must have PhD or MD, from Egypt, Israel, Jordan, Lebanon, Palestinian Territories, United Kingdom",
-        "label": "Must Have Phd Or Md, From Egypt, Israel, Jordan, Lebanon, Palestinian Territories, United Kingdom",
+        "value": "India",
+        "label": "India",
         "count": 1
       },
       {
-        "value": "EMBO Member States, Associated Member states or Cooperation partners",
-        "label": "Embo Member States, Associated Member States Or Cooperation Partners",
+        "value": "Must have PhD or MD, from Egypt, Israel, Jordan, Lebanon, Palestinian Territories, United Kingdom",
+        "label": "Must Have Phd Or Md, From Egypt, Israel, Jordan, Lebanon, Palestinian Territories, United Kingdom",
         "count": 1
       },
       {
@@ -3175,6 +3260,11 @@
       {
         "value": "US",
         "label": "Us",
+        "count": 1
+      },
+      {
+        "value": "Europe",
+        "label": "Europe",
         "count": 1
       },
       {
@@ -3311,23 +3401,18 @@
         "value": "Click grant URL for list of eligible countries",
         "label": "Click Grant Url For List Of Eligible Countries",
         "count": 1
-      },
-      {
-        "value": "United States",
-        "label": "United States",
-        "count": 1
       }
     ],
     "career_levels": [
       {
         "value": "phd",
         "label": "PhD",
-        "count": 30
+        "count": 45
       },
       {
         "value": "postdoc",
         "label": "Postdoc",
-        "count": 24
+        "count": 41
       },
       {
         "value": "junior-faculty",
@@ -3337,7 +3422,7 @@
       {
         "value": "master-students",
         "label": "Master students",
-        "count": 4
+        "count": 5
       },
       {
         "value": "senior-faculty",
@@ -3357,9 +3442,29 @@
         "count": 7
       },
       {
+        "value": "medicine-health",
+        "label": "medicine-health",
+        "count": 7
+      },
+      {
+        "value": "life-sciences-biology",
+        "label": "life-sciences-biology",
+        "count": 5
+      },
+      {
         "value": "all-subjects",
         "label": "All subjects",
-        "count": 4
+        "count": 3
+      },
+      {
+        "value": "mathematics",
+        "label": "Mathematics",
+        "count": 2
+      },
+      {
+        "value": "chemistry",
+        "label": "Chemistry",
+        "count": 2
       },
       {
         "value": "immunology",
@@ -3372,23 +3477,18 @@
         "count": 1
       },
       {
+        "value": "applied-sciences",
+        "label": "Applied Sciences",
+        "count": 1
+      },
+      {
         "value": "medicine-and-health-sciences",
         "label": "Medicine and Health Sciences",
         "count": 1
       },
       {
-        "value": "chemistry",
-        "label": "Chemistry",
-        "count": 1
-      },
-      {
         "value": "physics",
         "label": "Physics",
-        "count": 1
-      },
-      {
-        "value": "mathematics",
-        "label": "Mathematics",
         "count": 1
       }
     ],
@@ -3396,27 +3496,27 @@
       {
         "value": "conference",
         "label": "Conference",
-        "count": 72
+        "count": 87
       },
       {
         "value": "collaboration",
         "label": "Collaboration",
-        "count": 30
+        "count": 29
       },
       {
         "value": "learn-new-technique",
         "label": "Learn new technique",
-        "count": 25
+        "count": 26
+      },
+      {
+        "value": "research-visit",
+        "label": "Research visit",
+        "count": 21
       },
       {
         "value": "workshop-training-or-course",
         "label": "Workshop, training or course",
         "count": 19
-      },
-      {
-        "value": "research-visit",
-        "label": "Research visit",
-        "count": 18
       },
       {
         "value": "field-work",
@@ -3428,7 +3528,7 @@
       {
         "value": "yes",
         "label": "Membership Required",
-        "count": 94
+        "count": 109
       },
       {
         "value": "no",
@@ -3438,6 +3538,16 @@
     ],
     "deadline_month": [
       {
+        "value": "February",
+        "label": "February",
+        "count": 5
+      },
+      {
+        "value": "November",
+        "label": "November",
+        "count": 5
+      },
+      {
         "value": "March, June, September, December",
         "label": "March, June, September, December",
         "count": 5
@@ -3446,16 +3556,6 @@
         "value": "September",
         "label": "September",
         "count": 5
-      },
-      {
-        "value": "February",
-        "label": "February",
-        "count": 4
-      },
-      {
-        "value": "November",
-        "label": "November",
-        "count": 4
       },
       {
         "value": "January",
@@ -3557,7 +3657,7 @@
       {
         "value": "active",
         "label": "Active",
-        "count": 106
+        "count": 121
       },
       {
         "value": "draft",
@@ -3695,12 +3795,12 @@
       {
         "value": "United States",
         "label": "United States",
-        "count": 318
+        "count": 323
       },
       {
         "value": "United Kingdom",
         "label": "United Kingdom",
-        "count": 63
+        "count": 66
       },
       {
         "value": "NA",
@@ -3713,13 +3813,13 @@
         "count": 16
       },
       {
-        "value": "Canada",
-        "label": "Canada",
-        "count": 15
-      },
-      {
         "value": "Australia",
         "label": "Australia",
+        "count": 16
+      },
+      {
+        "value": "Canada",
+        "label": "Canada",
         "count": 15
       },
       {
@@ -3728,18 +3828,23 @@
         "count": 8
       },
       {
+        "value": "India",
+        "label": "India",
+        "count": 7
+      },
+      {
         "value": "China",
         "label": "China",
         "count": 6
       },
       {
-        "value": "India",
-        "label": "India",
-        "count": 6
-      },
-      {
         "value": "Switzerland",
         "label": "Switzerland",
+        "count": 5
+      },
+      {
+        "value": "European Union",
+        "label": "European Union",
         "count": 5
       },
       {
@@ -3753,13 +3858,13 @@
         "count": 5
       },
       {
-        "value": "Singapore",
-        "label": "Singapore",
-        "count": 4
-      },
-      {
         "value": "Belgium",
         "label": "Belgium",
+        "count": 5
+      },
+      {
+        "value": "Singapore",
+        "label": "Singapore",
         "count": 4
       },
       {
@@ -3775,11 +3880,6 @@
       {
         "value": "New Zealand",
         "label": "New Zealand",
-        "count": 3
-      },
-      {
-        "value": "European Union",
-        "label": "European Union",
         "count": 3
       },
       {
@@ -3881,6 +3981,16 @@
         "value": "Poland",
         "label": "Poland",
         "count": 1
+      },
+      {
+        "value": "Asia Pacific",
+        "label": "Asia Pacific",
+        "count": 1
+      },
+      {
+        "value": "Worldwide",
+        "label": "Worldwide",
+        "count": 1
       }
     ],
     "featured": [
@@ -3892,20 +4002,20 @@
       {
         "value": "false",
         "label": "Not Featured",
-        "count": 533
+        "count": 548
       }
     ],
     "status": [
       {
         "value": "active",
         "label": "Active",
-        "count": 544
+        "count": 559
       }
     ],
     "dora": [
       {
         "value": "DORA Signatory",
-        "count": 34
+        "count": 35
       }
     ]
   }

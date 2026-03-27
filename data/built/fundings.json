@@ -885,9 +885,9 @@
     "funding_purpose_names": []
   },
   {
-    "id": "funding-postdoctoral-fellowship-5",
+    "id": "funding-university-of-queensland-postdoctoral-fellowship",
     "legacy_id": 237,
-    "slug": "postdoctoral-fellowship-5",
+    "slug": "university-of-queensland-postdoctoral-fellowship",
     "name": "Postdoctoral Fellowship",
     "description": null,
     "url": "http://www.uq.edu.au/research/research-management/uq-fellowships",
@@ -1137,9 +1137,9 @@
     "funding_purpose_names": []
   },
   {
-    "id": "funding-postdoctoral-fellowship-9",
+    "id": "funding-wenner-gren-foundation-postdoctoral-fellowship",
     "legacy_id": 256,
-    "slug": "postdoctoral-fellowship-9",
+    "slug": "wenner-gren-foundation-postdoctoral-fellowship",
     "name": "Postdoctoral Fellowship",
     "description": null,
     "url": "http://www.swgc.org/sarskilda-stipendier.aspx",
@@ -1389,9 +1389,9 @@
     "funding_purpose_names": []
   },
   {
-    "id": "funding-postdoctoral-fellowship-10",
+    "id": "funding-twas-cnpq-postdoctoral-fellowship",
     "legacy_id": 260,
-    "slug": "postdoctoral-fellowship-10",
+    "slug": "twas-cnpq-postdoctoral-fellowship",
     "name": "Postdoctoral Fellowship",
     "description": null,
     "url": "https://twas.org/opportunity/twas-cnpq-postdoctoral-fellowship-programme",
@@ -1431,9 +1431,9 @@
     "funding_purpose_names": []
   },
   {
-    "id": "funding-postdoctoral-fellowship-11",
+    "id": "funding-twas-postdoctoral-fellowship-india",
     "legacy_id": 261,
-    "slug": "postdoctoral-fellowship-11",
+    "slug": "twas-postdoctoral-fellowship-india",
     "name": "Postdoctoral Fellowship",
     "description": null,
     "url": "https://twas.org/opportunities/fellowships/postdoc?title_field_value=&field_shared_global_countries_tid=All&field_shared_applicant_countries_tid=All&field_fellowship_field_sections_tid=All&field_fellowship_age_limit_value=&&&page=1",
@@ -1473,9 +1473,9 @@
     "funding_purpose_names": []
   },
   {
-    "id": "funding-postdoctoral-fellowship-12",
+    "id": "funding-twas-postdoctoral-fellowship-kenya",
     "legacy_id": 262,
-    "slug": "postdoctoral-fellowship-12",
+    "slug": "twas-postdoctoral-fellowship-kenya",
     "name": "Postdoctoral Fellowship",
     "description": null,
     "url": "https://twas.org/opportunities/fellowships/postdoc?title_field_value=&field_shared_global_countries_tid=All&field_shared_applicant_countries_tid=All&field_fellowship_field_sections_tid=All&field_fellowship_age_limit_value=&&&page=1",
@@ -1515,9 +1515,9 @@
     "funding_purpose_names": []
   },
   {
-    "id": "funding-postdoctoral-fellowship-13",
+    "id": "funding-twas-postdoctoral-fellowship-malaysia",
     "legacy_id": 263,
-    "slug": "postdoctoral-fellowship-13",
+    "slug": "twas-postdoctoral-fellowship-malaysia",
     "name": "Postdoctoral Fellowship",
     "description": null,
     "url": "https://twas.org/opportunities/fellowships/postdoc?title_field_value=&field_shared_global_countries_tid=All&field_shared_applicant_countries_tid=All&field_fellowship_field_sections_tid=All&field_fellowship_age_limit_value=&&&page=1",
@@ -1557,13 +1557,15 @@
     "funding_purpose_names": []
   },
   {
-    "id": "funding-postdoctoral-fellowship-14",
+    "id": "funding-twas-postdoctoral-fellowship-mexico",
     "legacy_id": 264,
-    "slug": "postdoctoral-fellowship-14",
+    "slug": "twas-postdoctoral-fellowship-mexico",
     "name": "Postdoctoral Fellowship",
     "description": null,
     "url": "https://twas.org/opportunities/fellowships/postdoc?title_field_value=&field_shared_global_countries_tid=All&field_shared_applicant_countries_tid=All&field_fellowship_field_sections_tid=All&field_fellowship_age_limit_value=&&&page=1",
-    "funders": [],
+    "funders": [
+      "the-world-academy-of-sciences"
+    ],
     "legacy_funder_name": "World Academy of Science",
     "host_country": "Mexico",
     "applicant_country": "Developing countries",
@@ -1592,20 +1594,26 @@
     "funding_purposes": [],
     "search_text": "Postdoctoral Fellowship Mexico Developing countries",
     "source": "legacy-import",
-    "funder_names": [],
-    "funder_logos": [],
+    "funder_names": [
+      "The World Academy of Sciences"
+    ],
+    "funder_logos": [
+      "/logos/funders/the-world-academy-of-sciences.png"
+    ],
     "career_level_names": [],
     "subject_names": [],
     "funding_purpose_names": []
   },
   {
-    "id": "funding-postdoctoral-fellowship-15",
+    "id": "funding-twas-postdoctoral-fellowship-south-africa",
     "legacy_id": 266,
-    "slug": "postdoctoral-fellowship-15",
+    "slug": "twas-postdoctoral-fellowship-south-africa",
     "name": "Postdoctoral Fellowship",
     "description": null,
     "url": "https://twas.org/opportunities/fellowships/postdoc?title_field_value=&field_shared_global_countries_tid=All&field_shared_applicant_countries_tid=All&field_fellowship_field_sections_tid=All&field_fellowship_age_limit_value=&&&page=1",
-    "funders": [],
+    "funders": [
+      "the-world-academy-of-sciences"
+    ],
     "legacy_funder_name": "World Academy of Science",
     "host_country": "South Africa",
     "applicant_country": "Developing countries",
@@ -1634,20 +1642,26 @@
     "funding_purposes": [],
     "search_text": "Postdoctoral Fellowship South Africa Developing countries",
     "source": "legacy-import",
-    "funder_names": [],
-    "funder_logos": [],
+    "funder_names": [
+      "The World Academy of Sciences"
+    ],
+    "funder_logos": [
+      "/logos/funders/the-world-academy-of-sciences.png"
+    ],
     "career_level_names": [],
     "subject_names": [],
     "funding_purpose_names": []
   },
   {
-    "id": "funding-postdoctoral-fellowship-16",
+    "id": "funding-twas-postdoctoral-fellowship-thailand",
     "legacy_id": 267,
-    "slug": "postdoctoral-fellowship-16",
+    "slug": "twas-postdoctoral-fellowship-thailand",
     "name": "Postdoctoral Fellowship",
     "description": null,
     "url": "https://twas.org/opportunities/fellowships/postdoc?title_field_value=&field_shared_global_countries_tid=All&field_shared_applicant_countries_tid=All&field_fellowship_field_sections_tid=All&field_fellowship_age_limit_value=&&&page=1",
-    "funders": [],
+    "funders": [
+      "the-world-academy-of-sciences"
+    ],
     "legacy_funder_name": "World Academy of Science",
     "host_country": "Thailand",
     "applicant_country": "Developing countries",
@@ -1676,16 +1690,20 @@
     "funding_purposes": [],
     "search_text": "Postdoctoral Fellowship Thailand Developing countries",
     "source": "legacy-import",
-    "funder_names": [],
-    "funder_logos": [],
+    "funder_names": [
+      "The World Academy of Sciences"
+    ],
+    "funder_logos": [
+      "/logos/funders/the-world-academy-of-sciences.png"
+    ],
     "career_level_names": [],
     "subject_names": [],
     "funding_purpose_names": []
   },
   {
-    "id": "funding-postdoctoral-fellowship-17",
+    "id": "funding-zoological-society-of-london-postdoctoral-fellowship",
     "legacy_id": 270,
-    "slug": "postdoctoral-fellowship-17",
+    "slug": "zoological-society-of-london-postdoctoral-fellowship",
     "name": "Postdoctoral Fellowship",
     "description": null,
     "url": "https://careers-zsl.icims.com/jobs/search?ss=1&searchLocation=&searchCategory=&hashed=-435708024&mobile=false&width=960&height=500&bga=true&needsRedirect=false&jan1offset=0&jun1offset=60",
@@ -4557,48 +4575,6 @@
     "funding_purpose_names": []
   },
   {
-    "id": "funding-early-career-awards",
-    "legacy_id": 477,
-    "slug": "early-career-awards",
-    "name": "Early Career Awards",
-    "description": null,
-    "url": "https://www.thrasherresearch.org/SitePages/early-career-award.aspx",
-    "funders": [],
-    "legacy_funder_name": "Thrasher Research Fund",
-    "host_country": "United States",
-    "applicant_country": null,
-    "career_levels": [],
-    "years_since_phd": "The program is open to physicians in a residency/fellowship training program or who have completed such a program no more than a year before the date of submission of the concept paper, as we",
-    "duration": null,
-    "award": "$25 000",
-    "mobility_rule": null,
-    "research_costs": null,
-    "deadline": "March and September for concept papers",
-    "deadline_month": "March, September",
-    "diversity": null,
-    "comments": "The Fund recognizes that young investigators may find it difficult to remain in pediatric research because of a lack of funding. Therefore, the purpose of this program is to encourage the development of medical research in child health by awarding small grants to new researchers, helping them gain a foothold in this important area. The Fund makes approximately 30 awards each year. There are three funding cycles per year for Early Career Award Program grants. Awards may be up to $25,000 in direct costs.",
-    "benefits": null,
-    "frequency": null,
-    "fileds": null,
-    "featured": false,
-    "review_status": "approved",
-    "status": "active",
-    "last_verified": "2026-02-19",
-    "verified_by": "asntech",
-    "legacy_user_id": 1,
-    "created_at": null,
-    "updated_at": "2018-12-29T13:58:24Z",
-    "subjects": [],
-    "funding_purposes": [],
-    "search_text": "Early Career Awards United States",
-    "source": "legacy-import",
-    "funder_names": [],
-    "funder_logos": [],
-    "career_level_names": [],
-    "subject_names": [],
-    "funding_purpose_names": []
-  },
-  {
     "id": "funding-gulf-research-program-science-policy-fellowships",
     "legacy_id": 479,
     "slug": "gulf-research-program-science-policy-fellowships",
@@ -4855,9 +4831,9 @@
     "funding_purpose_names": []
   },
   {
-    "id": "funding-research-grants-3",
+    "id": "funding-american-parkinson-disease-association-research-grants",
     "legacy_id": 475,
-    "slug": "research-grants-3",
+    "slug": "american-parkinson-disease-association-research-grants",
     "name": "Research Grants",
     "description": null,
     "url": "http://www.apdaparkinson.org/research/research-grant/",
@@ -6329,9 +6305,9 @@
     "funding_purpose_names": []
   },
   {
-    "id": "funding-research-grants-5",
+    "id": "funding-foundation-for-physical-therapy-research-grants",
     "legacy_id": 549,
-    "slug": "research-grants-5",
+    "slug": "foundation-for-physical-therapy-research-grants",
     "name": "Research Grants",
     "description": null,
     "url": "https://foundation4pt.org/funding-opportunities/research-grants/",
@@ -14834,9 +14810,9 @@
     ]
   },
   {
-    "id": "funding-research-grants-4",
+    "id": "funding-whitehall-foundation-research-grants-2",
     "legacy_id": 508,
-    "slug": "research-grants-4",
+    "slug": "whitehall-foundation-research-grants-2",
     "name": "Research Grants",
     "description": "The Whitehall Foundation, through its program of grants and grants-in-aid, assists scholarly research in the life sciences. It is the Foundation's policy to assist those dynamic areas of basic biological research that are not heavily supported by Federal Agencies or other foundations with specialized missions.",
     "url": "http://www.whitehall.org/grants/",
@@ -17470,69 +17446,9 @@
     ]
   },
   {
-    "id": "funding-grants-in-aid-3",
-    "legacy_id": 590,
-    "slug": "grants-in-aid-3",
-    "name": "Grants-in-Aid",
-    "description": "The Grants-in-Aid program is designed for researchers at the assistant professor level who experience difficulty in competing for research funds because they have not yet become firmly established. Grants-in-Aid can also be made to senior scientists. All applications will be judged on the scientific merit and innovative aspects of the proposal, as well as on past performance and evidence of the applicant’s continued productivity. Grants-in-Aid are awarded for a one-year period and do not exceed $30,000.",
-    "url": "http://www.whitehall.org/grants/",
-    "funders": [
-      "whitehall-foundation"
-    ],
-    "legacy_funder_name": "Whitehall Foundation",
-    "host_country": "United States",
-    "applicant_country": "United States",
-    "career_levels": [
-      "junior-faculty"
-    ],
-    "years_since_phd": "Researchers at the assistant professor level who experience difficulty in competing for research funds because they have not yet become firmly established.",
-    "duration": "1",
-    "award": "$30 000",
-    "mobility_rule": null,
-    "research_costs": null,
-    "deadline": "January 15, April 15, and October 1 for letter of intent",
-    "deadline_month": "January, April, October",
-    "diversity": null,
-    "comments": "The Foundation is currently interested in basic research in neurobiology, defined as follows: Invertebrate and vertebrate (excluding clinical) neurobiology, specifically investigations of neural mechanisms involved in sensory, motor, and other complex functions of the whole organism as these relate to behavior. The overall goal should be to better understand behavioral output or brain mechanisms of behavior. The Grants-in-Aid program is designed for researchers at the assistant professor level who experience difficulty in competing for research funds because they have not yet become firmly established. Grants-in-Aid can also be made to senior scientists. All applications will be judged on the scientific merit and innovative aspects of the proposal, as well as on past performance and evidence of the applicant’s continued productivity. Grants-in-Aid are awarded for a one-year period and do not exceed $30,000.",
-    "benefits": null,
-    "frequency": "Annual",
-    "fileds": null,
-    "featured": false,
-    "review_status": "approved",
-    "status": "active",
-    "last_verified": "2026-02-19",
-    "verified_by": "asntech",
-    "legacy_user_id": 1,
-    "created_at": null,
-    "updated_at": "2020-05-24T11:08:28Z",
-    "subjects": [
-      "neuroscience"
-    ],
-    "funding_purposes": [
-      "research"
-    ],
-    "search_text": "Grants-in-Aid The Grants-in-Aid program is designed for researchers at the assistant professor level who experience difficulty in competing for research funds because they have not yet become firmly established. Grants-in-Aid can also be made to senior scientists. All applications will be judged on the scientific merit and innovative aspects of the proposal, as well as on past performance and evidence of the applicant’s continued productivity. Grants-in-Aid are awarded for a one-year period and do not exceed $30,000. Whitehall Foundation Junior Faculty Neuroscience Research United States United States",
-    "source": "legacy-import",
-    "funder_names": [
-      "Whitehall Foundation"
-    ],
-    "funder_logos": [
-      null
-    ],
-    "career_level_names": [
-      "Junior Faculty"
-    ],
-    "subject_names": [
-      "Neuroscience"
-    ],
-    "funding_purpose_names": [
-      "Research"
-    ]
-  },
-  {
-    "id": "funding-research-grants-6",
+    "id": "funding-whitehall-foundation-research-grants-3",
     "legacy_id": 591,
-    "slug": "research-grants-6",
+    "slug": "whitehall-foundation-research-grants-3",
     "name": "Research Grants",
     "description": "Research grants are available to established scientists of all ages working at accredited institutions in the United States. Applications will be judged on the scientific merit and the innovative aspects of the proposal as well as on the competence of the applicant. Research grants of up to three years will be provided. A renewal grant with a maximum of two years is possible, but it will be awarded on a competitive basis. Research grants will not be awarded to investigators who have already received, or expect to receive, substantial support from other sources, even if it is for an unrelated purpose. Research grants normally range from $30,000 to $75,000 per year.",
     "url": "http://www.whitehall.org/grants/",
@@ -19182,10 +19098,10 @@
     "funding_purpose_names": []
   },
   {
-    "id": "funding-research-scholar-grants-2",
+    "id": "funding-acs-research-scholar-grants",
     "legacy_id": 616,
-    "slug": "research-scholar-grants-2",
-    "name": "Research Scholar Grants",
+    "slug": "acs-research-scholar-grants",
+    "name": "ACS Research Scholar Grants",
     "description": "The Research Scholar Grant (RSG) supports investigator-initiated projects across the cancer research continuum. \r\n\r\nWho's Eligible: Independent investigators in the first 6 years of an independent research career or faculty appointment are eligible to apply. Eligibility is extended for 8 years for clinician scientists who remain active in clinical care. Applicants typically must be within 12 years of receiving a terminal (doctorate) degree and cannot have more than one R01/R01-like grant (>$100,000/year direct costs for more than 3 years) as principal investigator at the time of application.",
     "url": "http://www.cancer.org/research/applyforaresearchgrant/granttypes/research-scholar-grants",
     "funders": [
@@ -30057,9 +29973,9 @@
     ]
   },
   {
-    "id": "funding-postdoctoral-fellowship-4",
+    "id": "funding-university-of-new-england-postdoctoral-fellowship",
     "legacy_id": 233,
-    "slug": "postdoctoral-fellowship-4",
+    "slug": "university-of-new-england-postdoctoral-fellowship",
     "name": "Postdoctoral Fellowship",
     "description": "The University of New England Postdoctoral Research Fellowship Scheme (UNE-PDF) aims to support early career researchers who have an outstanding track record relative to opportunity, and commensurate with expectations for nationally competitive early career fellowships. Fellowships are offered on a three-year fixed term full-time basis and Fellows must be based at the University for the duration of the Fellowship",
     "url": "https://www.une.edu.au/research/ethics-and-grants/funding-opportunities/une-postdoctoral-fellowships",
@@ -30901,9 +30817,9 @@
     "funding_purpose_names": []
   },
   {
-    "id": "funding-postdoctoral-fellowship-7",
+    "id": "funding-university-of-victoria-postdoctoral-fellowship",
     "legacy_id": 241,
-    "slug": "postdoctoral-fellowship-7",
+    "slug": "university-of-victoria-postdoctoral-fellowship",
     "name": "Postdoctoral Fellowship",
     "description": "The Victoria University Research Fellowship program was established to support, promote and progress outstanding, innovative and strategically aligned research.",
     "url": "https://www.vu.edu.au/researchers/research-lifecycle/research-fellowships",
@@ -32971,57 +32887,9 @@
     "funding_purpose_names": []
   },
   {
-    "id": "funding-grants-in-aid",
-    "legacy_id": 418,
-    "slug": "grants-in-aid",
-    "name": "Grants-in-Aid",
-    "description": "The Grants-in-Aid program is designed for researchers at the assistant professor level who experience difficulty in competing for research funds because they have not yet become firmly established.",
-    "url": "http://www.whitehall.org/grants/",
-    "funders": [
-      "whitehall-foundation"
-    ],
-    "legacy_funder_name": "Whitehall Foundation",
-    "host_country": "United States",
-    "applicant_country": null,
-    "career_levels": [],
-    "years_since_phd": "Researchers at the assistant professor level who experience difficulty in competing for research funds because they have not yet become firmly established.",
-    "duration": "1 year",
-    "award": "$30 000",
-    "mobility_rule": null,
-    "research_costs": null,
-    "deadline": "January 15, April 15, and October 1 for letter of intent",
-    "deadline_month": "January, April, October",
-    "diversity": null,
-    "comments": "The Foundation is currently interested in basic research in neurobiology, defined as follows: Invertebrate and vertebrate (excluding clinical) neurobiology, specifically investigations of neural mechanisms involved in sensory, motor, and other complex functions of the whole organism as these relate to behavior. The overall goal should be to better understand behavioral output or brain mechanisms of behavior. The Grants-in-Aid program is designed for researchers at the assistant professor level who experience difficulty in competing for research funds because they have not yet become firmly established. Grants-in-Aid can also be made to senior scientists. All applications will be judged on the scientific merit and innovative aspects of the proposal, as well as on past performance and evidence of the applicant’s continued productivity. Grants-in-Aid are awarded for a one-year period and do not exceed $30,000.",
-    "benefits": null,
-    "frequency": null,
-    "fileds": null,
-    "featured": false,
-    "review_status": "approved",
-    "status": "active",
-    "last_verified": "2026-02-19",
-    "verified_by": "asntech",
-    "legacy_user_id": 1,
-    "created_at": null,
-    "updated_at": "2020-06-18T22:16:15Z",
-    "subjects": [],
-    "funding_purposes": [],
-    "search_text": "Grants-in-Aid The Grants-in-Aid program is designed for researchers at the assistant professor level who experience difficulty in competing for research funds because they have not yet become firmly established. Whitehall Foundation United States",
-    "source": "legacy-import",
-    "funder_names": [
-      "Whitehall Foundation"
-    ],
-    "funder_logos": [
-      null
-    ],
-    "career_level_names": [],
-    "subject_names": [],
-    "funding_purpose_names": []
-  },
-  {
-    "id": "funding-research-grants-2",
+    "id": "funding-whitehall-foundation-research-grants",
     "legacy_id": 419,
-    "slug": "research-grants-2",
+    "slug": "whitehall-foundation-research-grants",
     "name": "Research Grants",
     "description": "Research grants are available to established scientists of all ages working at accredited institutions in the United States.",
     "url": "http://www.whitehall.org/grants/",
@@ -33109,9 +32977,9 @@
     "funding_purpose_names": []
   },
   {
-    "id": "funding-postdoctoral-fellowship-8",
+    "id": "funding-university-of-wollongong-postdoctoral-fellowship",
     "legacy_id": 243,
-    "slug": "postdoctoral-fellowship-8",
+    "slug": "university-of-wollongong-postdoctoral-fellowship",
     "name": "Postdoctoral Fellowship",
     "description": "We are seeking to connect outstanding early career researchers less than 5 years post PhD (relative to opportunity) with our established, world-class, academics in areas of existing and emerging research strength.  You will have an excellent track record and national and international recognition; and propose a research project that is strategically aligned with your host Faculty and Unit.",
     "url": "http://www.uow.edu.au/research/rso/grants/vcfellowships/index.html",
@@ -39245,9 +39113,9 @@
     "funding_purpose_names": []
   },
   {
-    "id": "funding-postdoctoral-fellowship-3",
+    "id": "funding-brown-institute-environment-society-postdoctoral-fellowship",
     "legacy_id": 198,
-    "slug": "postdoctoral-fellowship-3",
+    "slug": "brown-institute-environment-society-postdoctoral-fellowship",
     "name": "Postdoctoral Fellowship",
     "description": null,
     "url": "https://www.brown.edu/academics/institute-environment-society/sites/brown.edu.academics.institute-environment-society/files/Postdoctoral_RA_JobAd2016_0.pdf",
@@ -40499,9 +40367,9 @@
     "funding_purpose_names": []
   },
   {
-    "id": "funding-postdoctoral-fellowship-6",
+    "id": "funding-university-of-sydney-postdoctoral-fellowship",
     "legacy_id": 238,
-    "slug": "postdoctoral-fellowship-6",
+    "slug": "university-of-sydney-postdoctoral-fellowship",
     "name": "Postdoctoral Fellowship",
     "description": null,
     "url": "http://sydney.edu.au/research/join-us/university-of-sydney-fellowship-scheme.html",
@@ -40873,9 +40741,9 @@
     "funding_purpose_names": []
   },
   {
-    "id": "funding-postdoctoral-fellowship-2",
+    "id": "funding-konrad-lorenz-institute-postdoctoral-fellowship",
     "legacy_id": 115,
-    "slug": "postdoctoral-fellowship-2",
+    "slug": "konrad-lorenz-institute-postdoctoral-fellowship",
     "name": "Postdoctoral Fellowship",
     "description": null,
     "url": "http://www.kli.ac.at/fellowships/description",

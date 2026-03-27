@@ -10,6 +10,8 @@ interface Props {
   canonical?: string
   ogImage?: string
   type?: 'website' | 'article'
+  keywords?: string
+  noindex?: boolean
 }
 
 const {
@@ -18,9 +20,12 @@ const {
   canonical,
   ogImage,
   type = 'website',
+  keywords = 'early career researchers, ECR funding, research grants, travel grants, postdoc funding, PhD funding, research opportunities',
+  noindex = false,
 } = Astro.props
 
 const siteUrl = 'https://ecrcentral.org'
+const siteName = 'ECRcentral'
 const fullTitle = title.includes('ECRcentral') ? title : `${title} | ECRcentral`
 const canonicalURL = canonical ? `${siteUrl}${canonical}` : `${siteUrl}${Astro.url.pathname}`
 const ogImageURL = ogImage ? `${siteUrl}${ogImage}` : `${siteUrl}/og-default.png`
@@ -28,7 +33,7 @@ const ogImageURL = ogImage ? `${siteUrl}${ogImage}` : `${siteUrl}/og-default.png
 const jsonLd = JSON.stringify({
   '@context': 'https://schema.org',
   '@type': 'WebSite',
-  name: 'ECRcentral',
+  name: siteName,
   url: siteUrl,
   description,
   potentialAction: {
@@ -51,35 +56,57 @@ const jsonLd = JSON.stringify({
 
     <!-- Primary Meta Tags -->
     <title>{fullTitle}</title>
-    <meta name="title" content={fullTitle} />
     <meta name="description" content={description} />
+    <meta name="keywords" content={keywords} />
+    <meta name="author" content="eLife Ambassadors" />
+    <meta name="robots" content={noindex ? 'noindex, nofollow' : 'index, follow'} />
     <link rel="canonical" href={canonicalURL} />
 
-    <!-- Open Graph / Facebook -->
+    <!-- Open Graph -->
     <meta property="og:type" content={type} />
     <meta property="og:url" content={canonicalURL} />
+    <meta property="og:site_name" content={siteName} />
     <meta property="og:title" content={fullTitle} />
     <meta property="og:description" content={description} />
     <meta property="og:image" content={ogImageURL} />
-    <meta property="og:site_name" content="ECRcentral" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:locale" content="en_US" />
 
-    <!-- Twitter -->
+    <!-- Twitter / X -->
     <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@ECRcentral" />
+    <meta name="twitter:creator" content="@ECRcentral" />
     <meta name="twitter:url" content={canonicalURL} />
     <meta name="twitter:title" content={fullTitle} />
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={ogImageURL} />
 
-    <!-- Favicon -->
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <link rel="icon" type="image/png" href="/favicon.png" />
-    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png" />
+    <link rel="manifest" href="/favicon/site.webmanifest" />
+    <link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#19b491" />
+    <link rel="shortcut icon" href="/favicon/favicon.ico" />
+    <meta name="msapplication-TileColor" content="#ffffff" />
+    <meta name="msapplication-config" content="/favicon/browserconfig.xml" />
+    <meta name="theme-color" content="#f6f6f6" />
 
     <!-- Sitemap -->
     <link rel="sitemap" href="/sitemap-index.xml" />
 
     <!-- JSON-LD Structured Data -->
     <script type="application/ld+json" set:html={jsonLd} />
+
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-113439387-1" is:inline></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){window.dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-113439387-1');
+    </script>
   </head>
   <body>
     <Nav />
