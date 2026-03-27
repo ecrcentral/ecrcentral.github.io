@@ -1,15 +1,15 @@
-id: funding-postdoctoral-fellowship-9
-legacy_id: 256
-slug: postdoctoral-fellowship-9
+id: funding-university-of-queensland-postdoctoral-fellowship
+legacy_id: 237
+slug: university-of-queensland-postdoctoral-fellowship
 name: Postdoctoral Fellowship
 description: null
-url: http://www.swgc.org/sarskilda-stipendier.aspx
+url: http://www.uq.edu.au/research/research-management/uq-fellowships
 funders: []
-legacy_funder_name: Wenner Gren Foundation
-host_country: Sweden
+legacy_funder_name: University of Queensland
+host_country: Australia
 applicant_country: Worldwide
 career_levels: []
-years_since_phd: <3
+years_since_phd: <6
 duration: '3'
 award: null
 mobility_rule: null
@@ -28,8 +28,8 @@ last_verified: '2026-02-19'
 verified_by: asntech
 legacy_user_id: 1
 created_at: null
-updated_at: '2018-12-29T13:58:04Z'
+updated_at: '2018-12-29T13:58:03Z'
 subjects: []
 funding_purposes: []
-search_text: Postdoctoral Fellowship Sweden Worldwide
+search_text: Postdoctoral Fellowship Australia Worldwide
 source: legacy-import

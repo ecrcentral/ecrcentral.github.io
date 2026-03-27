@@ -1,11 +1,11 @@
-id: funding-postdoctoral-fellowship-5
-legacy_id: 237
-slug: postdoctoral-fellowship-5
+id: funding-university-of-sydney-postdoctoral-fellowship
+legacy_id: 238
+slug: university-of-sydney-postdoctoral-fellowship
 name: Postdoctoral Fellowship
 description: null
-url: http://www.uq.edu.au/research/research-management/uq-fellowships
+url: http://sydney.edu.au/research/join-us/university-of-sydney-fellowship-scheme.html
 funders: []
-legacy_funder_name: University of Queensland
+legacy_funder_name: University of Sidney
 host_country: Australia
 applicant_country: Worldwide
 career_levels: []
@@ -23,12 +23,12 @@ frequency: null
 fileds: null
 featured: false
 review_status: approved
-status: active
+status: draft
 last_verified: '2026-02-19'
 verified_by: asntech
 legacy_user_id: 1
 created_at: null
-updated_at: '2018-12-29T13:58:03Z'
+updated_at: '2020-06-07T21:58:46Z'
 subjects: []
 funding_purposes: []
 search_text: Postdoctoral Fellowship Australia Worldwide

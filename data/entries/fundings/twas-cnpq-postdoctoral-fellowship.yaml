@@ -1,15 +1,15 @@
-id: funding-postdoctoral-fellowship-2
-legacy_id: 115
-slug: postdoctoral-fellowship-2
+id: funding-twas-cnpq-postdoctoral-fellowship
+legacy_id: 260
+slug: twas-cnpq-postdoctoral-fellowship
 name: Postdoctoral Fellowship
 description: null
-url: http://www.kli.ac.at/fellowships/description
+url: https://twas.org/opportunity/twas-cnpq-postdoctoral-fellowship-programme
 funders: []
-legacy_funder_name: Konrad Lorenz Institute
-host_country: Austria
-applicant_country: Worldwide
+legacy_funder_name: World Academy of Science
+host_country: Brazil
+applicant_country: Developing countries
 career_levels: []
-years_since_phd: <8
+years_since_phd: No rule
 duration: '1'
 award: null
 mobility_rule: null
@@ -23,13 +23,13 @@ frequency: null
 fileds: null
 featured: false
 review_status: approved
-status: draft
+status: active
 last_verified: '2026-02-19'
 verified_by: asntech
 legacy_user_id: 1
 created_at: null
-updated_at: '2020-06-28T19:48:04Z'
+updated_at: '2018-12-29T13:58:05Z'
 subjects: []
 funding_purposes: []
-search_text: Postdoctoral Fellowship Austria Worldwide
+search_text: Postdoctoral Fellowship Brazil Developing countries
 source: legacy-import

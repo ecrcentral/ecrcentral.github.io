@@ -1,12 +1,12 @@
-id: funding-postdoctoral-fellowship-12
-legacy_id: 262
-slug: postdoctoral-fellowship-12
+id: funding-twas-postdoctoral-fellowship-india
+legacy_id: 261
+slug: twas-postdoctoral-fellowship-india
 name: Postdoctoral Fellowship
 description: null
 url: https://twas.org/opportunities/fellowships/postdoc?title_field_value=&field_shared_global_countries_tid=All&field_shared_applicant_countries_tid=All&field_fellowship_field_sections_tid=All&field_fellowship_age_limit_value=&&&page=1
 funders: []
 legacy_funder_name: World Academy of Science
-host_country: Kenya
+host_country: India
 applicant_country: Developing countries
 career_levels: []
 years_since_phd: No rule
@@ -31,5 +31,5 @@ created_at: null
 updated_at: '2018-12-29T13:58:05Z'
 subjects: []
 funding_purposes: []
-search_text: Postdoctoral Fellowship Kenya Developing countries
+search_text: Postdoctoral Fellowship India Developing countries
 source: legacy-import
