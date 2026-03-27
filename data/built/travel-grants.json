@@ -321,7 +321,7 @@
       "postdoc"
     ],
     "subjects": [
-      "medicine"
+      "medical-sciences"
     ],
     "travel_purposes": [
       "conference"
@@ -341,7 +341,7 @@
       "Postdoc"
     ],
     "subject_names": [
-      "medicine"
+      "Medical Sciences"
     ],
     "travel_purpose_names": [
       "Conference"
@@ -585,7 +585,7 @@
       "postdoc"
     ],
     "subjects": [
-      "medicine"
+      "medical-sciences"
     ],
     "travel_purposes": [
       "conference"
@@ -605,7 +605,7 @@
       "Postdoc"
     ],
     "subject_names": [
-      "medicine"
+      "Medical Sciences"
     ],
     "travel_purpose_names": [
       "Conference"
@@ -722,7 +722,7 @@
       "postdoc"
     ],
     "subjects": [
-      "medicine"
+      "medical-sciences"
     ],
     "travel_purposes": [
       "conference"
@@ -742,7 +742,7 @@
       "Postdoc"
     ],
     "subject_names": [
-      "medicine"
+      "Medical Sciences"
     ],
     "travel_purpose_names": [
       "Conference"
@@ -1588,7 +1588,7 @@
     ],
     "subjects": [
       "life-sciences",
-      "medicine"
+      "medical-sciences"
     ],
     "travel_purposes": [
       "conference"
@@ -1609,7 +1609,7 @@
     ],
     "subject_names": [
       "Life Sciences",
-      "medicine"
+      "Medical Sciences"
     ],
     "travel_purpose_names": [
       "Conference"
@@ -1814,7 +1814,7 @@
       "postdoc"
     ],
     "subjects": [
-      "medicine"
+      "medical-sciences"
     ],
     "travel_purposes": [
       "conference"
@@ -1834,7 +1834,7 @@
       "Postdoc"
     ],
     "subject_names": [
-      "medicine"
+      "Medical Sciences"
     ],
     "travel_purpose_names": [
       "Conference"
@@ -2742,7 +2742,7 @@
       "postdoc"
     ],
     "subjects": [
-      "medicine"
+      "medical-sciences"
     ],
     "travel_purposes": [
       "conference"
@@ -2762,7 +2762,7 @@
       "Postdoc"
     ],
     "subject_names": [
-      "medicine"
+      "Medical Sciences"
     ],
     "travel_purpose_names": [
       "Conference"
@@ -2906,7 +2906,7 @@
     ],
     "subjects": [
       "life-sciences",
-      "medicine"
+      "medical-sciences"
     ],
     "travel_purposes": [
       "conference"
@@ -2927,7 +2927,7 @@
     ],
     "subject_names": [
       "Life Sciences",
-      "medicine"
+      "Medical Sciences"
     ],
     "travel_purpose_names": [
       "Conference"
