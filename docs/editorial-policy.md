@@ -2,8 +2,6 @@
 
 This document describes what ECRcentral includes, how entries are reviewed, and how the database is kept accurate over time. It is intended for both contributors and maintainers.
 
----
-
 ## Purpose of ECRcentral
 
 ECRcentral is a curated, community-maintained database of funding opportunities, travel grants, and resources specifically relevant to early career researchers (ECRs). The goal is to be a practical, trustworthy reference — not an exhaustive aggregator of everything that exists.
@@ -13,8 +11,6 @@ Entries are included because they are:
 - From reputable sources
 - Currently active or likely to recur
 - Not already well-covered by existing specialist databases
-
----
 
 ## Who is an "early career researcher"?
 
@@ -29,7 +25,6 @@ ECRcentral uses a broad definition that includes:
 
 An entry does not need to be exclusively for ECRs to be included, but the opportunity must be accessible to at least one of these groups and relevant to their career stage.
 
----
 
 ## Funding opportunities — inclusion criteria
 
@@ -54,7 +49,6 @@ A funding opportunity should be listed if it meets all of the following:
 - Consulting contracts, employment positions, and paid internships (these are jobs, not grants)
 - Opportunities that are exclusively for citizens of a single country AND that country has its own well-known national database (to avoid duplicating national grant portals)
 
----
 
 ## Travel grants — inclusion criteria
 
@@ -72,7 +66,6 @@ A travel grant should be listed if it meets all of the following:
 - Internal departmental travel funding
 - Reimbursements that require the applicant to be already affiliated with the offering institution
 
----
 
 ## Resources — inclusion criteria
 
@@ -95,7 +88,6 @@ A resource should be listed if it meets all of the following:
 - Social media accounts, newsletters, or podcasts (unless they have a stable, searchable archive of structured content)
 - Resources that require institutional login with no open access
 
----
 
 ## The review_status field
 
@@ -117,7 +109,6 @@ Every entry has a `review_status` field that controls visibility:
 
 Maintainers aim to review new entries within 7 days of submission.
 
----
 
 ## How featured entries are chosen
 
@@ -134,7 +125,6 @@ To request that an entry be featured, leave a comment on the relevant PR or issu
 
 Featured entries are not permanent — they are rotated periodically to keep the homepage fresh.
 
----
 
 ## How outdated entries are handled
 
@@ -162,7 +152,6 @@ Maintainers conduct a periodic bulk review (at minimum annually) of all `active`
 - Passed deadlines without a future cycle announced
 - Changed eligibility criteria
 
----
 
 ## Moderation process
 
@@ -184,7 +173,6 @@ Issue submissions (from the issue forms) are processed by maintainers who create
 
 Submissions that appear to be self-promotion from organizations that do not meet inclusion criteria will be rejected. Repeated low-quality submissions from the same contributor may result in a contribution ban.
 
----
 
 ## Conflict of interest policy
 
@@ -192,7 +180,6 @@ Maintainers and contributors should disclose any affiliation with the organizati
 
 Maintainers should not be the sole reviewer of submissions from their own organization. When possible, a second maintainer should review such submissions.
 
----
 
 ## How to appeal a rejection
 
@@ -204,8 +191,6 @@ If your submission was rejected and you believe it meets the inclusion criteria:
 Appeals are not guaranteed to succeed. The final decision rests with the maintainers.
 
 If you believe a maintainer has applied this policy incorrectly or inconsistently, you can open a [GitHub Discussion](https://github.com/ecrcentral/ecrcentral.github.io/discussions) to raise the issue with the broader community.
-
----
 
 ## Versioning this policy
 

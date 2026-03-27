@@ -33,9 +33,9 @@
     "subject_names": []
   },
   {
-    "id": "resource-the-open-grants-list",
+    "id": "resource-the-open-grants-database",
     "legacy_id": 27,
-    "slug": "the-open-grants-list",
+    "slug": "the-open-grants-database",
     "name": "The Open Grants Database",
     "url": "https://www.ogrants.org/",
     "description": "A list of grants that are openly available which can help with learning grantsmanship, understanding particular funders and their programs, and communicating science.",

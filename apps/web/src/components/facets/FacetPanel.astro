@@ -36,10 +36,10 @@ const groupLabels: Record<string, string> = {
 // Define preferred order per entity type
 // Keys must match the actual keys emitted by build_facets.py
 const groupOrder: Record<string, string[]> = {
-  fundings: ['status', 'career_levels', 'funding_purposes', 'subject', 'funder', 'applicant_country', 'host_country', 'frequency', 'featured'],
-  travel_grants: ['status', 'career_levels', 'travel_purposes', 'subject', 'funder', 'applicant_country', 'membership', 'featured'],
-  resources: ['status', 'resource_categories', 'subject', 'featured'],
-  funders: ['status', 'country', 'dora', 'featured'],
+  fundings: ['career_levels', 'funding_purposes', 'subject', 'funder', 'applicant_country', 'host_country', 'frequency', 'featured', 'status'],
+  travel_grants: ['career_levels', 'travel_purposes', 'subject', 'funder', 'applicant_country', 'membership', 'featured', 'status'],
+  resources: ['resource_categories', 'subject', 'featured', 'status'],
+  funders: ['country', 'dora', 'featured', 'status'],
 }
 
 const orderedGroups = (groupOrder[entityType] || Object.keys(facets))
@@ -94,7 +94,7 @@ const hasAnyFacets = orderedGroups.length > 0
         const topValues = values.slice(0, 8)
         const extraValues = values.slice(8)
         return (
-          <details class="facet-group" data-facet-group={groupKey} open={groupKey === 'status'}>
+          <details class="facet-group" data-facet-group={groupKey} open={groupKey !== 'featured' && groupKey !== 'status'}>
             <summary>
               {label}
               <svg class="facet-group-icon" width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" aria-hidden="true">

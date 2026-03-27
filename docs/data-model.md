@@ -2,7 +2,6 @@
 
 ECRcentral stores all content as YAML files under `data/entries/`. Each record is one file. Build scripts read those files and produce JSON artifacts consumed by the frontend. This document covers every field, every entity type, the vocabulary system, the JSON artifact format, and the legacy field conventions.
 
----
 
 ## One-file-per-record approach
 
@@ -22,7 +21,6 @@ data/entries/resources/ten-simple-rules-writing-research.yaml
 
 The slug in the filename is the canonical identifier. It is used in page URLs, in cross-references between records, and as the unique key in JSON indexes. Slugs are lowercase, hyphenated, ASCII-only, and must be unique within their type.
 
----
 
 ## Entity types
 
@@ -34,7 +32,6 @@ The slug in the filename is the canonical identifier. It is used in page URLs, i
 | Resource | `data/entries/resources/` | `data/schema/resource.schema.json` |
 | Vocabulary | `data/entries/vocab/` | `data/schema/vocab.schema.json` |
 
----
 
 ## Shared fields (all types)
 
@@ -51,7 +48,6 @@ These fields appear on every entry type.
 | `updated_at` | date (YYYY-MM-DD) | no | Date the entry was last meaningfully updated. |
 | `notes` | string | no | Internal editorial notes, not shown on the site. |
 
----
 
 ## Funder
 
@@ -97,7 +93,6 @@ legacy_id: 42
 legacy_logo_path: /uploads/funders/embo_logo.png
 ```
 
----
 
 ## Funding
 
@@ -169,8 +164,6 @@ updated_at: 2024-03-01
 legacy_id: 318
 ```
 
----
-
 ## Travel Grant
 
 Travel grants cover costs associated with attending conferences, workshops, research visits, or other scientific travel.
@@ -237,8 +230,6 @@ updated_at: 2024-02-10
 legacy_id: 204
 ```
 
----
-
 ## Resource
 
 Resources are tools, guides, databases, online courses, or other assets useful to ECRs that are not funding opportunities.
@@ -293,7 +284,6 @@ updated_at: 2024-01-20
 legacy_id: 91
 ```
 
----
 
 ## Vocabulary (Taxonomy)
 
@@ -384,7 +374,6 @@ description: Postdoctoral researchers, typically within 5 years of PhD completio
 sort_order: 4
 ```
 
----
 
 ## Relationships between entities
 
@@ -399,8 +388,6 @@ funders:
 The build scripts resolve these slugs to full funder objects when generating JSON artifacts. At validation time, `validate_taxonomies.py` checks that every slug in a `funders` array has a matching file in `data/entries/funders/{slug}.yaml`.
 
 Similarly, vocabulary slugs in fields like `career_levels`, `funding_purposes`, and `subjects` are validated against the corresponding vocabulary directories.
-
----
 
 ## Legacy fields
 
@@ -490,7 +477,6 @@ A curated array of records where `featured: true`, used to populate the homepage
 
 Index of all approved funder records, used to resolve funder slugs to display names in the UI.
 
----
 
 ## Validation rules summary
 

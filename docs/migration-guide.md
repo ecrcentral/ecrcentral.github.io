@@ -4,7 +4,6 @@ This document describes how the legacy ECRcentral MySQL database was converted i
 
 This was a one-time migration. The scripts in `scripts/import/` are preserved for reference and reproducibility, but are not part of the regular build pipeline.
 
----
 
 ## Overview
 
@@ -26,7 +25,6 @@ backup_ecrcentral_2026-02-19_103503.sql
 
 This file is not committed to the repository's public history (it is listed in `.gitignore` under `scripts/import/raw/`) but is provided to repository maintainers for verification purposes.
 
----
 
 ## Legacy database schema overview
 
@@ -87,7 +85,6 @@ Similar structure to `fundings`, with `travel_purpose` in place of `funding_purp
 
 The legacy taxonomy values (career levels, funding purposes, etc.) were stored as enum-like integer codes or string constants. These were mapped to named vocab YAML files during import.
 
----
 
 ## Running the import pipeline
 
@@ -150,7 +147,6 @@ make dev
 
 Browse the site at `http://localhost:4321` and check a sample of records.
 
----
 
 ## What the import scripts do
 
@@ -200,7 +196,6 @@ This script:
 - Skips files that already exist (use `--force` to overwrite)
 - Logs 404s and other errors to `scripts/import/logo_fetch_errors.log`
 
----
 
 ## Fetching legacy logos from the original server
 
@@ -238,7 +233,6 @@ Logo files should be:
 - Placed in `apps/web/public/logos/funders/`
 - Ideally square or landscape, at least 200px wide
 
----
 
 ## Known data quality issues from the legacy import
 
@@ -288,7 +282,6 @@ Some legacy taxonomy values did not map cleanly to the new vocabulary. These wer
 
 The legacy data included many entries whose deadlines had passed. These were imported with `status: active` and must be manually reviewed. Set `status: expired` for opportunities that are no longer open.
 
----
 
 ## Fields preserved vs normalized
 
@@ -305,7 +298,6 @@ The legacy data included many entries whose deadlines had passed. These were imp
 | Deadline text | Kept as free text (not parsed) |
 | Slugs | Generated from name using python-slugify |
 
----
 
 ## Verifying the migration
 

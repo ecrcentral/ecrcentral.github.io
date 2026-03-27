@@ -9,7 +9,7 @@
       {
         "value": "the-world-academy-of-sciences",
         "label": "The World Academy of Sciences",
-        "count": 12
+        "count": 15
       },
       {
         "value": "american-gastroenterological-association",
@@ -3439,17 +3439,12 @@
       {
         "value": "life-sciences",
         "label": "Life Sciences",
-        "count": 7
+        "count": 12
       },
       {
-        "value": "medicine-health",
-        "label": "medicine-health",
+        "value": "medicine",
+        "label": "medicine",
         "count": 7
-      },
-      {
-        "value": "life-sciences-biology",
-        "label": "life-sciences-biology",
-        "count": 5
       },
       {
         "value": "all-subjects",
@@ -3795,7 +3790,7 @@
       {
         "value": "United States",
         "label": "United States",
-        "count": 323
+        "count": 324
       },
       {
         "value": "United Kingdom",
@@ -3803,34 +3798,39 @@
         "count": 66
       },
       {
-        "value": "NA",
-        "label": "Na",
-        "count": 38
-      },
-      {
         "value": "Germany",
         "label": "Germany",
-        "count": 16
+        "count": 23
       },
       {
         "value": "Australia",
         "label": "Australia",
-        "count": 16
+        "count": 22
       },
       {
         "value": "Canada",
         "label": "Canada",
-        "count": 15
+        "count": 16
       },
       {
         "value": "France",
         "label": "France",
+        "count": 9
+      },
+      {
+        "value": "Switzerland",
+        "label": "Switzerland",
+        "count": 8
+      },
+      {
+        "value": "Japan",
+        "label": "Japan",
         "count": 8
       },
       {
         "value": "India",
         "label": "India",
-        "count": 7
+        "count": 8
       },
       {
         "value": "China",
@@ -3838,9 +3838,9 @@
         "count": 6
       },
       {
-        "value": "Switzerland",
-        "label": "Switzerland",
-        "count": 5
+        "value": "International",
+        "label": "International",
+        "count": 6
       },
       {
         "value": "European Union",
@@ -3853,8 +3853,8 @@
         "count": 5
       },
       {
-        "value": "Japan",
-        "label": "Japan",
+        "value": "Singapore",
+        "label": "Singapore",
         "count": 5
       },
       {
@@ -3863,8 +3863,8 @@
         "count": 5
       },
       {
-        "value": "Singapore",
-        "label": "Singapore",
+        "value": "New Zealand",
+        "label": "New Zealand",
         "count": 4
       },
       {
@@ -3875,11 +3875,6 @@
       {
         "value": "Italy",
         "label": "Italy",
-        "count": 3
-      },
-      {
-        "value": "New Zealand",
-        "label": "New Zealand",
         "count": 3
       },
       {
@@ -3895,6 +3890,11 @@
       {
         "value": "Netherlands",
         "label": "Netherlands",
+        "count": 2
+      },
+      {
+        "value": "Israel",
+        "label": "Israel",
         "count": 2
       },
       {
@@ -3918,8 +3918,23 @@
         "count": 1
       },
       {
+        "value": "United Arab Emirates",
+        "label": "United Arab Emirates",
+        "count": 1
+      },
+      {
         "value": "Portugal",
         "label": "Portugal",
+        "count": 1
+      },
+      {
+        "value": "Iran",
+        "label": "Iran",
+        "count": 1
+      },
+      {
+        "value": "South Korea",
+        "label": "South Korea",
         "count": 1
       },
       {
@@ -3928,8 +3943,23 @@
         "count": 1
       },
       {
+        "value": "South Africa",
+        "label": "South Africa",
+        "count": 1
+      },
+      {
         "value": "Pakistan",
         "label": "Pakistan",
+        "count": 1
+      },
+      {
+        "value": "Nepal",
+        "label": "Nepal",
+        "count": 1
+      },
+      {
+        "value": "Thailand",
+        "label": "Thailand",
         "count": 1
       },
       {
@@ -3945,11 +3975,6 @@
       {
         "value": "United States, Israel",
         "label": "United States, Israel",
-        "count": 1
-      },
-      {
-        "value": "Israel",
-        "label": "Israel",
         "count": 1
       },
       {

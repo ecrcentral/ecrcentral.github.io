@@ -657,10 +657,10 @@
       "subject_names": []
     },
     {
-      "id": "resource-the-open-grants-list",
+      "id": "resource-the-open-grants-database",
       "type": "resource",
       "_type": "resource",
-      "slug": "the-open-grants-list",
+      "slug": "the-open-grants-database",
       "name": "The Open Grants Database",
       "description": "A list of grants that are openly available which can help with learning grantsmanship, understanding particular funders and their programs, and communicating science.",
       "url": "https://www.ogrants.org/",
@@ -985,7 +985,7 @@
       "dora": false,
       "short_name": "TWAS",
       "website": "https://twas.org",
-      "active_funding_count": 12,
+      "active_funding_count": 15,
       "active_travel_grant_count": 0
     }
   ],

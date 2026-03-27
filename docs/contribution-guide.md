@@ -2,7 +2,6 @@
 
 ECRcentral is community-maintained. Every funding opportunity, travel grant, and resource in the database was added by a contributor. This guide explains how to add, edit, and report entries — whether you are comfortable with GitHub or not.
 
----
 
 ## How the site works
 
@@ -10,7 +9,6 @@ All content lives as YAML files in `data/entries/`. There is one file per record
 
 You do not need to understand the build pipeline to contribute — you only need to edit YAML files.
 
----
 
 ## Contributing without GitHub knowledge
 
@@ -103,7 +101,6 @@ Go to https://github.com/ecrcentral/ecrcentral.github.io/pulls and open a PR fro
 
 A maintainer will review your PR, leave comments if needed, and merge it when it is ready. The site updates automatically within a few minutes of merging.
 
----
 
 ## Adding a new funding opportunity
 
@@ -202,7 +199,7 @@ featured: false
 created_at: 2025-01-01
 ```
 
----
+
 
 ## Adding a new resource
 
@@ -232,8 +229,6 @@ featured: false
 created_at: 2025-01-01
 ```
 
----
-
 ## Adding a new funder
 
 If a funder does not yet exist in `data/entries/funders/`, create a file for them:
@@ -255,8 +250,6 @@ review_status: pending
 
 Funder slugs should be short and recognizable: `embo`, `wellcome-trust`, `nih`, `hfsp`, `marie-curie`.
 
----
-
 ## Editing an existing entry
 
 1. Find the file: `data/entries/{type}/{slug}.yaml`
@@ -272,8 +265,6 @@ Common edits:
 - Adding missing vocabulary tags
 - Correcting a description
 
----
-
 ## Reporting an outdated entry
 
 If you notice an entry that is out of date but cannot fix it yourself:
@@ -283,8 +274,6 @@ If you notice an entry that is out of date but cannot fix it yourself:
 3. Include the correct information and a source link if possible
 
 A maintainer will update the entry.
-
----
 
 ## File naming conventions
 
@@ -296,7 +285,6 @@ A maintainer will update the entry.
 | No special characters | No `&`, `(`, `)`, `/` in filenames |
 | Type-namespaced | Two types can share a slug (e.g., a funder and a funding), filenames within a type must be unique |
 
----
 
 ## Required vs optional fields
 
@@ -325,7 +313,6 @@ A maintainer will update the entry.
 
 All other fields are optional but strongly encouraged. The more fields you fill in, the more useful the entry is for search and filtering.
 
----
 
 ## Running validation locally
 
@@ -349,8 +336,6 @@ python scripts/validate/validate_duplicates.py # Duplicate detection
 python scripts/validate/validate_links.py      # URL format check
 ```
 
----
-
 ## Editorial standards checklist
 
 Before opening a PR, verify:
@@ -364,7 +349,6 @@ Before opening a PR, verify:
 - [ ] `make build` completes without errors and the `data/built/` files are updated in the commit
 - [ ] `review_status` is set to `pending` for new entries
 
----
 
 ## What happens after you submit a PR
 
@@ -378,7 +362,6 @@ Before opening a PR, verify:
 
 5. **Credit** — Your GitHub username is recorded in the commit history. If you prefer to be credited differently (e.g., your name), mention this in the PR description.
 
----
 
 ## Getting help
 

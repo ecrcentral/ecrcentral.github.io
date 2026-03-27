@@ -1053,48 +1053,6 @@
     "funding_purpose_names": []
   },
   {
-    "id": "funding-fellowships",
-    "legacy_id": 247,
-    "slug": "fellowships",
-    "name": "Fellowships",
-    "description": null,
-    "url": "https://www.volkswagenstiftung.de/en/funding/our-funding-portfolio-at-a-glance.html",
-    "funders": [],
-    "legacy_funder_name": "Volkswagen Stiftung",
-    "host_country": "Germany",
-    "applicant_country": "Worldwide",
-    "career_levels": [],
-    "years_since_phd": "<4",
-    "duration": "5",
-    "award": null,
-    "mobility_rule": null,
-    "research_costs": null,
-    "deadline": null,
-    "deadline_month": null,
-    "diversity": null,
-    "comments": null,
-    "benefits": null,
-    "frequency": null,
-    "fileds": null,
-    "featured": false,
-    "review_status": "approved",
-    "status": "active",
-    "last_verified": "2026-02-19",
-    "verified_by": "asntech",
-    "legacy_user_id": 1,
-    "created_at": null,
-    "updated_at": "2018-12-29T13:58:04Z",
-    "subjects": [],
-    "funding_purposes": [],
-    "search_text": "Fellowships Germany Worldwide",
-    "source": "legacy-import",
-    "funder_names": [],
-    "funder_logos": [],
-    "career_level_names": [],
-    "subject_names": [],
-    "funding_purpose_names": []
-  },
-  {
     "id": "funding-hunt-postdoctoral-fellowship",
     "legacy_id": 257,
     "slug": "hunt-postdoctoral-fellowship",
@@ -1213,6 +1171,48 @@
     "subjects": [],
     "funding_purposes": [],
     "search_text": "Volkswagen 'Freigeist' Fellowships Germany Worldwide",
+    "source": "legacy-import",
+    "funder_names": [],
+    "funder_logos": [],
+    "career_level_names": [],
+    "subject_names": [],
+    "funding_purpose_names": []
+  },
+  {
+    "id": "funding-volkswagen-fellowships",
+    "legacy_id": 247,
+    "slug": "volkswagen-fellowships",
+    "name": "Volkswagen Fellowships",
+    "description": null,
+    "url": "https://www.volkswagenstiftung.de/en/funding/our-funding-portfolio-at-a-glance.html",
+    "funders": [],
+    "legacy_funder_name": "Volkswagen Stiftung",
+    "host_country": "Germany",
+    "applicant_country": "Worldwide",
+    "career_levels": [],
+    "years_since_phd": "<4",
+    "duration": "5",
+    "award": null,
+    "mobility_rule": null,
+    "research_costs": null,
+    "deadline": null,
+    "deadline_month": null,
+    "diversity": null,
+    "comments": null,
+    "benefits": null,
+    "frequency": null,
+    "fileds": null,
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "legacy_user_id": 1,
+    "created_at": null,
+    "updated_at": "2018-12-29T13:58:04Z",
+    "subjects": [],
+    "funding_purposes": [],
+    "search_text": "Fellowships Germany Worldwide",
     "source": "legacy-import",
     "funder_names": [],
     "funder_logos": [],
@@ -1437,7 +1437,9 @@
     "name": "Postdoctoral Fellowship",
     "description": null,
     "url": "https://twas.org/opportunities/fellowships/postdoc?title_field_value=&field_shared_global_countries_tid=All&field_shared_applicant_countries_tid=All&field_fellowship_field_sections_tid=All&field_fellowship_age_limit_value=&&&page=1",
-    "funders": [],
+    "funders": [
+      "the-world-academy-of-sciences"
+    ],
     "legacy_funder_name": "World Academy of Science",
     "host_country": "India",
     "applicant_country": "Developing countries",
@@ -1466,8 +1468,12 @@
     "funding_purposes": [],
     "search_text": "Postdoctoral Fellowship India Developing countries",
     "source": "legacy-import",
-    "funder_names": [],
-    "funder_logos": [],
+    "funder_names": [
+      "The World Academy of Sciences"
+    ],
+    "funder_logos": [
+      "/logos/funders/the-world-academy-of-sciences.png"
+    ],
     "career_level_names": [],
     "subject_names": [],
     "funding_purpose_names": []
@@ -1479,7 +1485,9 @@
     "name": "Postdoctoral Fellowship",
     "description": null,
     "url": "https://twas.org/opportunities/fellowships/postdoc?title_field_value=&field_shared_global_countries_tid=All&field_shared_applicant_countries_tid=All&field_fellowship_field_sections_tid=All&field_fellowship_age_limit_value=&&&page=1",
-    "funders": [],
+    "funders": [
+      "the-world-academy-of-sciences"
+    ],
     "legacy_funder_name": "World Academy of Science",
     "host_country": "Kenya",
     "applicant_country": "Developing countries",
@@ -1508,8 +1516,12 @@
     "funding_purposes": [],
     "search_text": "Postdoctoral Fellowship Kenya Developing countries",
     "source": "legacy-import",
-    "funder_names": [],
-    "funder_logos": [],
+    "funder_names": [
+      "The World Academy of Sciences"
+    ],
+    "funder_logos": [
+      "/logos/funders/the-world-academy-of-sciences.png"
+    ],
     "career_level_names": [],
     "subject_names": [],
     "funding_purpose_names": []
@@ -1521,7 +1533,9 @@
     "name": "Postdoctoral Fellowship",
     "description": null,
     "url": "https://twas.org/opportunities/fellowships/postdoc?title_field_value=&field_shared_global_countries_tid=All&field_shared_applicant_countries_tid=All&field_fellowship_field_sections_tid=All&field_fellowship_age_limit_value=&&&page=1",
-    "funders": [],
+    "funders": [
+      "the-world-academy-of-sciences"
+    ],
     "legacy_funder_name": "World Academy of Science",
     "host_country": "Malaysia",
     "applicant_country": "Developing countries",
@@ -1550,8 +1564,12 @@
     "funding_purposes": [],
     "search_text": "Postdoctoral Fellowship Malaysia Developing countries",
     "source": "legacy-import",
-    "funder_names": [],
-    "funder_logos": [],
+    "funder_names": [
+      "The World Academy of Sciences"
+    ],
+    "funder_logos": [
+      "/logos/funders/the-world-academy-of-sciences.png"
+    ],
     "career_level_names": [],
     "subject_names": [],
     "funding_purpose_names": []
@@ -15340,10 +15358,10 @@
     ]
   },
   {
-    "id": "funding-early-career-awards-2",
+    "id": "funding-trf-early-career-awards",
     "legacy_id": 578,
-    "slug": "early-career-awards-2",
-    "name": "Early Career Awards",
+    "slug": "trf-early-career-awards",
+    "name": "TRF Early Career Awards",
     "description": "The Fund recognizes that young investigators may find it difficult to remain in pediatric research because of a lack of funding. Therefore, the purpose of this program is to encourage the development of medical research in child health by awarding small grants to new researchers, helping them gain a foothold in this important area. The goal is to fund applicants who will go on to be independent investigators. The Fund will make up to 30 awards total with two funding cycles (15 awards each).",
     "url": "https://www.thrasherresearch.org/early-career-award?lang=eng",
     "funders": [
@@ -31461,10 +31479,10 @@
     "funding_purpose_names": []
   },
   {
-    "id": "funding-research-scholar-grant",
+    "id": "funding-rsna-research-scholar-grant",
     "legacy_id": 378,
-    "slug": "research-scholar-grant",
-    "name": "Research Scholar Grant",
+    "slug": "rsna-research-scholar-grant",
+    "name": "RSNA Research Scholar Grant",
     "description": "This R&E Foundation grant supports junior faculty members who have completed resident and fellowship programs, but haven’t been recognized as independent investigators. Our funding not only helps establish recipients as investigators, but also supports them as they collect preliminary data that could lead to other funding in the future.",
     "url": "https://www.rsna.org/en/research/funding-opportunities/research-grants/research-scholar-grant",
     "funders": [

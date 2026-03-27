@@ -684,30 +684,6 @@
     "updated_at": "2018-12-29T13:58:04Z"
   },
   {
-    "id": "funding-fellowships",
-    "type": "funding",
-    "slug": "fellowships",
-    "name": "Fellowships",
-    "description": null,
-    "funder_names": [],
-    "funders": [],
-    "country": "Worldwide",
-    "applicant_country": "Worldwide",
-    "host_country": "Germany",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "funding_purposes": [],
-    "funding_purpose_names": [],
-    "status": "active",
-    "featured": false,
-    "deadline_month": "",
-    "search_text": "Fellowships Germany Worldwide",
-    "url": "https://www.volkswagenstiftung.de/en/funding/our-funding-portfolio-at-a-glance.html",
-    "updated_at": "2018-12-29T13:58:04Z"
-  },
-  {
     "id": "funding-hunt-postdoctoral-fellowship",
     "type": "funding",
     "slug": "hunt-postdoctoral-fellowship",
@@ -777,6 +753,30 @@
     "deadline_month": "October",
     "search_text": "Volkswagen 'Freigeist' Fellowships Germany Worldwide",
     "url": "https://www.volkswagenstiftung.de/en/freigeist-fellowships",
+    "updated_at": "2018-12-29T13:58:04Z"
+  },
+  {
+    "id": "funding-volkswagen-fellowships",
+    "type": "funding",
+    "slug": "volkswagen-fellowships",
+    "name": "Volkswagen Fellowships",
+    "description": null,
+    "funder_names": [],
+    "funders": [],
+    "country": "Worldwide",
+    "applicant_country": "Worldwide",
+    "host_country": "Germany",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "funding_purposes": [],
+    "funding_purpose_names": [],
+    "status": "active",
+    "featured": false,
+    "deadline_month": "",
+    "search_text": "Fellowships Germany Worldwide",
+    "url": "https://www.volkswagenstiftung.de/en/funding/our-funding-portfolio-at-a-glance.html",
     "updated_at": "2018-12-29T13:58:04Z"
   },
   {
@@ -905,8 +905,12 @@
     "slug": "twas-postdoctoral-fellowship-india",
     "name": "Postdoctoral Fellowship",
     "description": null,
-    "funder_names": [],
-    "funders": [],
+    "funder_names": [
+      "The World Academy of Sciences"
+    ],
+    "funders": [
+      "the-world-academy-of-sciences"
+    ],
     "country": "Developing countries",
     "applicant_country": "Developing countries",
     "host_country": "India",
@@ -929,8 +933,12 @@
     "slug": "twas-postdoctoral-fellowship-kenya",
     "name": "Postdoctoral Fellowship",
     "description": null,
-    "funder_names": [],
-    "funders": [],
+    "funder_names": [
+      "The World Academy of Sciences"
+    ],
+    "funders": [
+      "the-world-academy-of-sciences"
+    ],
     "country": "Developing countries",
     "applicant_country": "Developing countries",
     "host_country": "Kenya",
@@ -953,8 +961,12 @@
     "slug": "twas-postdoctoral-fellowship-malaysia",
     "name": "Postdoctoral Fellowship",
     "description": null,
-    "funder_names": [],
-    "funders": [],
+    "funder_names": [
+      "The World Academy of Sciences"
+    ],
+    "funders": [
+      "the-world-academy-of-sciences"
+    ],
     "country": "Developing countries",
     "applicant_country": "Developing countries",
     "host_country": "Malaysia",
@@ -9688,10 +9700,10 @@
     "updated_at": "2020-05-23T18:39:17Z"
   },
   {
-    "id": "funding-early-career-awards-2",
+    "id": "funding-trf-early-career-awards",
     "type": "funding",
-    "slug": "early-career-awards-2",
-    "name": "Early Career Awards",
+    "slug": "trf-early-career-awards",
+    "name": "TRF Early Career Awards",
     "description": "The Fund recognizes that young investigators may find it difficult to remain in pediatric research because of a lack of funding. Therefore, the purpose of this program is to encourage the development of medical research in child health by awarding small grants to new researchers, helping them gain a…",
     "funder_names": [
       "Thrasher Research Fund"
@@ -20464,10 +20476,10 @@
     "updated_at": "2020-06-18T20:55:03Z"
   },
   {
-    "id": "funding-research-scholar-grant",
+    "id": "funding-rsna-research-scholar-grant",
     "type": "funding",
-    "slug": "research-scholar-grant",
-    "name": "Research Scholar Grant",
+    "slug": "rsna-research-scholar-grant",
+    "name": "RSNA Research Scholar Grant",
     "description": "This R&E Foundation grant supports junior faculty members who have completed resident and fellowship programs, but haven’t been recognized as independent investigators. Our funding not only helps establish recipients as investigators, but also supports them as they collect preliminary data that coul…",
     "funder_names": [
       "Radiological Society of North America"
@@ -27301,10 +27313,10 @@
       "Postdoc"
     ],
     "subjects": [
-      "medicine-health"
+      "medicine"
     ],
     "subject_names": [
-      "medicine-health"
+      "medicine"
     ],
     "travel_purposes": [
       "conference"
@@ -27513,10 +27525,10 @@
       "Postdoc"
     ],
     "subjects": [
-      "medicine-health"
+      "medicine"
     ],
     "subject_names": [
-      "medicine-health"
+      "medicine"
     ],
     "travel_purposes": [
       "conference"
@@ -27589,10 +27601,10 @@
       "Postdoc"
     ],
     "subjects": [
-      "life-sciences-biology"
+      "life-sciences"
     ],
     "subject_names": [
-      "life-sciences-biology"
+      "Life Sciences"
     ],
     "travel_purposes": [
       "conference"
@@ -27631,10 +27643,10 @@
       "Postdoc"
     ],
     "subjects": [
-      "medicine-health"
+      "medicine"
     ],
     "subject_names": [
-      "medicine-health"
+      "medicine"
     ],
     "travel_purposes": [
       "conference"
@@ -28295,12 +28307,12 @@
       "Postdoc"
     ],
     "subjects": [
-      "life-sciences-biology",
-      "medicine-health"
+      "life-sciences",
+      "medicine"
     ],
     "subject_names": [
-      "life-sciences-biology",
-      "medicine-health"
+      "Life Sciences",
+      "medicine"
     ],
     "travel_purposes": [
       "conference"
@@ -28339,10 +28351,10 @@
       "Postdoc"
     ],
     "subjects": [
-      "life-sciences-biology"
+      "life-sciences"
     ],
     "subject_names": [
-      "life-sciences-biology"
+      "Life Sciences"
     ],
     "travel_purposes": [
       "research-visit"
@@ -28481,10 +28493,10 @@
       "Postdoc"
     ],
     "subjects": [
-      "medicine-health"
+      "medicine"
     ],
     "subject_names": [
-      "medicine-health"
+      "medicine"
     ],
     "travel_purposes": [
       "conference"
@@ -29179,10 +29191,10 @@
       "Postdoc"
     ],
     "subjects": [
-      "medicine-health"
+      "medicine"
     ],
     "subject_names": [
-      "medicine-health"
+      "medicine"
     ],
     "travel_purposes": [
       "conference"
@@ -29305,12 +29317,12 @@
       "Postdoc"
     ],
     "subjects": [
-      "life-sciences-biology",
-      "medicine-health"
+      "life-sciences",
+      "medicine"
     ],
     "subject_names": [
-      "life-sciences-biology",
-      "medicine-health"
+      "Life Sciences",
+      "medicine"
     ],
     "travel_purposes": [
       "conference"
@@ -29787,10 +29799,10 @@
       "Postdoc"
     ],
     "subjects": [
-      "life-sciences-biology"
+      "life-sciences"
     ],
     "subject_names": [
-      "life-sciences-biology"
+      "Life Sciences"
     ],
     "travel_purposes": [
       "conference"
@@ -31210,9 +31222,9 @@
     "updated_at": "2019-01-03T20:30:08Z"
   },
   {
-    "id": "resource-the-open-grants-list",
+    "id": "resource-the-open-grants-database",
     "type": "resource",
-    "slug": "the-open-grants-list",
+    "slug": "the-open-grants-database",
     "name": "The Open Grants Database",
     "description": "A list of grants that are openly available which can help with learning grantsmanship, understanding particular funders and their programs, and communicating science.",
     "funder_names": [],
@@ -40199,7 +40211,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "NA",
+    "country": "International",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -40766,7 +40778,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "NA",
+    "country": "Germany",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -40787,7 +40799,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "NA",
+    "country": "Singapore",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -40808,7 +40820,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "NA",
+    "country": "Germany",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -40829,7 +40841,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "NA",
+    "country": "Switzerland",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -41081,7 +41093,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "NA",
+    "country": "United States",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -41291,7 +41303,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "NA",
+    "country": "Japan",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -41627,7 +41639,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "NA",
+    "country": "United Arab Emirates",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -41690,7 +41702,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "NA",
+    "country": "International",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -41711,7 +41723,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "NA",
+    "country": "International",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -41732,7 +41744,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "NA",
+    "country": "International",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -41753,7 +41765,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "NA",
+    "country": "International",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -41795,7 +41807,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "NA",
+    "country": "Australia",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -42047,7 +42059,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "NA",
+    "country": "Japan",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -42320,7 +42332,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "NA",
+    "country": "France",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -42362,7 +42374,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "NA",
+    "country": "International",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -42551,7 +42563,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "NA",
+    "country": "Iran",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -42572,7 +42584,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "NA",
+    "country": "Israel",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -42656,7 +42668,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "NA",
+    "country": "Japan",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -42761,7 +42773,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "NA",
+    "country": "South Korea",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -42803,7 +42815,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "NA",
+    "country": "Germany",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -42908,7 +42920,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "NA",
+    "country": "Germany",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -42992,7 +43004,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "NA",
+    "country": "Canada",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -43097,7 +43109,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "NA",
+    "country": "Australia",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -43307,7 +43319,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "NA",
+    "country": "South Africa",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -43391,7 +43403,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "NA",
+    "country": "Australia",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -43496,7 +43508,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "NA",
+    "country": "Switzerland",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -43517,7 +43529,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "NA",
+    "country": "Germany",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -43580,7 +43592,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "NA",
+    "country": "Nepal",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -43622,7 +43634,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "NA",
+    "country": "Germany",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -43685,7 +43697,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "NA",
+    "country": "Switzerland",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -43811,7 +43823,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "NA",
+    "country": "New Zealand",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -44189,7 +44201,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "NA",
+    "country": "Germany",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -44210,7 +44222,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "NA",
+    "country": "Thailand",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -44231,7 +44243,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "NA",
+    "country": "India",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -44462,7 +44474,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "NA",
+    "country": "Australia",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -44483,7 +44495,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "NA",
+    "country": "Australia",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
@@ -44504,7 +44516,7 @@
     "description": null,
     "funder_names": [],
     "funders": [],
-    "country": "NA",
+    "country": "Australia",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],
