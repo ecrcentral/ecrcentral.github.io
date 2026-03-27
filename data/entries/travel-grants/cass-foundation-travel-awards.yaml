@@ -1,0 +1,22 @@
+id: travel-grant-cass-foundation-travel-awards
+slug: cass-foundation-travel-awards
+name: CASS Foundation Travel Awards
+url: https://www.cassfoundation.org/grants-and-awards/travel-awards/travel-guidelines/
+description: "Conference travel awards for early career researchers in Australia to present current research at international conferences. Research presented should not be based primarily on PhD studies. Two rounds per year."
+funders:
+- cass-foundation
+applicant_country: Australia
+host_country: Worldwide
+award: Up to AUD 5,000
+deadline: February; August
+deadline_month: February
+membership: 'No'
+career_levels:
+- postdoc
+subjects: []
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+source: manual

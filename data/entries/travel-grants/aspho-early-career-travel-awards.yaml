@@ -1,0 +1,24 @@
+id: travel-grant-aspho-early-career-travel-awards
+slug: aspho-early-career-travel-awards
+name: ASPHO Early Career Travel Awards
+url: https://aspho.org/career-development/awards/early-career-travel-stipend
+description: <p>Travel support and complimentary registration for young investigators to attend the ASPHO Conference. Up to five awards available per cycle.</p>
+funders:
+- american-society-of-pediatric-hematology-oncology
+applicant_country: Worldwide
+host_country: Worldwide
+award: null
+deadline: Meeting-specific
+deadline_month: null
+membership: 'No'
+career_levels:
+- phd
+- postdoc
+subjects:
+- medicine-health
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+source: manual

@@ -1,0 +1,24 @@
+id: travel-grant-pag-travel-grants
+slug: pag-travel-grants
+name: PAG Travel Grants
+url: https://intlpag.org/PAG33/component/content/article/524-grants-2026?Itemid=101&catid=32
+description: <p>Travel stipends for eligible applicants to attend the Plant and Animal Genome Conference. Multiple grant streams are available with separate application details.</p>
+funders:
+- plant-and-animal-genome-conference
+applicant_country: Worldwide
+host_country: Worldwide
+award: null
+deadline: Check current conference cycle
+deadline_month: null
+membership: 'No'
+career_levels:
+- phd
+- postdoc
+subjects:
+- life-sciences-biology
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+source: manual

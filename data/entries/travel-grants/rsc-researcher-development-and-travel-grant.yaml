@@ -1,0 +1,25 @@
+id: travel-grant-rsc-researcher-development-and-travel-grant
+slug: rsc-researcher-development-and-travel-grant
+name: RSC Researcher Development and Travel Grant
+url: https://www.rsc.org/funding-and-support/funding/researcher-development-and-travel-grant
+description: <p>Supports research career activities including travel to conferences, training events, meetings, and networking opportunities, whether virtual or in-person. Available to RSC members who are PhD students or early career scientists in academia or industry.</p>
+funders:
+- royal-society-of-chemistry
+applicant_country: Worldwide
+host_country: Worldwide
+award: null
+deadline: Scheme page active
+deadline_month: null
+membership: 'Yes'
+career_levels:
+- phd
+- postdoc
+subjects:
+- chemistry
+travel_purposes:
+- conference
+- workshop-training-or-course
+featured: false
+review_status: approved
+status: active
+source: manual

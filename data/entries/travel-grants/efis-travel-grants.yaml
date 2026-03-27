@@ -1,0 +1,25 @@
+id: travel-grant-efis-travel-grants
+slug: efis-travel-grants
+name: EFIS Travel Grants
+url: https://www.efis.org/efis/funding/travel-grants
+description: <p>Travel grants for PhD students and postdoctoral researchers with no more than 7 years of postdoctoral experience to attend Gordon Research Conferences (GRC). Applicant must be the first or corresponding author of the submitted abstract.</p>
+funders:
+- european-federation-of-immunological-societies
+applicant_country: Worldwide
+host_country: Worldwide
+award: null
+deadline: Meeting-specific
+deadline_month: null
+membership: 'No'
+career_levels:
+- phd
+- postdoc
+subjects:
+- life-sciences-biology
+- medicine-health
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+source: manual

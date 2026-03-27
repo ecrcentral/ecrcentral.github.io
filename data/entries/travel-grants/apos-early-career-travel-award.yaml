@@ -1,0 +1,24 @@
+id: travel-grant-apos-early-career-travel-award
+slug: apos-early-career-travel-award
+name: APOS Early Career Travel Award
+url: https://apos-society.org/early-career-travel-award/
+description: <p>Travel award for early career applicants to attend the Asia Pacific Oncology Specialists (APOS) annual meeting. Applicants may also apply for the Health Equity Scholarship but will receive only one award in the same cycle.</p>
+funders:
+- asia-pacific-oncology-specialists
+applicant_country: Worldwide
+host_country: Worldwide
+award: null
+deadline: Review-cycle based
+deadline_month: null
+membership: 'No'
+career_levels:
+- phd
+- postdoc
+subjects:
+- medicine-health
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+source: manual

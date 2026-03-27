@@ -1,0 +1,24 @@
+id: travel-grant-asbmb-graduate-student-postdoc-travel-award
+slug: asbmb-graduate-student-postdoc-travel-award
+name: ASBMB Graduate Student or Postdoctoral Researcher Travel Award
+url: https://www.asbmb.org/annual-meeting/travel-awards/graduate-student-postdoc
+description: <p>Competitive travel award that reimburses qualifying travel expenses for graduate students or postdoctoral researchers presenting at the ASBMB Annual Meeting.</p>
+funders:
+- american-society-for-biochemistry-and-molecular-biology
+applicant_country: Worldwide
+host_country: Worldwide
+award: Up to USD 1,000
+deadline: Meeting-specific
+deadline_month: null
+membership: 'No'
+career_levels:
+- phd
+- postdoc
+subjects:
+- life-sciences-biology
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+source: manual

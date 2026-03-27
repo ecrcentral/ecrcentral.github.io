@@ -1,0 +1,22 @@
+id: travel-grant-ut-austin-postdoctoral-scholars-travel-grant
+slug: ut-austin-postdoctoral-scholars-travel-grant
+name: UT Austin Postdoctoral Scholars Travel Grant Program
+url: https://postdocs.utexas.edu/TravelGrant
+description: <p>Travel award for University of Texas at Austin postdoctoral fellows to attend professional conferences and meetings. Encourages engagement in professional development opportunities.</p>
+funders:
+- university-of-texas-at-austin
+applicant_country: United States
+host_country: Worldwide
+award: Maximum USD 750
+deadline: Scheme page active
+deadline_month: null
+membership: 'No'
+career_levels:
+- postdoc
+subjects: []
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+source: manual

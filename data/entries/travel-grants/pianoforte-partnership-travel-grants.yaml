@@ -1,0 +1,27 @@
+id: travel-grant-pianoforte-partnership-travel-grants
+slug: pianoforte-partnership-travel-grants
+name: PIANOFORTE Partnership Travel Grants for Researchers
+url: https://pianoforte-partnership.eu/training-education/travel-grants-for-researchers
+description: <p>Travel grants for early career researchers in radiation protection research. Supports conference participation, course attendance, or exchange visits to research labs. EUR 40,000 per year available overall across the programme, with quarterly evaluations.</p>
+funders:
+- pianoforte-partnership
+applicant_country: Worldwide
+host_country: Worldwide
+award: EUR 40,000/year (programme total)
+deadline: Quarterly evaluations; applications open until end of programme
+deadline_month: null
+membership: 'No'
+career_levels:
+- phd
+- master-students
+- postdoc
+subjects:
+- applied-sciences
+travel_purposes:
+- conference
+- learn-new-technique
+- research-visit
+featured: false
+review_status: approved
+status: active
+source: manual

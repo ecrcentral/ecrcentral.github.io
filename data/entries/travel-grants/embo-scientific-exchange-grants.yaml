@@ -1,0 +1,24 @@
+id: travel-grant-embo-scientific-exchange-grants
+slug: embo-scientific-exchange-grants
+name: EMBO Scientific Exchange Grants
+url: https://www.embo.org/funding/fellowships-grants-and-career-support/scientific-exchange-grants/eligibility/
+description: Research exchange travel support for active researchers with at least one year of graduate-level research experience. Supports exchanges between laboratories in different countries (not for exchanges within the same country).
+funders:
+- european-molecular-biology-organization-embo
+applicant_country: Worldwide
+host_country: Worldwide
+award: null
+deadline: Check official page
+deadline_month: null
+membership: 'No'
+career_levels:
+- phd
+- postdoc
+subjects:
+- life-sciences-biology
+travel_purposes:
+- research-visit
+featured: false
+review_status: approved
+status: active
+source: manual
