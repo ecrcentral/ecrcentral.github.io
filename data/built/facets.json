@@ -1506,7 +1506,7 @@
       {
         "value": "Worldwide",
         "label": "Worldwide",
-        "count": 274
+        "count": 275
       },
       {
         "value": "United States",
@@ -1529,6 +1529,11 @@
         "count": 7
       },
       {
+        "value": "United States, Canada",
+        "label": "United States, Canada",
+        "count": 6
+      },
+      {
         "value": "India",
         "label": "India",
         "count": 5
@@ -1544,8 +1549,8 @@
         "count": 4
       },
       {
-        "value": "United States, Canada",
-        "label": "United States, Canada",
+        "value": "United States, US Permanent Resident",
+        "label": "United States, Us Permanent Resident",
         "count": 3
       },
       {
@@ -1561,11 +1566,6 @@
       {
         "value": "Switzerland",
         "label": "Switzerland",
-        "count": 2
-      },
-      {
-        "value": "USA/Canada",
-        "label": "Usa/Canada",
         "count": 2
       },
       {
@@ -1599,23 +1599,8 @@
         "count": 1
       },
       {
-        "value": "United States, Canada, and permanent residents of the USA",
-        "label": "United States, Canada, And Permanent Residents Of The Usa",
-        "count": 1
-      },
-      {
-        "value": "USA and legal permanent residents of the USA",
-        "label": "Usa And Legal Permanent Residents Of The Usa",
-        "count": 1
-      },
-      {
-        "value": "United States, Permanent residents of the USA",
-        "label": "United States, Permanent Residents Of The Usa",
-        "count": 1
-      },
-      {
-        "value": "USA and permanent residents of the USA",
-        "label": "Usa And Permanent Residents Of The Usa",
+        "value": "United States, Canada, US Permanent Resident",
+        "label": "United States, Canada, Us Permanent Resident",
         "count": 1
       },
       {
@@ -1634,13 +1619,13 @@
         "count": 1
       },
       {
-        "value": "USA/Japan",
-        "label": "Usa/Japan",
+        "value": "United States, Japan",
+        "label": "United States, Japan",
         "count": 1
       },
       {
-        "value": "USA / Canada / UK / Ireland",
-        "label": "Usa / Canada / Uk / Ireland",
+        "value": "United States, Canada, United Kingdom, Ireland",
+        "label": "United States, Canada, United Kingdom, Ireland",
         "count": 1
       },
       {
@@ -1651,11 +1636,6 @@
       {
         "value": "Mexico, United States",
         "label": "Mexico, United States",
-        "count": 1
-      },
-      {
-        "value": "USA / Canada",
-        "label": "Usa / Canada",
         "count": 1
       },
       {
@@ -1719,13 +1699,8 @@
         "count": 1
       },
       {
-        "value": "Low and Middle income countries",
-        "label": "Low And Middle Income Countries",
-        "count": 1
-      },
-      {
-        "value": "Wordwide",
-        "label": "Wordwide",
+        "value": "LMICs",
+        "label": "Lmics",
         "count": 1
       },
       {
@@ -1749,13 +1724,13 @@
         "count": 1
       },
       {
-        "value": "United Kingdom, Ireland, Low- and middle-income countries",
-        "label": "United Kingdom, Ireland, Low  And Middle Income Countries",
+        "value": "United Kingdom, Ireland, LMICs",
+        "label": "United Kingdom, Ireland, Lmics",
         "count": 1
       },
       {
-        "value": "USA / Israel",
-        "label": "Usa / Israel",
+        "value": "United States, Israel",
+        "label": "United States, Israel",
         "count": 1
       },
       {
@@ -1811,13 +1786,13 @@
         "count": 8
       },
       {
-        "value": "France",
-        "label": "France",
-        "count": 7
-      },
-      {
         "value": "United States, Canada",
         "label": "United States, Canada",
+        "count": 8
+      },
+      {
+        "value": "France",
+        "label": "France",
         "count": 7
       },
       {
@@ -1981,8 +1956,8 @@
         "count": 1
       },
       {
-        "value": "USA/Japan/Other",
-        "label": "Usa/Japan/Other",
+        "value": "United States, Japan",
+        "label": "United States, Japan",
         "count": 1
       },
       {
@@ -1991,13 +1966,8 @@
         "count": 1
       },
       {
-        "value": "USA/Canada",
-        "label": "Usa/Canada",
-        "count": 1
-      },
-      {
-        "value": "USA/India",
-        "label": "Usa/India",
+        "value": "United States, India",
+        "label": "United States, India",
         "count": 1
       },
       {
@@ -2011,8 +1981,8 @@
         "count": 1
       },
       {
-        "value": "USA/South America/Latin Ameria or Nordic Countries",
-        "label": "Usa/South America/Latin Ameria Or Nordic Countries",
+        "value": "United States, South America, Latin America or Nordic Countries",
+        "label": "United States, South America, Latin America Or Nordic Countries",
         "count": 1
       },
       {
@@ -2061,8 +2031,8 @@
         "count": 1
       },
       {
-        "value": "United Kingdom, Ireland, Low- and middle-income countries",
-        "label": "United Kingdom, Ireland, Low  And Middle Income Countries",
+        "value": "United Kingdom, Ireland, LMICs",
+        "label": "United Kingdom, Ireland, Lmics",
         "count": 1
       },
       {
@@ -2180,6 +2150,11 @@
         "count": 8
       },
       {
+        "value": "earth-sciences",
+        "label": "Earth Sciences",
+        "count": 8
+      },
+      {
         "value": "neuroscience",
         "label": "Neuroscience",
         "count": 7
@@ -2192,11 +2167,6 @@
       {
         "value": "psychology",
         "label": "Psychology",
-        "count": 7
-      },
-      {
-        "value": "earth-sciences",
-        "label": "Earth Sciences",
         "count": 7
       },
       {
@@ -2230,6 +2200,11 @@
         "count": 5
       },
       {
+        "value": "environmental-studies",
+        "label": "Environmental Studies",
+        "count": 4
+      },
+      {
         "value": "bioinformatics",
         "label": "Bioinformatics",
         "count": 4
@@ -2252,11 +2227,6 @@
       {
         "value": "business",
         "label": "Business",
-        "count": 3
-      },
-      {
-        "value": "environmental-studies",
-        "label": "Environmental Studies",
         "count": 3
       },
       {

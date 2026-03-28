@@ -12,7 +12,7 @@ funders:
 - national-institutes-of-health-nih
 legacy_funder_name: National Institutes of Health
 host_country: United States
-applicant_country: USA and permanent residents of the USA
+applicant_country: United States, US Permanent Resident
 career_levels:
 - phd
 - postdoc
@@ -46,5 +46,5 @@ search_text: NIAID Career Transition Award (K22) To apply, you must be a biomedi
   experience at the time of K22 submission or resubmission with plans to transition
   to a full-time assistant professorship (tenure-track or equivalent) at an U.S. academic
   institution. National Institutes of Health (NIH) PhD Postdoc MD Medicine and Health
-  Sciences United States USA and permanent residents of the USA
+  Sciences United States United States, US Permanent Resident
 source: legacy-import

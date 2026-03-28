@@ -105,7 +105,7 @@ url: http://www.gdn.int/gdac/2022
 funders: []
 legacy_funder_name: Global Development Network
 host_country: N/A
-applicant_country: Low and Middle income countries
+applicant_country: LMICs
 career_levels:
 - phd
 - postdoc
@@ -238,5 +238,5 @@ search_text: "Global Development Awards Competition 2022 - Japanese Award for Ou
   \ March/April 2023 Finalists are expected to be available for the Communications\
   \ Training and the physical event for the presentation of their projects to the\
   \ jury in March/April. The date will be announced in late 2022.</p> PhD Postdoc\
-  \ Junior Faculty Senior Faculty N/A Low and Middle income countries"
+  \ Junior Faculty Senior Faculty N/A LMICs"
 source: legacy-import

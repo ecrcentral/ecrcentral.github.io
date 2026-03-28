@@ -10,8 +10,8 @@ url: https://wellcome.org/research-funding/schemes/wellcome-early-career-awards
 funders:
 - wellcome-trust
 legacy_funder_name: null
-host_country: United Kingdom, Ireland, Low- and middle-income countries
-applicant_country: United Kingdom, Ireland, Low- and middle-income countries
+host_country: United Kingdom, Ireland, LMICs
+applicant_country: United Kingdom, Ireland, LMICs
 career_levels:
 - postdoc
 years_since_phd: '0-3'
@@ -44,5 +44,5 @@ funding_purposes:
 - research
 search_text: Wellcome Early-Career Awards Funding for early-career researchers ready
   to develop their research identity. Wellcome Trust Postdoc United Kingdom Ireland
-  Low- and middle-income countries All subjects Fellowship research
+  LMICs All subjects Fellowship research
 source: manual
