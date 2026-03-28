@@ -965,7 +965,7 @@
       "dora": false,
       "short_name": "National Institutes of Health (NIH)",
       "website": "https://www.nih.gov",
-      "active_funding_count": 53,
+      "active_funding_count": 52,
       "active_travel_grant_count": 0
     },
     {
@@ -1327,7 +1327,7 @@
       "funders": [
         "the-world-academy-of-sciences"
       ],
-      "applicant_country": "Middle East and North Africa (MENA)",
+      "applicant_country": "MENA",
       "host_country": "Germany",
       "career_levels": [
         "postdoc"

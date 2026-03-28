@@ -480,6 +480,90 @@
     "updated_at": "2026-03-26T00:00:00Z"
   },
   {
+    "id": "funding-foundation-fighting-blindness-career-development-program",
+    "type": "funding",
+    "slug": "foundation-fighting-blindness-career-development-program",
+    "name": "Career Development Program (CDA)",
+    "description": "The Career Development Program supports clinician-scientists in their first three years of a junior faculty appointment who are committed to advancing research on inherited retinal degenerative diseases. The award funds laboratory and clinical research to elucidate the mechanisms, pathogenesis, and…",
+    "funder_names": [
+      "Foundation Fighting Blindness"
+    ],
+    "funders": [
+      "foundation-fighting-blindness"
+    ],
+    "country": "United States",
+    "applicant_country": "United States",
+    "host_country": "United States",
+    "career_levels": [
+      "junior-faculty"
+    ],
+    "career_level_names": [
+      "Junior Faculty"
+    ],
+    "subjects": [
+      "medical-sciences",
+      "neuroscience"
+    ],
+    "subject_names": [
+      "Medical Sciences",
+      "Neuroscience"
+    ],
+    "funding_purposes": [
+      "research"
+    ],
+    "funding_purpose_names": [
+      "Research"
+    ],
+    "status": "active",
+    "featured": false,
+    "deadline_month": "",
+    "search_text": "",
+    "url": "https://www.fightingblindness.org/career-development-program-cda",
+    "updated_at": ""
+  },
+  {
+    "id": "funding-foundation-fighting-blindness-postdoctoral-fellowship-award",
+    "type": "funding",
+    "slug": "foundation-fighting-blindness-postdoctoral-fellowship-award",
+    "name": "FFB Postdoctoral Fellowship Award",
+    "description": "Supports postdoctoral fellows pursuing innovative research on inherited retinal degenerations (IRD) and dry age-related macular degeneration (dAMD). Fellows work closely with mentors to foster professional development and long-term collaborations. Applications follow a two-stage process: a Letter of…",
+    "funder_names": [
+      "Foundation Fighting Blindness"
+    ],
+    "funders": [
+      "foundation-fighting-blindness"
+    ],
+    "country": "Worldwide",
+    "applicant_country": "Worldwide",
+    "host_country": "Worldwide",
+    "career_levels": [
+      "postdoc"
+    ],
+    "career_level_names": [
+      "Postdoc"
+    ],
+    "subjects": [
+      "medical-sciences",
+      "neuroscience"
+    ],
+    "subject_names": [
+      "Medical Sciences",
+      "Neuroscience"
+    ],
+    "funding_purposes": [
+      "fellowship-scholarship-or-training"
+    ],
+    "funding_purpose_names": [
+      "Fellowship, scholarship or training"
+    ],
+    "status": "active",
+    "featured": false,
+    "deadline_month": "",
+    "search_text": "",
+    "url": "https://www.fightingblindness.org/postdoctoralfellowshipaward",
+    "updated_at": ""
+  },
+  {
     "id": "funding-faculty-early-career-development-program-career",
     "type": "funding",
     "slug": "faculty-early-career-development-program-career",
@@ -1737,34 +1821,6 @@
     "deadline_month": "February, June, October",
     "search_text": "Midcareer Investigator Award in Patient-Oriented Research (Parent K24) National Institutes of Health (NIH) United States",
     "url": "https://grants.nih.gov/grants/guide/pa-files/PA-16-206.html",
-    "updated_at": "2018-12-29T13:58:20Z"
-  },
-  {
-    "id": "funding-nlm-career-development-award-in-biomedical-informatics-and-data-science-k01-2",
-    "type": "funding",
-    "slug": "nlm-career-development-award-in-biomedical-informatics-and-data-science-k01-2",
-    "name": "NLM Career Development Award in Biomedical Informatics and Data Science (K01)",
-    "description": null,
-    "funder_names": [
-      "National Institutes of Health (NIH)"
-    ],
-    "funders": [
-      "national-institutes-of-health-nih"
-    ],
-    "country": "United States",
-    "applicant_country": "",
-    "host_country": "United States",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "funding_purposes": [],
-    "funding_purpose_names": [],
-    "status": "active",
-    "featured": false,
-    "deadline_month": "February, June, October",
-    "search_text": "NLM Career Development Award in Biomedical Informatics and Data Science (K01) National Institutes of Health (NIH) United States",
-    "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-16-204.html",
     "updated_at": "2018-12-29T13:58:20Z"
   },
   {
@@ -3856,30 +3912,6 @@
     "updated_at": "2018-12-29T13:58:31Z"
   },
   {
-    "id": "funding-ams-subventions-for-publications-2",
-    "type": "funding",
-    "slug": "ams-subventions-for-publications-2",
-    "name": "AMS Subventions for Publications",
-    "description": null,
-    "funder_names": [],
-    "funders": [],
-    "country": "United States",
-    "applicant_country": "",
-    "host_country": "United States",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "funding_purposes": [],
-    "funding_purpose_names": [],
-    "status": "active",
-    "featured": false,
-    "deadline_month": "February, August",
-    "search_text": "AMS Subventions for Publications United States",
-    "url": "http://www.ams-net.org/pubs/subvention.php",
-    "updated_at": "2018-12-29T13:58:31Z"
-  },
-  {
     "id": "funding-beckman-young-investigators-program",
     "type": "funding",
     "slug": "beckman-young-investigators-program",
@@ -4460,48 +4492,6 @@
     "search_text": "Frontier Fellowship <p>The Frontier Fellowship program supports outstanding young biomedical researchers from around the world. Each fellowship represents an approximately $400,000 commitment over four years. Candidates can either perform their research in a single laboratory supported by the Frontier Fellowship program, or engage in collaborative projects that involve a combination of these laboratories. Laboratories participating in the Frontier Fellowship program are in Children&rsquo;s Research Institute at UT Southwestern. The CRI focuses on regenerative medicine, metabolism, and cancer.</p> United States Worldwide",
     "url": "https://www.frontierfellows.org/",
     "updated_at": "2020-05-01T15:27:57Z"
-  },
-  {
-    "id": "funding-bridging-excellence-fellowship",
-    "type": "funding",
-    "slug": "bridging-excellence-fellowship",
-    "name": "Bridging Excellence Fellowship",
-    "description": null,
-    "funder_names": [
-      "Stanford University"
-    ],
-    "funders": [
-      "stanford-university"
-    ],
-    "country": "Worldwide",
-    "applicant_country": "Worldwide",
-    "host_country": "United States, Europe",
-    "career_levels": [
-      "phd",
-      "phd"
-    ],
-    "career_level_names": [
-      "PhD",
-      "PhD"
-    ],
-    "subjects": [
-      "life-sciences",
-      "medicine-and-health-sciences",
-      "life-sciences"
-    ],
-    "subject_names": [
-      "Life Sciences",
-      "Medicine and Health Sciences",
-      "Life Sciences"
-    ],
-    "funding_purposes": [],
-    "funding_purpose_names": [],
-    "status": "active",
-    "featured": false,
-    "deadline_month": "March",
-    "search_text": "Bridging Excellence Fellowship Stanford University PhD PhD Life Sciences Medicine and Health Sciences Life Sciences USA, Europe Worldwide",
-    "url": "https://med.stanford.edu/lifesciencealliance/activities/befellowships.html",
-    "updated_at": "2020-05-20T06:11:52Z"
   },
   {
     "id": "funding-post-doctoral-fellowships-from-the-de-duve-institute",
@@ -9348,46 +9338,6 @@
     "updated_at": "2020-05-23T17:34:04Z"
   },
   {
-    "id": "funding-whitehall-foundation-research-grants-2",
-    "type": "funding",
-    "slug": "whitehall-foundation-research-grants-2",
-    "name": "Research Grants",
-    "description": "The Whitehall Foundation, through its program of grants and grants-in-aid, assists scholarly research in the life sciences. It is the Foundation's policy to assist those dynamic areas of basic biological research that are not heavily supported by Federal Agencies or other foundations with specialize…",
-    "funder_names": [
-      "Whitehall Foundation"
-    ],
-    "funders": [
-      "whitehall-foundation"
-    ],
-    "country": "United States",
-    "applicant_country": "United States",
-    "host_country": "United States",
-    "career_levels": [
-      "junior-faculty"
-    ],
-    "career_level_names": [
-      "Junior Faculty"
-    ],
-    "subjects": [
-      "life-sciences"
-    ],
-    "subject_names": [
-      "Life Sciences"
-    ],
-    "funding_purposes": [
-      "research"
-    ],
-    "funding_purpose_names": [
-      "Research"
-    ],
-    "status": "active",
-    "featured": false,
-    "deadline_month": "January, April, October",
-    "search_text": "Research Grants The Whitehall Foundation, through its program of grants and grants-in-aid, assists scholarly research in the life sciences. It is the Foundation's policy to assist those dynamic areas of basic biological research that are not heavily supported by Federal Agencies or other foundations with specialized missions. Whitehall Foundation Junior Faculty Life Sciences Research United States United States",
-    "url": "http://www.whitehall.org/grants/",
-    "updated_at": "2020-05-23T17:49:26Z"
-  },
-  {
     "id": "funding-asee-electrical-and-computer-engineering-division-frederick-emmons-terman-award",
     "type": "funding",
     "slug": "asee-electrical-and-computer-engineering-division-frederick-emmons-terman-award",
@@ -11112,50 +11062,6 @@
     "updated_at": "2020-05-24T11:05:39Z"
   },
   {
-    "id": "funding-whitehall-foundation-research-grants-3",
-    "type": "funding",
-    "slug": "whitehall-foundation-research-grants-3",
-    "name": "Research Grants",
-    "description": "Research grants are available to established scientists of all ages working at accredited institutions in the United States. Applications will be judged on the scientific merit and the innovative aspects of the proposal as well as on the competence of the applicant. Research grants of up to three ye…",
-    "funder_names": [
-      "Whitehall Foundation"
-    ],
-    "funders": [
-      "whitehall-foundation"
-    ],
-    "country": "United States",
-    "applicant_country": "",
-    "host_country": "United States",
-    "career_levels": [
-      "junior-faculty"
-    ],
-    "career_level_names": [
-      "Junior Faculty"
-    ],
-    "subjects": [
-      "life-sciences",
-      "neuroscience"
-    ],
-    "subject_names": [
-      "Life Sciences",
-      "Neuroscience"
-    ],
-    "funding_purposes": [
-      "fellowship-scholarship-or-training",
-      "research"
-    ],
-    "funding_purpose_names": [
-      "Fellowship, scholarship or training",
-      "Research"
-    ],
-    "status": "active",
-    "featured": false,
-    "deadline_month": "January, April, October",
-    "search_text": "Research Grants Research grants are available to established scientists of all ages working at accredited institutions in the United States. Applications will be judged on the scientific merit and the innovative aspects of the proposal as well as on the competence of the applicant. Research grants of up to three years will be provided. A renewal grant with a maximum of two years is possible, but it will be awarded on a competitive basis. Research grants will not be awarded to investigators who have already received, or expect to receive, substantial support from other sources, even if it is for an unrelated purpose. Research grants normally range from $30,000 to $75,000 per year. Whitehall Foundation Junior Faculty Life Sciences Neuroscience Fellowship, scholarship or training Research United States",
-    "url": "http://www.whitehall.org/grants/",
-    "updated_at": "2020-05-24T11:26:41Z"
-  },
-  {
     "id": "funding-mathematics-travel-grants-for-women-researchers",
     "type": "funding",
     "slug": "mathematics-travel-grants-for-women-researchers",
@@ -12016,9 +11922,9 @@
     "updated_at": "2020-05-24T13:15:17Z"
   },
   {
-    "id": "funding-nlm-career-development-award-in-biomedical-informatics-and-data-science-k01-3",
+    "id": "funding-nlm-career-development-award-in-biomedical-informatics-and-data-science-k01",
     "type": "funding",
-    "slug": "nlm-career-development-award-in-biomedical-informatics-and-data-science-k01-3",
+    "slug": "nlm-career-development-award-in-biomedical-informatics-and-data-science-k01",
     "name": "NLM Career Development Award in Biomedical Informatics and Data Science (K01)",
     "description": "The purpose of the NLM Career Development Award (K01) in Biomedical Informatics and Data Science is to provide support and \"protected time\" (up to three years) for an intensive career development experience in biomedical informatics and data science leading to research independence. NLM invites K01…",
     "funder_names": [
@@ -23662,54 +23568,6 @@
     "updated_at": "2022-11-25T15:51:40Z"
   },
   {
-    "id": "funding-icomst-2023-the-international-congress-of-meat-science-and-technology-pre-congress-phd-course",
-    "type": "funding",
-    "slug": "icomst-2023-the-international-congress-of-meat-science-and-technology-pre-congress-phd-course",
-    "name": "ICOMST 2023 – the International Congress of Meat Science and Technology PRE-CONGRESS PhD COURSE",
-    "description": "<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\">ICOMST 2023 &ndash; the International Congress of Meat Science and Technology,&nbsp;<a style…",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "funding_purposes": [],
-    "funding_purpose_names": [],
-    "status": "active",
-    "featured": false,
-    "deadline_month": "",
-    "search_text": "ICOMST 2023 – the International Congress of Meat Science and Technology PRE-CONGRESS PhD COURSE <p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\">ICOMST 2023 &ndash; the International Congress of Meat Science and Technology,&nbsp;<a style=\"color: #1155cc;\" href=\"https://www.icomst2023.com/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.icomst2023.com&amp;source=gmail&amp;ust=1678872558984000&amp;usg=AOvVaw3O22bgAARqBPaR3pb6xe2y\">https://www.icomst2023.com</a>, that will be held in Padova, Italy, on August 20 to 25.<u></u><u></u></span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\">The scope of ICoMST is to enhance the co-operation and exchange of scientific information between academic and industry-based researchers in the field of meat science and technology; the first Congress was organised in 1955 under name &lsquo;European Meeting of Meat Research Workers&rsquo;. The name was changed to International Congress of Meat Science and Technology in 1987.&nbsp;<u></u><u></u></span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\">The Congress has therefore a long tradition, and an established reputation: more information are available on the institutional website&nbsp;<a style=\"color: #1155cc;\" href=\"https://icomst.ie/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://icomst.ie/&amp;source=gmail&amp;ust=1678872558984000&amp;usg=AOvVaw3msltFWob1Y8xRy538nrTc\">https://icomst.ie/</a>.&nbsp;<u></u><u></u></span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\"><u></u>&nbsp;<u></u></span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\">One important part of the Congress is the &ldquo;PRE-CONGRESS PhD COURSE&rdquo;, scheduled immediately prior to the start of the Congress (18 and 19 August). This Course, which belongs to the tradition of ICOMST Congresses, is intended to provide young Researchers with the opportunity of meeting and learning from international experts in the field, during an intense 2-days Course.<u></u><u></u></span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\">The program is being developed and we can provide with further information in the nearest future; there is no registration fee, but a selection will be done among those who will apply for the Course.</span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\">&nbsp;</p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\">Please note that the Course registration will be funded and free of any expense.</span></p>",
-    "url": "https://www.icomst2023.com﻿",
-    "updated_at": "2023-03-15T10:42:46Z"
-  },
-  {
-    "id": "funding-icomst-2023-the-international-congress-of-meat-science-and-technology-pre-congress-phd-course-2",
-    "type": "funding",
-    "slug": "icomst-2023-the-international-congress-of-meat-science-and-technology-pre-congress-phd-course-2",
-    "name": "ICOMST 2023 – the International Congress of Meat Science and Technology PRE-CONGRESS PhD COURSE",
-    "description": "<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\">ICOMST 2023 &ndash; the International Congress of Meat Science and Technology,&nbsp;<a style…",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "funding_purposes": [],
-    "funding_purpose_names": [],
-    "status": "active",
-    "featured": false,
-    "deadline_month": "",
-    "search_text": "ICOMST 2023 – the International Congress of Meat Science and Technology PRE-CONGRESS PhD COURSE <p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\">ICOMST 2023 &ndash; the International Congress of Meat Science and Technology,&nbsp;<a style=\"color: #1155cc;\" href=\"https://www.icomst2023.com/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.icomst2023.com&amp;source=gmail&amp;ust=1678872558984000&amp;usg=AOvVaw3O22bgAARqBPaR3pb6xe2y\">https://www.icomst2023.com</a>, that will be held in Padova, Italy, on August 20 to 25.<u></u><u></u></span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\">The scope of ICoMST is to enhance the co-operation and exchange of scientific information between academic and industry-based researchers in the field of meat science and technology; the first Congress was organised in 1955 under name &lsquo;European Meeting of Meat Research Workers&rsquo;. The name was changed to International Congress of Meat Science and Technology in 1987.&nbsp;<u></u><u></u></span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\">The Congress has therefore a long tradition, and an established reputation: more information are available on the institutional website&nbsp;<a style=\"color: #1155cc;\" href=\"https://icomst.ie/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://icomst.ie/&amp;source=gmail&amp;ust=1678872558984000&amp;usg=AOvVaw3msltFWob1Y8xRy538nrTc\">https://icomst.ie/</a>.&nbsp;<u></u><u></u></span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\"><u></u>&nbsp;<u></u></span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\">One important part of the Congress is the &ldquo;PRE-CONGRESS PhD COURSE&rdquo;, scheduled immediately prior to the start of the Congress (18 and 19 August). This Course, which belongs to the tradition of ICOMST Congresses, is intended to provide young Researchers with the opportunity of meeting and learning from international experts in the field, during an intense 2-days Course.<u></u><u></u></span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\">The program is being developed and we can provide with further information in the nearest future; there is no registration fee, but a selection will be done among those who will apply for the Course.</span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\">&nbsp;</p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\">Please note that the Course registration will be funded and free of any expense.</span></p>",
-    "url": "https://www.icomst2023.com﻿",
-    "updated_at": "2023-03-15T10:42:47Z"
-  },
-  {
     "id": "funding-ist-bridge-international-postdoctoral-program",
     "type": "funding",
     "slug": "ist-bridge-international-postdoctoral-program",
@@ -24181,9 +24039,9 @@
     "description": "<p>GINGKO provides grants to support academic research into the history, art history and religions of MENA. GINGKO also offers grants for people organising transformative interfaith and intercultural encounters between people from MENA and the West. The Werner Mark Linz Memorial Grant (WMLM) is a me…",
     "funder_names": [],
     "funders": [],
-    "country": "MENA region",
-    "applicant_country": "MENA region",
-    "host_country": "MENA region",
+    "country": "MENA",
+    "applicant_country": "MENA",
+    "host_country": "MENA",
     "career_levels": [
       "phd",
       "postdoc",
@@ -24299,8 +24157,8 @@
     "funders": [
       "the-world-academy-of-sciences"
     ],
-    "country": "Middle East and North Africa (MENA)",
-    "applicant_country": "Middle East and North Africa (MENA)",
+    "country": "MENA",
+    "applicant_country": "MENA",
     "host_country": "Germany",
     "career_levels": [
       "postdoc"
@@ -24870,34 +24728,6 @@
     "search_text": "Midcareer Investigator Award in Patient-Oriented Research (Parent K24) National Institutes of Health (NIH) United States",
     "url": "http://grants.nih.gov/grants/guide/pa-files/PA-14-047.html",
     "updated_at": "2020-05-23T05:49:31Z"
-  },
-  {
-    "id": "funding-nlm-career-development-award-in-biomedical-informatics-and-data-science-k01",
-    "type": "funding",
-    "slug": "nlm-career-development-award-in-biomedical-informatics-and-data-science-k01",
-    "name": "NLM Career Development Award in Biomedical Informatics and Data Science (K01)",
-    "description": null,
-    "funder_names": [
-      "National Institutes of Health (NIH)"
-    ],
-    "funders": [
-      "national-institutes-of-health-nih"
-    ],
-    "country": "United States",
-    "applicant_country": "",
-    "host_country": "United States",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "funding_purposes": [],
-    "funding_purpose_names": [],
-    "status": "draft",
-    "featured": false,
-    "deadline_month": "February, June, October",
-    "search_text": "NLM Career Development Award in Biomedical Informatics and Data Science (K01) National Institutes of Health (NIH) United States",
-    "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-16-204.html",
-    "updated_at": "2020-05-23T06:25:42Z"
   },
   {
     "id": "funding-international-fellowship",
@@ -26572,22 +26402,36 @@
     "type": "funding",
     "slug": "bridging-excellence-postdoctoral-fellowships",
     "name": "Bridging Excellence Postdoctoral Fellowships",
-    "description": "Make your mark as a transatlantic scientist!\r\n\r\nThe EMBL | Stanford Life Science Alliance invites researchers to submit an application to the Bridging Excellence Postdoctoral Program. With a network of over 50 labs from across EMBL and Stanford University, we believe in working together to leverage…",
-    "funder_names": [],
-    "funders": [],
+    "description": "The Bridging Excellence Postdoc Program supports postdoctoral fellows who conduct joint research between the EMBL and the Stanford University School of Medicine (SoM) and/or the School of Humanities & Sciences (H&S). You will propose a high-impact, creative collaboration between at least one lab fro…",
+    "funder_names": [
+      "Stanford University",
+      "European Molecular Biology Laboratory"
+    ],
+    "funders": [
+      "stanford-university",
+      "european-molecular-biology-laboratory-embl"
+    ],
     "country": "Germany",
     "applicant_country": "",
     "host_country": "Germany",
     "career_levels": [
-      "phd",
       "postdoc"
     ],
     "career_level_names": [
-      "PhD",
       "Postdoc"
     ],
-    "subjects": [],
-    "subject_names": [],
+    "subjects": [
+      "life-sciences",
+      "computational-biology",
+      "physics",
+      "chemistry"
+    ],
+    "subject_names": [
+      "Life Sciences",
+      "Computational Biology",
+      "Physics",
+      "Chemistry"
+    ],
     "funding_purposes": [],
     "funding_purpose_names": [],
     "status": "draft",
@@ -29876,7 +29720,7 @@
     "type": "travel_grant",
     "slug": "plos-early-career-travel-award",
     "name": "PLOS Early Career Travel Award",
-    "description": "<p>Applicants must be listed as an author on a PLOS journal article with a publication date on or before the date the application is submitted.</p>",
+    "description": "Applicants must be listed as an author on a PLOS journal article with a publication date on or before the date the application is submitted.",
     "funder_names": [],
     "funders": [],
     "country": "Worldwide",
@@ -29895,35 +29739,7 @@
     "status": "active",
     "featured": false,
     "deadline_month": "",
-    "search_text": "PLOS Early Career Travel Award <p>Applicants must be listed as an author on a PLOS journal article with a publication date on or before the date the application is submitted.</p> Conference Worldwide",
-    "url": "https://www.plos.org/ecr-travel-awards",
-    "updated_at": ""
-  },
-  {
-    "id": "travel-grant-plos-early-career-travel-award-program",
-    "type": "travel_grant",
-    "slug": "plos-early-career-travel-award-program",
-    "name": "PLOS Early Career Travel Award Program",
-    "description": null,
-    "funder_names": [],
-    "funders": [],
-    "country": "(co)-author of PLOS publication",
-    "applicant_country": "(co)-author of PLOS publication",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "travel_purposes": [
-      "conference"
-    ],
-    "travel_purpose_names": [
-      "Conference"
-    ],
-    "status": "active",
-    "featured": false,
-    "deadline_month": "",
-    "search_text": "PLOS Early Career Travel Award Program Conference (co)-author of PLOS publication",
+    "search_text": "PLOS Early Career Travel Award Applicants must be listed as an author on a PLOS journal article with a publication date on or before the date the application is submitted. Conference Worldwide",
     "url": "https://www.plos.org/ecr-travel-awards",
     "updated_at": ""
   },
@@ -31378,36 +31194,6 @@
     "featured": false,
     "url": "https://datamanagement.hms.harvard.edu",
     "updated_at": "2019-01-02T21:12:26Z"
-  },
-  {
-    "id": "resource-mit-commkit",
-    "type": "resource",
-    "slug": "mit-commkit",
-    "name": "MIT CommKit",
-    "description": "Quick guides to technical communication needs including posters, journal articles, and fellowship applications.",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "career-development",
-      "science-communication",
-      "academic-writing"
-    ],
-    "resource_category_names": [
-      "Career development",
-      "Science Communication",
-      "Academic writing"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "http://mitcommlab.mit.edu/broad/use-the-commkit/",
-    "updated_at": "2019-01-03T07:00:43Z"
   },
   {
     "id": "resource-a-career-in-research-advice-and-tips-for-getting-started",
@@ -37456,9 +37242,9 @@
     "updated_at": "2019-01-17T00:40:55Z"
   },
   {
-    "id": "funder-foundation-fighting-blindness-2",
+    "id": "funder-foundation-fighting-blindness",
     "type": "funder",
-    "slug": "foundation-fighting-blindness-2",
+    "slug": "foundation-fighting-blindness",
     "name": "Foundation Fighting Blindness",
     "description": null,
     "funder_names": [],
@@ -37473,28 +37259,7 @@
     "aliases": [],
     "status": "active",
     "featured": false,
-    "website": "",
-    "updated_at": "2019-01-17T00:40:55Z"
-  },
-  {
-    "id": "funder-foundation-fighting-blindness",
-    "type": "funder",
-    "slug": "foundation-fighting-blindness",
-    "name": "Foundation Fighting Blindness",
-    "description": null,
-    "funder_names": [],
-    "funders": [],
-    "country": "Canada",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "aliases": [],
-    "status": "active",
-    "featured": false,
-    "website": "",
+    "website": "https://www.fightingblindness.org/",
     "updated_at": "2019-01-17T00:40:55Z"
   },
   {
@@ -38191,27 +37956,6 @@
     "updated_at": "2019-01-17T00:40:55Z"
   },
   {
-    "id": "funder-mq-transforming-mental-health-2",
-    "type": "funder",
-    "slug": "mq-transforming-mental-health-2",
-    "name": "MQ: Transforming Mental Health",
-    "description": null,
-    "funder_names": [],
-    "funders": [],
-    "country": "United Kingdom",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "aliases": [],
-    "status": "active",
-    "featured": false,
-    "website": "",
-    "updated_at": "2019-01-17T00:40:55Z"
-  },
-  {
     "id": "funder-mq-transforming-mental-health",
     "type": "funder",
     "slug": "mq-transforming-mental-health",
@@ -38346,27 +38090,6 @@
     "funder_names": [],
     "funders": [],
     "country": "New Zealand",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "aliases": [],
-    "status": "active",
-    "featured": false,
-    "website": "",
-    "updated_at": "2019-01-17T00:40:55Z"
-  },
-  {
-    "id": "funder-national-kidney-foundation-2",
-    "type": "funder",
-    "slug": "national-kidney-foundation-2",
-    "name": "National Kidney Foundation",
-    "description": null,
-    "funder_names": [],
-    "funders": [],
-    "country": "Singapore",
     "applicant_country": "",
     "host_country": "",
     "career_levels": [],

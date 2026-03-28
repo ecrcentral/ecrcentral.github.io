@@ -699,6 +699,100 @@
     ]
   },
   {
+    "id": "funding-foundation-fighting-blindness-career-development-program",
+    "slug": "foundation-fighting-blindness-career-development-program",
+    "name": "Career Development Program (CDA)",
+    "url": "https://www.fightingblindness.org/career-development-program-cda",
+    "description": "The Career Development Program supports clinician-scientists in their first three years of a junior faculty appointment who are committed to advancing research on inherited retinal degenerative diseases. The award funds laboratory and clinical research to elucidate the mechanisms, pathogenesis, and innovative treatment strategies for retinal degenerative diseases. Individuals from underrepresented racial, ethnic, and gender groups, as well as individuals with disabilities, are encouraged to apply.",
+    "funders": [
+      "foundation-fighting-blindness"
+    ],
+    "applicant_country": "United States",
+    "host_country": "United States",
+    "award": "USD 75,000 per year (up to USD 375,000 total over 5 years)",
+    "duration": "5 years",
+    "frequency": "Annual",
+    "deadline": "Check official page",
+    "deadline_month": null,
+    "career_levels": [
+      "junior-faculty"
+    ],
+    "subjects": [
+      "medical-sciences",
+      "neuroscience"
+    ],
+    "funding_purposes": [
+      "research"
+    ],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "source": "manual",
+    "funder_names": [
+      "Foundation Fighting Blindness"
+    ],
+    "funder_logos": [
+      null
+    ],
+    "career_level_names": [
+      "Junior Faculty"
+    ],
+    "subject_names": [
+      "Medical Sciences",
+      "Neuroscience"
+    ],
+    "funding_purpose_names": [
+      "Research"
+    ]
+  },
+  {
+    "id": "funding-foundation-fighting-blindness-postdoctoral-fellowship-award",
+    "slug": "foundation-fighting-blindness-postdoctoral-fellowship-award",
+    "name": "FFB Postdoctoral Fellowship Award",
+    "url": "https://www.fightingblindness.org/postdoctoralfellowshipaward",
+    "description": "Supports postdoctoral fellows pursuing innovative research on inherited retinal degenerations (IRD) and dry age-related macular degeneration (dAMD). Fellows work closely with mentors to foster professional development and long-term collaborations. Applications follow a two-stage process: a Letter of Intent followed by a full application by invitation only. Institutions eligible include universities, medical schools, hospitals, research institutes, and non-profit laboratories, both domestic and international. Individuals from underrepresented racial, ethnic, and gender groups, and individuals with disabilities, are encouraged to apply.",
+    "funders": [
+      "foundation-fighting-blindness"
+    ],
+    "applicant_country": "Worldwide",
+    "host_country": "Worldwide",
+    "award": "USD 80,000 per year (USD 160,000 total over 2 years)",
+    "duration": "2 years",
+    "frequency": "Annual",
+    "deadline": "Check official page",
+    "deadline_month": null,
+    "career_levels": [
+      "postdoc"
+    ],
+    "subjects": [
+      "medical-sciences",
+      "neuroscience"
+    ],
+    "funding_purposes": [
+      "fellowship-scholarship-or-training"
+    ],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "source": "manual",
+    "funder_names": [
+      "Foundation Fighting Blindness"
+    ],
+    "funder_logos": [
+      null
+    ],
+    "career_level_names": [
+      "Postdoc"
+    ],
+    "subject_names": [
+      "Medical Sciences",
+      "Neuroscience"
+    ],
+    "funding_purpose_names": [
+      "Fellowship, scholarship or training"
+    ]
+  },
+  {
     "id": "funding-faculty-early-career-development-program-career",
     "legacy_id": 543,
     "slug": "faculty-early-career-development-program-career",
@@ -2889,54 +2983,6 @@
     "funding_purpose_names": []
   },
   {
-    "id": "funding-nlm-career-development-award-in-biomedical-informatics-and-data-science-k01-2",
-    "legacy_id": 435,
-    "slug": "nlm-career-development-award-in-biomedical-informatics-and-data-science-k01-2",
-    "name": "NLM Career Development Award in Biomedical Informatics and Data Science (K01)",
-    "description": null,
-    "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-16-204.html",
-    "funders": [
-      "national-institutes-of-health-nih"
-    ],
-    "legacy_funder_name": "National Institutes of Health",
-    "host_country": "United States",
-    "applicant_country": null,
-    "career_levels": [],
-    "years_since_phd": "Junior investigators, who have either a health professional or research doctorate and who are in the first two years of their initial position, at an assistant professor level (or equivalent)",
-    "duration": null,
-    "award": "$450 000",
-    "mobility_rule": null,
-    "research_costs": null,
-    "deadline": "February 12, June 12, October 12",
-    "deadline_month": "February, June, October",
-    "diversity": null,
-    "comments": "The objective of the NIH Mentored Research Scientist Development Award (K01) is to provide salary and research support for a sustained period of “protected time” (3 years) for intensive research career development under the guidance of an experienced mentor, or sponsor, in the biomedical, behavioral or clinical sciences that leads to research independence. The National Library of Medicine (NLM) Career Development Award in Biomedical Informatics (K01) is intended to provide support for promising junior investigators as they launch their research careers in biomedical informatics research. NLM supports research career development in clinical/public health informatics, bioinformatics, translational informatics and consumer health informatics. We define informatics as the intersection of computer, information and behavioral sciences with one or more application domains. Application domains of interest include health care delivery, basic biomedical research, clinical and translational research, public health and others. NIH will contribute up to $85,000 plus fringe benefits  per year toward the salary of the career award recipient and $50,000  per year toward the research development costs of the award recipient. $405,000 max over three years.",
-    "benefits": null,
-    "frequency": null,
-    "fileds": null,
-    "featured": false,
-    "review_status": "approved",
-    "status": "active",
-    "last_verified": "2026-02-19",
-    "verified_by": "asntech",
-    "legacy_user_id": 1,
-    "created_at": null,
-    "updated_at": "2018-12-29T13:58:20Z",
-    "subjects": [],
-    "funding_purposes": [],
-    "search_text": "NLM Career Development Award in Biomedical Informatics and Data Science (K01) National Institutes of Health (NIH) United States",
-    "source": "legacy-import",
-    "funder_names": [
-      "National Institutes of Health (NIH)"
-    ],
-    "funder_logos": [
-      "/logos/funders/national-institutes-of-health-nih.png"
-    ],
-    "career_level_names": [],
-    "subject_names": [],
-    "funding_purpose_names": []
-  },
-  {
     "id": "funding-nln-nursing-education-research-grants-program",
     "legacy_id": 430,
     "slug": "nln-nursing-education-research-grants-program",
@@ -3214,7 +3260,7 @@
     "career_levels": [],
     "years_since_phd": "Individual authors or editors, or their sponsoring organization, society, or department, may apply",
     "duration": null,
-    "award": "$2 500",
+    "award": "$2500",
     "mobility_rule": null,
     "research_costs": null,
     "deadline": "February and August",
@@ -6575,48 +6621,6 @@
     "funding_purpose_names": []
   },
   {
-    "id": "funding-ams-subventions-for-publications-2",
-    "legacy_id": 555,
-    "slug": "ams-subventions-for-publications-2",
-    "name": "AMS Subventions for Publications",
-    "description": null,
-    "url": "http://www.ams-net.org/pubs/subvention.php",
-    "funders": [],
-    "legacy_funder_name": "American Musicological Society",
-    "host_country": "United States",
-    "applicant_country": null,
-    "career_levels": [],
-    "years_since_phd": "Proposals from scholars at all stages of their careers are welcome.",
-    "duration": null,
-    "award": "$2 500",
-    "mobility_rule": null,
-    "research_costs": null,
-    "deadline": "February and August",
-    "deadline_month": "February, August",
-    "diversity": null,
-    "comments": "Supports approximately five individuals with expenses involved in the publication of works of musical scholarship, including books, articles, & works in non-print media. Goal is to defray costs not covered by publishers. Proposals that utilize newer technologies are encouraged. The society also encourages proposals from younger scholars in the early stages of their careers. Applications for any amount up to $2,500 will receive consideration. It is anticipated that most subventions will range between $500 and $2,000.",
-    "benefits": null,
-    "frequency": null,
-    "fileds": null,
-    "featured": false,
-    "review_status": "approved",
-    "status": "active",
-    "last_verified": "2026-02-19",
-    "verified_by": "asntech",
-    "legacy_user_id": 1,
-    "created_at": null,
-    "updated_at": "2018-12-29T13:58:31Z",
-    "subjects": [],
-    "funding_purposes": [],
-    "search_text": "AMS Subventions for Publications United States",
-    "source": "legacy-import",
-    "funder_names": [],
-    "funder_logos": [],
-    "career_level_names": [],
-    "subject_names": [],
-    "funding_purpose_names": []
-  },
-  {
     "id": "funding-beckman-young-investigators-program",
     "legacy_id": 550,
     "slug": "beckman-young-investigators-program",
@@ -7588,68 +7592,6 @@
     "funder_logos": [],
     "career_level_names": [],
     "subject_names": [],
-    "funding_purpose_names": []
-  },
-  {
-    "id": "funding-bridging-excellence-fellowship",
-    "legacy_id": 726,
-    "slug": "bridging-excellence-fellowship",
-    "name": "Bridging Excellence Fellowship",
-    "description": null,
-    "url": "https://med.stanford.edu/lifesciencealliance/activities/befellowships.html",
-    "funders": [
-      "stanford-university"
-    ],
-    "legacy_funder_name": "EMBL, Stanford University",
-    "host_country": "United States, Europe",
-    "applicant_country": "Worldwide",
-    "career_levels": [
-      "phd",
-      "phd"
-    ],
-    "years_since_phd": "5",
-    "duration": "3",
-    "award": "up to €240000",
-    "mobility_rule": "Yes",
-    "research_costs": "Contribution towards lab consumables included",
-    "deadline": "March",
-    "deadline_month": "March",
-    "diversity": null,
-    "comments": null,
-    "benefits": null,
-    "frequency": null,
-    "fileds": "Life Sciences",
-    "featured": false,
-    "review_status": "approved",
-    "status": "active",
-    "last_verified": "2026-02-19",
-    "verified_by": "asntech",
-    "legacy_user_id": 1,
-    "created_at": "2020-01-21T23:05:22Z",
-    "updated_at": "2020-05-20T06:11:52Z",
-    "subjects": [
-      "life-sciences",
-      "medicine-and-health-sciences",
-      "life-sciences"
-    ],
-    "funding_purposes": [],
-    "search_text": "Bridging Excellence Fellowship Stanford University PhD PhD Life Sciences Medicine and Health Sciences Life Sciences USA, Europe Worldwide",
-    "source": "legacy-import",
-    "funder_names": [
-      "Stanford University"
-    ],
-    "funder_logos": [
-      null
-    ],
-    "career_level_names": [
-      "PhD",
-      "PhD"
-    ],
-    "subject_names": [
-      "Life Sciences",
-      "Medicine and Health Sciences",
-      "Life Sciences"
-    ],
     "funding_purpose_names": []
   },
   {
@@ -14828,66 +14770,6 @@
     ]
   },
   {
-    "id": "funding-whitehall-foundation-research-grants-2",
-    "legacy_id": 508,
-    "slug": "whitehall-foundation-research-grants-2",
-    "name": "Research Grants",
-    "description": "The Whitehall Foundation, through its program of grants and grants-in-aid, assists scholarly research in the life sciences. It is the Foundation's policy to assist those dynamic areas of basic biological research that are not heavily supported by Federal Agencies or other foundations with specialized missions.",
-    "url": "http://www.whitehall.org/grants/",
-    "funders": [
-      "whitehall-foundation"
-    ],
-    "legacy_funder_name": "Whitehall Foundation",
-    "host_country": "United States",
-    "applicant_country": "United States",
-    "career_levels": [
-      "junior-faculty"
-    ],
-    "years_since_phd": "NA",
-    "duration": "3+2",
-    "award": "$75,000 max per year",
-    "mobility_rule": "No",
-    "research_costs": null,
-    "deadline": "January / April / October",
-    "deadline_month": "January, April, October",
-    "diversity": null,
-    "comments": "Research grants are available to established scientists of all ages working at accredited institutions in the United States. Applications will be judged on the scientific merit and the innovative aspects of the proposal as well as on the competence of the applicant. Among other things, the Foundation emphasizes the support of young scientists at the beginning of their careers.",
-    "benefits": null,
-    "frequency": "Triannual",
-    "fileds": null,
-    "featured": false,
-    "review_status": "approved",
-    "status": "active",
-    "last_verified": "2026-02-19",
-    "verified_by": "asntech",
-    "legacy_user_id": 1,
-    "created_at": null,
-    "updated_at": "2020-05-23T17:49:26Z",
-    "subjects": [
-      "life-sciences"
-    ],
-    "funding_purposes": [
-      "research"
-    ],
-    "search_text": "Research Grants The Whitehall Foundation, through its program of grants and grants-in-aid, assists scholarly research in the life sciences. It is the Foundation's policy to assist those dynamic areas of basic biological research that are not heavily supported by Federal Agencies or other foundations with specialized missions. Whitehall Foundation Junior Faculty Life Sciences Research United States United States",
-    "source": "legacy-import",
-    "funder_names": [
-      "Whitehall Foundation"
-    ],
-    "funder_logos": [
-      null
-    ],
-    "career_level_names": [
-      "Junior Faculty"
-    ],
-    "subject_names": [
-      "Life Sciences"
-    ],
-    "funding_purpose_names": [
-      "Research"
-    ]
-  },
-  {
     "id": "funding-asee-electrical-and-computer-engineering-division-frederick-emmons-terman-award",
     "legacy_id": 509,
     "slug": "asee-electrical-and-computer-engineering-division-frederick-emmons-terman-award",
@@ -17464,70 +17346,6 @@
     ]
   },
   {
-    "id": "funding-whitehall-foundation-research-grants-3",
-    "legacy_id": 591,
-    "slug": "whitehall-foundation-research-grants-3",
-    "name": "Research Grants",
-    "description": "Research grants are available to established scientists of all ages working at accredited institutions in the United States. Applications will be judged on the scientific merit and the innovative aspects of the proposal as well as on the competence of the applicant. Research grants of up to three years will be provided. A renewal grant with a maximum of two years is possible, but it will be awarded on a competitive basis. Research grants will not be awarded to investigators who have already received, or expect to receive, substantial support from other sources, even if it is for an unrelated purpose. Research grants normally range from $30,000 to $75,000 per year.",
-    "url": "http://www.whitehall.org/grants/",
-    "funders": [
-      "whitehall-foundation"
-    ],
-    "legacy_funder_name": "Whitehall Foundation",
-    "host_country": "United States",
-    "applicant_country": null,
-    "career_levels": [
-      "junior-faculty"
-    ],
-    "years_since_phd": "NA",
-    "duration": "5",
-    "award": "$75 000",
-    "mobility_rule": "No",
-    "research_costs": null,
-    "deadline": "January 15, April 15, and October 1 for letter of intent",
-    "deadline_month": "January, April, October",
-    "diversity": null,
-    "comments": "The Foundation is currently interested in basic research in neurobiology, defined as follows: Invertebrate and vertebrate (excluding clinical) neurobiology, specifically investigations of neural mechanisms involved in sensory, motor, and other complex functions of the whole organism as these relate to behavior. The overall goal should be to better understand behavioral output or brain mechanisms of behavior. Research grants are available to established scientists of all ages working at accredited institutions in the United States. Applications will be judged on the scientific merit and the innovative aspects of the proposal as well as on the competence of the applicant. Research grants of up to three years will be provided. A renewal grant with a maximum of two years is possible, but it will be awarded on a competitive basis. Research grants will not be awarded to investigators who have already received, or expect to receive, substantial support from other sources, even if it is for an unrelated purpose. Research grants normally range from $30,000 to $75,000 per year.",
-    "benefits": null,
-    "frequency": "Annual",
-    "fileds": null,
-    "featured": false,
-    "review_status": "approved",
-    "status": "active",
-    "last_verified": "2026-02-19",
-    "verified_by": "asntech",
-    "legacy_user_id": 1,
-    "created_at": null,
-    "updated_at": "2020-05-24T11:26:41Z",
-    "subjects": [
-      "life-sciences",
-      "neuroscience"
-    ],
-    "funding_purposes": [
-      "fellowship-scholarship-or-training",
-      "research"
-    ],
-    "search_text": "Research Grants Research grants are available to established scientists of all ages working at accredited institutions in the United States. Applications will be judged on the scientific merit and the innovative aspects of the proposal as well as on the competence of the applicant. Research grants of up to three years will be provided. A renewal grant with a maximum of two years is possible, but it will be awarded on a competitive basis. Research grants will not be awarded to investigators who have already received, or expect to receive, substantial support from other sources, even if it is for an unrelated purpose. Research grants normally range from $30,000 to $75,000 per year. Whitehall Foundation Junior Faculty Life Sciences Neuroscience Fellowship, scholarship or training Research United States",
-    "source": "legacy-import",
-    "funder_names": [
-      "Whitehall Foundation"
-    ],
-    "funder_logos": [
-      null
-    ],
-    "career_level_names": [
-      "Junior Faculty"
-    ],
-    "subject_names": [
-      "Life Sciences",
-      "Neuroscience"
-    ],
-    "funding_purpose_names": [
-      "Fellowship, scholarship or training",
-      "Research"
-    ]
-  },
-  {
     "id": "funding-mathematics-travel-grants-for-women-researchers",
     "legacy_id": 592,
     "slug": "mathematics-travel-grants-for-women-researchers",
@@ -18806,9 +18624,9 @@
     ]
   },
   {
-    "id": "funding-nlm-career-development-award-in-biomedical-informatics-and-data-science-k01-3",
+    "id": "funding-nlm-career-development-award-in-biomedical-informatics-and-data-science-k01",
     "legacy_id": 612,
-    "slug": "nlm-career-development-award-in-biomedical-informatics-and-data-science-k01-3",
+    "slug": "nlm-career-development-award-in-biomedical-informatics-and-data-science-k01",
     "name": "NLM Career Development Award in Biomedical Informatics and Data Science (K01)",
     "description": "The purpose of the NLM Career Development Award (K01) in Biomedical Informatics and Data Science is to provide support and \"protected time\" (up to three years) for an intensive career development experience in biomedical informatics and data science leading to research independence. NLM invites K01 applications from junior investigators, who have either a health professional or research doctorate and who are in the first three years of their initial faculty positions. Candidates who received their training at one of NLM's university-based biomedical informatics training programs are encouraged to apply.",
     "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-16-204.html",
@@ -23229,7 +23047,7 @@
     ],
     "subject_names": [
       "Neuroscience",
-      "Biochemistry, Biophysics, and Structural Biology",
+      "biochemistry-biophysics-and-structural-biology",
       "Bioinformatics",
       "Cell and Developmental Biology",
       "Genetics and Genomics",
@@ -28050,7 +27868,7 @@
       "Bachelor students"
     ],
     "subject_names": [
-      "Biochemistry, Biophysics, and Structural Biology"
+      "biochemistry-biophysics-and-structural-biology"
     ],
     "funding_purpose_names": [
       "Fellowship, scholarship or training"
@@ -28111,7 +27929,7 @@
       "PhD"
     ],
     "subject_names": [
-      "Biochemistry, Biophysics, and Structural Biology"
+      "biochemistry-biophysics-and-structural-biology"
     ],
     "funding_purpose_names": [
       "Fellowship, scholarship or training",
@@ -36409,90 +36227,6 @@
     "funding_purpose_names": []
   },
   {
-    "id": "funding-icomst-2023-the-international-congress-of-meat-science-and-technology-pre-congress-phd-course",
-    "legacy_id": 810,
-    "slug": "icomst-2023-the-international-congress-of-meat-science-and-technology-pre-congress-phd-course",
-    "name": "ICOMST 2023 – the International Congress of Meat Science and Technology PRE-CONGRESS PhD COURSE",
-    "description": "<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\">ICOMST 2023 &ndash; the International Congress of Meat Science and Technology,&nbsp;<a style=\"color: #1155cc;\" href=\"https://www.icomst2023.com/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.icomst2023.com&amp;source=gmail&amp;ust=1678872558984000&amp;usg=AOvVaw3O22bgAARqBPaR3pb6xe2y\">https://www.icomst2023.com</a>, that will be held in Padova, Italy, on August 20 to 25.<u></u><u></u></span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\">The scope of ICoMST is to enhance the co-operation and exchange of scientific information between academic and industry-based researchers in the field of meat science and technology; the first Congress was organised in 1955 under name &lsquo;European Meeting of Meat Research Workers&rsquo;. The name was changed to International Congress of Meat Science and Technology in 1987.&nbsp;<u></u><u></u></span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\">The Congress has therefore a long tradition, and an established reputation: more information are available on the institutional website&nbsp;<a style=\"color: #1155cc;\" href=\"https://icomst.ie/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://icomst.ie/&amp;source=gmail&amp;ust=1678872558984000&amp;usg=AOvVaw3msltFWob1Y8xRy538nrTc\">https://icomst.ie/</a>.&nbsp;<u></u><u></u></span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\"><u></u>&nbsp;<u></u></span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\">One important part of the Congress is the &ldquo;PRE-CONGRESS PhD COURSE&rdquo;, scheduled immediately prior to the start of the Congress (18 and 19 August). This Course, which belongs to the tradition of ICOMST Congresses, is intended to provide young Researchers with the opportunity of meeting and learning from international experts in the field, during an intense 2-days Course.<u></u><u></u></span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\">The program is being developed and we can provide with further information in the nearest future; there is no registration fee, but a selection will be done among those who will apply for the Course.</span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\">&nbsp;</p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\">Please note that the Course registration will be funded and free of any expense.</span></p>",
-    "url": "https://www.icomst2023.com﻿",
-    "funders": [],
-    "legacy_funder_name": "ICOMST 2023",
-    "host_country": null,
-    "applicant_country": null,
-    "career_levels": [],
-    "years_since_phd": null,
-    "duration": null,
-    "award": null,
-    "mobility_rule": null,
-    "research_costs": null,
-    "deadline": null,
-    "deadline_month": null,
-    "diversity": null,
-    "comments": null,
-    "benefits": null,
-    "frequency": null,
-    "fileds": null,
-    "featured": false,
-    "review_status": "approved",
-    "status": "active",
-    "last_verified": "2026-02-19",
-    "verified_by": "asntech",
-    "legacy_user_id": 1,
-    "created_at": "2023-03-15T10:42:46Z",
-    "updated_at": "2023-03-15T10:42:46Z",
-    "subjects": [],
-    "funding_purposes": [],
-    "search_text": "ICOMST 2023 – the International Congress of Meat Science and Technology PRE-CONGRESS PhD COURSE <p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\">ICOMST 2023 &ndash; the International Congress of Meat Science and Technology,&nbsp;<a style=\"color: #1155cc;\" href=\"https://www.icomst2023.com/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.icomst2023.com&amp;source=gmail&amp;ust=1678872558984000&amp;usg=AOvVaw3O22bgAARqBPaR3pb6xe2y\">https://www.icomst2023.com</a>, that will be held in Padova, Italy, on August 20 to 25.<u></u><u></u></span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\">The scope of ICoMST is to enhance the co-operation and exchange of scientific information between academic and industry-based researchers in the field of meat science and technology; the first Congress was organised in 1955 under name &lsquo;European Meeting of Meat Research Workers&rsquo;. The name was changed to International Congress of Meat Science and Technology in 1987.&nbsp;<u></u><u></u></span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\">The Congress has therefore a long tradition, and an established reputation: more information are available on the institutional website&nbsp;<a style=\"color: #1155cc;\" href=\"https://icomst.ie/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://icomst.ie/&amp;source=gmail&amp;ust=1678872558984000&amp;usg=AOvVaw3msltFWob1Y8xRy538nrTc\">https://icomst.ie/</a>.&nbsp;<u></u><u></u></span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\"><u></u>&nbsp;<u></u></span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\">One important part of the Congress is the &ldquo;PRE-CONGRESS PhD COURSE&rdquo;, scheduled immediately prior to the start of the Congress (18 and 19 August). This Course, which belongs to the tradition of ICOMST Congresses, is intended to provide young Researchers with the opportunity of meeting and learning from international experts in the field, during an intense 2-days Course.<u></u><u></u></span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\">The program is being developed and we can provide with further information in the nearest future; there is no registration fee, but a selection will be done among those who will apply for the Course.</span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\">&nbsp;</p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\">Please note that the Course registration will be funded and free of any expense.</span></p>",
-    "source": "legacy-import",
-    "funder_names": [],
-    "funder_logos": [],
-    "career_level_names": [],
-    "subject_names": [],
-    "funding_purpose_names": []
-  },
-  {
-    "id": "funding-icomst-2023-the-international-congress-of-meat-science-and-technology-pre-congress-phd-course-2",
-    "legacy_id": 811,
-    "slug": "icomst-2023-the-international-congress-of-meat-science-and-technology-pre-congress-phd-course-2",
-    "name": "ICOMST 2023 – the International Congress of Meat Science and Technology PRE-CONGRESS PhD COURSE",
-    "description": "<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\">ICOMST 2023 &ndash; the International Congress of Meat Science and Technology,&nbsp;<a style=\"color: #1155cc;\" href=\"https://www.icomst2023.com/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.icomst2023.com&amp;source=gmail&amp;ust=1678872558984000&amp;usg=AOvVaw3O22bgAARqBPaR3pb6xe2y\">https://www.icomst2023.com</a>, that will be held in Padova, Italy, on August 20 to 25.<u></u><u></u></span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\">The scope of ICoMST is to enhance the co-operation and exchange of scientific information between academic and industry-based researchers in the field of meat science and technology; the first Congress was organised in 1955 under name &lsquo;European Meeting of Meat Research Workers&rsquo;. The name was changed to International Congress of Meat Science and Technology in 1987.&nbsp;<u></u><u></u></span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\">The Congress has therefore a long tradition, and an established reputation: more information are available on the institutional website&nbsp;<a style=\"color: #1155cc;\" href=\"https://icomst.ie/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://icomst.ie/&amp;source=gmail&amp;ust=1678872558984000&amp;usg=AOvVaw3msltFWob1Y8xRy538nrTc\">https://icomst.ie/</a>.&nbsp;<u></u><u></u></span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\"><u></u>&nbsp;<u></u></span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\">One important part of the Congress is the &ldquo;PRE-CONGRESS PhD COURSE&rdquo;, scheduled immediately prior to the start of the Congress (18 and 19 August). This Course, which belongs to the tradition of ICOMST Congresses, is intended to provide young Researchers with the opportunity of meeting and learning from international experts in the field, during an intense 2-days Course.<u></u><u></u></span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\">The program is being developed and we can provide with further information in the nearest future; there is no registration fee, but a selection will be done among those who will apply for the Course.</span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\">&nbsp;</p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\">Please note that the Course registration will be funded and free of any expense.</span></p>",
-    "url": "https://www.icomst2023.com﻿",
-    "funders": [],
-    "legacy_funder_name": "ICOMST 2023",
-    "host_country": null,
-    "applicant_country": null,
-    "career_levels": [],
-    "years_since_phd": null,
-    "duration": null,
-    "award": null,
-    "mobility_rule": null,
-    "research_costs": null,
-    "deadline": null,
-    "deadline_month": null,
-    "diversity": null,
-    "comments": null,
-    "benefits": null,
-    "frequency": null,
-    "fileds": null,
-    "featured": false,
-    "review_status": "approved",
-    "status": "active",
-    "last_verified": "2026-02-19",
-    "verified_by": "asntech",
-    "legacy_user_id": 1,
-    "created_at": "2023-03-15T10:42:47Z",
-    "updated_at": "2023-03-15T10:42:47Z",
-    "subjects": [],
-    "funding_purposes": [],
-    "search_text": "ICOMST 2023 – the International Congress of Meat Science and Technology PRE-CONGRESS PhD COURSE <p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\">ICOMST 2023 &ndash; the International Congress of Meat Science and Technology,&nbsp;<a style=\"color: #1155cc;\" href=\"https://www.icomst2023.com/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.icomst2023.com&amp;source=gmail&amp;ust=1678872558984000&amp;usg=AOvVaw3O22bgAARqBPaR3pb6xe2y\">https://www.icomst2023.com</a>, that will be held in Padova, Italy, on August 20 to 25.<u></u><u></u></span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\">The scope of ICoMST is to enhance the co-operation and exchange of scientific information between academic and industry-based researchers in the field of meat science and technology; the first Congress was organised in 1955 under name &lsquo;European Meeting of Meat Research Workers&rsquo;. The name was changed to International Congress of Meat Science and Technology in 1987.&nbsp;<u></u><u></u></span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\">The Congress has therefore a long tradition, and an established reputation: more information are available on the institutional website&nbsp;<a style=\"color: #1155cc;\" href=\"https://icomst.ie/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://icomst.ie/&amp;source=gmail&amp;ust=1678872558984000&amp;usg=AOvVaw3msltFWob1Y8xRy538nrTc\">https://icomst.ie/</a>.&nbsp;<u></u><u></u></span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\"><u></u>&nbsp;<u></u></span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\">One important part of the Congress is the &ldquo;PRE-CONGRESS PhD COURSE&rdquo;, scheduled immediately prior to the start of the Congress (18 and 19 August). This Course, which belongs to the tradition of ICOMST Congresses, is intended to provide young Researchers with the opportunity of meeting and learning from international experts in the field, during an intense 2-days Course.<u></u><u></u></span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\">The program is being developed and we can provide with further information in the nearest future; there is no registration fee, but a selection will be done among those who will apply for the Course.</span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\">&nbsp;</p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span lang=\"EN-GB\" style=\"font-size: 12pt; font-family: 'Trebuchet MS', sans-serif;\">Please note that the Course registration will be funded and free of any expense.</span></p>",
-    "source": "legacy-import",
-    "funder_names": [],
-    "funder_logos": [],
-    "career_level_names": [],
-    "subject_names": [],
-    "funding_purpose_names": []
-  },
-  {
     "id": "funding-ist-bridge-international-postdoctoral-program",
     "legacy_id": 108,
     "slug": "ist-bridge-international-postdoctoral-program",
@@ -37237,8 +36971,8 @@
     "url": "https://www.gingko.org.uk/grants/",
     "funders": [],
     "legacy_funder_name": "GINGKO",
-    "host_country": "MENA region",
-    "applicant_country": "MENA region",
+    "host_country": "MENA",
+    "applicant_country": "MENA",
     "career_levels": [
       "phd",
       "postdoc",
@@ -37404,7 +37138,7 @@
       "the-world-academy-of-sciences"
     ],
     "host_country": "Germany",
-    "applicant_country": "Middle East and North Africa (MENA)",
+    "applicant_country": "MENA",
     "career_levels": [
       "postdoc"
     ],
@@ -38279,54 +38013,6 @@
     "subjects": [],
     "funding_purposes": [],
     "search_text": "Midcareer Investigator Award in Patient-Oriented Research (Parent K24) National Institutes of Health (NIH) United States",
-    "source": "legacy-import",
-    "funder_names": [
-      "National Institutes of Health (NIH)"
-    ],
-    "funder_logos": [
-      "/logos/funders/national-institutes-of-health-nih.png"
-    ],
-    "career_level_names": [],
-    "subject_names": [],
-    "funding_purpose_names": []
-  },
-  {
-    "id": "funding-nlm-career-development-award-in-biomedical-informatics-and-data-science-k01",
-    "legacy_id": 310,
-    "slug": "nlm-career-development-award-in-biomedical-informatics-and-data-science-k01",
-    "name": "NLM Career Development Award in Biomedical Informatics and Data Science (K01)",
-    "description": null,
-    "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-16-204.html",
-    "funders": [
-      "national-institutes-of-health-nih"
-    ],
-    "legacy_funder_name": "National Institutes of Health",
-    "host_country": "United States",
-    "applicant_country": null,
-    "career_levels": [],
-    "years_since_phd": "Junior investigators, who have either a health professional or research doctorate and who are in the first two years of their initial position, at an assistant professor level (or equivalent)",
-    "duration": null,
-    "award": "$450 000",
-    "mobility_rule": null,
-    "research_costs": null,
-    "deadline": "February 12, June 12, October 12",
-    "deadline_month": "February, June, October",
-    "diversity": null,
-    "comments": "The objective of the NIH Mentored Research Scientist Development Award (K01) is to provide salary and research support for a sustained period of “protected time” (3 years) for intensive research career development under the guidance of an experienced mentor, or sponsor, in the biomedical, behavioral or clinical sciences that leads to research independence. The National Library of Medicine (NLM) Career Development Award in Biomedical Informatics (K01) is intended to provide support for promising junior investigators as they launch their research careers in biomedical informatics research. NLM supports research career development in clinical/public health informatics, bioinformatics, translational informatics and consumer health informatics. We define informatics as the intersection of computer, information and behavioral sciences with one or more application domains. Application domains of interest include health care delivery, basic biomedical research, clinical and translational research, public health and others. NIH will contribute up to $85,000 plus fringe benefits  per year toward the salary of the career award recipient and $50,000  per year toward the research development costs of the award recipient. $405,000 max over three years.",
-    "benefits": null,
-    "frequency": null,
-    "fileds": null,
-    "featured": false,
-    "review_status": "approved",
-    "status": "draft",
-    "last_verified": "2026-02-19",
-    "verified_by": "asntech",
-    "legacy_user_id": 1,
-    "created_at": null,
-    "updated_at": "2020-05-23T06:25:42Z",
-    "subjects": [],
-    "funding_purposes": [],
-    "search_text": "NLM Career Development Award in Biomedical Informatics and Data Science (K01) National Institutes of Health (NIH) United States",
     "source": "legacy-import",
     "funder_names": [
       "National Institutes of Health (NIH)"
@@ -41135,14 +40821,16 @@
     "legacy_id": 745,
     "slug": "bridging-excellence-postdoctoral-fellowships",
     "name": "Bridging Excellence Postdoctoral Fellowships",
-    "description": "Make your mark as a transatlantic scientist!\r\n\r\nThe EMBL | Stanford Life Science Alliance invites researchers to submit an application to the Bridging Excellence Postdoctoral Program. With a network of over 50 labs from across EMBL and Stanford University, we believe in working together to leverage the know-how, technologies and opportunities at both leading institutions to accelerate biological research. \r\n\r\nOur Bridging Excellence Fellowships support ambitious and creative joint projects, defined by postdoctoral applicants. The fellowships provide funding for a 3-year EMBL stipend, lab consumables, a generous travel and accommodation supplement for visit(s) to Stanford, and funds for presenting at an international conference.\r\n\r\nYour role\r\nWe invite all eligible researchers to submit a proposal describing a collaboration between at least one lab at EMBL and one faculty member from the Stanford University School of Medicine or the Stanford University School of Humanities and Sciences. This collaboration should build on the strengths of the partner laboratories, as well as the researchers own expertise. Fellowships will be awarded to researchers, who take up a position as a postdoctoral fellow at EMBL for 3 years. During this time, fellows will spend up to one year visiting their collaborators in Stanford to work on the joint research project (multiple visits totalling 1 year are permitted). In addition to benefitting from the mentorship from two expert supervisors, fellows will also be able to take advantage of  postdoctoral training opportunities from both institutions.\r\n\r\nFunding\r\nSuccessful postdoctoral researchers will be awarded three-year fellowships from the EMBL | Stanford Life Science Alliance. Postdocs will be employed at EMBL for the duration of their fellowship and spend up to one year visiting their collaborators at Stanford University. The visits to Stanford can be distributed throughout the duration of the fellowship (i.e. multiple visits totaling up to 1 year are possible). \r\n\r\nThe fellowship includes funding for:\r\n• A standard 3 year EMBL stipend\r\n  (including family allowances and social security benefits: more information here).\r\n• A contribution towards lab consumables.\r\n• A travel and accommodation supplement for visit(s) to Stanford.\r\n• Funds for attending an international conference.\r\n\r\n Eligibility\r\nWe invite applications in all fields, from any eligible researcher regardless of nationality, gender, or scientific background.  Postdocs who have held their PhD degree no more than 2 years before the application are eligible for a fellowship. Students who are currently pursuing their PhD are able to apply, provided you have been awarded your PhD before taking up the fellowship. \r\nPlease read the applicant guideline provided on our website for full eligibility criteria.",
+    "description": "The Bridging Excellence Postdoc Program supports postdoctoral fellows who conduct joint research between the EMBL and the Stanford University School of Medicine (SoM) and/or the School of Humanities & Sciences (H&S). You will propose a high-impact, creative collaboration between at least one lab from EMBL and one lab from Stanford SoM or H&S. By leveraging the opportunities at two leading institutions, you can gain valuable experience in two distinct research environments and develop a global profile. As well as access to researchers and technology at both sites, fellows can take advantage of the first-rate postdoctoral training opportunities from both institutions.",
     "url": "https://med.stanford.edu/lifesciencealliance/activities/befellowships.html",
-    "funders": [],
-    "legacy_funder_name": "EMBL | Stanford Life Science Alliance",
+    "funders": [
+      "stanford-university",
+      "european-molecular-biology-laboratory-embl"
+    ],
+    "legacy_funder_name": "EMBL, Stanford Life Science Alliance",
     "host_country": "Germany",
     "applicant_country": null,
     "career_levels": [
-      "phd",
       "postdoc"
     ],
     "years_since_phd": "0-2",
@@ -41165,17 +40853,32 @@
     "legacy_user_id": 1,
     "created_at": "2021-03-15T15:05:13Z",
     "updated_at": "2021-10-08T09:51:27Z",
-    "subjects": [],
+    "subjects": [
+      "life-sciences",
+      "computational-biology",
+      "physics",
+      "chemistry"
+    ],
     "funding_purposes": [],
     "search_text": "Bridging Excellence Postdoctoral Fellowships Make your mark as a transatlantic scientist!\r\n\r\nThe EMBL | Stanford Life Science Alliance invites researchers to submit an application to the Bridging Excellence Postdoctoral Program. With a network of over 50 labs from across EMBL and Stanford University, we believe in working together to leverage the know-how, technologies and opportunities at both leading institutions to accelerate biological research. \r\n\r\nOur Bridging Excellence Fellowships support ambitious and creative joint projects, defined by postdoctoral applicants. The fellowships provide funding for a 3-year EMBL stipend, lab consumables, a generous travel and accommodation supplement for visit(s) to Stanford, and funds for presenting at an international conference.\r\n\r\nYour role\r\nWe invite all eligible researchers to submit a proposal describing a collaboration between at least one lab at EMBL and one faculty member from the Stanford University School of Medicine or the Stanford University School of Humanities and Sciences. This collaboration should build on the strengths of the partner laboratories, as well as the researchers own expertise. Fellowships will be awarded to researchers, who take up a position as a postdoctoral fellow at EMBL for 3 years. During this time, fellows will spend up to one year visiting their collaborators in Stanford to work on the joint research project (multiple visits totalling 1 year are permitted). In addition to benefitting from the mentorship from two expert supervisors, fellows will also be able to take advantage of  postdoctoral training opportunities from both institutions.\r\n\r\nFunding\r\nSuccessful postdoctoral researchers will be awarded three-year fellowships from the EMBL | Stanford Life Science Alliance. Postdocs will be employed at EMBL for the duration of their fellowship and spend up to one year visiting their collaborators at Stanford University. The visits to Stanford can be distributed throughout the duration of the fellowship (i.e. multiple visits totaling up to 1 year are possible). \r\n\r\nThe fellowship includes funding for:\r\n• A standard 3 year EMBL stipend\r\n  (including family allowances and social security benefits: more information here).\r\n• A contribution towards lab consumables.\r\n• A travel and accommodation supplement for visit(s) to Stanford.\r\n• Funds for attending an international conference.\r\n\r\n Eligibility\r\nWe invite applications in all fields, from any eligible researcher regardless of nationality, gender, or scientific background.  Postdocs who have held their PhD degree no more than 2 years before the application are eligible for a fellowship. Students who are currently pursuing their PhD are able to apply, provided you have been awarded your PhD before taking up the fellowship. \r\nPlease read the applicant guideline provided on our website for full eligibility criteria. PhD Postdoc Germany",
     "source": "legacy-import",
-    "funder_names": [],
-    "funder_logos": [],
+    "funder_names": [
+      "Stanford University",
+      "European Molecular Biology Laboratory"
+    ],
+    "funder_logos": [
+      null,
+      "/logos/funders/european-molecular-biology-laboratory-embl.png"
+    ],
     "career_level_names": [
-      "PhD",
       "Postdoc"
     ],
-    "subject_names": [],
+    "subject_names": [
+      "Life Sciences",
+      "Computational Biology",
+      "Physics",
+      "Chemistry"
+    ],
     "funding_purpose_names": []
   },
   {

@@ -3,8 +3,8 @@ legacy_id: 90
 slug: plos-early-career-travel-award
 name: PLOS Early Career Travel Award
 url: https://www.plos.org/ecr-travel-awards
-description: <p>Applicants must be listed as an author on a PLOS journal article with
-  a publication date on or before the date the application is submitted.</p>
+description: Applicants must be listed as an author on a PLOS journal article with
+  a publication date on or before the date the application is submitted.
 funders: []
 legacy_funder_name: PLoS
 applicant_country: Worldwide
@@ -26,7 +26,7 @@ last_verified: '2026-02-19'
 verified_by: asntech
 created_at: null
 updated_at: null
-search_text: PLOS Early Career Travel Award <p>Applicants must be listed as an author
+search_text: PLOS Early Career Travel Award Applicants must be listed as an author
   on a PLOS journal article with a publication date on or before the date the application
-  is submitted.</p> Conference Worldwide
+  is submitted. Conference Worldwide
 source: legacy-import

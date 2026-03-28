@@ -4,7 +4,7 @@
       {
         "value": "national-institutes-of-health-nih",
         "label": "National Institutes of Health (NIH)",
-        "count": 63
+        "count": 61
       },
       {
         "value": "the-world-academy-of-sciences",
@@ -47,6 +47,11 @@
         "count": 5
       },
       {
+        "value": "european-molecular-biology-laboratory-embl",
+        "label": "European Molecular Biology Laboratory",
+        "count": 4
+      },
+      {
         "value": "h2020-marie-skodowska-curie-actions",
         "label": "H2020 Marie Skłodowska-Curie Actions",
         "count": 4
@@ -67,11 +72,6 @@
         "count": 4
       },
       {
-        "value": "whitehall-foundation",
-        "label": "Whitehall Foundation",
-        "count": 4
-      },
-      {
         "value": "american-society-of-nephrology",
         "label": "American Society of Nephrology",
         "count": 4
@@ -80,11 +80,6 @@
         "value": "deutscher-akademischer-austauschdienst",
         "label": "Deutscher Akademischer Austauschdienst",
         "count": 4
-      },
-      {
-        "value": "european-molecular-biology-laboratory-embl",
-        "label": "European Molecular Biology Laboratory",
-        "count": 3
       },
       {
         "value": "european-molecular-biology-organization-embo",
@@ -194,6 +189,11 @@
       {
         "value": "human-frontier-science-program-hfsp",
         "label": "Human Frontier Science Program (HFSP)",
+        "count": 2
+      },
+      {
+        "value": "foundation-fighting-blindness",
+        "label": "Foundation Fighting Blindness",
         "count": 2
       },
       {
@@ -322,6 +322,11 @@
         "count": 2
       },
       {
+        "value": "whitehall-foundation",
+        "label": "Whitehall Foundation",
+        "count": 2
+      },
+      {
         "value": "brain-research-foundation",
         "label": "Brain Research Foundation",
         "count": 2
@@ -434,11 +439,6 @@
       {
         "value": "academia-sinica",
         "label": "Academia Sinica",
-        "count": 1
-      },
-      {
-        "value": "stanford-university",
-        "label": "Stanford University",
         "count": 1
       },
       {
@@ -1497,6 +1497,11 @@
         "count": 1
       },
       {
+        "value": "stanford-university",
+        "label": "Stanford University",
+        "count": 1
+      },
+      {
         "value": "fondazione-umberto-veronesi",
         "label": "Fondazione Umberto Veronesi",
         "count": 1
@@ -1586,6 +1591,11 @@
       {
         "value": "Australia, India",
         "label": "Australia, India",
+        "count": 2
+      },
+      {
+        "value": "MENA",
+        "label": "Mena",
         "count": 2
       },
       {
@@ -1704,18 +1714,8 @@
         "count": 1
       },
       {
-        "value": "MENA region",
-        "label": "Mena Region",
-        "count": 1
-      },
-      {
         "value": "Developing countries (excluding Pakistan)",
         "label": "Developing Countries (Excluding Pakistan)",
-        "count": 1
-      },
-      {
-        "value": "Middle East and North Africa (MENA)",
-        "label": "Middle East And North Africa (Mena)",
         "count": 1
       },
       {
@@ -1748,7 +1748,7 @@
       {
         "value": "United States",
         "label": "United States",
-        "count": 449
+        "count": 445
       },
       {
         "value": "United Kingdom",
@@ -1758,7 +1758,7 @@
       {
         "value": "Worldwide",
         "label": "Worldwide",
-        "count": 44
+        "count": 45
       },
       {
         "value": "Germany",
@@ -1921,11 +1921,6 @@
         "count": 1
       },
       {
-        "value": "United States, Europe",
-        "label": "United States, Europe",
-        "count": 1
-      },
-      {
         "value": "Denmark",
         "label": "Denmark",
         "count": 1
@@ -2021,8 +2016,8 @@
         "count": 1
       },
       {
-        "value": "MENA region",
-        "label": "Mena Region",
+        "value": "MENA",
+        "label": "Mena",
         "count": 1
       },
       {
@@ -2055,17 +2050,17 @@
       {
         "value": "phd",
         "label": "PhD",
-        "count": 304
+        "count": 301
       },
       {
         "value": "postdoc",
         "label": "Postdoc",
-        "count": 112
+        "count": 113
       },
       {
         "value": "junior-faculty",
         "label": "Junior Faculty",
-        "count": 108
+        "count": 107
       },
       {
         "value": "md",
@@ -2092,12 +2087,12 @@
       {
         "value": "medicine-and-health-sciences",
         "label": "Medicine and Health Sciences",
-        "count": 188
+        "count": 187
       },
       {
         "value": "life-sciences",
         "label": "Life Sciences",
-        "count": 150
+        "count": 147
       },
       {
         "value": "all-subjects",
@@ -2135,29 +2130,29 @@
         "count": 15
       },
       {
+        "value": "chemistry",
+        "label": "Chemistry",
+        "count": 12
+      },
+      {
         "value": "ecology-and-evolutionary-biology",
         "label": "Ecology and Evolutionary Biology",
         "count": 11
       },
       {
-        "value": "chemistry",
-        "label": "Chemistry",
-        "count": 11
-      },
-      {
         "value": "physics",
         "label": "Physics",
+        "count": 9
+      },
+      {
+        "value": "neuroscience",
+        "label": "Neuroscience",
         "count": 8
       },
       {
         "value": "earth-sciences",
         "label": "Earth Sciences",
         "count": 8
-      },
-      {
-        "value": "neuroscience",
-        "label": "Neuroscience",
-        "count": 7
       },
       {
         "value": "environmental-sciences",
@@ -2225,6 +2220,11 @@
         "count": 3
       },
       {
+        "value": "medical-sciences",
+        "label": "Medical Sciences",
+        "count": 3
+      },
+      {
         "value": "business",
         "label": "Business",
         "count": 3
@@ -2242,6 +2242,11 @@
       {
         "value": "biochemistry-biophysics-and-structural-biology",
         "label": "Biochemistry, Biophysics, and Structural Biology",
+        "count": 3
+      },
+      {
+        "value": "computational-biology",
+        "label": "Computational Biology",
         "count": 3
       },
       {
@@ -2320,11 +2325,6 @@
         "count": 2
       },
       {
-        "value": "computational-biology",
-        "label": "Computational Biology",
-        "count": 2
-      },
-      {
         "value": "zoology",
         "label": "Zoology",
         "count": 2
@@ -2397,11 +2397,6 @@
       {
         "value": "chemicals-and-drugs",
         "label": "Chemicals and Drugs",
-        "count": 1
-      },
-      {
-        "value": "medical-sciences",
-        "label": "Medical Sciences",
         "count": 1
       },
       {
@@ -2579,7 +2574,7 @@
       {
         "value": "research",
         "label": "Research",
-        "count": 224
+        "count": 223
       },
       {
         "value": "fellowship-scholarship-or-training",
@@ -2631,7 +2626,7 @@
       {
         "value": "February, June, October",
         "label": "February, June, October",
-        "count": 47
+        "count": 45
       },
       {
         "value": "October",
@@ -2651,7 +2646,7 @@
       {
         "value": "March",
         "label": "March",
-        "count": 40
+        "count": 39
       },
       {
         "value": "November",
@@ -2691,16 +2686,11 @@
       {
         "value": "February, August",
         "label": "February, August",
-        "count": 5
+        "count": 4
       },
       {
         "value": "April, October",
         "label": "April, October",
-        "count": 4
-      },
-      {
-        "value": "January, April, October",
-        "label": "January, April, October",
         "count": 4
       },
       {
@@ -2746,6 +2736,11 @@
       {
         "value": "April, July",
         "label": "April, July",
+        "count": 2
+      },
+      {
+        "value": "January, April, October",
+        "label": "January, April, October",
         "count": 2
       },
       {
@@ -2918,7 +2913,7 @@
       {
         "value": "Annual",
         "label": "Annual",
-        "count": 252
+        "count": 253
       },
       {
         "value": "Rolling",
@@ -2933,7 +2928,7 @@
       {
         "value": "Triannual",
         "label": "Triannual",
-        "count": 8
+        "count": 7
       },
       {
         "value": "Biennial",
@@ -2950,12 +2945,12 @@
       {
         "value": "active",
         "label": "Active",
-        "count": 684
+        "count": 679
       },
       {
         "value": "draft",
         "label": "Draft",
-        "count": 71
+        "count": 70
       },
       {
         "value": "expired",
@@ -2972,7 +2967,7 @@
       {
         "value": "false",
         "label": "Not Featured",
-        "count": 760
+        "count": 754
       }
     ],
     "diversity": [
@@ -2984,7 +2979,7 @@
       {
         "value": "no",
         "label": "No Diversity Info",
-        "count": 740
+        "count": 734
       }
     ]
   },
@@ -3303,11 +3298,6 @@
         "count": 1
       },
       {
-        "value": "(co)-author of PLOS publication",
-        "label": "(Co) Author Of Plos Publication",
-        "count": 1
-      },
-      {
         "value": "Anyone, but for congress organization the organising committee should include professors from at least two universities from the Wallonia-Brussels Federation",
         "label": "Anyone, But For Congress Organization The Organising Committee Should Include Professors From At Least Two Universities From The Wallonia Brussels Federation",
         "count": 1
@@ -3461,7 +3451,7 @@
       {
         "value": "conference",
         "label": "Conference",
-        "count": 87
+        "count": 86
       },
       {
         "value": "collaboration",
@@ -3498,7 +3488,7 @@
       {
         "value": "no",
         "label": "No Membership",
-        "count": 14
+        "count": 13
       }
     ],
     "deadline_month": [
@@ -3622,7 +3612,7 @@
       {
         "value": "active",
         "label": "Active",
-        "count": 121
+        "count": 120
       },
       {
         "value": "draft",
@@ -3641,12 +3631,12 @@
       {
         "value": "career-development",
         "label": "Career development",
-        "count": 46
+        "count": 45
       },
       {
         "value": "science-communication",
         "label": "Science Communication",
-        "count": 42
+        "count": 41
       },
       {
         "value": "covid19-resources-guidebooks",
@@ -3659,14 +3649,14 @@
         "count": 22
       },
       {
-        "value": "academic-writing",
-        "label": "Academic writing",
-        "count": 17
-      },
-      {
         "value": "publishing",
         "label": "Publishing",
         "count": 17
+      },
+      {
+        "value": "academic-writing",
+        "label": "Academic writing",
+        "count": 16
       },
       {
         "value": "public-involvement-in-research",
@@ -3744,14 +3734,14 @@
       {
         "value": "false",
         "label": "Not Featured",
-        "count": 158
+        "count": 157
       }
     ],
     "status": [
       {
         "value": "active",
         "label": "Active",
-        "count": 163
+        "count": 162
       }
     ]
   },
@@ -3765,7 +3755,7 @@
       {
         "value": "United Kingdom",
         "label": "United Kingdom",
-        "count": 66
+        "count": 65
       },
       {
         "value": "Germany",
@@ -3780,7 +3770,7 @@
       {
         "value": "Canada",
         "label": "Canada",
-        "count": 16
+        "count": 15
       },
       {
         "value": "France",
@@ -3823,11 +3813,6 @@
         "count": 5
       },
       {
-        "value": "Singapore",
-        "label": "Singapore",
-        "count": 5
-      },
-      {
         "value": "Belgium",
         "label": "Belgium",
         "count": 5
@@ -3835,6 +3820,11 @@
       {
         "value": "New Zealand",
         "label": "New Zealand",
+        "count": 4
+      },
+      {
+        "value": "Singapore",
+        "label": "Singapore",
         "count": 4
       },
       {
@@ -3997,14 +3987,14 @@
       {
         "value": "false",
         "label": "Not Featured",
-        "count": 548
+        "count": 545
       }
     ],
     "status": [
       {
         "value": "active",
         "label": "Active",
-        "count": 559
+        "count": 556
       }
     ],
     "dora": [

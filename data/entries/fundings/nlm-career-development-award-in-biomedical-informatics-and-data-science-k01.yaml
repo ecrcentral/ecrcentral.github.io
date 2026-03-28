@@ -1,22 +1,28 @@
 id: funding-nlm-career-development-award-in-biomedical-informatics-and-data-science-k01
-legacy_id: 310
+legacy_id: 612
 slug: nlm-career-development-award-in-biomedical-informatics-and-data-science-k01
 name: NLM Career Development Award in Biomedical Informatics and Data Science (K01)
-description: null
+description: The purpose of the NLM Career Development Award (K01) in Biomedical Informatics
+  and Data Science is to provide support and "protected time" (up to three years)
+  for an intensive career development experience in biomedical informatics and data
+  science leading to research independence. NLM invites K01 applications from junior
+  investigators, who have either a health professional or research doctorate and who
+  are in the first three years of their initial faculty positions. Candidates who
+  received their training at one of NLM's university-based biomedical informatics
+  training programs are encouraged to apply.
 url: https://grants.nih.gov/grants/guide/pa-files/PAR-16-204.html
 funders:
 - national-institutes-of-health-nih
 legacy_funder_name: National Institutes of Health
 host_country: United States
-applicant_country: null
-career_levels: []
-years_since_phd: Junior investigators, who have either a health professional or research
-  doctorate and who are in the first two years of their initial position, at an assistant
-  professor level (or equivalent)
-duration: null
-award: $450 000
+applicant_country: United States
+career_levels:
+- junior-faculty
+years_since_phd: null
+duration: '3'
+award: $300000
 mobility_rule: null
-research_costs: null
+research_costs: '150000'
 deadline: February 12, June 12, October 12
 deadline_month: February, June, October
 diversity: null
@@ -35,19 +41,37 @@ comments: The objective of the NIH Mentored Research Scientist Development Award
   health and others. NIH will contribute up to $85,000 plus fringe benefits  per year
   toward the salary of the career award recipient and $50,000  per year toward the
   research development costs of the award recipient. $405,000 max over three years.
-benefits: null
+benefits: "NLM will contribute up to $ 100,000 plus fringe benefits  per year toward\
+  \ the salary of the career award recipient. Further guidance on budgeting for career\
+  \ development salaries is provided in the SF424 (R&R) Application Guide.\r\n\r\n\
+  The total salary, however, may not exceed the legislatively mandated salary cap.\
+  \  See: https://grants.nih.gov/grants/policy/salcap_summary.htm.\r\n\r\nOther Program-Related\
+  \ Expenses\r\nNLM will contribute $50,000  per year toward the research development\
+  \ costs of the award recipient, which must be justified and consistent with the\
+  \ stage of development of the candidate and the proportion of time to be spent in\
+  \ research or career development activities."
 frequency: null
 fileds: null
 featured: false
 review_status: approved
-status: draft
+status: active
 last_verified: '2026-02-19'
 verified_by: asntech
 legacy_user_id: 1
 created_at: null
-updated_at: '2020-05-23T06:25:42Z'
-subjects: []
-funding_purposes: []
+updated_at: '2020-05-24T13:17:19Z'
+subjects:
+- life-sciences
+funding_purposes:
+- research
 search_text: NLM Career Development Award in Biomedical Informatics and Data Science
-  (K01) National Institutes of Health (NIH) United States
+  (K01) The purpose of the NLM Career Development Award (K01) in Biomedical Informatics
+  and Data Science is to provide support and "protected time" (up to three years)
+  for an intensive career development experience in biomedical informatics and data
+  science leading to research independence. NLM invites K01 applications from junior
+  investigators, who have either a health professional or research doctorate and who
+  are in the first three years of their initial faculty positions. Candidates who
+  received their training at one of NLM's university-based biomedical informatics
+  training programs are encouraged to apply. National Institutes of Health (NIH) Junior
+  Faculty Life Sciences Research United States United States
 source: legacy-import

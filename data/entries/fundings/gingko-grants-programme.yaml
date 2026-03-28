@@ -21,8 +21,8 @@ description: <p>GINGKO provides grants to support academic research into the his
 url: https://www.gingko.org.uk/grants/
 funders: []
 legacy_funder_name: GINGKO
-host_country: MENA region
-applicant_country: MENA region
+host_country: MENA
+applicant_country: MENA
 career_levels:
 - phd
 - postdoc
