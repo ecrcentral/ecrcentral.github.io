@@ -273,7 +273,11 @@ def main() -> None:
         'fundings': build_funding_facets(fundings),
         'travel_grants': build_travel_grant_facets(travel_grants),
         'resources': build_resource_facets(resources),
-        'funders': build_funder_facets(funders),
+        'funders': build_funder_facets([
+            f for f in funders
+            if (f.get('active_funding_count') or 0) > 0
+            or (f.get('active_travel_grant_count') or 0) > 0
+        ]),
     }
 
     output_path.parent.mkdir(parents=True, exist_ok=True)

@@ -114,9 +114,9 @@ const resourceFacets = facets.resources || {}
       if (!searchText.includes(query.toLowerCase())) return false
     }
     if (filters.status?.length && !filters.status.includes(card.dataset.status || '')) return false
-    if (filters.category?.length) {
+    if (filters.resource_categories?.length) {
       const cats = (card.dataset.categories || '').split(',').filter(Boolean)
-      if (!filters.category.some(c => cats.includes(c))) return false
+      if (!filters.resource_categories.some(c => cats.includes(c))) return false
     }
     if (filters.subject?.length) {
       const subjects = (card.dataset.subjects || '').split(',').filter(Boolean)

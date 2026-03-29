@@ -33180,580 +33180,6 @@
     "updated_at": "2020-03-06T08:42:16Z"
   },
   {
-    "id": "resource-microscopy-related-resources",
-    "type": "resource",
-    "slug": "microscopy-related-resources",
-    "name": "Microscopy-related resources",
-    "description": "Twitter thread with microscopy-related resources",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "covid19-resources-guidebooks"
-    ],
-    "resource_category_names": [
-      "COVID19 Resources & guidebooks"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://twitter.com/FishCsCells/status/1239546866901057536",
-    "updated_at": "2020-03-20T14:52:36Z"
-  },
-  {
-    "id": "resource-a-phd-researcher-guide-through-covid-19",
-    "type": "resource",
-    "slug": "a-phd-researcher-guide-through-covid-19",
-    "name": "A PhD researcher guide through COVID-19",
-    "description": null,
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "covid19-resources-guidebooks"
-    ],
-    "resource_category_names": [
-      "COVID19 Resources & guidebooks"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://twitter.com/ZJAyres/status/1239983524259737606",
-    "updated_at": "2020-03-20T14:53:06Z"
-  },
-  {
-    "id": "resource-tips-for-working-at-home-with-kids",
-    "type": "resource",
-    "slug": "tips-for-working-at-home-with-kids",
-    "name": "Tips for working at home with kids",
-    "description": null,
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "covid19-resources-guidebooks"
-    ],
-    "resource_category_names": [
-      "COVID19 Resources & guidebooks"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://www.geektravelguide.net/tips-for-working-at-home-with-kids/",
-    "updated_at": "2020-03-20T14:53:34Z"
-  },
-  {
-    "id": "resource-develop-new-transferable-skills",
-    "type": "resource",
-    "slug": "develop-new-transferable-skills",
-    "name": "Develop new transferable skills",
-    "description": "Is your lab closed or will be closed soon due to the #COVID19 outbreak? Consider developing transferable skills whilst you’re away from the lab: a thread",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "covid19-resources-guidebooks"
-    ],
-    "resource_category_names": [
-      "COVID19 Resources & guidebooks"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://twitter.com/NatureCareers/status/1240229585708597248",
-    "updated_at": "2020-03-20T14:55:34Z"
-  },
-  {
-    "id": "resource-covid19-news-and-views",
-    "type": "resource",
-    "slug": "covid19-news-and-views",
-    "name": "#COVID19 news and views",
-    "description": "Subscribe for the latest news on the #coronavirus pandemic.",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "covid19-resources-guidebooks"
-    ],
-    "resource_category_names": [
-      "COVID19 Resources & guidebooks"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://twitter.com/i/lists/1240652229507526656",
-    "updated_at": "2020-03-20T14:57:04Z"
-  },
-  {
-    "id": "resource-home-school-community-science-project",
-    "type": "resource",
-    "slug": "home-school-community-science-project",
-    "name": "Home-school community science project",
-    "description": null,
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "covid19-resources-guidebooks"
-    ],
-    "resource_category_names": [
-      "COVID19 Resources & guidebooks"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "http://occamstypewriter.org/mindthegap/",
-    "updated_at": "2020-03-20T14:58:15Z"
-  },
-  {
-    "id": "resource-coronavirus-research-commentary-and-news",
-    "type": "resource",
-    "slug": "coronavirus-research-commentary-and-news",
-    "name": "Coronavirus: Research, Commentary, and News",
-    "description": "As scientists strive to understand the dangerous respiratory disease COVID-19 (coronavirus disease 2019) and the virus that causes it, research and analyses are coming to the Sciencejournals at a dizzying pace. Our editors aim to quickly review and publish the best of them. The Science family of jou…",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "covid19-resources-guidebooks"
-    ],
-    "resource_category_names": [
-      "COVID19 Resources & guidebooks"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://www.sciencemag.org/coronavirus-research-commentary-and-news",
-    "updated_at": "2020-03-20T14:59:40Z"
-  },
-  {
-    "id": "resource-us-researchers-to-help-with-diagnostics-and-other-virus-related-efforts",
-    "type": "resource",
-    "slug": "us-researchers-to-help-with-diagnostics-and-other-virus-related-efforts",
-    "name": "US researchers to help with diagnostics and other virus-related efforts",
-    "description": null,
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "covid19-requests-for-help"
-    ],
-    "resource_category_names": [
-      "COVID19 Requests for help"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://docs.google.com/forms/d/e/1FAIpQLScXC56q2tPgz0WbPrhP7WareiclfxfaKQFI0ZbXg4FkKan5iQ/viewform?fbclid=IwAR2lJXs-bE7HFTSt1MWzkIDQN4M4BUVezYkx1hln2fSS1clqoD6N1hf2StQ",
-    "updated_at": "2020-03-20T15:01:17Z"
-  },
-  {
-    "id": "resource-uk-based-health-professional-without-a-uk-registered-license",
-    "type": "resource",
-    "slug": "uk-based-health-professional-without-a-uk-registered-license",
-    "name": "UK-based health professional without a UK-registered license",
-    "description": null,
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "covid19-requests-for-help"
-    ],
-    "resource_category_names": [
-      "COVID19 Requests for help"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://www.gmc-uk.org/news/news-archive/coronavirus-information-and-advice/our-emergency-powers",
-    "updated_at": "2020-03-20T15:02:46Z"
-  },
-  {
-    "id": "resource-data-analysis-machine-learners-bioinformaticians-epidemiologists-statisticians",
-    "type": "resource",
-    "slug": "data-analysis-machine-learners-bioinformaticians-epidemiologists-statisticians",
-    "name": "Data analysis - machine learners, bioinformaticians, epidemiologists, statisticians",
-    "description": "A portal where clinicians, virologists, immunologists can load data such that those with the relevant skiils can help with analysis",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "covid19-requests-for-help"
-    ],
-    "resource_category_names": [
-      "COVID19 Requests for help"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://discourse.data-against-covid.org/",
-    "updated_at": "2020-03-20T15:04:09Z"
-  },
-  {
-    "id": "resource-platform-linking-those-who-need-help-and-scientists-who-might-have-the-relevant-skills",
-    "type": "resource",
-    "slug": "platform-linking-those-who-need-help-and-scientists-who-might-have-the-relevant-skills",
-    "name": "Platform linking those who need help and scientists who might have the relevant skills",
-    "description": "All help and relevant skills requested!",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "covid19-requests-for-help"
-    ],
-    "resource_category_names": [
-      "COVID19 Requests for help"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "http://crowdfightcovid19.org/",
-    "updated_at": "2020-03-20T15:06:02Z"
-  },
-  {
-    "id": "resource-philippines-information-on-hospitals-with-pcr-capability",
-    "type": "resource",
-    "slug": "philippines-information-on-hospitals-with-pcr-capability",
-    "name": "Philippines - information on hospitals with PCR capability",
-    "description": "They are developing COVID-19 testing kits, and would like tho following info from Filipino hospitals: 1. Name of Hospital 2. Location 3. Brand of PCR unit 4. Contact Number and Contact Person",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "covid19-requests-for-help"
-    ],
-    "resource_category_names": [
-      "COVID19 Requests for help"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://twitter.com/PadayonUP/status/1240508846197493761",
-    "updated_at": "2020-03-20T15:07:34Z"
-  },
-  {
-    "id": "resource-opening-up-covid-19-crisis-related-resources",
-    "type": "resource",
-    "slug": "opening-up-covid-19-crisis-related-resources",
-    "name": "Opening up COVID-19 crisis related resources",
-    "description": "We are setting up a network of different partners in the Netherlands to support research and education on aspects of the Covid-19 crisis.",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "covid19-requests-for-help"
-    ],
-    "resource_category_names": [
-      "COVID19 Requests for help"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://www.accelerateopenscience.nl/uncategorized/opening-up-covid-19-crisis-related-resources/",
-    "updated_at": "2020-03-20T15:09:52Z"
-  },
-  {
-    "id": "resource-online-research-talks-by-ecrs",
-    "type": "resource",
-    "slug": "online-research-talks-by-ecrs",
-    "name": "Online research talks by ECRs",
-    "description": "eLife hosts online seminars to support early-career researchers to present their research online instead of in person.",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "covid19-online-events"
-    ],
-    "resource_category_names": [
-      "COVID19 Online events"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://elifesciences.org/inside-elife/1a9d9c08/elife-and-covid-19-keeping-communications-open-with-online-research-talks",
-    "updated_at": "2020-03-20T15:32:27Z"
-  },
-  {
-    "id": "resource-covidcafe",
-    "type": "resource",
-    "slug": "covidcafe",
-    "name": "COVIDCafe",
-    "description": "COVID19 is shutting down University Campuses worldwide. Social distancing may be good for preventing infection, but is bad for mental health. Combat isolation by joining us for a drop-in virtual social hour on Zoom! Check our Twitter for dates, times and Zoom links.",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "covid19-online-events"
-    ],
-    "resource_category_names": [
-      "COVID19 Online events"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://twitter.com/GC4AMH/status/1240348975628038144?s=20",
-    "updated_at": "2020-03-20T15:34:37Z"
-  },
-  {
-    "id": "resource-neuromatch-virtual-unconference-in-computational-neuroscience",
-    "type": "resource",
-    "slug": "neuromatch-virtual-unconference-in-computational-neuroscience",
-    "name": "Neuromatch - virtual unconference in Computational Neuroscience",
-    "description": "Based on the successful mind-matching session at the Cognitive Computational Neuroscience (CCN) conference, we decided to create a free web-based unconference for neuroscientists, \"neuromatch\". Registration dates 16 - 25 March, 2020 / Online conference 30 - 31 March, 2020 / Un-conference meetings 29…",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "covid19-online-events"
-    ],
-    "resource_category_names": [
-      "COVID19 Online events"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://neuromatch.io/",
-    "updated_at": "2020-03-20T15:35:53Z"
-  },
-  {
-    "id": "resource-wirvsvirus-german-hackathon-20-22-march",
-    "type": "resource",
-    "slug": "wirvsvirus-german-hackathon-20-22-march",
-    "name": "WirvsVirus - German hackathon (20-22 March)",
-    "description": "Hackathon of the German Federal Govt for Coronavirus",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "covid19-online-events"
-    ],
-    "resource_category_names": [
-      "COVID19 Online events"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://wirvsvirushackathon.org/",
-    "updated_at": "2020-03-20T15:37:11Z"
-  },
-  {
-    "id": "resource-webinar-rapid-communication-of-covid-19-research-31-march",
-    "type": "resource",
-    "slug": "webinar-rapid-communication-of-covid-19-research-31-march",
-    "name": "Webinar: Rapid communication of COVID-19 research (31 March)",
-    "description": "Join ASAPbio and the Knowledge Futures Group for a conversation about new ways of sharing scientific information relevant to the coronavirus pandemic via preprints, rapid peer review, and more. Individual talks will be followed by a round-table discussion and an audience Q&A period.",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "covid19-online-events"
-    ],
-    "resource_category_names": [
-      "COVID19 Online events"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://asapbio.org/covid-19-webinar",
-    "updated_at": "2020-03-20T15:39:02Z"
-  },
-  {
-    "id": "resource-webinar-data-integration-platform-for-cancer-research-cbioportal-demo",
-    "type": "resource",
-    "slug": "webinar-data-integration-platform-for-cancer-research-cbioportal-demo",
-    "name": "Webinar: Data-integration platform for cancer research: cBioportal demo",
-    "description": "The CORBEL webinar series continues with a presentation by Noriko A. Cassman, from the Netherlands Cancer Institute (NKI). Participants will be introduced to the data-integration platform cBioPortal. Here, different sources of research data (clinical, imaging, biosample and experimental) of a study…",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "covid19-online-events"
-    ],
-    "resource_category_names": [
-      "COVID19 Online events"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://www.corbel-project.eu/webinars/data-integration-platform-for-cancer-research-cbioportal-demo.html",
-    "updated_at": "2020-03-20T15:41:18Z"
-  },
-  {
-    "id": "resource-litcovid-curated-literature-hub-for-covid-19",
-    "type": "resource",
-    "slug": "litcovid-curated-literature-hub-for-covid-19",
-    "name": "LitCovid - curated literature hub for COVID-19",
-    "description": "LitCovid is a curated literature hub for tracking up-to-date scientific information about the 2019 novel Coronavirus.",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "covid19-resources-guidebooks"
-    ],
-    "resource_category_names": [
-      "COVID19 Resources & guidebooks"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://www.ncbi.nlm.nih.gov/research/coronavirus/",
-    "updated_at": "2020-03-21T15:47:58Z"
-  },
-  {
-    "id": "resource-covid-19-social-study-uk-based-adults-only",
-    "type": "resource",
-    "slug": "covid-19-social-study-uk-based-adults-only",
-    "name": "Covid-19 Social Study (UK-based adults only)",
-    "description": "This study aims to identify how the news about coronavirus is affecting people, whether people are having to isolate, and their experiences of isolating. It aims to inform understanding about the effects of social isolation measures on people's mental health.",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "covid19-requests-for-help"
-    ],
-    "resource_category_names": [
-      "COVID19 Requests for help"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://redcap.idhs.ucl.ac.uk/surveys/?s=TTXKND8JMK",
-    "updated_at": "2020-03-22T22:41:32Z"
-  },
-  {
-    "id": "resource-our-world-in-data-covid-19-statistics-and-research",
-    "type": "resource",
-    "slug": "our-world-in-data-covid-19-statistics-and-research",
-    "name": "Our World In Data (COVID-19 – Statistics and Research)",
-    "description": "Research and data to make progress against the world’s largest problems, including COVID-19.",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "open-source",
-      "covid19-resources-guidebooks"
-    ],
-    "resource_category_names": [
-      "Open source",
-      "COVID19 Resources & guidebooks"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://ourworldindata.org/coronavirus",
-    "updated_at": "2020-03-23T14:28:05Z"
-  },
-  {
     "id": "resource-webinars-alda-kavli-learning-center",
     "type": "resource",
     "slug": "webinars-alda-kavli-learning-center",
@@ -33778,110 +33204,6 @@
     "featured": false,
     "url": "https://www.aldacenter.org/aklc/webinars",
     "updated_at": "2020-03-25T18:51:28Z"
-  },
-  {
-    "id": "resource-25-work-from-home-tips-for-scientists",
-    "type": "resource",
-    "slug": "25-work-from-home-tips-for-scientists",
-    "name": "25 Work From Home Tips for Scientists",
-    "description": "Are you a grad student, postdoc, or bench scientist who began working remotely recently? Most of us at Addgene began working from home last week to flatten the curve, but working remotely can be more difficult if your work is based in the lab.  If you’re unsure what to do during this period, check o…",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "covid19-resources-guidebooks"
-    ],
-    "resource_category_names": [
-      "COVID19 Resources & guidebooks"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://blog.addgene.org/25-work-from-home-tips-for-scientists",
-    "updated_at": "2020-03-25T18:51:35Z"
-  },
-  {
-    "id": "resource-eco-evo-reads",
-    "type": "resource",
-    "slug": "eco-evo-reads",
-    "name": "Eco Evo Reads",
-    "description": "As everyone settles into working from home/social distancing, a reminder about our #EcoEvoReads online reading group! It's already proven to be a nice way to maintain social ties with researchers and friends globally. Join us if you'd like!",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "covid19-online-events"
-    ],
-    "resource_category_names": [
-      "COVID19 Online events"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://twitter.com/kirstyjean/status/1242015097758920704?s=20",
-    "updated_at": "2020-03-25T18:53:20Z"
-  },
-  {
-    "id": "resource-what-might-covid-19-mean-for-phd-students-postdocs",
-    "type": "resource",
-    "slug": "what-might-covid-19-mean-for-phd-students-postdocs",
-    "name": "What might Covid-19 mean for PhD students & postdocs?",
-    "description": "Blog written by Bethan Cornell, a PhD student at King’s College London.",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "covid19-resources-guidebooks"
-    ],
-    "resource_category_names": [
-      "COVID19 Resources & guidebooks"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://www.hepi.ac.uk/2020/03/16/what-might-covid-19-mean-for-phd-students-postdocs/",
-    "updated_at": "2020-03-25T18:55:34Z"
-  },
-  {
-    "id": "resource-covid-19-research-resources",
-    "type": "resource",
-    "slug": "covid-19-research-resources",
-    "name": "COVID-19 Research Resources",
-    "description": "To support scientists mobilizing to characterize the COVID-19 virus and develop diagnostics, vaccines, and treatments, we are collecting resources pertinent to research efforts. The sequences, protocols, and other work below have been shared by scientists for public use.",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "covid19-resources-guidebooks"
-    ],
-    "resource_category_names": [
-      "COVID19 Resources & guidebooks"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://www.benchling.com/covid-19/",
-    "updated_at": "2020-03-25T18:57:22Z"
   },
   {
     "id": "resource-linkedin-learning",
@@ -33910,198 +33232,6 @@
     "updated_at": "2020-03-25T19:02:00Z"
   },
   {
-    "id": "resource-useful-projects-and-resources-for-covid-19",
-    "type": "resource",
-    "slug": "useful-projects-and-resources-for-covid-19",
-    "name": "Useful projects and resources for COVID-19",
-    "description": "COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers around the world are building applications for the public to get up-to-date and accurate information as quickly as possible.  If you are a developer, you may also be able to contribute to some of these projects.",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "covid19-resources-guidebooks",
-      "covid19-requests-for-help"
-    ],
-    "resource_category_names": [
-      "COVID19 Resources & guidebooks",
-      "COVID19 Requests for help"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://github.com/soroushchehresa/awesome-coronavirus",
-    "updated_at": "2020-03-26T09:37:28Z"
-  },
-  {
-    "id": "resource-connect-with-australian-researchers-sequencing-sars-cov-2",
-    "type": "resource",
-    "slug": "connect-with-australian-researchers-sequencing-sars-cov-2",
-    "name": "Connect with Australian researchers sequencing SARS-CoV-2",
-    "description": "If you are in Australia and interested in connecting with other researchers sequencing SARS-CoV-2, join the Slack channel for sharing tips and tricks asking for technical help.",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "covid19-resources-guidebooks",
-      "covid19-requests-for-help"
-    ],
-    "resource_category_names": [
-      "COVID19 Resources & guidebooks",
-      "COVID19 Requests for help"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://sarscov2-seq-au.slack.com/join/shared_invite/zt-cxo8fomt-TUXbNwQ~SW6zhAsXOhPghw",
-    "updated_at": "2020-03-26T16:40:55Z"
-  },
-  {
-    "id": "resource-help-with-australian-covid-19-response",
-    "type": "resource",
-    "slug": "help-with-australian-covid-19-response",
-    "name": "Help with Australian COVID-19 response",
-    "description": null,
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "covid19-requests-for-help"
-    ],
-    "resource_category_names": [
-      "COVID19 Requests for help"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://www.apsjobs.gov.au/s/job-details?Id=a055m000000IxywAAC&returl=job-search",
-    "updated_at": "2020-03-26T16:42:58Z"
-  },
-  {
-    "id": "resource-sars-cov-2-proteins-and-their-homologues",
-    "type": "resource",
-    "slug": "sars-cov-2-proteins-and-their-homologues",
-    "name": "SARS-CoV-2 proteins and their homologues",
-    "description": "For anyone interested in sequence gazing at the SARS-CoV-2 proteins and their homologues, we've uploaded the alignments ito the ProViz visualisation tool.",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "covid19-resources-guidebooks",
-      "covid19-requests-for-help"
-    ],
-    "resource_category_names": [
-      "COVID19 Resources & guidebooks",
-      "COVID19 Requests for help"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "http://slim.icr.ac.uk/proviz/",
-    "updated_at": "2020-03-26T16:44:30Z"
-  },
-  {
-    "id": "resource-science-communication-in-action-covid-19-edition",
-    "type": "resource",
-    "slug": "science-communication-in-action-covid-19-edition",
-    "name": "Science communication in action: COVID-19 edition",
-    "description": "10 examples of solid scicomm about the novel coronavirus",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "science-communication",
-      "covid19-resources-guidebooks"
-    ],
-    "resource_category_names": [
-      "Science Communication",
-      "COVID19 Resources & guidebooks"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://www.asbmb.org/asbmb-today/opinions/032320/science-communication-in-action-covid-19-edition",
-    "updated_at": "2020-03-26T16:45:42Z"
-  },
-  {
-    "id": "resource-covid-19-open-letter-to-ukri",
-    "type": "resource",
-    "slug": "covid-19-open-letter-to-ukri",
-    "name": "COVID-19: Open Letter to UKRI",
-    "description": null,
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "covid19-requests-for-help"
-    ],
-    "resource_category_names": [
-      "COVID19 Requests for help"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://docs.google.com/document/d/1Oawtie1Y_zDMwDti6GCm82vNAMPPPZrXtaCMy7pI-3Q/edit",
-    "updated_at": "2020-03-29T12:18:51Z"
-  },
-  {
-    "id": "resource-virtual-keystone-symposia",
-    "type": "resource",
-    "slug": "virtual-keystone-symposia",
-    "name": "Virtual Keystone Symposia",
-    "description": null,
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "science-communication",
-      "covid19-online-events"
-    ],
-    "resource_category_names": [
-      "Science Communication",
-      "COVID19 Online events"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://virtual.keystonesymposia.org/ks/pages/virtualevents",
-    "updated_at": "2020-03-31T07:57:33Z"
-  },
-  {
     "id": "resource-management-101-for-scientists-and-everyone",
     "type": "resource",
     "slug": "management-101-for-scientists-and-everyone",
@@ -34128,86 +33258,6 @@
     "updated_at": "2020-03-31T08:17:47Z"
   },
   {
-    "id": "resource-educational-resources-to-make-the-best-out-of-the-corona-break",
-    "type": "resource",
-    "slug": "educational-resources-to-make-the-best-out-of-the-corona-break",
-    "name": "Educational resources to make the best out of the corona break",
-    "description": "Around the world, many researchers have found themselves in self-isolation, and are unable to continue performing lab-based studies. However, this can be an opportunity to learn and expand professional and scientific horizons. We have created a list of resources to help you make the best of this str…",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "covid19-resources-guidebooks"
-    ],
-    "resource_category_names": [
-      "COVID19 Resources & guidebooks"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://www.bihealth.org/en/research/quest-center/service/educational-resources-to-make-the-best-out-of-the-corona-break/",
-    "updated_at": "2020-03-31T13:00:34Z"
-  },
-  {
-    "id": "resource-connect-on-coronavirus",
-    "type": "resource",
-    "slug": "connect-on-coronavirus",
-    "name": "Connect on Coronavirus",
-    "description": "COVID-19 information website from British Society of Immunology with resources and webinars.",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "covid19-online-events",
-      "covid19-resources-guidebooks"
-    ],
-    "resource_category_names": [
-      "COVID19 Online events",
-      "COVID19 Resources & guidebooks"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://www.immunology.org/coronavirus",
-    "updated_at": "2020-03-31T17:49:48Z"
-  },
-  {
-    "id": "resource-immunometabolism-online-seminars",
-    "type": "resource",
-    "slug": "immunometabolism-online-seminars",
-    "name": "ImmunoMetabolism Online Seminars",
-    "description": "Due to cancellation of their Symposium in May 2020, ImmunoMetNet has now set-up weekly online seminars with the goal to build a bridge between immunology and metabolism research and medicine.",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "covid19-online-events"
-    ],
-    "resource_category_names": [
-      "COVID19 Online events"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://immunometnet.com",
-    "updated_at": "2020-04-01T09:06:12Z"
-  },
-  {
     "id": "resource-learning-bioinformatics-at-home",
     "type": "resource",
     "slug": "learning-bioinformatics-at-home",
@@ -34223,175 +33273,15 @@
     "subjects": [],
     "subject_names": [],
     "resource_categories": [
-      "open-source",
-      "covid19-resources-guidebooks"
+      "open-source"
     ],
     "resource_category_names": [
-      "Open source",
-      "COVID19 Resources & guidebooks"
+      "Open source"
     ],
     "status": "active",
     "featured": false,
     "url": "https://github.com/harvardinformatics/learning-bioinformatics-at-home",
     "updated_at": "2020-04-01T09:10:59Z"
-  },
-  {
-    "id": "resource-covid-19-cell-atlas",
-    "type": "resource",
-    "slug": "covid-19-cell-atlas",
-    "name": "COVID-19 Cell Atlas",
-    "description": "Overview of expression of COVID-19/SARS-CoV-2 entry-associated genes in humans.",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "covid19-resources-guidebooks"
-    ],
-    "resource_category_names": [
-      "COVID19 Resources & guidebooks"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://www.covid19cellatlas.org",
-    "updated_at": "2020-04-01T10:12:53Z"
-  },
-  {
-    "id": "resource-coronavirus-the-science-explained",
-    "type": "resource",
-    "slug": "coronavirus-the-science-explained",
-    "name": "Coronavirus: the science explained",
-    "description": "This website will be regularly updated with the latest science information behind the coronavirus outbreak.  The following pages lay out the evidence and the facts about the virus, the disease, the epidemic, and its control. Please note, they are not intended as a source of health advice or official…",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "covid19-resources-guidebooks"
-    ],
-    "resource_category_names": [
-      "COVID19 Resources & guidebooks"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://coronavirusexplained.ukri.org/en/",
-    "updated_at": "2020-04-01T10:14:08Z"
-  },
-  {
-    "id": "resource-cytobank-machine-learning-assisted-analysis",
-    "type": "resource",
-    "slug": "cytobank-machine-learning-assisted-analysis",
-    "name": "Cytobank machine learning-assisted analysis",
-    "description": "Cytobank is a cloud-based single-cell analysis platform that empowers remote work, data management and collaboration. Please join us for weekly, virtual Cytobank educational events, ranging from Virtual Office Hours with Cytobank technical experts, to Bootcamp Webinars covering the Cytobank platform…",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "covid19-online-events"
-    ],
-    "resource_category_names": [
-      "COVID19 Online events"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://info.beckmancoulter.com/webmail/60792/910778357/055861770173245dac70f542547d1004af07493ddaba968e721fd50c41d530e1",
-    "updated_at": "2020-04-01T17:35:12Z"
-  },
-  {
-    "id": "resource-preprints-covid-19",
-    "type": "resource",
-    "slug": "preprints-covid-19",
-    "name": "Preprints & COVID-19",
-    "description": "Landmark preprints in response to COVID-19, maintained by the @preLights team",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "preprints",
-      "covid19-resources-guidebooks"
-    ],
-    "resource_category_names": [
-      "Preprints",
-      "COVID19 Resources & guidebooks"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "http://covidpreprints.com",
-    "updated_at": "2020-04-02T10:45:37Z"
-  },
-  {
-    "id": "resource-ishr-cardiovascular-webinar-series",
-    "type": "resource",
-    "slug": "ishr-cardiovascular-webinar-series",
-    "name": "ISHR Cardiovascular Webinar Series",
-    "description": null,
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "covid19-online-events"
-    ],
-    "resource_category_names": [
-      "COVID19 Online events"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://docs.google.com/spreadsheets/d/1nWVZmyh5koFxb4h3rXUVvkwQH4dPMkDpO_UqwyfQke0/edit#gid=0",
-    "updated_at": "2020-04-06T13:30:41Z"
-  },
-  {
-    "id": "resource-covid-19-literature-digest",
-    "type": "resource",
-    "slug": "covid-19-literature-digest",
-    "name": "COVID-19 Literature Digest",
-    "description": "A group of post-docs and DPhil students in the Medical Sciences Division are voluntarily reviewing some of the immunology-focussed COVID-19 literature, particularly pre-prints. This initiative has been organised by the Kennedy Institute for Rheumatology Journal Club and huge thanks go to all those i…",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "covid19-resources-guidebooks"
-    ],
-    "resource_category_names": [
-      "COVID19 Resources & guidebooks"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://www.immunology.ox.ac.uk/covid-19/literature-digest",
-    "updated_at": "2020-04-09T09:41:09Z"
   },
   {
     "id": "resource-coursera",
@@ -34474,62 +33364,6 @@
     "updated_at": "2020-04-26T10:33:34Z"
   },
   {
-    "id": "resource-cell-and-developmental-biology-virtual-meeting",
-    "type": "resource",
-    "slug": "cell-and-developmental-biology-virtual-meeting",
-    "name": "Cell and Developmental Biology Virtual Meeting",
-    "description": "The first 'Cell and Developmental Biology Virtual Meeting' on June 3 & 4, 2020. This virtual event will allow you to interact with your peers and gain insights from industry experts, from home at no cost.",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "science-communication",
-      "covid19-online-events"
-    ],
-    "resource_category_names": [
-      "Science Communication",
-      "COVID19 Online events"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://cgm.andor.com/oxfordinstrumentsandorlz/lz.aspx?p1=MqyDU4MjU5MVMwNzYxOkNFRUIxRjNDMjdEQUMyMjQ1QkRBQUZERDFDNkNDQjIw-&CC=&p=0",
-    "updated_at": "2020-04-26T10:35:57Z"
-  },
-  {
-    "id": "resource-list-of-virtual-talks-seminars-forums",
-    "type": "resource",
-    "slug": "list-of-virtual-talks-seminars-forums",
-    "name": "List of virtual talks, seminars, forums",
-    "description": "Various organisations and looser assemblies of locked down researchers have begun to put together online seminar and talk series, many of which are open to anyone (usually with registration), and many of which also have previous talks recorded.",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "science-communication",
-      "covid19-online-events"
-    ],
-    "resource_category_names": [
-      "Science Communication",
-      "COVID19 Online events"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://thenode.biologists.com/list-of-virtual-talks-seminars-forums/events/",
-    "updated_at": "2020-04-26T10:37:09Z"
-  },
-  {
     "id": "resource-science-writing-competition-for-phd-students",
     "type": "resource",
     "slug": "science-writing-competition-for-phd-students",
@@ -34556,234 +33390,6 @@
     "featured": false,
     "url": "https://info.bio-rad.com/Science-Writing-Competition-LP.html?utm_source=marketo&utm_medium=email&utm_campaign=WRICOMPAPR20",
     "updated_at": "2020-04-26T10:39:18Z"
-  },
-  {
-    "id": "resource-stowers-research-conferences",
-    "type": "resource",
-    "slug": "stowers-research-conferences",
-    "name": "Stowers Research Conferences",
-    "description": "Stowers Research Conferences are biennial meetings that bring together a diverse group of researchers to inspire creative thought and collaboration in the basic sciences.",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "science-communication",
-      "covid19-online-events"
-    ],
-    "resource_category_names": [
-      "Science Communication",
-      "COVID19 Online events"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://www.stowers.org/conferences",
-    "updated_at": "2020-04-29T09:18:12Z"
-  },
-  {
-    "id": "resource-online-plant-science-related-courses",
-    "type": "resource",
-    "slug": "online-plant-science-related-courses",
-    "name": "Online Plant Science-Related Courses",
-    "description": "Quarantine-friendly education and training in plant science, bioinformatics and methods - for researchers and students.",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "career-development",
-      "covid19-resources-guidebooks"
-    ],
-    "resource_category_names": [
-      "Career development",
-      "COVID19 Resources & guidebooks"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://community.plantae.org/article/5509561630179985405/online-plant-science-related-courses",
-    "updated_at": "2020-04-29T09:21:26Z"
-  },
-  {
-    "id": "resource-lipid-talks",
-    "type": "resource",
-    "slug": "lipid-talks",
-    "name": "Lipid talks",
-    "description": "Weekly webinar series. See link for more info.",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "science-communication",
-      "covid19-online-events"
-    ],
-    "resource_category_names": [
-      "Science Communication",
-      "COVID19 Online events"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://twitter.com/ContactCTC/status/1253268389851791361",
-    "updated_at": "2020-04-29T09:21:34Z"
-  },
-  {
-    "id": "resource-global-immunotalks",
-    "type": "resource",
-    "slug": "global-immunotalks",
-    "name": "Global Immunotalks",
-    "description": "Weekly Immunology webinar series. See link for schedule and joining information.",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "science-communication",
-      "covid19-online-events"
-    ],
-    "resource_category_names": [
-      "Science Communication",
-      "COVID19 Online events"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://labs.biology.ucsd.edu/zuniga/global_immunotalks.htm",
-    "updated_at": "2020-04-29T09:21:53Z"
-  },
-  {
-    "id": "resource-pombe-talks",
-    "type": "resource",
-    "slug": "pombe-talks",
-    "name": "Pombe Talks",
-    "description": "See link for more info and to sign up to the mailing list and/or to be a speaker via Google form.",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "science-communication",
-      "covid19-online-events"
-    ],
-    "resource_category_names": [
-      "Science Communication",
-      "COVID19 Online events"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://twitter.com/Dey_Gautam/status/1252935860821069824?s=20",
-    "updated_at": "2020-04-29T09:22:21Z"
-  },
-  {
-    "id": "resource-bioimage-analysis-technology-webinar-series",
-    "type": "resource",
-    "slug": "bioimage-analysis-technology-webinar-series",
-    "name": "Bioimage Analysis Technology Webinar Series",
-    "description": "NEUBIAS Academy is a new initiative, aimed to provide sustainable material and activities focused on Training in Bioimage Analysis.",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "career-development",
-      "teaching",
-      "open-source",
-      "covid19-online-events"
-    ],
-    "resource_category_names": [
-      "Career development",
-      "Teaching",
-      "Open source",
-      "COVID19 Online events"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "http://eubias.org/NEUBIAS/training-schools/neubias-academy-home/",
-    "updated_at": "2020-04-29T09:22:30Z"
-  },
-  {
-    "id": "resource-crossroads-of-biology-meetings-courses-program",
-    "type": "resource",
-    "slug": "crossroads-of-biology-meetings-courses-program",
-    "name": "Crossroads of Biology - Meetings & Courses Program",
-    "description": "Overview of CSHL conferences, some of which are virtual because of COVID-19",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "science-communication",
-      "covid19-online-events"
-    ],
-    "resource_category_names": [
-      "Science Communication",
-      "COVID19 Online events"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "https://meetings.cshl.edu/meetingshome.aspx",
-    "updated_at": "2020-04-29T09:22:38Z"
-  },
-  {
-    "id": "resource-motors-in-quarantine-webinar-series",
-    "type": "resource",
-    "slug": "motors-in-quarantine-webinar-series",
-    "name": "Motors in Quarantine webinar series",
-    "description": "Motors in Quarantine is a weekly webinar series starting on Wednesday 6th May 2020 at 8:00 PDT / 11:00 EDT / 16:00 BST / 17:00 CET / 20:00 IST / 23:00 CST.",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "resource_categories": [
-      "science-communication",
-      "covid19-online-events"
-    ],
-    "resource_category_names": [
-      "Science Communication",
-      "COVID19 Online events"
-    ],
-    "status": "active",
-    "featured": false,
-    "url": "http://mechanochemistry.org/whatson/MiQ/index.php",
-    "updated_at": "2020-05-02T13:56:08Z"
   },
   {
     "id": "resource-author-carpentry-workshops",
@@ -35010,13 +33616,11 @@
     "subject_names": [],
     "resource_categories": [
       "science-communication",
-      "other",
       "public-involvement-in-research",
       "covid19-online-events"
     ],
     "resource_category_names": [
       "Science Communication",
-      "Other",
       "Public Involvement in Research",
       "COVID19 Online events"
     ],
@@ -35452,6 +34056,1398 @@
     "featured": false,
     "url": "https://myidp.sciencecareers.org/",
     "updated_at": "2023-08-12T16:54:09Z"
+  },
+  {
+    "id": "resource-microscopy-related-resources",
+    "type": "resource",
+    "slug": "microscopy-related-resources",
+    "name": "Microscopy-related resources",
+    "description": "Twitter thread with microscopy-related resources",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "covid19-resources-guidebooks"
+    ],
+    "resource_category_names": [
+      "COVID19 Resources & guidebooks"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://twitter.com/FishCsCells/status/1239546866901057536",
+    "updated_at": "2020-03-20T14:52:36Z"
+  },
+  {
+    "id": "resource-a-phd-researcher-guide-through-covid-19",
+    "type": "resource",
+    "slug": "a-phd-researcher-guide-through-covid-19",
+    "name": "A PhD researcher guide through COVID-19",
+    "description": null,
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "covid19-resources-guidebooks"
+    ],
+    "resource_category_names": [
+      "COVID19 Resources & guidebooks"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://twitter.com/ZJAyres/status/1239983524259737606",
+    "updated_at": "2020-03-20T14:53:06Z"
+  },
+  {
+    "id": "resource-tips-for-working-at-home-with-kids",
+    "type": "resource",
+    "slug": "tips-for-working-at-home-with-kids",
+    "name": "Tips for working at home with kids",
+    "description": null,
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "covid19-resources-guidebooks"
+    ],
+    "resource_category_names": [
+      "COVID19 Resources & guidebooks"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://www.geektravelguide.net/tips-for-working-at-home-with-kids/",
+    "updated_at": "2020-03-20T14:53:34Z"
+  },
+  {
+    "id": "resource-develop-new-transferable-skills",
+    "type": "resource",
+    "slug": "develop-new-transferable-skills",
+    "name": "Develop new transferable skills",
+    "description": "Is your lab closed or will be closed soon due to the #COVID19 outbreak? Consider developing transferable skills whilst you’re away from the lab: a thread",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "covid19-resources-guidebooks"
+    ],
+    "resource_category_names": [
+      "COVID19 Resources & guidebooks"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://twitter.com/NatureCareers/status/1240229585708597248",
+    "updated_at": "2020-03-20T14:55:34Z"
+  },
+  {
+    "id": "resource-covid19-news-and-views",
+    "type": "resource",
+    "slug": "covid19-news-and-views",
+    "name": "#COVID19 news and views",
+    "description": "Subscribe for the latest news on the #coronavirus pandemic.",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "covid19-resources-guidebooks"
+    ],
+    "resource_category_names": [
+      "COVID19 Resources & guidebooks"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://twitter.com/i/lists/1240652229507526656",
+    "updated_at": "2020-03-20T14:57:04Z"
+  },
+  {
+    "id": "resource-home-school-community-science-project",
+    "type": "resource",
+    "slug": "home-school-community-science-project",
+    "name": "Home-school community science project",
+    "description": null,
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "covid19-resources-guidebooks"
+    ],
+    "resource_category_names": [
+      "COVID19 Resources & guidebooks"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "http://occamstypewriter.org/mindthegap/",
+    "updated_at": "2020-03-20T14:58:15Z"
+  },
+  {
+    "id": "resource-coronavirus-research-commentary-and-news",
+    "type": "resource",
+    "slug": "coronavirus-research-commentary-and-news",
+    "name": "Coronavirus: Research, Commentary, and News",
+    "description": "As scientists strive to understand the dangerous respiratory disease COVID-19 (coronavirus disease 2019) and the virus that causes it, research and analyses are coming to the Sciencejournals at a dizzying pace. Our editors aim to quickly review and publish the best of them. The Science family of jou…",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "covid19-resources-guidebooks"
+    ],
+    "resource_category_names": [
+      "COVID19 Resources & guidebooks"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://www.sciencemag.org/coronavirus-research-commentary-and-news",
+    "updated_at": "2020-03-20T14:59:40Z"
+  },
+  {
+    "id": "resource-us-researchers-to-help-with-diagnostics-and-other-virus-related-efforts",
+    "type": "resource",
+    "slug": "us-researchers-to-help-with-diagnostics-and-other-virus-related-efforts",
+    "name": "US researchers to help with diagnostics and other virus-related efforts",
+    "description": null,
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "covid19-requests-for-help"
+    ],
+    "resource_category_names": [
+      "COVID19 Requests for help"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLScXC56q2tPgz0WbPrhP7WareiclfxfaKQFI0ZbXg4FkKan5iQ/viewform?fbclid=IwAR2lJXs-bE7HFTSt1MWzkIDQN4M4BUVezYkx1hln2fSS1clqoD6N1hf2StQ",
+    "updated_at": "2020-03-20T15:01:17Z"
+  },
+  {
+    "id": "resource-uk-based-health-professional-without-a-uk-registered-license",
+    "type": "resource",
+    "slug": "uk-based-health-professional-without-a-uk-registered-license",
+    "name": "UK-based health professional without a UK-registered license",
+    "description": null,
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "covid19-requests-for-help"
+    ],
+    "resource_category_names": [
+      "COVID19 Requests for help"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://www.gmc-uk.org/news/news-archive/coronavirus-information-and-advice/our-emergency-powers",
+    "updated_at": "2020-03-20T15:02:46Z"
+  },
+  {
+    "id": "resource-data-analysis-machine-learners-bioinformaticians-epidemiologists-statisticians",
+    "type": "resource",
+    "slug": "data-analysis-machine-learners-bioinformaticians-epidemiologists-statisticians",
+    "name": "Data analysis - machine learners, bioinformaticians, epidemiologists, statisticians",
+    "description": "A portal where clinicians, virologists, immunologists can load data such that those with the relevant skiils can help with analysis",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "covid19-requests-for-help"
+    ],
+    "resource_category_names": [
+      "COVID19 Requests for help"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://discourse.data-against-covid.org/",
+    "updated_at": "2020-03-20T15:04:09Z"
+  },
+  {
+    "id": "resource-platform-linking-those-who-need-help-and-scientists-who-might-have-the-relevant-skills",
+    "type": "resource",
+    "slug": "platform-linking-those-who-need-help-and-scientists-who-might-have-the-relevant-skills",
+    "name": "Platform linking those who need help and scientists who might have the relevant skills",
+    "description": "All help and relevant skills requested!",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "covid19-requests-for-help"
+    ],
+    "resource_category_names": [
+      "COVID19 Requests for help"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "http://crowdfightcovid19.org/",
+    "updated_at": "2020-03-20T15:06:02Z"
+  },
+  {
+    "id": "resource-philippines-information-on-hospitals-with-pcr-capability",
+    "type": "resource",
+    "slug": "philippines-information-on-hospitals-with-pcr-capability",
+    "name": "Philippines - information on hospitals with PCR capability",
+    "description": "They are developing COVID-19 testing kits, and would like tho following info from Filipino hospitals: 1. Name of Hospital 2. Location 3. Brand of PCR unit 4. Contact Number and Contact Person",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "covid19-requests-for-help"
+    ],
+    "resource_category_names": [
+      "COVID19 Requests for help"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://twitter.com/PadayonUP/status/1240508846197493761",
+    "updated_at": "2020-03-20T15:07:34Z"
+  },
+  {
+    "id": "resource-opening-up-covid-19-crisis-related-resources",
+    "type": "resource",
+    "slug": "opening-up-covid-19-crisis-related-resources",
+    "name": "Opening up COVID-19 crisis related resources",
+    "description": "We are setting up a network of different partners in the Netherlands to support research and education on aspects of the Covid-19 crisis.",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "covid19-requests-for-help"
+    ],
+    "resource_category_names": [
+      "COVID19 Requests for help"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://www.accelerateopenscience.nl/uncategorized/opening-up-covid-19-crisis-related-resources/",
+    "updated_at": "2020-03-20T15:09:52Z"
+  },
+  {
+    "id": "resource-online-research-talks-by-ecrs",
+    "type": "resource",
+    "slug": "online-research-talks-by-ecrs",
+    "name": "Online research talks by ECRs",
+    "description": "eLife hosts online seminars to support early-career researchers to present their research online instead of in person.",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "covid19-online-events"
+    ],
+    "resource_category_names": [
+      "COVID19 Online events"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://elifesciences.org/inside-elife/1a9d9c08/elife-and-covid-19-keeping-communications-open-with-online-research-talks",
+    "updated_at": "2020-03-20T15:32:27Z"
+  },
+  {
+    "id": "resource-covidcafe",
+    "type": "resource",
+    "slug": "covidcafe",
+    "name": "COVIDCafe",
+    "description": "COVID19 is shutting down University Campuses worldwide. Social distancing may be good for preventing infection, but is bad for mental health. Combat isolation by joining us for a drop-in virtual social hour on Zoom! Check our Twitter for dates, times and Zoom links.",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "covid19-online-events"
+    ],
+    "resource_category_names": [
+      "COVID19 Online events"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://twitter.com/GC4AMH/status/1240348975628038144?s=20",
+    "updated_at": "2020-03-20T15:34:37Z"
+  },
+  {
+    "id": "resource-neuromatch-virtual-unconference-in-computational-neuroscience",
+    "type": "resource",
+    "slug": "neuromatch-virtual-unconference-in-computational-neuroscience",
+    "name": "Neuromatch - virtual unconference in Computational Neuroscience",
+    "description": "Based on the successful mind-matching session at the Cognitive Computational Neuroscience (CCN) conference, we decided to create a free web-based unconference for neuroscientists, \"neuromatch\". Registration dates 16 - 25 March, 2020 / Online conference 30 - 31 March, 2020 / Un-conference meetings 29…",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "covid19-online-events"
+    ],
+    "resource_category_names": [
+      "COVID19 Online events"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://neuromatch.io/",
+    "updated_at": "2020-03-20T15:35:53Z"
+  },
+  {
+    "id": "resource-wirvsvirus-german-hackathon-20-22-march",
+    "type": "resource",
+    "slug": "wirvsvirus-german-hackathon-20-22-march",
+    "name": "WirvsVirus - German hackathon (20-22 March)",
+    "description": "Hackathon of the German Federal Govt for Coronavirus",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "covid19-online-events"
+    ],
+    "resource_category_names": [
+      "COVID19 Online events"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://wirvsvirushackathon.org/",
+    "updated_at": "2020-03-20T15:37:11Z"
+  },
+  {
+    "id": "resource-webinar-rapid-communication-of-covid-19-research-31-march",
+    "type": "resource",
+    "slug": "webinar-rapid-communication-of-covid-19-research-31-march",
+    "name": "Webinar: Rapid communication of COVID-19 research (31 March)",
+    "description": "Join ASAPbio and the Knowledge Futures Group for a conversation about new ways of sharing scientific information relevant to the coronavirus pandemic via preprints, rapid peer review, and more. Individual talks will be followed by a round-table discussion and an audience Q&A period.",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "covid19-online-events"
+    ],
+    "resource_category_names": [
+      "COVID19 Online events"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://asapbio.org/covid-19-webinar",
+    "updated_at": "2020-03-20T15:39:02Z"
+  },
+  {
+    "id": "resource-webinar-data-integration-platform-for-cancer-research-cbioportal-demo",
+    "type": "resource",
+    "slug": "webinar-data-integration-platform-for-cancer-research-cbioportal-demo",
+    "name": "Webinar: Data-integration platform for cancer research: cBioportal demo",
+    "description": "The CORBEL webinar series continues with a presentation by Noriko A. Cassman, from the Netherlands Cancer Institute (NKI). Participants will be introduced to the data-integration platform cBioPortal. Here, different sources of research data (clinical, imaging, biosample and experimental) of a study…",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "covid19-online-events"
+    ],
+    "resource_category_names": [
+      "COVID19 Online events"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://www.corbel-project.eu/webinars/data-integration-platform-for-cancer-research-cbioportal-demo.html",
+    "updated_at": "2020-03-20T15:41:18Z"
+  },
+  {
+    "id": "resource-litcovid-curated-literature-hub-for-covid-19",
+    "type": "resource",
+    "slug": "litcovid-curated-literature-hub-for-covid-19",
+    "name": "LitCovid - curated literature hub for COVID-19",
+    "description": "LitCovid is a curated literature hub for tracking up-to-date scientific information about the 2019 novel Coronavirus.",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "covid19-resources-guidebooks"
+    ],
+    "resource_category_names": [
+      "COVID19 Resources & guidebooks"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://www.ncbi.nlm.nih.gov/research/coronavirus/",
+    "updated_at": "2020-03-21T15:47:58Z"
+  },
+  {
+    "id": "resource-covid-19-social-study-uk-based-adults-only",
+    "type": "resource",
+    "slug": "covid-19-social-study-uk-based-adults-only",
+    "name": "Covid-19 Social Study (UK-based adults only)",
+    "description": "This study aims to identify how the news about coronavirus is affecting people, whether people are having to isolate, and their experiences of isolating. It aims to inform understanding about the effects of social isolation measures on people's mental health.",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "covid19-requests-for-help"
+    ],
+    "resource_category_names": [
+      "COVID19 Requests for help"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://redcap.idhs.ucl.ac.uk/surveys/?s=TTXKND8JMK",
+    "updated_at": "2020-03-22T22:41:32Z"
+  },
+  {
+    "id": "resource-our-world-in-data-covid-19-statistics-and-research",
+    "type": "resource",
+    "slug": "our-world-in-data-covid-19-statistics-and-research",
+    "name": "Our World In Data (COVID-19 – Statistics and Research)",
+    "description": "Research and data to make progress against the world’s largest problems, including COVID-19.",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "open-source",
+      "covid19-resources-guidebooks"
+    ],
+    "resource_category_names": [
+      "Open source",
+      "COVID19 Resources & guidebooks"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://ourworldindata.org/coronavirus",
+    "updated_at": "2020-03-23T14:28:05Z"
+  },
+  {
+    "id": "resource-25-work-from-home-tips-for-scientists",
+    "type": "resource",
+    "slug": "25-work-from-home-tips-for-scientists",
+    "name": "25 Work From Home Tips for Scientists",
+    "description": "Are you a grad student, postdoc, or bench scientist who began working remotely recently? Most of us at Addgene began working from home last week to flatten the curve, but working remotely can be more difficult if your work is based in the lab.  If you’re unsure what to do during this period, check o…",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "covid19-resources-guidebooks"
+    ],
+    "resource_category_names": [
+      "COVID19 Resources & guidebooks"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://blog.addgene.org/25-work-from-home-tips-for-scientists",
+    "updated_at": "2020-03-25T18:51:35Z"
+  },
+  {
+    "id": "resource-eco-evo-reads",
+    "type": "resource",
+    "slug": "eco-evo-reads",
+    "name": "Eco Evo Reads",
+    "description": "As everyone settles into working from home/social distancing, a reminder about our #EcoEvoReads online reading group! It's already proven to be a nice way to maintain social ties with researchers and friends globally. Join us if you'd like!",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "covid19-online-events"
+    ],
+    "resource_category_names": [
+      "COVID19 Online events"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://twitter.com/kirstyjean/status/1242015097758920704?s=20",
+    "updated_at": "2020-03-25T18:53:20Z"
+  },
+  {
+    "id": "resource-what-might-covid-19-mean-for-phd-students-postdocs",
+    "type": "resource",
+    "slug": "what-might-covid-19-mean-for-phd-students-postdocs",
+    "name": "What might Covid-19 mean for PhD students & postdocs?",
+    "description": "Blog written by Bethan Cornell, a PhD student at King’s College London.",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "covid19-resources-guidebooks"
+    ],
+    "resource_category_names": [
+      "COVID19 Resources & guidebooks"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://www.hepi.ac.uk/2020/03/16/what-might-covid-19-mean-for-phd-students-postdocs/",
+    "updated_at": "2020-03-25T18:55:34Z"
+  },
+  {
+    "id": "resource-covid-19-research-resources",
+    "type": "resource",
+    "slug": "covid-19-research-resources",
+    "name": "COVID-19 Research Resources",
+    "description": "To support scientists mobilizing to characterize the COVID-19 virus and develop diagnostics, vaccines, and treatments, we are collecting resources pertinent to research efforts. The sequences, protocols, and other work below have been shared by scientists for public use.",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "covid19-resources-guidebooks"
+    ],
+    "resource_category_names": [
+      "COVID19 Resources & guidebooks"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://www.benchling.com/covid-19/",
+    "updated_at": "2020-03-25T18:57:22Z"
+  },
+  {
+    "id": "resource-useful-projects-and-resources-for-covid-19",
+    "type": "resource",
+    "slug": "useful-projects-and-resources-for-covid-19",
+    "name": "Useful projects and resources for COVID-19",
+    "description": "COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers around the world are building applications for the public to get up-to-date and accurate information as quickly as possible.  If you are a developer, you may also be able to contribute to some of these projects.",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "covid19-resources-guidebooks",
+      "covid19-requests-for-help"
+    ],
+    "resource_category_names": [
+      "COVID19 Resources & guidebooks",
+      "COVID19 Requests for help"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://github.com/soroushchehresa/awesome-coronavirus",
+    "updated_at": "2020-03-26T09:37:28Z"
+  },
+  {
+    "id": "resource-connect-with-australian-researchers-sequencing-sars-cov-2",
+    "type": "resource",
+    "slug": "connect-with-australian-researchers-sequencing-sars-cov-2",
+    "name": "Connect with Australian researchers sequencing SARS-CoV-2",
+    "description": "If you are in Australia and interested in connecting with other researchers sequencing SARS-CoV-2, join the Slack channel for sharing tips and tricks asking for technical help.",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "covid19-resources-guidebooks",
+      "covid19-requests-for-help"
+    ],
+    "resource_category_names": [
+      "COVID19 Resources & guidebooks",
+      "COVID19 Requests for help"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://sarscov2-seq-au.slack.com/join/shared_invite/zt-cxo8fomt-TUXbNwQ~SW6zhAsXOhPghw",
+    "updated_at": "2020-03-26T16:40:55Z"
+  },
+  {
+    "id": "resource-help-with-australian-covid-19-response",
+    "type": "resource",
+    "slug": "help-with-australian-covid-19-response",
+    "name": "Help with Australian COVID-19 response",
+    "description": null,
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "covid19-requests-for-help"
+    ],
+    "resource_category_names": [
+      "COVID19 Requests for help"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://www.apsjobs.gov.au/s/job-details?Id=a055m000000IxywAAC&returl=job-search",
+    "updated_at": "2020-03-26T16:42:58Z"
+  },
+  {
+    "id": "resource-sars-cov-2-proteins-and-their-homologues",
+    "type": "resource",
+    "slug": "sars-cov-2-proteins-and-their-homologues",
+    "name": "SARS-CoV-2 proteins and their homologues",
+    "description": "For anyone interested in sequence gazing at the SARS-CoV-2 proteins and their homologues, we've uploaded the alignments ito the ProViz visualisation tool.",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "covid19-resources-guidebooks",
+      "covid19-requests-for-help"
+    ],
+    "resource_category_names": [
+      "COVID19 Resources & guidebooks",
+      "COVID19 Requests for help"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "http://slim.icr.ac.uk/proviz/",
+    "updated_at": "2020-03-26T16:44:30Z"
+  },
+  {
+    "id": "resource-science-communication-in-action-covid-19-edition",
+    "type": "resource",
+    "slug": "science-communication-in-action-covid-19-edition",
+    "name": "Science communication in action: COVID-19 edition",
+    "description": "10 examples of solid scicomm about the novel coronavirus",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "science-communication",
+      "covid19-resources-guidebooks"
+    ],
+    "resource_category_names": [
+      "Science Communication",
+      "COVID19 Resources & guidebooks"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://www.asbmb.org/asbmb-today/opinions/032320/science-communication-in-action-covid-19-edition",
+    "updated_at": "2020-03-26T16:45:42Z"
+  },
+  {
+    "id": "resource-covid-19-open-letter-to-ukri",
+    "type": "resource",
+    "slug": "covid-19-open-letter-to-ukri",
+    "name": "COVID-19: Open Letter to UKRI",
+    "description": null,
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "covid19-requests-for-help"
+    ],
+    "resource_category_names": [
+      "COVID19 Requests for help"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://docs.google.com/document/d/1Oawtie1Y_zDMwDti6GCm82vNAMPPPZrXtaCMy7pI-3Q/edit",
+    "updated_at": "2020-03-29T12:18:51Z"
+  },
+  {
+    "id": "resource-virtual-keystone-symposia",
+    "type": "resource",
+    "slug": "virtual-keystone-symposia",
+    "name": "Virtual Keystone Symposia",
+    "description": null,
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "science-communication",
+      "covid19-online-events"
+    ],
+    "resource_category_names": [
+      "Science Communication",
+      "COVID19 Online events"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://virtual.keystonesymposia.org/ks/pages/virtualevents",
+    "updated_at": "2020-03-31T07:57:33Z"
+  },
+  {
+    "id": "resource-educational-resources-to-make-the-best-out-of-the-corona-break",
+    "type": "resource",
+    "slug": "educational-resources-to-make-the-best-out-of-the-corona-break",
+    "name": "Educational resources to make the best out of the corona break",
+    "description": "Around the world, many researchers have found themselves in self-isolation, and are unable to continue performing lab-based studies. However, this can be an opportunity to learn and expand professional and scientific horizons. We have created a list of resources to help you make the best of this str…",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "covid19-resources-guidebooks"
+    ],
+    "resource_category_names": [
+      "COVID19 Resources & guidebooks"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://www.bihealth.org/en/research/quest-center/service/educational-resources-to-make-the-best-out-of-the-corona-break/",
+    "updated_at": "2020-03-31T13:00:34Z"
+  },
+  {
+    "id": "resource-connect-on-coronavirus",
+    "type": "resource",
+    "slug": "connect-on-coronavirus",
+    "name": "Connect on Coronavirus",
+    "description": "COVID-19 information website from British Society of Immunology with resources and webinars.",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "covid19-online-events",
+      "covid19-resources-guidebooks"
+    ],
+    "resource_category_names": [
+      "COVID19 Online events",
+      "COVID19 Resources & guidebooks"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://www.immunology.org/coronavirus",
+    "updated_at": "2020-03-31T17:49:48Z"
+  },
+  {
+    "id": "resource-immunometabolism-online-seminars",
+    "type": "resource",
+    "slug": "immunometabolism-online-seminars",
+    "name": "ImmunoMetabolism Online Seminars",
+    "description": "Due to cancellation of their Symposium in May 2020, ImmunoMetNet has now set-up weekly online seminars with the goal to build a bridge between immunology and metabolism research and medicine.",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "covid19-online-events"
+    ],
+    "resource_category_names": [
+      "COVID19 Online events"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://immunometnet.com",
+    "updated_at": "2020-04-01T09:06:12Z"
+  },
+  {
+    "id": "resource-covid-19-cell-atlas",
+    "type": "resource",
+    "slug": "covid-19-cell-atlas",
+    "name": "COVID-19 Cell Atlas",
+    "description": "Overview of expression of COVID-19/SARS-CoV-2 entry-associated genes in humans.",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "covid19-resources-guidebooks"
+    ],
+    "resource_category_names": [
+      "COVID19 Resources & guidebooks"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://www.covid19cellatlas.org",
+    "updated_at": "2020-04-01T10:12:53Z"
+  },
+  {
+    "id": "resource-coronavirus-the-science-explained",
+    "type": "resource",
+    "slug": "coronavirus-the-science-explained",
+    "name": "Coronavirus: the science explained",
+    "description": "This website will be regularly updated with the latest science information behind the coronavirus outbreak.  The following pages lay out the evidence and the facts about the virus, the disease, the epidemic, and its control. Please note, they are not intended as a source of health advice or official…",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "covid19-resources-guidebooks"
+    ],
+    "resource_category_names": [
+      "COVID19 Resources & guidebooks"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://coronavirusexplained.ukri.org/en/",
+    "updated_at": "2020-04-01T10:14:08Z"
+  },
+  {
+    "id": "resource-cytobank-machine-learning-assisted-analysis",
+    "type": "resource",
+    "slug": "cytobank-machine-learning-assisted-analysis",
+    "name": "Cytobank machine learning-assisted analysis",
+    "description": "Cytobank is a cloud-based single-cell analysis platform that empowers remote work, data management and collaboration. Please join us for weekly, virtual Cytobank educational events, ranging from Virtual Office Hours with Cytobank technical experts, to Bootcamp Webinars covering the Cytobank platform…",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "covid19-online-events"
+    ],
+    "resource_category_names": [
+      "COVID19 Online events"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://info.beckmancoulter.com/webmail/60792/910778357/055861770173245dac70f542547d1004af07493ddaba968e721fd50c41d530e1",
+    "updated_at": "2020-04-01T17:35:12Z"
+  },
+  {
+    "id": "resource-preprints-covid-19",
+    "type": "resource",
+    "slug": "preprints-covid-19",
+    "name": "Preprints & COVID-19",
+    "description": "Landmark preprints in response to COVID-19, maintained by the @preLights team",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "preprints",
+      "covid19-resources-guidebooks"
+    ],
+    "resource_category_names": [
+      "Preprints",
+      "COVID19 Resources & guidebooks"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "http://covidpreprints.com",
+    "updated_at": "2020-04-02T10:45:37Z"
+  },
+  {
+    "id": "resource-ishr-cardiovascular-webinar-series",
+    "type": "resource",
+    "slug": "ishr-cardiovascular-webinar-series",
+    "name": "ISHR Cardiovascular Webinar Series",
+    "description": null,
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "covid19-online-events"
+    ],
+    "resource_category_names": [
+      "COVID19 Online events"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://docs.google.com/spreadsheets/d/1nWVZmyh5koFxb4h3rXUVvkwQH4dPMkDpO_UqwyfQke0/edit#gid=0",
+    "updated_at": "2020-04-06T13:30:41Z"
+  },
+  {
+    "id": "resource-covid-19-literature-digest",
+    "type": "resource",
+    "slug": "covid-19-literature-digest",
+    "name": "COVID-19 Literature Digest",
+    "description": "A group of post-docs and DPhil students in the Medical Sciences Division are voluntarily reviewing some of the immunology-focussed COVID-19 literature, particularly pre-prints. This initiative has been organised by the Kennedy Institute for Rheumatology Journal Club and huge thanks go to all those i…",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "covid19-resources-guidebooks"
+    ],
+    "resource_category_names": [
+      "COVID19 Resources & guidebooks"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://www.immunology.ox.ac.uk/covid-19/literature-digest",
+    "updated_at": "2020-04-09T09:41:09Z"
+  },
+  {
+    "id": "resource-cell-and-developmental-biology-virtual-meeting",
+    "type": "resource",
+    "slug": "cell-and-developmental-biology-virtual-meeting",
+    "name": "Cell and Developmental Biology Virtual Meeting",
+    "description": "The first 'Cell and Developmental Biology Virtual Meeting' on June 3 & 4, 2020. This virtual event will allow you to interact with your peers and gain insights from industry experts, from home at no cost.",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "science-communication",
+      "covid19-online-events"
+    ],
+    "resource_category_names": [
+      "Science Communication",
+      "COVID19 Online events"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://cgm.andor.com/oxfordinstrumentsandorlz/lz.aspx?p1=MqyDU4MjU5MVMwNzYxOkNFRUIxRjNDMjdEQUMyMjQ1QkRBQUZERDFDNkNDQjIw-&CC=&p=0",
+    "updated_at": "2020-04-26T10:35:57Z"
+  },
+  {
+    "id": "resource-list-of-virtual-talks-seminars-forums",
+    "type": "resource",
+    "slug": "list-of-virtual-talks-seminars-forums",
+    "name": "List of virtual talks, seminars, forums",
+    "description": "Various organisations and looser assemblies of locked down researchers have begun to put together online seminar and talk series, many of which are open to anyone (usually with registration), and many of which also have previous talks recorded.",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "science-communication",
+      "covid19-online-events"
+    ],
+    "resource_category_names": [
+      "Science Communication",
+      "COVID19 Online events"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://thenode.biologists.com/list-of-virtual-talks-seminars-forums/events/",
+    "updated_at": "2020-04-26T10:37:09Z"
+  },
+  {
+    "id": "resource-stowers-research-conferences",
+    "type": "resource",
+    "slug": "stowers-research-conferences",
+    "name": "Stowers Research Conferences",
+    "description": "Stowers Research Conferences are biennial meetings that bring together a diverse group of researchers to inspire creative thought and collaboration in the basic sciences.",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "science-communication",
+      "covid19-online-events"
+    ],
+    "resource_category_names": [
+      "Science Communication",
+      "COVID19 Online events"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://www.stowers.org/conferences",
+    "updated_at": "2020-04-29T09:18:12Z"
+  },
+  {
+    "id": "resource-online-plant-science-related-courses",
+    "type": "resource",
+    "slug": "online-plant-science-related-courses",
+    "name": "Online Plant Science-Related Courses",
+    "description": "Quarantine-friendly education and training in plant science, bioinformatics and methods - for researchers and students.",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "career-development",
+      "covid19-resources-guidebooks"
+    ],
+    "resource_category_names": [
+      "Career development",
+      "COVID19 Resources & guidebooks"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://community.plantae.org/article/5509561630179985405/online-plant-science-related-courses",
+    "updated_at": "2020-04-29T09:21:26Z"
+  },
+  {
+    "id": "resource-lipid-talks",
+    "type": "resource",
+    "slug": "lipid-talks",
+    "name": "Lipid talks",
+    "description": "Weekly webinar series. See link for more info.",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "science-communication",
+      "covid19-online-events"
+    ],
+    "resource_category_names": [
+      "Science Communication",
+      "COVID19 Online events"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://twitter.com/ContactCTC/status/1253268389851791361",
+    "updated_at": "2020-04-29T09:21:34Z"
+  },
+  {
+    "id": "resource-global-immunotalks",
+    "type": "resource",
+    "slug": "global-immunotalks",
+    "name": "Global Immunotalks",
+    "description": "Weekly Immunology webinar series. See link for schedule and joining information.",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "science-communication",
+      "covid19-online-events"
+    ],
+    "resource_category_names": [
+      "Science Communication",
+      "COVID19 Online events"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://labs.biology.ucsd.edu/zuniga/global_immunotalks.htm",
+    "updated_at": "2020-04-29T09:21:53Z"
+  },
+  {
+    "id": "resource-pombe-talks",
+    "type": "resource",
+    "slug": "pombe-talks",
+    "name": "Pombe Talks",
+    "description": "See link for more info and to sign up to the mailing list and/or to be a speaker via Google form.",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "science-communication",
+      "covid19-online-events"
+    ],
+    "resource_category_names": [
+      "Science Communication",
+      "COVID19 Online events"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://twitter.com/Dey_Gautam/status/1252935860821069824?s=20",
+    "updated_at": "2020-04-29T09:22:21Z"
+  },
+  {
+    "id": "resource-bioimage-analysis-technology-webinar-series",
+    "type": "resource",
+    "slug": "bioimage-analysis-technology-webinar-series",
+    "name": "Bioimage Analysis Technology Webinar Series",
+    "description": "NEUBIAS Academy is a new initiative, aimed to provide sustainable material and activities focused on Training in Bioimage Analysis.",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "career-development",
+      "teaching",
+      "open-source",
+      "covid19-online-events"
+    ],
+    "resource_category_names": [
+      "Career development",
+      "Teaching",
+      "Open source",
+      "COVID19 Online events"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "http://eubias.org/NEUBIAS/training-schools/neubias-academy-home/",
+    "updated_at": "2020-04-29T09:22:30Z"
+  },
+  {
+    "id": "resource-crossroads-of-biology-meetings-courses-program",
+    "type": "resource",
+    "slug": "crossroads-of-biology-meetings-courses-program",
+    "name": "Crossroads of Biology - Meetings & Courses Program",
+    "description": "Overview of CSHL conferences, some of which are virtual because of COVID-19",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "science-communication",
+      "covid19-online-events"
+    ],
+    "resource_category_names": [
+      "Science Communication",
+      "COVID19 Online events"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "https://meetings.cshl.edu/meetingshome.aspx",
+    "updated_at": "2020-04-29T09:22:38Z"
+  },
+  {
+    "id": "resource-motors-in-quarantine-webinar-series",
+    "type": "resource",
+    "slug": "motors-in-quarantine-webinar-series",
+    "name": "Motors in Quarantine webinar series",
+    "description": "Motors in Quarantine is a weekly webinar series starting on Wednesday 6th May 2020 at 8:00 PDT / 11:00 EDT / 16:00 BST / 17:00 CET / 20:00 IST / 23:00 CST.",
+    "funder_names": [],
+    "funders": [],
+    "country": "",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "resource_categories": [
+      "science-communication",
+      "covid19-online-events"
+    ],
+    "resource_category_names": [
+      "Science Communication",
+      "COVID19 Online events"
+    ],
+    "status": "expired",
+    "featured": false,
+    "url": "http://mechanochemistry.org/whatson/MiQ/index.php",
+    "updated_at": "2020-05-02T13:56:08Z"
   },
   {
     "id": "funder-canadian-institutes-of-health-research",

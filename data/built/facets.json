@@ -3641,7 +3641,7 @@
       {
         "value": "covid19-resources-guidebooks",
         "label": "COVID19 Resources & guidebooks",
-        "count": 24
+        "count": 23
       },
       {
         "value": "covid19-online-events",
@@ -3701,7 +3701,7 @@
       {
         "value": "other",
         "label": "Other",
-        "count": 8
+        "count": 7
       },
       {
         "value": "open-source",
@@ -3741,7 +3741,12 @@
       {
         "value": "active",
         "label": "Active",
-        "count": 162
+        "count": 110
+      },
+      {
+        "value": "expired",
+        "label": "Expired",
+        "count": 52
       }
     ]
   },
@@ -3750,61 +3755,36 @@
       {
         "value": "United States",
         "label": "United States",
-        "count": 324
+        "count": 178
       },
       {
         "value": "United Kingdom",
         "label": "United Kingdom",
-        "count": 65
+        "count": 30
       },
       {
         "value": "Germany",
         "label": "Germany",
-        "count": 23
+        "count": 14
       },
       {
         "value": "Australia",
         "label": "Australia",
-        "count": 22
+        "count": 14
       },
       {
         "value": "Canada",
         "label": "Canada",
-        "count": 15
-      },
-      {
-        "value": "France",
-        "label": "France",
-        "count": 9
+        "count": 11
       },
       {
         "value": "Switzerland",
         "label": "Switzerland",
-        "count": 8
-      },
-      {
-        "value": "Japan",
-        "label": "Japan",
-        "count": 8
-      },
-      {
-        "value": "India",
-        "label": "India",
-        "count": 8
-      },
-      {
-        "value": "China",
-        "label": "China",
         "count": 6
       },
       {
-        "value": "International",
-        "label": "International",
-        "count": 6
-      },
-      {
-        "value": "European Union",
-        "label": "European Union",
+        "value": "France",
+        "label": "France",
         "count": 5
       },
       {
@@ -3815,16 +3795,16 @@
       {
         "value": "Belgium",
         "label": "Belgium",
-        "count": 5
-      },
-      {
-        "value": "New Zealand",
-        "label": "New Zealand",
         "count": 4
       },
       {
-        "value": "Singapore",
-        "label": "Singapore",
+        "value": "India",
+        "label": "India",
+        "count": 4
+      },
+      {
+        "value": "European Union",
+        "label": "European Union",
         "count": 4
       },
       {
@@ -3833,13 +3813,18 @@
         "count": 3
       },
       {
-        "value": "Italy",
-        "label": "Italy",
+        "value": "New Zealand",
+        "label": "New Zealand",
         "count": 3
       },
       {
-        "value": "Norway",
-        "label": "Norway",
+        "value": "Japan",
+        "label": "Japan",
+        "count": 3
+      },
+      {
+        "value": "Singapore",
+        "label": "Singapore",
         "count": 3
       },
       {
@@ -3848,14 +3833,24 @@
         "count": 2
       },
       {
+        "value": "Norway",
+        "label": "Norway",
+        "count": 2
+      },
+      {
+        "value": "China",
+        "label": "China",
+        "count": 2
+      },
+      {
         "value": "Netherlands",
         "label": "Netherlands",
         "count": 2
       },
       {
-        "value": "Israel",
-        "label": "Israel",
-        "count": 2
+        "value": "Italy",
+        "label": "Italy",
+        "count": 1
       },
       {
         "value": "Sweden",
@@ -3873,56 +3868,6 @@
         "count": 1
       },
       {
-        "value": "Egypt",
-        "label": "Egypt",
-        "count": 1
-      },
-      {
-        "value": "United Arab Emirates",
-        "label": "United Arab Emirates",
-        "count": 1
-      },
-      {
-        "value": "Portugal",
-        "label": "Portugal",
-        "count": 1
-      },
-      {
-        "value": "Iran",
-        "label": "Iran",
-        "count": 1
-      },
-      {
-        "value": "South Korea",
-        "label": "South Korea",
-        "count": 1
-      },
-      {
-        "value": "Denmark",
-        "label": "Denmark",
-        "count": 1
-      },
-      {
-        "value": "South Africa",
-        "label": "South Africa",
-        "count": 1
-      },
-      {
-        "value": "Pakistan",
-        "label": "Pakistan",
-        "count": 1
-      },
-      {
-        "value": "Nepal",
-        "label": "Nepal",
-        "count": 1
-      },
-      {
-        "value": "Thailand",
-        "label": "Thailand",
-        "count": 1
-      },
-      {
         "value": "Brazil",
         "label": "Brazil",
         "count": 1
@@ -3935,11 +3880,6 @@
       {
         "value": "United States, Israel",
         "label": "United States, Israel",
-        "count": 1
-      },
-      {
-        "value": "Oman",
-        "label": "Oman",
         "count": 1
       },
       {
@@ -3963,11 +3903,6 @@
         "count": 1
       },
       {
-        "value": "Poland",
-        "label": "Poland",
-        "count": 1
-      },
-      {
         "value": "Asia Pacific",
         "label": "Asia Pacific",
         "count": 1
@@ -3987,20 +3922,20 @@
       {
         "value": "false",
         "label": "Not Featured",
-        "count": 545
+        "count": 297
       }
     ],
     "status": [
       {
         "value": "active",
         "label": "Active",
-        "count": 556
+        "count": 308
       }
     ],
     "dora": [
       {
         "value": "DORA Signatory",
-        "count": 35
+        "count": 25
       }
     ]
   }
