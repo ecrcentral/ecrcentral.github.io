@@ -2,13 +2,7 @@ id: funding-frontier-fellowship
 legacy_id: 718
 slug: frontier-fellowship
 name: Frontier Fellowship
-description: <p>The Frontier Fellowship program supports outstanding young biomedical
-  researchers from around the world. Each fellowship represents an approximately $400,000
-  commitment over four years. Candidates can either perform their research in a single
-  laboratory supported by the Frontier Fellowship program, or engage in collaborative
-  projects that involve a combination of these laboratories. Laboratories participating
-  in the Frontier Fellowship program are in Children&rsquo;s Research Institute at
-  UT Southwestern. The CRI focuses on regenerative medicine, metabolism, and cancer.</p>
+description: 'The Frontier Fellowship program supports outstanding young biomedical researchers from around the world. Each fellowship represents an approximately $400,000 commitment over four years. Candidates can either perform their research in a single laboratory supported by the Frontier Fellowship program, or engage in collaborative projects that involve a combination of these laboratories. Laboratories participating in the Frontier Fellowship program are in Children''s Research Institute at UT Southwestern. The CRI focuses on regenerative medicine, metabolism, and cancer.'
 url: https://www.frontierfellows.org/
 funders: []
 legacy_funder_name: Frontier Fellowship

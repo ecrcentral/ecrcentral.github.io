@@ -2,13 +2,7 @@ id: funding-cihr-fellowship
 legacy_id: 28
 slug: cihr-fellowship
 name: CIHR Fellowship
-description: "CIHR’s Health Research Training Strategy aims to equip research trainees\
-  \ so that they emerge from their training as scientific, professional, or organizational\
-  \ leaders within and beyond the health research enterprise. Generating Research\
-  \ Leaders of tomorrow is a key objective for CIHR.\r\n\r\nFellowships provide support\
-  \ for highly qualified applicants in all areas of health research at the post-PhD\
-  \ degree or post-health professional degree stages to add to their experience by\
-  \ engaging in health research either in Canada or abroad."
+description: CIHR’s Health Research Training Strategy aims to equip research trainees so that they emerge from their training as scientific, professional, or organizational leaders within and beyond the health research enterprise. Generating Research Leaders of tomorrow is a key objective for CIHR. Fellowships provide support for highly qualified applicants in all areas of health research at the post-PhD degree or post-health professional degree stages to add to their experience by engaging in health research either in Canada or abroad.
 url: https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?all=1&masterList=true&next=1&org=CIHR&prog=3103&resultCount=25&sort=program&type=EXACT&view=currentOpps&language=E
 funders:
 - canadian-institutes-of-health-research

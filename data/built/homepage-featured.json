@@ -516,7 +516,7 @@
       "_type": "travel_grant",
       "slug": "iscb-conference-travel-fellowships",
       "name": "ISCB Conference Travel Fellowships",
-      "description": "<p>This Travel Fellowship funds exclusively for ISCB student and Postdoc members to attend the annual conferences such as RECOMB, ISMB, ECCB, and InCoB.</p>",
+      "description": "This Travel Fellowship funds exclusively for ISCB student and Postdoc members to attend the annual conferences such as RECOMB, ISMB, ECCB, and InCoB.",
       "url": "https://www.iscb.org/iscb-conference-travel-fellowships",
       "status": "active",
       "featured": true,

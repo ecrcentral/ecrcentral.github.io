@@ -2,9 +2,7 @@ id: funding-scientia-fellowship-programme
 legacy_id: 711
 slug: scientia-fellowship-programme
 name: Scientia Fellowship Programme
-description: <p>This fellowship programme is launched and managed by the Faculty of
-  Medicine at the University of Oslo. It is partly funded by the EU Horizon 2020 under
-  the Maria Skłodowska-Curie Actions.</p>
+description: This fellowship programme is launched and managed by the Faculty of Medicine at the University of Oslo. It is partly funded by the EU Horizon 2020 under the Maria Skłodowska-Curie Actions.
 url: https://www.med.uio.no/english/research/scientia-fellows/
 funders:
 - h2020-marie-skodowska-curie-actions

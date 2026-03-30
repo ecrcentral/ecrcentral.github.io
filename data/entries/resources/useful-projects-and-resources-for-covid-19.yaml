@@ -3,10 +3,7 @@ legacy_id: 120
 slug: useful-projects-and-resources-for-covid-19
 name: Useful projects and resources for COVID-19
 url: https://github.com/soroushchehresa/awesome-coronavirus
-description: COVID-19 (2019 novel Coronavirus) is a current epidemic as of today.
-  Developers around the world are building applications for the public to get up-to-date
-  and accurate information as quickly as possible.  If you are a developer, you may
-  also be able to contribute to some of these projects.
+description: COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers around the world are building applications for the public to get up-to-date and accurate information as quickly as possible. If you are a developer, you may also be able to contribute to some of these projects.
 source_name: Soroush Chehresa (GitHub)
 funders: []
 resource_categories:

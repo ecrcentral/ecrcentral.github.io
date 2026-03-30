@@ -2,11 +2,7 @@ id: funding-lise-meitner-program
 legacy_id: 20
 slug: lise-meitner-program
 name: Lise Meitner Program
-description: "Target group\r\nhighly qualified researchers of any discipline who could\
-  \ contribute to the scientific development of an Austrian research institution by\
-  \ working at it.\r\n\r\nincoming: post-doctoral researchers from abroad\r\nreintegration:\
-  \ post-doctoral researchers who have left Austria and wish to return to an Austrian\
-  \ research institution"
+description: 'Target group highly qualified researchers of any discipline who could contribute to the scientific development of an Austrian research institution by working at it. incoming: post-doctoral researchers from abroad reintegration: post-doctoral researchers who have left Austria and wish to return to an Austrian research institution'
 url: http://www.fwf.ac.at/en/research-funding/fwf-programmes/meitner-programme
 funders:
 - austrian-science-fund

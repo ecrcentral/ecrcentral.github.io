@@ -2,13 +2,7 @@ id: funding-mrc-new-investigator-research-grant
 legacy_id: 727
 slug: mrc-new-investigator-research-grant
 name: MRC New Investigator Research Grant
-description: '<p style="font-size: 16px; margin: 0px 0px 1.3em; padding: 0px; border:
-  0px; font-stretch: inherit; line-height: inherit; font-family: ''Neue Helvetica
-  W01'', arial, sans-serif; caret-color: #3a3a3a; color: #3a3a3a;">The New Investigator
-  Research Grant (NIRG) is aimed at researchers who are capable of becoming independent
-  Principal Investigators and who are now ready to take the next step towards that
-  goal. There is a short video available on the website to explaining what the MRC
-  expects from a great NIRG application.</p>'
+description: '0px; font-stretch: inherit; line-height: inherit; font-family: ''Neue Helvetica W01'', arial, sans-serif; caret-color: #3a3a3a; color: #3a3a3a;">The New Investigator Research Grant (NIRG) is aimed at researchers who are capable of becoming independent Principal Investigators and who are now ready to take the next step towards that goal. There is a short video available on the website to explaining what the MRC expects from a great NIRG application.'
 url: https://mrc.ukri.org/funding/how-we-fund-research/new-investigator-research-grant/
 funders:
 - medical-research-council

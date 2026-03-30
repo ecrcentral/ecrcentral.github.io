@@ -2,13 +2,7 @@ id: funding-epsrc-postdoctoral-fellowship
 legacy_id: 63
 slug: epsrc-postdoctoral-fellowship
 name: EPSRC  Postdoctoral Fellowship
-description: "The EPSRC Fellowship aims to provide greater support to aspiring and\
-  \ current world-leading individuals who are delivering the highest quality research\
-  \ to meet UK and global priorities. By linking to our strategic priorities and focusing\
-  \ on areas where growth is required, EPSRC Fellowships develop researchers with\
-  \ the greatest potential across the postdoctoral, early and established career stages.\r\
-  \n\r\nAn EPSRC Fellowship offers a unique package of support, flexibility and freedom\
-  \ for individuals to develop their research ideas and outputs."
+description: The EPSRC Fellowship aims to provide greater support to aspiring and current world-leading individuals who are delivering the highest quality research to meet UK and global priorities. By linking to our strategic priorities and focusing on areas where growth is required, EPSRC Fellowships develop researchers with the greatest potential across the postdoctoral, early and established career stages. An EPSRC Fellowship offers a unique package of support, flexibility and freedom for individuals to develop their research ideas and outputs.
 url: https://epsrc.ukri.org/skills/fellows/
 funders:
 - engineering-and-physical-sciences-research-council

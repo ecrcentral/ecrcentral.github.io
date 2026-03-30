@@ -2,14 +2,7 @@ id: funding-jsmf-postdoctoral-fellowship
 legacy_id: 112
 slug: jsmf-postdoctoral-fellowship
 name: JSMF Postdoctoral Fellowship
-description: The Understanding Dynamic and Multi-scale Systems program supports scholarship
-  and research directed toward the discovery and refinement of theoretical and mathematical
-  tools contributing to the continued development of the study of complex, adaptive,
-  nonlinear systems. The program's emphasis is on the development and application
-  of the theory and tools used in the study of complex research questions and not
-  on particular fields of research per se.  JSMF is also interested in projects attempting
-  to apply complex systems approaches to coherently articulated questions where such
-  approaches are not yet standard but could open up new paths to progress.
+description: 'The Understanding Dynamic and Multi-scale Systems program supports scholarship and research directed toward the discovery and refinement of theoretical and mathematical tools contributing to the continued development of the study of complex, adaptive, nonlinear systems. The program''s emphasis is on the development and application of the theory and tools used in the study of complex research questions and not on particular fields of research per se. JSMF is also interested in projects attempting to apply complex systems approaches to coherently articulated questions where such approaches are not yet standard but could open up new paths to progress.'
 url: https://www.jsmf.org/apply/fellowship
 funders:
 - james-s-mcdonnell-foundation

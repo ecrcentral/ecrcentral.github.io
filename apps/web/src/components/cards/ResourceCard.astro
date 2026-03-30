@@ -7,6 +7,7 @@ interface Props {
 }
 
 const { resource, compact = false } = Astro.props
+const stripHtml = (html: string | null | undefined) => html?.replace(/<[^>]*>/g, '').trim() ?? ''
 
 const statusClass: Record<string, string> = {
   active: 'badge-active',
@@ -63,7 +64,7 @@ const statusClass: Record<string, string> = {
 
     <!-- Description -->
     {!compact && resource.description && (
-      <p class="card-description">{resource.description}</p>
+      <p class="card-description">{stripHtml(resource.description)}</p>
     )}
 
     <!-- Category tags -->

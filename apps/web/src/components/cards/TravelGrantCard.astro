@@ -8,6 +8,7 @@ interface Props {
 }
 
 const { grant, compact = false, homepage = false } = Astro.props
+const stripHtml = (html: string | null | undefined) => html?.replace(/<[^>]*>/g, '').trim() ?? ''
 
 const firstFunderLogo = grant.funder_logos?.[0] ?? null
 const firstFunderName = grant.funder_names?.[0] ?? grant.legacy_funder_name ?? null
@@ -147,7 +148,7 @@ const membershipRequired = grant.membership?.toLowerCase() === 'yes'
 
     <!-- Description -->
     {!compact && grant.description && (
-      <p class="card-description">{grant.description}</p>
+      <p class="card-description">{stripHtml(grant.description)}</p>
     )}
 
     <!-- Career level tags -->

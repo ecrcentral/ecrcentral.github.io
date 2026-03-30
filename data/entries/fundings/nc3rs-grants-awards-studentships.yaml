@@ -2,46 +2,7 @@ id: funding-nc3rs-grants-awards-studentships
 legacy_id: 141
 slug: nc3rs-grants-awards-studentships
 name: NC3Rs - grants, awards, studentships
-description: "<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color:\
-  \ #222222; font-family: Arial, Helvetica, sans-serif;\"><span style=\"font-size:\
-  \ 10pt; font-family: Arial, sans-serif;\">Project Grants - Need to hold a PhD<u></u><u></u></span></p>\r\
-  \n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222;\
-  \ font-family: Arial, Helvetica, sans-serif;\"><span style=\"font-size: 10pt; font-family:\
-  \ Arial, sans-serif;\"><u></u>&nbsp;<u></u></span></p>\r\n<p class=\"MsoNormal\"\
-  \ style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial,\
-  \ Helvetica, sans-serif;\"><span style=\"font-size: 10pt; font-family: Arial, sans-serif;\"\
-  ><a style=\"color: #1155cc;\" href=\"https://www.nc3rs.org.uk/our-funding-schemes/project-grants\"\
-  \ target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.nc3rs.org.uk/our-funding-schemes/project-grants&amp;source=gmail&amp;ust=1707910868716000&amp;usg=AOvVaw1qFSOWmBd8TUMfNQWMbHEE\"\
-  >https://www.nc3rs.org.uk/our-<wbr />funding-schemes/project-grants</a><u></u><u></u></span></p>\r\
-  \n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222;\
-  \ font-family: Arial, Helvetica, sans-serif;\"><span style=\"font-size: 10pt; font-family:\
-  \ Arial, sans-serif;\"><u></u>&nbsp;<u></u></span></p>\r\n<p class=\"MsoNormal\"\
-  \ style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial,\
-  \ Helvetica, sans-serif;\"><span style=\"font-size: 10pt; font-family: Arial, sans-serif;\"\
-  >Partnerships &amp; Impact &ndash; Need to hold a PhD<u></u><u></u></span></p>\r\
-  \n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222;\
-  \ font-family: Arial, Helvetica, sans-serif;\"><span style=\"font-size: 10pt; font-family:\
-  \ Arial, sans-serif;\"><u></u>&nbsp;<u></u></span></p>\r\n<p class=\"MsoNormal\"\
-  \ style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial,\
-  \ Helvetica, sans-serif;\"><span style=\"font-size: 10pt; font-family: Arial, sans-serif;\"\
-  ><a style=\"color: #1155cc;\" href=\"https://www.nc3rs.org.uk/our-funding-schemes/partnership-and-impact-awards\"\
-  \ target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.nc3rs.org.uk/our-funding-schemes/partnership-and-impact-awards&amp;source=gmail&amp;ust=1707910868716000&amp;usg=AOvVaw2zZL_QuJn-7MMHGV-9tJIK\"\
-  >https://www.nc3rs.org.uk/our-<wbr />funding-schemes/partnership-<wbr />and-impact-awards</a><u></u><u></u></span></p>\r\
-  \n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222;\
-  \ font-family: Arial, Helvetica, sans-serif;\"><span style=\"font-size: 10pt; font-family:\
-  \ Arial, sans-serif;\"><u></u>&nbsp;<u></u></span></p>\r\n<p class=\"MsoNormal\"\
-  \ style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial,\
-  \ Helvetica, sans-serif;\"><span style=\"font-size: 10pt; font-family: Arial, sans-serif;\"\
-  >Studentship call &ndash; Need min 5 years postdoctoral experience, but can be named\
-  \ on application if don&rsquo;t have this experience level.<u></u><u></u></span></p>\r\
-  \n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222;\
-  \ font-family: Arial, Helvetica, sans-serif;\"><span style=\"font-size: 10pt; font-family:\
-  \ Arial, sans-serif;\"><u></u>&nbsp;<u></u></span></p>\r\n<p class=\"MsoNormal\"\
-  \ style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial,\
-  \ Helvetica, sans-serif;\"><span style=\"font-size: 10pt; font-family: Arial, sans-serif;\"\
-  ><a style=\"color: #1155cc;\" href=\"https://www.nc3rs.org.uk/our-funding-schemes/phd-studentships\"\
-  \ target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.nc3rs.org.uk/our-funding-schemes/phd-studentships&amp;source=gmail&amp;ust=1707910868716000&amp;usg=AOvVaw0M6blHfzKaCaT_iS61Mb9c\"\
-  >https://www.nc3rs.org.uk/our-<wbr />funding-schemes/phd-<wbr />studentships</a></span></p>"
+description: '#222222; font-family: Arial, Helvetica, sans-serif;"> Project Grants - Need to hold a PhD https://www.nc3rs.org.uk/our- funding-schemes/project-grants Partnerships & Impact – Need to hold a PhD https://www.nc3rs.org.uk/our- funding-schemes/partnership- and-impact-awards Studentship call – Need min 5 years postdoctoral experience, but can be named on application if don''t have this experience level. https://www.nc3rs.org.uk/our- funding-schemes/phd- studentships'
 url: https://www.nc3rs.org.uk/our-funding-schemes
 funders:
 - national-centre-for-the-replacement-refinement-and-reduction-of-animals-in-research

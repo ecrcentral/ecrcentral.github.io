@@ -2,13 +2,7 @@ id: funding-ebi-sanger-postdoctoral-fellowships
 legacy_id: 59
 slug: ebi-sanger-postdoctoral-fellowships
 name: EBI-Sanger postdoctoral fellowships
-description: "The EBI–Sanger Postdoctoral (ESPOD) Programme builds on the collaborative\
-  \ relationship between EMBL-EBI and the Wellcome Sanger Institute, offering projects\
-  \ that combine experimental (wet-lab) and computational (dry-lab) approaches.\r\n\
-  \r\nBoth institutions are located on the Wellcome Genome Campus: their proximity\
-  \ fosters great opportunities for close collaborations. Our researchers have easy\
-  \ access to scientific expertise, well-equipped facilities and an active seminar\
-  \ programme."
+description: 'The EBI–Sanger Postdoctoral (ESPOD) Programme builds on the collaborative relationship between EMBL-EBI and the Wellcome Sanger Institute, offering projects that combine experimental (wet-lab) and computational (dry-lab) approaches. Both institutions are located on the Wellcome Genome Campus: their proximity fosters great opportunities for close collaborations. Our researchers have easy access to scientific expertise, well-equipped facilities and an active seminar programme.'
 url: https://www.ebi.ac.uk/research/postdocs/espods
 funders:
 - wellcome-trust

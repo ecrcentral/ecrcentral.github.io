@@ -46,7 +46,7 @@
     "type": "funding",
     "slug": "ebi-sanger-postdoctoral-fellowships",
     "name": "EBI-Sanger postdoctoral fellowships",
-    "description": "The EBI–Sanger Postdoctoral (ESPOD) Programme builds on the collaborative relationship between EMBL-EBI and the Wellcome Sanger Institute, offering projects that combine experimental (wet-lab) and computational (dry-lab) approaches.\r\n\r\nBoth institutions are located on the Wellcome Genome Campus: the…",
+    "description": "The EBI–Sanger Postdoctoral (ESPOD) Programme builds on the collaborative relationship between EMBL-EBI and the Wellcome Sanger Institute, offering projects that combine experimental (wet-lab) and computational (dry-lab) approaches. Both institutions are located on the Wellcome Genome Campus: their…",
     "funder_names": [
       "Wellcome Trust",
       "European Molecular Biology Laboratory"
@@ -90,7 +90,7 @@
     "type": "funding",
     "slug": "marie-curie-individual-fellowships",
     "name": "Marie Curie Individual Fellowships",
-    "description": "The goal of the Individual Fellowships is to enhance the creative and innovative potential of experienced researchers, wishing to diversify their individual competence in terms of skill acquisition through advanced training, international and intersectoral mobility.\r\n\r\nIndividual Fellowships provide…",
+    "description": "The goal of the Individual Fellowships is to enhance the creative and innovative potential of experienced researchers, wishing to diversify their individual competence in terms of skill acquisition through advanced training, international and intersectoral mobility. Individual Fellowships provide op…",
     "funder_names": [
       "H2020 Marie Skłodowska-Curie Actions"
     ],
@@ -4194,7 +4194,7 @@
     "type": "funding",
     "slug": "arsep-fondation-research-grants-and-associated-fellowships",
     "name": "ARSEP fondation Research grants and Associated Fellowships",
-    "description": "<p>For investigator-initiated support requests, no topic restrictions are imposed, other than the required demonstration of relevance to Multiple Sclerosis. ARSEP Foundation welcomes any basic and clinical research applications focused on Multiple Sclerosis, including for example: immunologic basis…",
+    "description": "For investigator-initiated support requests, no topic restrictions are imposed, other than the required demonstration of relevance to Multiple Sclerosis. ARSEP Foundation welcomes any basic and clinical research applications focused on Multiple Sclerosis, including for example: immunologic basis of…",
     "funder_names": [
       "Fondation pour l'Aide à la Recherche sur la Sclérose en Plaques"
     ],
@@ -4218,39 +4218,11 @@
     "updated_at": "2019-05-08T04:44:45Z"
   },
   {
-    "id": "funding-arsep-fondation-working-visits-travel-grants",
-    "type": "funding",
-    "slug": "arsep-fondation-working-visits-travel-grants",
-    "name": "ARSEP fondation WORKING VISITS / TRAVEL GRANTS",
-    "description": "<p>\"The purpose of the awards is to facilitate exchanges between clinical centres and/or laboratories involved in Multiple Sclerosis. Travel may be within, to, or from France. It is primarily aimed at clinicians, researchers or technicians wishing to undertake a period of training in an area relatin…",
-    "funder_names": [
-      "Fondation pour l'Aide à la Recherche sur la Sclérose en Plaques"
-    ],
-    "funders": [
-      "fondation-pour-laide-a-la-recherche-sur-la-sclerose-en-plaques"
-    ],
-    "country": "Worldwide",
-    "applicant_country": "Worldwide",
-    "host_country": "France",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "funding_purposes": [],
-    "funding_purpose_names": [],
-    "status": "active",
-    "featured": false,
-    "deadline_month": "",
-    "search_text": "ARSEP fondation WORKING VISITS / TRAVEL GRANTS <p>\"The purpose of the awards is to facilitate exchanges between clinical centres and/or laboratories involved in Multiple Sclerosis. Travel may be within, to, or from France. It is primarily aimed at clinicians, researchers or technicians wishing to undertake a period of training in an area relating to Multiple Sclerosis at a different location from their current institution\".</p> Fondation pour l'Aide à la Recherche sur la Sclérose en Plaques France Worldwide",
-    "url": "https://www.arsep.org/fr/220-calls-for-proposals.html",
-    "updated_at": "2019-05-10T06:48:53Z"
-  },
-  {
     "id": "funding-scientia-fellowship-programme",
     "type": "funding",
     "slug": "scientia-fellowship-programme",
     "name": "Scientia Fellowship Programme",
-    "description": "<p>This fellowship programme is launched and managed by the Faculty of Medicine at the University of Oslo. It is partly funded by the EU Horizon 2020 under the Maria Skłodowska-Curie Actions.</p>",
+    "description": "This fellowship programme is launched and managed by the Faculty of Medicine at the University of Oslo. It is partly funded by the EU Horizon 2020 under the Maria Skłodowska-Curie Actions.",
     "funder_names": [
       "H2020 Marie Skłodowska-Curie Actions"
     ],
@@ -4322,7 +4294,7 @@
     "type": "funding",
     "slug": "aj-clark-studentship",
     "name": "AJ Clark Studentship",
-    "description": "<p>This studentship enables scientists with degrees in pharmacology or related disciplines to carry out research in pharmacology leading to the degree of PhD. Winners will receive nearly &pound;100,000 over three years. As of the 2020 award, studentships will be co-funded with the host universities.…",
+    "description": "This studentship enables scientists with degrees in pharmacology or related disciplines to carry out research in pharmacology leading to the degree of PhD. Winners will receive nearly £100,000 over three years. As of the 2020 award, studentships will be co-funded with the host universities. The Brit…",
     "funder_names": [],
     "funders": [],
     "country": "United Kingdom",
@@ -4350,7 +4322,7 @@
     "type": "funding",
     "slug": "viral-autoimmune-hepatitis-funding-for-mid-career-researchers",
     "name": "Viral & Autoimmune Hepatitis: Funding for Mid-Career Researchers",
-    "description": "<p>The Medical Research Foundation is inviting applications from mid-career researchers who have the potential to be the research leaders of the future, to support research that will increase understanding of the disease mechanisms underlying viral or autoimmune hepatitis. Researchers whose work may…",
+    "description": "The Medical Research Foundation is inviting applications from mid-career researchers who have the potential to be the research leaders of the future, to support research that will increase understanding of the disease mechanisms underlying viral or autoimmune hepatitis. Researchers whose work may le…",
     "funder_names": [],
     "funders": [],
     "country": "United Kingdom",
@@ -4378,7 +4350,7 @@
     "type": "funding",
     "slug": "banting-research-foundation-discovery-award",
     "name": "Banting Research Foundation Discovery Award",
-    "description": "<p>The Discovery Award is a one-year grant of up to $25,000 for innovative health and biomedical research projects by outstanding new investigators at universities and research institutes in Canada who are within the first three years of their first academic appointment. The intent is to provide see…",
+    "description": "The Discovery Award is a one-year grant of up to $25,000 for innovative health and biomedical research projects by outstanding new investigators at universities and research institutes in Canada who are within the first three years of their first academic appointment. The intent is to provide seed f…",
     "funder_names": [],
     "funders": [],
     "country": "Canada",
@@ -4412,7 +4384,7 @@
     "type": "funding",
     "slug": "hearing-health-foundation-emerging-research-grants",
     "name": "Hearing Health Foundation: Emerging Research Grants",
-    "description": "<p>Through the Emerging Research Grants (ERG) program, Hearing Health Foundation (HHF) provides seed money to hearing and balance researchers who focus on researching underfunded areas of otology. Grantees advance scientific knowledge in the following under-researched areas: Hearing Loss in Children…",
+    "description": "Through the Emerging Research Grants (ERG) program, Hearing Health Foundation (HHF) provides seed money to hearing and balance researchers who focus on researching underfunded areas of otology. Grantees advance scientific knowledge in the following under-researched areas: Hearing Loss in Children, C…",
     "funder_names": [],
     "funders": [],
     "country": "United States",
@@ -4436,7 +4408,7 @@
     "type": "funding",
     "slug": "mrc-new-investigator-research-grant",
     "name": "MRC New Investigator Research Grant",
-    "description": "<p style=\"font-size: 16px; margin: 0px 0px 1.3em; padding: 0px; border: 0px; font-stretch: inherit; line-height: inherit; font-family: 'Neue Helvetica W01', arial, sans-serif; caret-color: #3a3a3a; color: #3a3a3a;\">The New Investigator Research Grant (NIRG) is aimed at researchers who are capable of…",
+    "description": "0px; font-stretch: inherit; line-height: inherit; font-family: 'Neue Helvetica W01', arial, sans-serif; caret-color: #3a3a3a; color: #3a3a3a;\">The New Investigator Research Grant (NIRG) is aimed at researchers who are capable of becoming independent Principal Investigators and who are now ready to t…",
     "funder_names": [
       "Medical Research Council"
     ],
@@ -4474,7 +4446,7 @@
     "type": "funding",
     "slug": "frontier-fellowship",
     "name": "Frontier Fellowship",
-    "description": "<p>The Frontier Fellowship program supports outstanding young biomedical researchers from around the world. Each fellowship represents an approximately $400,000 commitment over four years. Candidates can either perform their research in a single laboratory supported by the Frontier Fellowship progra…",
+    "description": "The Frontier Fellowship program supports outstanding young biomedical researchers from around the world. Each fellowship represents an approximately $400,000 commitment over four years. Candidates can either perform their research in a single laboratory supported by the Frontier Fellowship program,…",
     "funder_names": [],
     "funders": [],
     "country": "Worldwide",
@@ -4498,7 +4470,7 @@
     "type": "funding",
     "slug": "post-doctoral-fellowships-from-the-de-duve-institute",
     "name": "Post-Doctoral fellowships from the de Duve Institute",
-    "description": "<p><span style=\"font-size: 16px; caret-color: #333333; color: #333333; font-family: Quicksand, Arial, Tahoma; text-align: justify;\">The de Duve Institute is on the list of institutions recognized by the Belgian government to be eligible for tax-exempt prizes and subsidies. The Institute awards 1-yea…",
+    "description": "font-family: Quicksand, Arial, Tahoma; text-align: justify;\">The de Duve Institute is on the list of institutions recognized by the Belgian government to be eligible for tax-exempt prizes and subsidies. The Institute awards 1-year fellowships, which are renewable once, to young scientists who in pri…",
     "funder_names": [],
     "funders": [],
     "country": "Belgium",
@@ -4530,7 +4502,7 @@
     "type": "funding",
     "slug": "fy2020-jsps-london-call-for-the-short-term-prepostdoctoral-fellowship-for-research-in-japan",
     "name": "FY2020 JSPS London Call for the Short Term Pre/Postdoctoral Fellowship for Research in Japan",
-    "description": "This programme provides the opportunity for short-term visits for pre- and post-doctoral UK researchers and European, North American and Canadian researchers based in the UK and the Republic of Ireland, for cooperative research with leading research groups at Japanese Universities and Institutions.…",
+    "description": "This programme provides the opportunity for short-term visits for pre- and post-doctoral UK researchers and European, North American and Canadian researchers based in the UK and the Republic of Ireland, for cooperative research with leading research groups at Japanese Universities and Institutions.…",
     "funder_names": [],
     "funders": [],
     "country": "UK or Ireland",
@@ -4562,7 +4534,7 @@
     "type": "funding",
     "slug": "research-fellowship-competition",
     "name": "Research Fellowship Competition",
-    "description": "<p>Research Fellowships are awarded to individuals judged to be the most able with an exceptionally strong academic record who have demonstrated outstanding capacity to conduct original and innovative doctoral research in science or the humanities. Those to whom Research Fellowships are awarded are…",
+    "description": "Research Fellowships are awarded to individuals judged to be the most able with an exceptionally strong academic record who have demonstrated outstanding capacity to conduct original and innovative doctoral research in science or the humanities. Those to whom Research Fellowships are awarded are abo…",
     "funder_names": [
       "University of Cambridge"
     ],
@@ -4670,7 +4642,7 @@
     "type": "funding",
     "slug": "burroughs-wellcome-fund",
     "name": "Burroughs Wellcome Fund",
-    "description": "The Burroughs Wellcome Fund's grantmaking strategies support biomedical scientists at the beginning of their careers and areas of science that are poised for significant advancement but are currently undervalued and underfunded.  Funding available for postdoctoral research and for faculty positions.",
+    "description": "The Burroughs Wellcome Fund's grantmaking strategies support biomedical scientists at the beginning of their careers and areas of science that are poised for significant advancement but are currently undervalued and underfunded. Funding available for postdoctoral research and for faculty positions.",
     "funder_names": [
       "Burroughs Wellcome Fund"
     ],
@@ -4716,7 +4688,7 @@
     "type": "funding",
     "slug": "basil-oconnor-starter-scholar-research-award",
     "name": "Basil O’Connor Starter Scholar Research Award",
-    "description": "Basil O’Connor Starter Scholar Research Awards (BOC) support young physicians/scientists committed to the mission of the March of Dimes.  March of Dimes leads the fight for the health of all moms and babies.\r\nApplications focused on preterm birth and birth defects are prioritized.  All applications…",
+    "description": "Basil O’Connor Starter Scholar Research Awards (BOC) support young physicians/scientists committed to the mission of the March of Dimes. March of Dimes leads the fight for the health of all moms and babies. Applications focused on preterm birth and birth defects are prioritized. All applications are…",
     "funder_names": [
       "March of Dimes Canada"
     ],
@@ -5346,7 +5318,7 @@
     "type": "funding",
     "slug": "leon-i-goldberg-early-investigator-award",
     "name": "Leon I. Goldberg Early Investigator Award",
-    "description": "The Leon I. Goldberg Early Investigator Award was established in 1986 to honor a young scientist for accomplishments in the field of clinical pharmacology achieved early in his/her career.\r\nThe goal of the Leon I. Goldberg Early Investigator Award is to encourage and recognize these scientists activ…",
+    "description": "The Leon I. Goldberg Early Investigator Award was established in 1986 to honor a young scientist for accomplishments in the field of clinical pharmacology achieved early in his/her career. The goal of the Leon I. Goldberg Early Investigator Award is to encourage and recognize these scientists active…",
     "funder_names": [
       "American Society for Clinical Pharmacology and Therapeutics"
     ],
@@ -5708,7 +5680,7 @@
     "type": "funding",
     "slug": "postdoctoral-research-fellowships-in-biology",
     "name": "Postdoctoral Research Fellowships in Biology",
-    "description": "The Directorate for Biological Sciences (BIO) awards Postdoctoral Research Fellowships in Biology (PRFB) to recent recipients of the doctoral degree for research and training in selected areas supported by BIO and with special goals for human resource development in biology.  The fellowships encoura…",
+    "description": "The Directorate for Biological Sciences (BIO) awards Postdoctoral Research Fellowships in Biology (PRFB) to recent recipients of the doctoral degree for research and training in selected areas supported by BIO and with special goals for human resource development in biology. The fellowships encourag…",
     "funder_names": [
       "National Science Foundation"
     ],
@@ -6042,7 +6014,7 @@
     "type": "funding",
     "slug": "the-lasker-clinical-research-scholars-program",
     "name": "The Lasker Clinical Research Scholars Program",
-    "description": "The program supports a small number of exceptional clinical researchers in the early stages of their careers to promote their development to fully independent positions. Successful candidates are designated as Lasker Clinical Research Scholars.\r\n\r\nLasker Scholars receive a unique combination of NIH…",
+    "description": "The program supports a small number of exceptional clinical researchers in the early stages of their careers to promote their development to fully independent positions. Successful candidates are designated as Lasker Clinical Research Scholars. Lasker Scholars receive a unique combination of NIH fun…",
     "funder_names": [
       "Lasker Foundation",
       "National Institutes of Health (NIH)"
@@ -6084,7 +6056,7 @@
     "type": "funding",
     "slug": "academy-of-finlands-funding-for-research-posts-as-postdoctoral-researcher",
     "name": "Academy of Finland’s funding for research posts as Postdoctoral Researcher",
-    "description": "The aim of the Academy of Finland’s funding for research posts as Postdoctoral Researcher is to advance the professional competence of the most promising researchers who have recently completed their doctoral degree.\r\n\r\nPostdoctoral Researchers are encouraged to international mobility and collaborat…",
+    "description": "The aim of the Academy of Finland’s funding for research posts as Postdoctoral Researcher is to advance the professional competence of the most promising researchers who have recently completed their doctoral degree. Postdoctoral Researchers are encouraged to international mobility and collaboration…",
     "funder_names": [
       "Academy of Finland"
     ],
@@ -6130,7 +6102,7 @@
     "type": "funding",
     "slug": "genentech-amd-research-fellowships",
     "name": "Genentech AMD Research Fellowships",
-    "description": "The Genentech Age-related Macular Degeneration (AMD) Research Fellowships offers two grants:\r\n\r\nbasic research in the understanding of AMD and\r\ntranslational AMD research focusing on therapeutics (not yet in clinical trials)\r\nEach research fellowship (basic and translational) is $40,000. This award,…",
+    "description": "The Genentech Age-related Macular Degeneration (AMD) Research Fellowships offers two grants: basic research in the understanding of AMD and translational AMD research focusing on therapeutics (not yet in clinical trials) Each research fellowship (basic and translational) is $40,000. This award, whic…",
     "funder_names": [
       "ARVO Foundation"
     ],
@@ -6174,7 +6146,7 @@
     "type": "funding",
     "slug": "academy-of-finlands-funding-for-research-posts-as-academy-research-fellow",
     "name": "Academy of Finland’s funding for research posts as academy research fellow",
-    "description": "Research posts as Academy Research Fellow offer researchers a fixed-term opportunity to gain competence for the most demanding research posts after the postdoctoral research stage.\r\n\r\nThe post is intended for independent scientific work in accordance with a set research plan. In addition, the duties…",
+    "description": "Research posts as Academy Research Fellow offer researchers a fixed-term opportunity to gain competence for the most demanding research posts after the postdoctoral research stage. The post is intended for independent scientific work in accordance with a set research plan. In addition, the duties al…",
     "funder_names": [
       "Academy of Finland"
     ],
@@ -6218,7 +6190,7 @@
     "type": "funding",
     "slug": "academy-of-finlands-funding-for-research-posts-as-clinical-researcher",
     "name": "Academy of Finland’s funding for research posts as clinical researcher",
-    "description": "Funding for a clinical researcher post may be applied for by a medical doctor with a doctoral degree working in clinical practice or some other healthcare professional with a doctoral degree engaged in clinical practice.\r\n\r\nThe funding is granted towards salary costs to support part-time research (2…",
+    "description": "Funding for a clinical researcher post may be applied for by a medical doctor with a doctoral degree working in clinical practice or some other healthcare professional with a doctoral degree engaged in clinical practice. The funding is granted towards salary costs to support part-time research (20–5…",
     "funder_names": [
       "Academy of Finland"
     ],
@@ -6360,7 +6332,7 @@
     "type": "funding",
     "slug": "mentored-quantitative-research-development-award-parent-k25",
     "name": "Mentored Quantitative Research Development Award (Parent K25)",
-    "description": "The purpose of the Mentored Quantitative Research Career Development Award (K25) is to attract to NIH-relevant research those investigators whose quantitative science and engineering research has thus far not been focused primarily on questions of health and disease.  The K25 award will provide supp…",
+    "description": "The purpose of the Mentored Quantitative Research Career Development Award (K25) is to attract to NIH-relevant research those investigators whose quantitative science and engineering research has thus far not been focused primarily on questions of health and disease. The K25 award will provide suppo…",
     "funder_names": [
       "National Institutes of Health (NIH)"
     ],
@@ -6536,7 +6508,7 @@
     "type": "funding",
     "slug": "niaid-career-transition-award-k22",
     "name": "NIAID Career Transition Award (K22)",
-    "description": "To apply, you must be a biomedical or behavioral postdoctoral scientist with a research doctorate (Ph.D.)  and/or clinical doctorate (e.g., M.D., D.V.M.), with no more than five years of postdoctoral training experience at the time of K22 submission or resubmission with plans to transition to a full…",
+    "description": "To apply, you must be a biomedical or behavioral postdoctoral scientist with a research doctorate (Ph.D.) and/or clinical doctorate (e.g., M.D., D.V.M.), with no more than five years of postdoctoral training experience at the time of K22 submission or resubmission with plans to transition to a full-…",
     "funder_names": [
       "National Institutes of Health (NIH)"
     ],
@@ -7012,7 +6984,7 @@
     "type": "funding",
     "slug": "postdoctoral-stipends-in-life-sciences-from-peter-und-traudl-engelhorn-stiftung",
     "name": "Postdoctoral Stipends in Life Sciences from Peter und Traudl Engelhorn Stiftung",
-    "description": "Postdoc stipend in the field of life sciences  (biochemistry, molecular biology, biotechnology, genetics, proteomics, molecular biology, cell biology, systems biology, microbiology, biomedical technology, biophysics, genetic engineering, bioinformatics, etc.)",
+    "description": "Postdoc stipend in the field of life sciences (biochemistry, molecular biology, biotechnology, genetics, proteomics, molecular biology, cell biology, systems biology, microbiology, biomedical technology, biophysics, genetic engineering, bioinformatics, etc.)",
     "funder_names": [
       "Peter und Traudl Engelhorn Stiftung"
     ],
@@ -7238,7 +7210,7 @@
     "type": "funding",
     "slug": "dermatology-fellows-award-melanoma-research-alliance",
     "name": "Dermatology Fellows Award (Melanoma Research Alliance)",
-    "description": "The aim of this training program is to drive greater interest in the prevention, detection,  diagnosis,  and  staging of  melanoma  among  dermatologists  by  investing  in  post-docs  and  medical residents focused on dermatology.",
+    "description": "The aim of this training program is to drive greater interest in the prevention, detection, diagnosis, and staging of melanoma among dermatologists by investing in post-docs and medical residents focused on dermatology.",
     "funder_names": [
       "Melanoma Research Alliance"
     ],
@@ -8290,7 +8262,7 @@
     "type": "funding",
     "slug": "smithsonian-fellowship-opportunities",
     "name": "Smithsonian Fellowship Opportunities",
-    "description": "This is a list of  current fellowship opportunities at the Smithsonian, sorted by unit. Use this list to get a better sense about where you might like to pursue a fellowship at the Smithsonian and click the links to dig deeper.",
+    "description": "This is a list of current fellowship opportunities at the Smithsonian, sorted by unit. Use this list to get a better sense about where you might like to pursue a fellowship at the Smithsonian and click the links to dig deeper.",
     "funder_names": [
       "Smithsonian Institution"
     ],
@@ -8860,7 +8832,7 @@
     "type": "funding",
     "slug": "basic-science-grants",
     "name": "Basic Science Grants",
-    "description": "The American Society for Surgery of the Hand (ASSH) and the American Foundation for Surgery of the Hand (AFSH) have established grant funding to encourage investigators to perform basic science research studies.  Their goal is to enable investigators to initiate pilot projects that will lead to subs…",
+    "description": "The American Society for Surgery of the Hand (ASSH) and the American Foundation for Surgery of the Hand (AFSH) have established grant funding to encourage investigators to perform basic science research studies. Their goal is to enable investigators to initiate pilot projects that will lead to subse…",
     "funder_names": [
       "American Foundation for Surgery of the Hand",
       "American Society for Surgery of the Hand"
@@ -9220,7 +9192,7 @@
     "type": "funding",
     "slug": "clinical-investigator-career-development-awards",
     "name": "Clinical Investigator Career Development Awards",
-    "description": "The Lymphoma Research Foundation (LRF) maintains a strong commitment to supporting early career investigators\r\nand ensuring they can build a successful career in the field of lymphoma research. The LRF Clinical Investigator Career\r\nDevelopment Award (CDA) Program is designed to support physician inv…",
+    "description": "The Lymphoma Research Foundation (LRF) maintains a strong commitment to supporting early career investigators and ensuring they can build a successful career in the field of lymphoma research. The LRF Clinical Investigator Career Development Award (CDA) Program is designed to support physician inves…",
     "funder_names": [
       "Lymphoma Research Foundation"
     ],
@@ -9544,7 +9516,7 @@
     "type": "funding",
     "slug": "embo-postdoctoral-fellowships-2",
     "name": "EMBO Postdoctoral Fellowships",
-    "description": "The EMBO Postdoctoral Fellowships are awarded for a period of up to two years and support excellent postdoctoral researchers in laboratories throughout Europe and the world. International exchange is a key requirement. Now awarding grants for employment contracts in EMBC countries, EMBO Postdoctoral…",
+    "description": "The EMBO Postdoctoral Fellowships are awarded for a period of up to two years and support excellent postdoctoral researchers in laboratories throughout Europe and the world. International exchange is a key requirement. Now awarding grants for employment contracts in EMBC countries, EMBO Postdoctoral…",
     "funder_names": [
       "European Molecular Biology Organization"
     ],
@@ -10636,7 +10608,7 @@
     "type": "funding",
     "slug": "asco-young-investigator-award",
     "name": "ASCO Young Investigator Award",
-    "description": "The ASCO Young Investigator Award (YIA) provides funding to promising investigators to encourage and promote quality research in clinical oncology. The purpose of this grant is to fund physicians during the transition from a fellowship program to a faculty appointment.\r\n\r\nThe Young Investigator Awar…",
+    "description": "The ASCO Young Investigator Award (YIA) provides funding to promising investigators to encourage and promote quality research in clinical oncology. The purpose of this grant is to fund physicians during the transition from a fellowship program to a faculty appointment. The Young Investigator Award i…",
     "funder_names": [
       "American Society for Clinical Oncology"
     ],
@@ -11066,7 +11038,7 @@
     "type": "funding",
     "slug": "mathematics-travel-grants-for-women-researchers",
     "name": "Mathematics Travel Grants for Women Researchers",
-    "description": "The Association for Women in Mathematics has administered the NSF-AWM Travel Grant Program for Women since 1988, supporting both travel to domestic or foreign research conferences and, more recently, longer-term visits with a mentor.\r\n\r\nTravel Grants. Enabling women mathematicians to attend conferen…",
+    "description": "The Association for Women in Mathematics has administered the NSF-AWM Travel Grant Program for Women since 1988, supporting both travel to domestic or foreign research conferences and, more recently, longer-term visits with a mentor. Travel Grants. Enabling women mathematicians to attend conferences…",
     "funder_names": [
       "Association for Women in Mathematics"
     ],
@@ -11148,7 +11120,7 @@
     "type": "funding",
     "slug": "career-development-award-3",
     "name": "Career Development Award",
-    "description": "he American Academy ofNeurology is pleased to announce a three-year award to support junior investigators interested in an academic career in\r\nneurology.\r\nThe award provides support of $150,000 per year for three years for a total of $450,000. Recipients of K or R awards are not eligible to apply fo…",
+    "description": "he American Academy ofNeurology is pleased to announce a three-year award to support junior investigators interested in an academic career in neurology. The award provides support of $150,000 per year for three years for a total of $450,000. Recipients of K or R awards are not eligible to apply for…",
     "funder_names": [
       "American Academy of Neurology"
     ],
@@ -11230,7 +11202,7 @@
     "type": "funding",
     "slug": "atf-young-investigator-awards",
     "name": "ATF Young Investigator Awards",
-    "description": "The Young Investigator Award was created to encourage young clinical and scientific investigators to pursue a career in the field of Ataxia research. It is our hope that Ataxia research will be invigorated by the work of young, talented individuals supported by this award.\r\n\r\nFull application instru…",
+    "description": "The Young Investigator Award was created to encourage young clinical and scientific investigators to pursue a career in the field of Ataxia research. It is our hope that Ataxia research will be invigorated by the work of young, talented individuals supported by this award. Full application instructi…",
     "funder_names": [
       "National Ataxia Foundation"
     ],
@@ -11272,7 +11244,7 @@
     "type": "funding",
     "slug": "new-investigator-grant-3",
     "name": "New Investigator Grant",
-    "description": "New investigator research grants are meant to stimulate younger members into a career of investigation in spinal deformity.\r\n\r\nOpen to SRS Candidate Fellows or investigators who have not previously received an SRS Standard Grant, ORS, OREF, USA Federal grant (or OUS equivalent) and have completed 10…",
+    "description": "New investigator research grants are meant to stimulate younger members into a career of investigation in spinal deformity. Open to SRS Candidate Fellows or investigators who have not previously received an SRS Standard Grant, ORS, OREF, USA Federal grant (or OUS equivalent) and have completed 10 ye…",
     "funder_names": [
       "Scoliosis Research Society"
     ],
@@ -11350,7 +11322,7 @@
     "type": "funding",
     "slug": "mechanisms-models-measurement-management-in-pain-research-r21",
     "name": "Mechanisms, Models, Measurement, & Management in Pain Research (R21)",
-    "description": "Pain is a critical national health problem; it affects millions of Americans and incurs significant economic costs to society. Pain often results in disability and, even when not disabling, it has a profound effect on the quality of life.  Its deleterious effects have been demonstrated in morbidity,…",
+    "description": "Pain is a critical national health problem; it affects millions of Americans and incurs significant economic costs to society. Pain often results in disability and, even when not disabling, it has a profound effect on the quality of life. Its deleterious effects have been demonstrated in morbidity,…",
     "funder_names": [
       "National Institutes of Health (NIH)"
     ],
@@ -11680,7 +11652,7 @@
     "type": "funding",
     "slug": "mentored-quantitative-research-development-award-parent-k25-independent-trial-not-allowed",
     "name": "Mentored Quantitative Research Development Award (Parent K25 - Independent Trial Not Allowed)",
-    "description": "The purpose of the Mentored Quantitative Research Career Development Award (K25) is to attract to NIH-relevant research those investigators whose quantitative science and engineering research has thus far not been focused primarily on questions of health and disease.  The K25 award will provide supp…",
+    "description": "The purpose of the Mentored Quantitative Research Career Development Award (K25) is to attract to NIH-relevant research those investigators whose quantitative science and engineering research has thus far not been focused primarily on questions of health and disease. The K25 award will provide suppo…",
     "funder_names": [
       "National Institutes of Health (NIH)"
     ],
@@ -12008,7 +11980,7 @@
     "type": "funding",
     "slug": "research-proposals",
     "name": "Research Proposals",
-    "description": "The Angelman Syndrome Foundation announces biannual calls for research\r\nproposals to be awarded in support of Angelman syndrome research.\r\nApplications will be accepted on a continual basis, with submission deadlines for\r\nsubsequent review occurring annually on October 15 and April 15.\r\nAngelman syn…",
+    "description": "The Angelman Syndrome Foundation announces biannual calls for research proposals to be awarded in support of Angelman syndrome research. Applications will be accepted on a continual basis, with submission deadlines for subsequent review occurring annually on October 15 and April 15. Angelman syndrom…",
     "funder_names": [
       "Angelman Syndrome Foundation"
     ],
@@ -12136,7 +12108,7 @@
     "type": "funding",
     "slug": "acs-research-scholar-grants",
     "name": "ACS Research Scholar Grants",
-    "description": "The Research Scholar Grant (RSG) supports investigator-initiated projects across the cancer research continuum. \r\n\r\nWho's Eligible: Independent investigators in the first 6 years of an independent research career or faculty appointment are eligible to apply. Eligibility is extended for 8 years for c…",
+    "description": "The Research Scholar Grant (RSG) supports investigator-initiated projects across the cancer research continuum. Who's Eligible: Independent investigators in the first 6 years of an independent research career or faculty appointment are eligible to apply. Eligibility is extended for 8 years for clini…",
     "funder_names": [
       "American Cancer Society"
     ],
@@ -12682,7 +12654,7 @@
     "type": "funding",
     "slug": "elias-j-corey-award-for-outstanding-original-contribution-in-organic-synthesis-by-a-young-investigat",
     "name": "Elias J. Corey Award for Outstanding Original Contribution in Organic Synthesis by a Young Investigator",
-    "description": "Sponsor: The Pfizer Endowment Fund\r\n\r\nPurpose: To recognize original and insightful work by a young investigator that has had significant impact on the field of synthetic organic chemistry.\r\n\r\nNature: The award consists of $5,000 and a certificate. Up to $2,500 for travel expenses to the meeting, at…",
+    "description": "Sponsor: The Pfizer Endowment Fund Purpose: To recognize original and insightful work by a young investigator that has had significant impact on the field of synthetic organic chemistry. Nature: The award consists of $5,000 and a certificate. Up to $2,500 for travel expenses to the meeting, at which…",
     "funder_names": [
       "American Chemical Society"
     ],
@@ -12714,7 +12686,7 @@
     "type": "funding",
     "slug": "arthur-c-cope-scholar-awards",
     "name": "Arthur C. Cope Scholar Awards",
-    "description": "Sponsor: The Arthur C. Cope Fund\r\n\r\nPurpose: To recognize and encourage excellence in organic chemistry.\r\n\r\nNature: The award consists of $5,000, a certificate, and a $40,000 unrestricted research grant to be assigned by the recipient to any university or nonprofit institution. The recipient is requ…",
+    "description": "Sponsor: The Arthur C. Cope Fund Purpose: To recognize and encourage excellence in organic chemistry. Nature: The award consists of $5,000, a certificate, and a $40,000 unrestricted research grant to be assigned by the recipient to any university or nonprofit institution. The recipient is required t…",
     "funder_names": [
       "American Chemical Society"
     ],
@@ -12750,7 +12722,7 @@
     "type": "funding",
     "slug": "theodore-blau-early-career-award-for-outstanding-contribution-to-professional-clinical-psychology",
     "name": "Theodore Blau Early Career Award for Outstanding Contribution to Professional Clinical Psychology",
-    "description": "This award honors a clinical psychologist for accomplishments and promise in clinical psychology. Accomplishments may include:\r\n\r\nPromoting the practice of clinical psychology through professional service.Innovation in service delivery.Novel application of applied research methodologies to professio…",
+    "description": "This award honors a clinical psychologist for accomplishments and promise in clinical psychology. Accomplishments may include: Promoting the practice of clinical psychology through professional service.Innovation in service delivery.Novel application of applied research methodologies to professional…",
     "funder_names": [
       "American Psychological Foundation"
     ],
@@ -12782,49 +12754,11 @@
     "updated_at": "2020-05-24T13:59:47Z"
   },
   {
-    "id": "funding-graham-foundation-individual-grants",
-    "type": "funding",
-    "slug": "graham-foundation-individual-grants",
-    "name": "Graham Foundation Individual Grants",
-    "description": "For individuals, our priorities are to:\r\n\r\n    Provide opportunities to create, develop, and communicate a project about architecture and the designed environment that will contribute to their creative, intellectual, and professional growth at crucial or potentially transformative stages in their ca…",
-    "funder_names": [
-      "Graham Foundation"
-    ],
-    "funders": [
-      "graham-foundation"
-    ],
-    "country": "Worldwide",
-    "applicant_country": "Worldwide",
-    "host_country": "Worldwide",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [
-      "arts-and-humanities",
-      "fine-arts"
-    ],
-    "subject_names": [
-      "Arts and Humanities",
-      "Fine Arts"
-    ],
-    "funding_purposes": [
-      "research"
-    ],
-    "funding_purpose_names": [
-      "Research"
-    ],
-    "status": "active",
-    "featured": false,
-    "deadline_month": "September",
-    "search_text": "Graham Foundation Individual Grants For individuals, our priorities are to:\r\n\r\n    Provide opportunities to create, develop, and communicate a project about architecture and the designed environment that will contribute to their creative, intellectual, and professional growth at crucial or potentially transformative stages in their careers.\r\n    Support their efforts to take positions, develop new forms of expression, and engage debate.\r\n    Help them communicate their work in the public realm and reach new and wider audiences.\r\n    Support new voices by giving priority to first-time applicants.\r\n\r\nOverall we are most interested in opportunities which enable us to provide critical support at key points in the development of a project or career. Graham Foundation Arts and Humanities Fine Arts Research Worldwide Worldwide",
-    "url": "http://www.grahamfoundation.org/grant_programs?mode=individual",
-    "updated_at": "2020-05-24T14:01:19Z"
-  },
-  {
     "id": "funding-coagulation-research-grant-program",
     "type": "funding",
     "slug": "coagulation-research-grant-program",
     "name": "Coagulation Research Grant Program",
-    "description": "Aniara Diagnostica's Coagulation Research Grant provides $10,000 for established investigators (eg - faculty at an academic institution) and for students/trainees to do innovative coagulation / hematology research. Deadline for receipt of application is November 1, 2020.\r\n\r\nThe Aniara Research Panel…",
+    "description": "Aniara Diagnostica's Coagulation Research Grant provides $10,000 for established investigators (eg - faculty at an academic institution) and for students/trainees to do innovative coagulation / hematology research. Deadline for receipt of application is November 1, 2020. The Aniara Research Panel aw…",
     "funder_names": [
       "Aniara Diagnostica"
     ],
@@ -12986,7 +12920,7 @@
     "type": "funding",
     "slug": "mallinckrodt-grants",
     "name": "Mallinckrodt Grants",
-    "description": "Each year thirty institutions are invited to submit one or two candidates to compete for the Mallinckrodt Scholar Award.  The institutions are selected by the Mallinckrodt Board based on their history of quality grant applications and award selection.\r\nThis competition is by invitation only.",
+    "description": "Each year thirty institutions are invited to submit one or two candidates to compete for the Mallinckrodt Scholar Award. The institutions are selected by the Mallinckrodt Board based on their history of quality grant applications and award selection. This competition is by invitation only.",
     "funder_names": [
       "Edward Mallinckrodt, Jr. Foundation"
     ],
@@ -13070,7 +13004,7 @@
     "type": "funding",
     "slug": "strategy-and-policy-fellows-program-of-the-smith-richardson-foundation",
     "name": "Strategy and Policy Fellows Program of the Smith Richardson Foundation",
-    "description": "The Smith Richardson Foundation sponsors an annual Strategy and Policy Fellows grant competition to support young scholars and policy thinkers on American foreign policy, international relations, international security, military policy, and diplomatic and military history.\r\nThe Foundation will award…",
+    "description": "The Smith Richardson Foundation sponsors an annual Strategy and Policy Fellows grant competition to support young scholars and policy thinkers on American foreign policy, international relations, international security, military policy, and diplomatic and military history. The Foundation will award…",
     "funder_names": [
       "Smith Richardson Foundation"
     ],
@@ -13276,7 +13210,7 @@
     "type": "funding",
     "slug": "research-grants-by-the-childrens-leukemia-research-association",
     "name": "Research Grants by the Children's Leukemia Research Association",
-    "description": "Each year, CLRA's Medical Advisory Committee, consisting of prominent internationally known and respected hematologists, reviews submitted research proposals from doctors nationwide.\r\n\r\nUsing your contributions, we fund research grants for doctors who are conducting the most promising research into…",
+    "description": "Each year, CLRA's Medical Advisory Committee, consisting of prominent internationally known and respected hematologists, reviews submitted research proposals from doctors nationwide. Using your contributions, we fund research grants for doctors who are conducting the most promising research into leu…",
     "funder_names": [
       "Children’s Leukemia Research Association"
     ],
@@ -13358,7 +13292,7 @@
     "type": "funding",
     "slug": "new-investigator-grants-for-orthpaedic-research",
     "name": "New Investigator Grants for Orthpaedic Research",
-    "description": "Advances the scientific training of the next generation of orthopaedic physician-scientists by providing seed and start-up funding for promising research projects.\r\nClinical relevance must be clearly noted in the abstract and specific aims and be obvious from the title and study design.",
+    "description": "Advances the scientific training of the next generation of orthopaedic physician-scientists by providing seed and start-up funding for promising research projects. Clinical relevance must be clearly noted in the abstract and specific aims and be obvious from the title and study design.",
     "funder_names": [
       "Orthopaedic Research and Education Foundation"
     ],
@@ -14408,7 +14342,7 @@
     "type": "funding",
     "slug": "fundacion-martin-escudero-research-scholarships",
     "name": "Fundación Martín Escudero research scholarships",
-    "description": "The Alfonso Martín Escudero Foundation announces 40 scholarships to carry out research work at universities or research centers abroad, on topics that fall within one of the following areas:\r\n\r\n• Agriculture and livestock\r\n• Marine sciences \r\n• Health sciences\r\n• Food technology",
+    "description": "The Alfonso Martín Escudero Foundation announces 40 scholarships to carry out research work at universities or research centers abroad, on topics that fall within one of the following areas: • Agriculture and livestock • Marine sciences • Health sciences • Food technology",
     "funder_names": [
       "Fundación Alfonso Martín Escudero"
     ],
@@ -14660,7 +14594,7 @@
     "type": "funding",
     "slug": "artistic-grants-writing",
     "name": "Artistic Grants (Writing)",
-    "description": "The Elizabeth George Foundation provides grants to short story writers, poets, unpublished novelists, emerging playwrights and unpublished creative non-fiction writers.  This one-time funding enables writers to live and work for a period of time not to exceed a year.\r\n\r\nGrant funds may be used for l…",
+    "description": "The Elizabeth George Foundation provides grants to short story writers, poets, unpublished novelists, emerging playwrights and unpublished creative non-fiction writers. This one-time funding enables writers to live and work for a period of time not to exceed a year. Grant funds may be used for livin…",
     "funder_names": [
       "Elizabeth George Foundation"
     ],
@@ -14754,7 +14688,7 @@
     "type": "funding",
     "slug": "fyssen-fondation-post-doctoral-study-grant",
     "name": "Fyssen Fondation Post-doctoral Study Grant",
-    "description": "Study grants are meant for post-doctoral researchers, working on research disciplines such as Ethology, Paleontology, Archaeology, Anthropology, Psychology, Epistemology, Logic and Sciences of nervous system.\r\n\r\nThese grants are awarded to french or foreign researchers, holders of a foreign Phd and…",
+    "description": "Study grants are meant for post-doctoral researchers, working on research disciplines such as Ethology, Paleontology, Archaeology, Anthropology, Psychology, Epistemology, Logic and Sciences of nervous system. These grants are awarded to french or foreign researchers, holders of a foreign Phd and who…",
     "funder_names": [],
     "funders": [],
     "country": "Worldwide",
@@ -14800,7 +14734,7 @@
     "type": "funding",
     "slug": "banting-postdoctoral-fellowship",
     "name": "Banting Postdoctoral Fellowship",
-    "description": "The Banting Postdoctoral Fellowships program provides funding to the very best postdoctoral applicants, both nationally and internationally, who will positively contribute to the country's economic, social and research-based growth.\r\n\r\nThe objective of the Banting Postdoctoral Fellowships program is…",
+    "description": "The Banting Postdoctoral Fellowships program provides funding to the very best postdoctoral applicants, both nationally and internationally, who will positively contribute to the country's economic, social and research-based growth. The objective of the Banting Postdoctoral Fellowships program is to…",
     "funder_names": [
       "Government of Canada"
     ],
@@ -15138,7 +15072,7 @@
     "type": "funding",
     "slug": "young-investigator-innovation-grants-by-american-foundation-for-suicide-prevention",
     "name": "Young Investigator Innovation Grants by American Foundation for Suicide Prevention",
-    "description": "All AFSP research grants are designed to support research on suicide from a variety of disciplines including psychiatry, medicine,\tpsychology, genetics, epidemiology, neurobiology, sociology, nursing, health services administration, social work, and many others. Grants are not intended to support th…",
+    "description": "All AFSP research grants are designed to support research on suicide from a variety of disciplines including psychiatry, medicine, psychology, genetics, epidemiology, neurobiology, sociology, nursing, health services administration, social work, and many others. Grants are not intended to support th…",
     "funder_names": [
       "American Foundation for Suicide Prevention"
     ],
@@ -15298,7 +15232,7 @@
     "type": "funding",
     "slug": "future-fellowships-by-australian-research-council",
     "name": "Future Fellowships by Australian Research Council",
-    "description": "Future Fellowships reflects the Australian Government’s commitment to excellence in research by supporting excellent mid-career researchers to undertake high quality research in areas of national and international benefit.\r\n\r\nAt present many highly qualified mid-career researchers choose to work ove…",
+    "description": "Future Fellowships reflects the Australian Government’s commitment to excellence in research by supporting excellent mid-career researchers to undertake high quality research in areas of national and international benefit. At present many highly qualified mid-career researchers choose to work overse…",
     "funder_names": [
       "Australian Research Council",
       "Australian Government"
@@ -15340,7 +15274,7 @@
     "type": "funding",
     "slug": "australian-laureate-fellowships",
     "name": "Australian Laureate Fellowships",
-    "description": "The Australian Laureate Fellowships scheme reflects the Australian Government’s commitment to excellence in research by supporting world-class researchers to conduct research in Australia.\r\n\r\nOpen to applications from the highest-quality researchers of international repute, the Australian Laureate F…",
+    "description": "The Australian Laureate Fellowships scheme reflects the Australian Government’s commitment to excellence in research by supporting world-class researchers to conduct research in Australia. Open to applications from the highest-quality researchers of international repute, the Australian Laureate Fell…",
     "funder_names": [
       "Australian Research Council",
       "Australian Government"
@@ -15382,7 +15316,7 @@
     "type": "funding",
     "slug": "lise-meitner-program",
     "name": "Lise Meitner Program",
-    "description": "Target group\r\nhighly qualified researchers of any discipline who could contribute to the scientific development of an Austrian research institution by working at it.\r\n\r\nincoming: post-doctoral researchers from abroad\r\nreintegration: post-doctoral researchers who have left Austria and wish to return…",
+    "description": "Target group highly qualified researchers of any discipline who could contribute to the scientific development of an Austrian research institution by working at it. incoming: post-doctoral researchers from abroad reintegration: post-doctoral researchers who have left Austria and wish to return to an…",
     "funder_names": [
       "Austrian Science Fund"
     ],
@@ -15472,7 +15406,7 @@
     "type": "funding",
     "slug": "bbsrc-returners-to-research-fellowships",
     "name": "BBSRC Returners to Research Fellowships",
-    "description": "Scientists wishing to return to research after a career break of two or more years for family, caring or health reasons.\r\nThe Daphne Jackson Trust awards 2-year fellowships on a part-time basis.\r\n\r\nFellowships include a tailored training programme designed to enable fellows to update their skills wh…",
+    "description": "Scientists wishing to return to research after a career break of two or more years for family, caring or health reasons. The Daphne Jackson Trust awards 2-year fellowships on a part-time basis. Fellowships include a tailored training programme designed to enable fellows to update their skills while…",
     "funder_names": [
       "Biotechnology and Biological Sciences Research Council - BBSRC"
     ],
@@ -15514,7 +15448,7 @@
     "type": "funding",
     "slug": "embo-advanced-fellowships",
     "name": "EMBO Advanced Fellowships",
-    "description": "<p>This fellowship offers an additional two years of funding for EMBO Long-Term Fellows who can demonstrate exceptional progress during their current postdoctoral work.</p>",
+    "description": "This fellowship offers an additional two years of funding for EMBO Long-Term Fellows who can demonstrate exceptional progress during their current postdoctoral work.",
     "funder_names": [
       "European Molecular Biology Organization"
     ],
@@ -15550,7 +15484,7 @@
     "type": "funding",
     "slug": "bbsrc-postdoc-funding-for-summer-student-placement",
     "name": "BBSRC postdoc funding for summer student placement",
-    "description": "<p>Applications are sought from Postdoctoral Researchers who have no more than 3 years’ total post-PhD research experience and are able to offer a project in the BBSRC remit, suitable for an undergraduate student in their middle years of study.</p>",
+    "description": "Applications are sought from Postdoctoral Researchers who have no more than 3 years’ total post-PhD research experience and are able to offer a project in the BBSRC remit, suitable for an undergraduate student in their middle years of study.",
     "funder_names": [],
     "funders": [],
     "country": "United Kingdom",
@@ -15616,7 +15550,7 @@
     "type": "funding",
     "slug": "damon-runyon-postdoc-fellowship",
     "name": "Damon Runyon Postdoc Fellowship",
-    "description": "<p>The Foundation encourages all theoretical and experimental research relevant to the study of cancer and the search for cancer causes, mechanisms, therapies and prevention.</p>",
+    "description": "The Foundation encourages all theoretical and experimental research relevant to the study of cancer and the search for cancer causes, mechanisms, therapies and prevention.",
     "funder_names": [],
     "funders": [],
     "country": "United States",
@@ -15652,7 +15586,7 @@
     "type": "funding",
     "slug": "ukri-future-leader-fellowships",
     "name": "UKRI Future Leader Fellowships",
-    "description": "This cross-UK Research and Innovation (UKRI) scheme will support early career researchers and innovators with outstanding potential in universities, UK registered businesses, and other research and user environments including research councils' institutes and laboratories.\r\n\r\nThe FLF scheme welcomes…",
+    "description": "This cross-UK Research and Innovation (UKRI) scheme will support early career researchers and innovators with outstanding potential in universities, UK registered businesses, and other research and user environments including research councils' institutes and laboratories. The FLF scheme welcomes ap…",
     "funder_names": [
       "Biotechnology and Biological Sciences Research Council - BBSRC"
     ],
@@ -15866,7 +15800,7 @@
     "type": "funding",
     "slug": "cihr-fellowship",
     "name": "CIHR Fellowship",
-    "description": "CIHR’s Health Research Training Strategy aims to equip research trainees so that they emerge from their training as scientific, professional, or organizational leaders within and beyond the health research enterprise. Generating Research Leaders of tomorrow is a key objective for CIHR.\r\n\r\nFellowship…",
+    "description": "CIHR’s Health Research Training Strategy aims to equip research trainees so that they emerge from their training as scientific, professional, or organizational leaders within and beyond the health research enterprise. Generating Research Leaders of tomorrow is a key objective for CIHR. Fellowships p…",
     "funder_names": [
       "Canadian Institutes of Health Research"
     ],
@@ -16120,7 +16054,7 @@
     "type": "funding",
     "slug": "hope-for-vision-grant",
     "name": "Hope For Vision Grant",
-    "description": "Hope for Vision supports research aimed at developing treatments and cures for retinal degenerative diseases.\r\n\r\nGrants are awarded annually, generally for a period of one-year.  Awards range from $25,000 to $50,000, and the grant amount is based on the current or potential value of the research to…",
+    "description": "Hope for Vision supports research aimed at developing treatments and cures for retinal degenerative diseases. Grants are awarded annually, generally for a period of one-year. Awards range from $25,000 to $50,000, and the grant amount is based on the current or potential value of the research to the…",
     "funder_names": [
       "Hope For Vision"
     ],
@@ -16252,7 +16186,7 @@
     "type": "funding",
     "slug": "awards-program-playwriting-theater-dance-performance-choreography-and-film",
     "name": "Awards Program: Playwriting, Theater, Dance Performance, Choreography, and Film",
-    "description": "Dedicated to Identifying and Nurturing Emerging Artists in Theater, Dance, and Film\r\n\r\nThe Princess Grace Awards identifies and nurtures emerging artistic excellence. Scholarships, apprenticeships, and fellowships give artists, who are at outset of their careers or early stages of professional devel…",
+    "description": "Dedicated to Identifying and Nurturing Emerging Artists in Theater, Dance, and Film The Princess Grace Awards identifies and nurtures emerging artistic excellence. Scholarships, apprenticeships, and fellowships give artists, who are at outset of their careers or early stages of professional developm…",
     "funder_names": [
       "Princess Grace Foundation-USA"
     ],
@@ -16420,7 +16354,7 @@
     "type": "funding",
     "slug": "society-for-neuroscience-young-investigator-award",
     "name": "Society for Neuroscience Young Investigator Award",
-    "description": "The Young Investigator Award, supported by Sunovion, recognizes the outstanding achievements and contributions by a young neuroscientist who has demonstrated scholarly independence.\r\n\r\nRecipients receive a $15,000 award and complimentary registration, transportation (economy air or ground), and two…",
+    "description": "The Young Investigator Award, supported by Sunovion, recognizes the outstanding achievements and contributions by a young neuroscientist who has demonstrated scholarly independence. Recipients receive a $15,000 award and complimentary registration, transportation (economy air or ground), and two nig…",
     "funder_names": [
       "Society for Neuroscience"
     ],
@@ -16962,7 +16896,7 @@
     "type": "funding",
     "slug": "gabrielles-angel-foundation-for-cancer-research-medical-research-award",
     "name": "Gabrielle's Angel Foundation for Cancer Research Medical Research Award",
-    "description": "Gabrielle’s Angel Foundation funds cutting-edge research in the fields of leukemia, lymphoma, and related cancers of the blood.\r\n\r\nWe support research that focuses on cancer prevention, detection, and treatments that are most likely to be translated into clinical trials within a 3 – 5 year period. T…",
+    "description": "Gabrielle’s Angel Foundation funds cutting-edge research in the fields of leukemia, lymphoma, and related cancers of the blood. We support research that focuses on cancer prevention, detection, and treatments that are most likely to be translated into clinical trials within a 3 – 5 year period. The…",
     "funder_names": [
       "Gabrielle’s Angel Foundation for Cancer Research"
     ],
@@ -17002,56 +16936,6 @@
     "search_text": "Gabrielle's Angel Foundation for Cancer Research Medical Research Award Gabrielle’s Angel Foundation funds cutting-edge research in the fields of leukemia, lymphoma, and related cancers of the blood.\r\n\r\nWe support research that focuses on cancer prevention, detection, and treatments that are most likely to be translated into clinical trials within a 3 – 5 year period. The Foundation not only funds mainstream scientific research but also projects that combine integrative (complementary) therapies or botanical agents. These annual Medical Research Awards total $225,000 and are given over a three-year period. Gabrielle’s Angel Foundation for Cancer Research PhD Postdoc MD Life Sciences Medicine and Health Sciences Research United States United States",
     "url": "http://www.gabriellesangels.org/what-we-do/grant-info/",
     "updated_at": "2020-05-26T07:01:39Z"
-  },
-  {
-    "id": "funding-w-m-keck-foundation-science-engineering-and-medical-research-programs",
-    "type": "funding",
-    "slug": "w-m-keck-foundation-science-engineering-and-medical-research-programs",
-    "name": "W. M. Keck Foundation Science & Engineering and Medical Research Programs",
-    "description": "In This\r\nSection:\r\n\r\n    Overview\r\n    Research\r\n    Southern California\r\n    Special Projects\r\n    Frequently Asked Questions\r\n    Grantee Responsibilities\r\n\r\nImpact\r\nStories\r\n\r\nIf you have received a W. M. Keck Foundation grant in the past and have an impact story you would like to share, send a s…",
-    "funder_names": [
-      "W. M. Keck Foundation"
-    ],
-    "funders": [
-      "w-m-keck-foundation"
-    ],
-    "country": "United States",
-    "applicant_country": "United States",
-    "host_country": "United States",
-    "career_levels": [
-      "phd",
-      "postdoc",
-      "md"
-    ],
-    "career_level_names": [
-      "PhD",
-      "Postdoc",
-      "MD"
-    ],
-    "subjects": [
-      "life-sciences",
-      "medicine-and-health-sciences",
-      "physical-sciences-and-mathematics",
-      "engineering"
-    ],
-    "subject_names": [
-      "Life Sciences",
-      "Medicine and Health Sciences",
-      "Physical Sciences and Mathematics",
-      "Engineering"
-    ],
-    "funding_purposes": [
-      "research"
-    ],
-    "funding_purpose_names": [
-      "Research"
-    ],
-    "status": "active",
-    "featured": false,
-    "deadline_month": "May, November",
-    "search_text": "W. M. Keck Foundation Science & Engineering and Medical Research Programs In This\r\nSection:\r\n\r\n    Overview\r\n    Research\r\n    Southern California\r\n    Special Projects\r\n    Frequently Asked Questions\r\n    Grantee Responsibilities\r\n\r\nImpact\r\nStories\r\n\r\nIf you have received a W. M. Keck Foundation grant in the past and have an impact story you would like to share, send a summary of 500 words or less, a few images and your contact information to: impact@wmkeck.org.\r\n\t\r\nGrant\r\nPrograms\r\n\r\n    Print\t\r\n    Email\t\r\n\r\nThe\r\nW.\r\nM.\r\nKeck\r\nFoundation\r\nwas\r\nfounded\r\nwith\r\nthe\r\ngoal\r\nof\r\ngenerating\r\nfar-reaching\r\nbenefits\r\nfor\r\nhumanity.\r\nFollowing\r\nthe\r\nideals\r\nof\r\nour\r\nfounder,\r\nthe\r\nFoundation's\r\nprograms\r\nsupport\r\noutstanding\r\nscience,\r\nengineering\r\nand\r\nmedical\r\nresearch;\r\nand,\r\nin\r\nSouthern\r\nCalifornia,\r\narts\r\nand\r\nculture,\r\neducation,\r\nhealth\r\nand\r\ncommunity\r\nservice\r\nprojects\r\nthat\r\nwill\r\nhave\r\na\r\nsignificant\r\nimpact\r\nin\r\naddressing\r\ncomplex\r\nissues\r\nand\r\nproblems.\r\n\r\nThe Foundation strives to fund endeavors that are distinctive and novel in their approach. It encourages projects that are high-risk with the potential for transformative impact. \"High-risk\" comprises a number of factors, including questions that push the edge of the field, present unconventional approaches to intractable problems, or challenge the prevailing paradigm.\r\n\r\nTo make grant determinations, the Foundation relies upon a wide range of input, including assessments by its professional staff, site visits (where appropriate), peer reviews, the latest available scientific information, and presentations by experts in scientific, medical and health and human service fields. W. M. Keck Foundation PhD Postdoc MD Life Sciences Medicine and Health Sciences Physical Sciences and Mathematics Engineering Research United States United States",
-    "url": "http://www.wmkeck.org/grant-programs/research",
-    "updated_at": "2020-05-26T07:01:56Z"
   },
   {
     "id": "funding-hhmi-faculty-scholars-program",
@@ -17190,7 +17074,7 @@
     "type": "funding",
     "slug": "postdoctoral-fellowship-tecniospring",
     "name": "Postdoctoral Fellowship - TECNIOspring",
-    "description": "Tecniospring INDUSTRY proposals are submitted by a Catalan host entity, together with an experienced researcher.\r\n\r\n    Catalan host organisations may be companies located in Catalonia (startups, SMEs and multinationals) or TECNIO entities (research centres accredited by the Government of Catalonia…",
+    "description": "Tecniospring INDUSTRY proposals are submitted by a Catalan host entity, together with an experienced researcher. Catalan host organisations may be companies located in Catalonia (startups, SMEs and multinationals) or TECNIO entities (research centres accredited by the Government of Catalonia through…",
     "funder_names": [
       "Government of Catalonia"
     ],
@@ -17276,7 +17160,7 @@
     "type": "funding",
     "slug": "dkfz-international-postdoc-program",
     "name": "DKFZ International Postdoc Program",
-    "description": "The DKFZ Postdoc Program is the German Cancer Research Center’s official program to provide comprehensive support to young researchers while doing their postdoc at the institute.\r\n\r\nWe aim to recruit highly talented young scientists from all over the world who wish to pursue research projects in bas…",
+    "description": "The DKFZ Postdoc Program is the German Cancer Research Center’s official program to provide comprehensive support to young researchers while doing their postdoc at the institute. We aim to recruit highly talented young scientists from all over the world who wish to pursue research projects in basic…",
     "funder_names": [
       "Helmholtz Association"
     ],
@@ -17324,7 +17208,7 @@
     "type": "funding",
     "slug": "eeb-of-toronto-postdoctoral-fellowship",
     "name": "EEB of Toronto Postdoctoral Fellowship",
-    "description": "We encourage  applications  from  highly  motivated  postdoctoral  fellows with broad interests in ecology and evolutionary biology. The Fellow may collaboratewith  a  single  or  multiple  advisors  on research  in ecology  and  evolution.  To  facilitate  interactions within the department, the Fe…",
+    "description": "We encourage applications from highly motivated postdoctoral fellows with broad interests in ecology and evolutionary biology. The Fellow may collaboratewith a single or multiple advisors on research in ecology and evolution. To facilitate interactions within the department, the Fellow will co-organ…",
     "funder_names": [
       "University of Toronto"
     ],
@@ -17364,7 +17248,7 @@
     "type": "funding",
     "slug": "swiss-government-excellence-scholarships-for-foreign-scholars-and-artists",
     "name": "Swiss Government Excellence Scholarships for Foreign Scholars and Artists",
-    "description": "Each year the Swiss Confederation awards Government Excellence Scholarships to promote international exchange and research cooperation between Switzerland and over 180 other countries. Recipients are selected by the awarding body, the Federal Commission for Scholarships for Foreign Students (FCS).…",
+    "description": "Each year the Swiss Confederation awards Government Excellence Scholarships to promote international exchange and research cooperation between Switzerland and over 180 other countries. Recipients are selected by the awarding body, the Federal Commission for Scholarships for Foreign Students (FCS). T…",
     "funder_names": [
       "Staatssekretariat für Bildung, Forschung und Innovation"
     ],
@@ -17504,7 +17388,7 @@
     "type": "funding",
     "slug": "les-amis-des-instituts-pasteurs-a-bruxelles-fellowships",
     "name": "Les amis des instituts Pasteurs à Bruxelles Fellowships",
-    "description": "The  not-for-profit-association  \"Les  Amis  des  Instituts  Pasteur  à  Bruxelles\" (the  Association),  provides  basic  research fellowships  (the  Fellowship)  in microbiology,  immunology  or  medical  vaccinology  for  a  period  of  12 months. The Fellowship can be exceptionally renewed for an…",
+    "description": "The not-for-profit-association \"Les Amis des Instituts Pasteur à Bruxelles\" (the Association), provides basic research fellowships (the Fellowship) in microbiology, immunology or medical vaccinology for a period of 12 months. The Fellowship can be exceptionally renewed for an identical period. The a…",
     "funder_names": [
       "Les Amis des Instituts Pasteur à Bruxelles"
     ],
@@ -17754,48 +17638,6 @@
     "updated_at": "2020-05-26T07:52:37Z"
   },
   {
-    "id": "funding-msfhr-research-trainee-program",
-    "type": "funding",
-    "slug": "msfhr-research-trainee-program",
-    "name": "MSFHR Research Trainee Program",
-    "description": "\"The MSFHR Research Trainee Program supports health researchers in the training phase of their research career to enable career development and the long-term success of the BC health research landscape.\"\r\n\r\nThe Research Trainee Program is one of MSFHR’s flagship funding opportunities. Since 2001, we…",
-    "funder_names": [
-      "Michael Smith Foundation for Health Research"
-    ],
-    "funders": [
-      "michael-smith-foundation-for-health-research"
-    ],
-    "country": "Worldwide",
-    "applicant_country": "Worldwide",
-    "host_country": "Canada",
-    "career_levels": [
-      "phd",
-      "md"
-    ],
-    "career_level_names": [
-      "PhD",
-      "MD"
-    ],
-    "subjects": [
-      "medicine-and-health-sciences"
-    ],
-    "subject_names": [
-      "Medicine and Health Sciences"
-    ],
-    "funding_purposes": [
-      "research"
-    ],
-    "funding_purpose_names": [
-      "Research"
-    ],
-    "status": "active",
-    "featured": false,
-    "deadline_month": "January",
-    "search_text": "MSFHR Research Trainee Program \"The MSFHR Research Trainee Program supports health researchers in the training phase of their research career to enable career development and the long-term success of the BC health research landscape.\"\r\n\r\nThe Research Trainee Program is one of MSFHR’s flagship funding opportunities. Since 2001, we’ve granted more than 1,200 Research Trainee awards worth more than $45 million, helping to develop, attract and retain BC’s best and brightest health researchers and support the advancement of world-class health research in BC. Michael Smith Foundation for Health Research PhD MD Medicine and Health Sciences Research Canada Worldwide",
-    "url": "https://www.msfhr.org/our-work/activities/trainee-awards%20",
-    "updated_at": "2020-05-26T07:59:49Z"
-  },
-  {
     "id": "funding-serb-early-career-research-award",
     "type": "funding",
     "slug": "serb-early-career-research-award",
@@ -17996,7 +17838,7 @@
     "type": "funding",
     "slug": "embl-interdisciplinary-postdocs-eipod",
     "name": "EMBL Interdisciplinary Postdocs (EIPOD)",
-    "description": "EIPOD4 is a new international postdoctoral fellowship programme co-funded by Marie-Skłodowska Curie Actions  (grant agreement number 847543). Designed to support the increasing diversity of career paths in Europe’s research landscape the programme offers three tracks for fellows to choose from based…",
+    "description": "EIPOD4 is a new international postdoctoral fellowship programme co-funded by Marie-Skłodowska Curie Actions (grant agreement number 847543). Designed to support the increasing diversity of career paths in Europe’s research landscape the programme offers three tracks for fellows to choose from based…",
     "funder_names": [
       "H2020 Marie Skłodowska-Curie Actions",
       "European Molecular Biology Laboratory"
@@ -18184,7 +18026,7 @@
     "type": "funding",
     "slug": "febs-summer-fellowships",
     "name": "FEBS summer fellowships",
-    "description": "FEBS Summer Fellowships are awarded to young promising students in a FEBS country wishing to gain practical scientific experience in an institution located in another country within the FEBS area.\r\n\r\nApplicants should normally be registered graduate students in a FEBS country who have not yet submit…",
+    "description": "FEBS Summer Fellowships are awarded to young promising students in a FEBS country wishing to gain practical scientific experience in an institution located in another country within the FEBS area. Applicants should normally be registered graduate students in a FEBS country who have not yet submitted…",
     "funder_names": [
       "Federation of European Biochemical Societies"
     ],
@@ -19268,7 +19110,7 @@
     "type": "funding",
     "slug": "mckenzie-postdoctoral-fellowship",
     "name": "McKenzie Postdoctoral Fellowship",
-    "description": "The  McKenzie Postdoctoral Fellowships Program has been established to attract outstanding recent doctoral graduates to the University from around the world. The Program aims to recruit new researchers who have the potential to build and lead interdisciplinary collaborative research activities insid…",
+    "description": "The McKenzie Postdoctoral Fellowships Program has been established to attract outstanding recent doctoral graduates to the University from around the world. The Program aims to recruit new researchers who have the potential to build and lead interdisciplinary collaborative research activities inside…",
     "funder_names": [
       "University of Melbourne"
     ],
@@ -19878,7 +19720,7 @@
     "type": "funding",
     "slug": "guarantors-of-brain-post-doctoral-brain-entry-fellowships",
     "name": "Guarantors of Brain Post Doctoral & Brain Entry Fellowships",
-    "description": "The Guarantors of Brain offer four types of Brain fellowships.\r\n\r\n1. “Entry” clinical fellowships up to 12months, to provide clinicians transitional funding prior to starting a higher degree.\r\n2. Post-doctoral clinical fellowships up to 12 months, for clinicians undertaking research after their PhD;…",
+    "description": "The Guarantors of Brain offer four types of Brain fellowships. 1. “Entry” clinical fellowships up to 12months, to provide clinicians transitional funding prior to starting a higher degree. 2. Post-doctoral clinical fellowships up to 12 months, for clinicians undertaking research after their PhD; and…",
     "funder_names": [
       "Guarantors of Brain"
     ],
@@ -20822,7 +20664,7 @@
     "type": "funding",
     "slug": "hpa-research-grant",
     "name": "HPA research grant",
-    "description": "Share|\r\nThe purpose of the Section on Health Policy and Administration Grant Program is to stimulate, encourage and support research activities that enhance the body of knowledge related to health policy, clinical administration, global health, and the use of technology in physical therapy.",
+    "description": "Share| The purpose of the Section on Health Policy and Administration Grant Program is to stimulate, encourage and support research activities that enhance the body of knowledge related to health policy, clinical administration, global health, and the use of technology in physical therapy.",
     "funder_names": [
       "American Physical Therapy Association"
     ],
@@ -21096,7 +20938,7 @@
     "type": "funding",
     "slug": "aga-allergan-foundation-pilot-research-award-in-irritable-bowel-syndrome",
     "name": "AGA- Allergan Foundation Pilot Research Award in Irritable Bowel Syndrome",
-    "description": "The objective of this pilot research award is to provide funds for early career investigators to help establish their research careers or to support projects that represent new research directions for established investigators.  Projects must focus on the pathophysiology and/or treatment of IBS and…",
+    "description": "The objective of this pilot research award is to provide funds for early career investigators to help establish their research careers or to support projects that represent new research directions for established investigators. Projects must focus on the pathophysiology and/or treatment of IBS and c…",
     "funder_names": [
       "American Gastroenterological Association"
     ],
@@ -21318,7 +21160,7 @@
     "type": "funding",
     "slug": "university-of-wollongong-postdoctoral-fellowship",
     "name": "Postdoctoral Fellowship",
-    "description": "We are seeking to connect outstanding early career researchers less than 5 years post PhD (relative to opportunity) with our established, world-class, academics in areas of existing and emerging research strength.  You will have an excellent track record and national and international recognition; a…",
+    "description": "We are seeking to connect outstanding early career researchers less than 5 years post PhD (relative to opportunity) with our established, world-class, academics in areas of existing and emerging research strength. You will have an excellent track record and national and international recognition; an…",
     "funder_names": [
       "University of Wollongong"
     ],
@@ -21676,7 +21518,7 @@
     "type": "funding",
     "slug": "hanna-h-gray-fellows-program",
     "name": "Hanna H. Gray Fellows Program",
-    "description": "The Hanna H. Gray Fellows  Program supports early career life scientists in academic labs across the U.S.",
+    "description": "The Hanna H. Gray Fellows Program supports early career life scientists in academic labs across the U.S.",
     "funder_names": [
       "Howard Hughes Medical Institute"
     ],
@@ -22158,7 +22000,7 @@
     "type": "funding",
     "slug": "loreal-award-for-women-in-life-science",
     "name": "L’Oreal award for women in life science",
-    "description": "The National and Regional Fellowships:\r\n\r\nEvery year, the Fondation L’Oréal awards almost 280 Fellowships to female PhD students and Post-Docs across 115 countries at a time when multiple obstacles arise to threaten their careers. \r\n\r\nThe International Fellowships: \r\n\r\nEvery year, 15 outstanding you…",
+    "description": "The National and Regional Fellowships: Every year, the Fondation L’Oréal awards almost 280 Fellowships to female PhD students and Post-Docs across 115 countries at a time when multiple obstacles arise to threaten their careers. The International Fellowships: Every year, 15 outstanding young research…",
     "funder_names": [
       "Fundation L'ORÉAL"
     ],
@@ -22268,7 +22110,7 @@
     "type": "funding",
     "slug": "leverhulme-early-career-fellowship",
     "name": "Leverhulme Early Career Fellowship",
-    "description": "For early career researchers, with a research record but who have not yet held a full-time permanent academic post, to undertake a significant piece of publishable work.\r\nFellowships can be held at universities or at other institutions of higher education in the UK. \r\n\r\nThe Fellowships are intended…",
+    "description": "For early career researchers, with a research record but who have not yet held a full-time permanent academic post, to undertake a significant piece of publishable work. Fellowships can be held at universities or at other institutions of higher education in the UK. The Fellowships are intended to as…",
     "funder_names": [
       "Leverhulme Trust"
     ],
@@ -22354,7 +22196,7 @@
     "type": "funding",
     "slug": "life-science-research-foundation-postdoc-fellowship",
     "name": "Life Science Research Foundation Postdoc Fellowship",
-    "description": "Since 1983, the Life Sciences Research Foundation (LSRF) has funded nearly 550 outstanding postdoctoral fellows in all areas of the life sciences, and raised more than $50 million from generous industries, foundations and individuals to support this effort.\r\n\r\nWe believe that discoveries and applica…",
+    "description": "Since 1983, the Life Sciences Research Foundation (LSRF) has funded nearly 550 outstanding postdoctoral fellows in all areas of the life sciences, and raised more than $50 million from generous industries, foundations and individuals to support this effort. We believe that discoveries and applicatio…",
     "funder_names": [
       "Life Sciences Research Foundation"
     ],
@@ -22432,7 +22274,7 @@
     "type": "funding",
     "slug": "mq-research-fellowships",
     "name": "MQ Research Fellowships",
-    "description": "The purpose of the Macquarie University Research Fellowships (MQRF) Scheme is to support researchers within three years of the award of their PhD who have an outstanding track record (relative to opportunity) and/or who show evidence of excellent research potential.  The Scheme provides an incubatio…",
+    "description": "The purpose of the Macquarie University Research Fellowships (MQRF) Scheme is to support researchers within three years of the award of their PhD who have an outstanding track record (relative to opportunity) and/or who show evidence of excellent research potential. The Scheme provides an incubation…",
     "funder_names": [
       "Macquarie University"
     ],
@@ -22502,7 +22344,7 @@
     "type": "funding",
     "slug": "medical-research-council-fellowships",
     "name": "Medical Research Council Fellowships",
-    "description": "MRC’s fellowships support the development of talented individuals to strengthen the UK research base and enable the scientific community to respond effectively to current and future grand challenges in medical research.\r\n\r\nThe MRC has a leading national role in training researchers across a range of…",
+    "description": "MRC’s fellowships support the development of talented individuals to strengthen the UK research base and enable the scientific community to respond effectively to current and future grand challenges in medical research. The MRC has a leading national role in training researchers across a range of bi…",
     "funder_names": [
       "Medical Research Council"
     ],
@@ -22648,7 +22490,7 @@
     "type": "funding",
     "slug": "niwa-postdoctoral-fellowships",
     "name": "NIWA Postdoctoral Fellowships",
-    "description": "NIWA offers Post-Doctoral Fellowships each year, usually during August/September. These positions support NIWA’s research programmes and provide valuable experience for early career researchers.  The Post-Doctoral Fellows undertake a major research project in a defined area of science under the guid…",
+    "description": "NIWA offers Post-Doctoral Fellowships each year, usually during August/September. These positions support NIWA’s research programmes and provide valuable experience for early career researchers. The Post-Doctoral Fellows undertake a major research project in a defined area of science under the guida…",
     "funder_names": [
       "National Institute of Water and Atmospheric Research"
     ],
@@ -22744,7 +22586,7 @@
     "type": "funding",
     "slug": "nrf-fellowship",
     "name": "NRF Fellowship",
-    "description": "NRF aims to develop a strong science research and manpower base in Singapore. It runs initiatives to attract and retain top scientists, support competitive funding of research, establish world-leading research centres and engage eminent science and technology leaders.\r\n\r\nThe Singapore NRF Fellowship…",
+    "description": "NRF aims to develop a strong science research and manpower base in Singapore. It runs initiatives to attract and retain top scientists, support competitive funding of research, establish world-leading research centres and engage eminent science and technology leaders. The Singapore NRF Fellowship pr…",
     "funder_names": [
       "National Research Foundation Singapore"
     ],
@@ -22778,7 +22620,7 @@
     "type": "funding",
     "slug": "nerc-postdoctoral-research-fellowship",
     "name": "NERC Postdoctoral Research Fellowship",
-    "description": "The NERC fellowship scheme provides opportunities for outstanding early-career environmental scientists to devote their time to:\r\n\r\nproducing research of international importance\r\ndeveloping their research careers and research groups\r\ndeveloping into recognised science leaders.",
+    "description": "The NERC fellowship scheme provides opportunities for outstanding early-career environmental scientists to devote their time to: producing research of international importance developing their research careers and research groups developing into recognised science leaders.",
     "funder_names": [
       "Natural Environment Research Council"
     ],
@@ -22850,7 +22692,7 @@
     "type": "funding",
     "slug": "european-flavor-phd-in-research-awards-programme",
     "name": "European Flavor PhD in research awards programme",
-    "description": "The programme aims to raise the profile of flavor science research in Europe by encouraging students of differing scientific disciplines to engage in innovative flavor-related research PhD projects and thus to advance the exciting and challenging field of flavor science\r\nBest PhD Thesis Award (EUR 5…",
+    "description": "The programme aims to raise the profile of flavor science research in Europe by encouraging students of differing scientific disciplines to engage in innovative flavor-related research PhD projects and thus to advance the exciting and challenging field of flavor science Best PhD Thesis Award (EUR 50…",
     "funder_names": [
       "Giract"
     ],
@@ -22966,7 +22808,7 @@
     "type": "funding",
     "slug": "ercim-the-alain-bensoussan-fellowship-program",
     "name": "ERCIM The Alain Bensoussan fellowship program",
-    "description": "ERCIM, the European Research Consortium for Informatics and Mathematics, offers fellowships for PhD holders from all over the world. Topics cover most disciplines in\r\nComputer Science, Information Technology, and Applied Mathematics.  Fellows are hosted in leading European Research Institutes.",
+    "description": "ERCIM, the European Research Consortium for Informatics and Mathematics, offers fellowships for PhD holders from all over the world. Topics cover most disciplines in Computer Science, Information Technology, and Applied Mathematics. Fellows are hosted in leading European Research Institutes.",
     "funder_names": [],
     "funders": [],
     "country": "Worldwide",
@@ -23072,7 +22914,7 @@
     "type": "funding",
     "slug": "mitacs-elevate-postdoctoral-fellowship",
     "name": "Mitacs Elevate postdoctoral fellowship",
-    "description": "<p>Mitacs Elevate is a postdoctoral fellowship with a customized research management training component. Fellows address complex challenges through an exclusive research management curriculum for postdoctoral fellows in any discipline. Over the two-year fellowship, Elevate fellows divide their time…",
+    "description": "Mitacs Elevate is a postdoctoral fellowship with a customized research management training component. Fellows address complex challenges through an exclusive research management curriculum for postdoctoral fellows in any discipline. Over the two-year fellowship, Elevate fellows divide their time bet…",
     "funder_names": [
       "Mitacs Elevate"
     ],
@@ -23116,7 +22958,7 @@
     "type": "funding",
     "slug": "helmholtz-postdoctoral-and-young-investigator-awards",
     "name": "Helmholtz Postdoctoral and Young Investigator awards",
-    "description": "<p>Helmholtz Young Investigator Groups allow the Helmholtz Association to offer internationally outstanding postdoctoral researchers the opportunity to establish their own research groups. Up to 15 Young Investigator Groups are funded each year, identified through a highly competitive selection proc…",
+    "description": "Helmholtz Young Investigator Groups allow the Helmholtz Association to offer internationally outstanding postdoctoral researchers the opportunity to establish their own research groups. Up to 15 Young Investigator Groups are funded each year, identified through a highly competitive selection procedu…",
     "funder_names": [
       "Helmholtz Association"
     ],
@@ -23164,7 +23006,7 @@
     "type": "funding",
     "slug": "the-michelson-prizes",
     "name": "The Michelson Prizes",
-    "description": "<p>The Michelson Prizes are scientific awards of $150,000 given annually to young investigators who are applying disruptive concepts and inventive processes to advance human immunology, vaccine discovery, and immunotherapy research across major global diseases. The Michelson Prizes are open to early…",
+    "description": "The Michelson Prizes are scientific awards of $150,000 given annually to young investigators who are applying disruptive concepts and inventive processes to advance human immunology, vaccine discovery, and immunotherapy research across major global diseases. The Michelson Prizes are open to early-ca…",
     "funder_names": [],
     "funders": [],
     "country": "Worldwide",
@@ -23204,7 +23046,7 @@
     "type": "funding",
     "slug": "forrest-research-fellowships",
     "name": "Forrest Research Fellowships",
-    "description": "<p>Forrest Research Fellowships are open to outstanding early-career researchers of any nationality and working in any discipline; they can be held at any of Western Australia&rsquo;s five universities. Fellowships are offered to early-stage post-doctoral researchers who have outstanding academic pr…",
+    "description": "Forrest Research Fellowships are open to outstanding early-career researchers of any nationality and working in any discipline; they can be held at any of Western Australia's five universities. Fellowships are offered to early-stage post-doctoral researchers who have outstanding academic profiles an…",
     "funder_names": [],
     "funders": [],
     "country": "Worldwide",
@@ -23242,7 +23084,7 @@
     "type": "funding",
     "slug": "toyota-foundation-research-grant-program",
     "name": "Toyota Foundation Research Grant Program",
-    "description": "<p>The Toyota Foundation and the University of Tokyo Institute for Future Initiatives (IFI) has established a new partnership programmme under the theme of &ldquo;Interlinkages and Innovation for Future Societies&rdquo; and wish to recruits researchers who will conduct research to transform social s…",
+    "description": "The Toyota Foundation and the University of Tokyo Institute for Future Initiatives (IFI) has established a new partnership programmme under the theme of \"Interlinkages and Innovation for Future Societies\" and wish to recruits researchers who will conduct research to transform social systems.",
     "funder_names": [],
     "funders": [],
     "country": "Worldwide",
@@ -23266,7 +23108,7 @@
     "type": "funding",
     "slug": "whoi-postdoctoral-fellowships",
     "name": "WHOI Postdoctoral Fellowships",
-    "description": "<p>The Woods Hole Oceanographic Institution offers several types of postdoctoral awards. A term appointment to the position of Postdoctoral Scholar, Fellow, or Investigator may be offered to an individual who has completed the requirements for a Ph.D. degree.</p>",
+    "description": "The Woods Hole Oceanographic Institution offers several types of postdoctoral awards. A term appointment to the position of Postdoctoral Scholar, Fellow, or Investigator may be offered to an individual who has completed the requirements for a Ph.D. degree.",
     "funder_names": [],
     "funders": [],
     "country": "Worldwide",
@@ -23334,7 +23176,7 @@
     "type": "funding",
     "slug": "early-career-fellowship",
     "name": "Early Career Fellowship",
-    "description": "<p>Early Career Fellowships are one of our Career Development Awards, aiming to attract and retain talented postdoctoral researchers who want to build a successful career in multiple sclerosis research. These grants provide a staged career structure and the opportunity for you to progress towards hi…",
+    "description": "Early Career Fellowships are one of our Career Development Awards, aiming to attract and retain talented postdoctoral researchers who want to build a successful career in multiple sclerosis research. These grants provide a staged career structure and the opportunity for you to progress towards highe…",
     "funder_names": [],
     "funders": [],
     "country": "United Kingdom",
@@ -23364,7 +23206,7 @@
     "type": "funding",
     "slug": "early-investigator-research-award",
     "name": "Early Investigator Research Award",
-    "description": "<p>Decrease the clinical impact of neurofibromatosis Neurofibromatosis (NF) is a group of three genetically distinct disorders that cause tumors to grow in the nervous system. It also produces other abnormalities in the skin and bones. There are three types of NF: 1) Neurofibromatosis Type 1 or NF1…",
+    "description": "Decrease the clinical impact of neurofibromatosis Neurofibromatosis (NF) is a group of three genetically distinct disorders that cause tumors to grow in the nervous system. It also produces other abnormalities in the skin and bones. There are three types of NF: 1) Neurofibromatosis Type 1 or NF1 aff…",
     "funder_names": [],
     "funders": [],
     "country": "Worldwide",
@@ -23394,7 +23236,7 @@
     "type": "funding",
     "slug": "fellowships-at-the-zukunftskolleg",
     "name": "Fellowships at the Zukunftskolleg",
-    "description": "<p style=\"caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span style=\"font-family: Arial;\">the Zukunftskolleg has just opened its 17th call for applications for Research Fellowships and Postdoctoral Fellowships. We would be pleased if you help us distribute the cal…",
+    "description": "Helvetica, sans-serif;\"> the Zukunftskolleg has just opened its 17th call for applications for Research Fellowships and Postdoctoral Fellowships. We would be pleased if you help us distribute the call in your network! Postdoctoral Fellowships (one position) We invite researchers in the early stages…",
     "funder_names": [],
     "funders": [],
     "country": "Germany",
@@ -23418,7 +23260,7 @@
     "type": "funding",
     "slug": "eutopia-sif-post-doctoral-fellowship-call-for-applications-20232023",
     "name": "EUTOPIA-SIF Post-Doctoral Fellowship – Call for applications 2023/2023",
-    "description": "<p>The EUTOPIA European University is pleased to announce the opening of the second call for 25 post-doctoral fellowships within the EUTOPIA Science and Innovation Fellowships Program (EUTOPIA-SIF) co-funded by the European Union&rsquo;s Horizon 2020 research and innovation programme under the Marie…",
+    "description": "The EUTOPIA European University is pleased to announce the opening of the second call for 25 post-doctoral fellowships within the EUTOPIA Science and Innovation Fellowships Program (EUTOPIA-SIF) co-funded by the European Union's Horizon 2020 research and innovation programme under the Marie Sklodows…",
     "funder_names": [],
     "funders": [],
     "country": "Belgium, France, Slovenia, Spain, Sweden, United Kingdom",
@@ -23446,7 +23288,7 @@
     "type": "funding",
     "slug": "australia-india-research-students-fellowship-program",
     "name": "Australia India Research Students Fellowship Program",
-    "description": "<p>Applications are now open for the <strong>new Australia India Research Students Fellowship (AIRS Fellowship)</strong> program.</p>\r\n<p>The bilateral program, run by the Australia India Institute and funded by the Australian Government Department of Education, supports emerging researchers from In…",
+    "description": "Applications are now open for the new Australia India Research Students Fellowship (AIRS Fellowship) program. The bilateral program, run by the Australia India Institute and funded by the Australian Government Department of Education, supports emerging researchers from India and Australia to underta…",
     "funder_names": [],
     "funders": [],
     "country": "Australia, India",
@@ -23480,7 +23322,7 @@
     "type": "funding",
     "slug": "postsecondary-education-applied-research-pear-fellowship",
     "name": "Postsecondary Education Applied Research (PEAR) Fellowship",
-    "description": "<p>The Postsecondary Education Applied Research (PEAR) Fellowship provides doctoral students with training in advanced quantitative analysis and the practical skills needed for a career in applied research in postsecondary education.</p>\r\n<p>Fellows will emerge from the program ready to engage in or…",
+    "description": "The Postsecondary Education Applied Research (PEAR) Fellowship provides doctoral students with training in advanced quantitative analysis and the practical skills needed for a career in applied research in postsecondary education. Fellows will emerge from the program ready to engage in original, hig…",
     "funder_names": [],
     "funders": [],
     "country": "United States",
@@ -23510,7 +23352,7 @@
     "type": "funding",
     "slug": "early-career-fellowships-at-oxford-chemistry",
     "name": "Early Career Fellowships at Oxford Chemistry",
-    "description": "<h2 class=\"widget-title\" style=\"box-sizing: border-box; font-family: Cabin, sans-serif; line-height: 1.1; margin: 0px 0px 0.5em; font-size: 1.75rem; padding-top: 16px; padding-bottom: 8px; font-variant-ligatures: normal; orphans: 2; widows: 2; text-decoration-thickness: initial;\">Apply for Early Car…",
+    "description": "Cabin, sans-serif; line-height: 1.1; margin: 0px 0px 0.5em; font-size: 1.75rem; padding-top: 16px; padding-bottom: 8px; font-variant-ligatures: normal; orphans: 2; widows: 2; text-decoration-thickness: initial;\">Apply for Early Career and Postdoctoral Fellowships The Department of Chemistry is part…",
     "funder_names": [],
     "funders": [],
     "country": "",
@@ -23538,7 +23380,7 @@
     "type": "funding",
     "slug": "global-development-awards-competition-2022-japanese-award-for-outstanding-research-on-development-or",
     "name": "Global Development Awards Competition 2022 - Japanese Award for Outstanding Research on Development (ORD)-EXTENDED DEADLINE 6 JAN",
-    "description": "<p>Competition Theme The Global Development Network (GDN) invites researchers from low-income or middle-income countries to submit research proposals within the theme &lsquo;Post-COVID-19 Governance - Learning from challenging circumstances to build better governance systems&rsquo; for the Japanese…",
+    "description": "Competition Theme The Global Development Network (GDN) invites researchers from low-income or middle-income countries to submit research proposals within the theme 'Post-COVID-19 Governance - Learning from challenging circumstances to build better governance systems' for the Japanese Award for Outst…",
     "funder_names": [],
     "funders": [],
     "country": "LMICs",
@@ -23572,7 +23414,7 @@
     "type": "funding",
     "slug": "ist-bridge-international-postdoctoral-program",
     "name": "IST-BRIDGE: International Postdoctoral Program",
-    "description": "<p>The IST-BRIDGE program at Institute of Science and Technology Austria (ISTA) offers fully funded (two-year) postdoctoral fellowships for highly qualified candidates who have completed or will soon complete their PhD or equivalent in the natural or computer sciences, mathematics or any related dis…",
+    "description": "The IST-BRIDGE program at Institute of Science and Technology Austria (ISTA) offers fully funded (two-year) postdoctoral fellowships for highly qualified candidates who have completed or will soon complete their PhD or equivalent in the natural or computer sciences, mathematics or any related discip…",
     "funder_names": [],
     "funders": [],
     "country": "Worldwide",
@@ -23610,7 +23452,7 @@
     "type": "funding",
     "slug": "ist-nomis-fellowship",
     "name": "IST-NOMIS Fellowship",
-    "description": "<p>The NOMIS Fellowship Program at Institute of Science and Technology Austria (ISTA) offers excellent postdoctoral researchers the freedom to work on questions at the intersection of two or more scientific disciplines in a unique scientific environment, while also providing the security of outstand…",
+    "description": "The NOMIS Fellowship Program at Institute of Science and Technology Austria (ISTA) offers excellent postdoctoral researchers the freedom to work on questions at the intersection of two or more scientific disciplines in a unique scientific environment, while also providing the security of outstanding…",
     "funder_names": [],
     "funders": [],
     "country": "Worldwide",
@@ -23638,7 +23480,7 @@
     "type": "funding",
     "slug": "five-2-year-postdoctoral-fellowships-at-the-zukunftskolleg",
     "name": "Five 2-year Postdoctoral Fellowships at the Zukunftskolleg",
-    "description": "<p><strong>Five 2-year Postdoctoral Fellowships at the Zukunftskolleg</strong> (Fulltime, E 13 TV-L) Reference No: 2023/167</p>\r\n<p>The preferred start date is <strong>April 1st, 2024</strong>. Conditionally on the submission of an external grant, the position can be extended for an additional year.…",
+    "description": "Five 2-year Postdoctoral Fellowships at the Zukunftskolleg (Fulltime, E 13 TV-L) Reference No: 2023/167 The preferred start date is April 1st, 2024 . Conditionally on the submission of an external grant, the position can be extended for an additional year. In principle, the position can be divided i…",
     "funder_names": [],
     "funders": [],
     "country": "Worldwide",
@@ -23666,7 +23508,7 @@
     "type": "funding",
     "slug": "2024-2026-postdoctoral-fellowship-in-conservation-science",
     "name": "2024-2026 Postdoctoral Fellowship in Conservation Science",
-    "description": "<p>The Getty Conservation Institute&rsquo;s (GCI) Postdoctoral Fellowship in Conservation Science is a two-year program designed to provide recent PhDs in chemistry and other physical or material sciences with experience in conservation science. The 2024&ndash;2026 Postdoctoral Fellow will be an int…",
+    "description": "The Getty Conservation Institute’s (GCI) Postdoctoral Fellowship in Conservation Science is a two-year program designed to provide recent PhDs in chemistry and other physical or material sciences with experience in conservation science. The 2024–2026 Postdoctoral Fellow will be an integral part of t…",
     "funder_names": [],
     "funders": [],
     "country": "Worldwide",
@@ -23696,7 +23538,7 @@
     "type": "funding",
     "slug": "eutopia-sif-post-doctoral-fellowship-call-for-applications-20232024",
     "name": "EUTOPIA-SIF Post-Doctoral Fellowship – Call for applications 2023/2024",
-    "description": "<p>The EUTOPIA European University is pleased to announce the opening of the fourth call for 16 post-doctoral fellowships within the EUTOPIA Science and Innovation Fellowships Program (EUTOPIA-SIF) co-funded by the European Union&rsquo;s Horizon 2020 research and innovation programme under the Marie…",
+    "description": "The EUTOPIA European University is pleased to announce the opening of the fourth call for 16 post-doctoral fellowships within the EUTOPIA Science and Innovation Fellowships Program (EUTOPIA-SIF) co-funded by the European Union's Horizon 2020 research and innovation programme under the Marie Sklodows…",
     "funder_names": [],
     "funders": [],
     "country": "Worldwide",
@@ -23724,7 +23566,7 @@
     "type": "funding",
     "slug": "cumming-global-centre-for-pandemic-therapeutics-foundation-grants-2023",
     "name": "Cumming Global Centre for Pandemic Therapeutics Foundation Grants 2023",
-    "description": "<p>In 2022, the Doherty Institute received a significant philanthropic donation from Mr Geoff Cumming to establish the Cumming Global Centre for Pandemic Therapeutics (Cumming Global Centre). This mission-driven, globally connected research centre will enable rapid design and development of treatmen…",
+    "description": "In 2022, the Doherty Institute received a significant philanthropic donation from Mr Geoff Cumming to establish the Cumming Global Centre for Pandemic Therapeutics (Cumming Global Centre). This mission-driven, globally connected research centre will enable rapid design and development of treatments…",
     "funder_names": [],
     "funders": [],
     "country": "Worldwide",
@@ -23756,7 +23598,7 @@
     "type": "funding",
     "slug": "beckman-young-investigator-award",
     "name": "Beckman Young Investigator Award",
-    "description": "<p>Projects proposed for the BYI program should be truly innovative, high-risk, and show promise for contributing to significant advances in chemistry and the life sciences.</p>\r\n<p>They should represent a departure from current research directions rather than an extension or expansion of existing p…",
+    "description": "Projects proposed for the BYI program should be truly innovative, high-risk, and show promise for contributing to significant advances in chemistry and the life sciences. They should represent a departure from current research directions rather than an extension or expansion of existing programs. Pr…",
     "funder_names": [],
     "funders": [],
     "country": "United States",
@@ -23784,7 +23626,7 @@
     "type": "funding",
     "slug": "joint-funded-encephalitis-clinical-research-training-phd-fellowships",
     "name": "Joint-funded encephalitis clinical research training PhD fellowships",
-    "description": "<p>The Medical Research Council collaborates with Encephalitis International to offer a jointly funded clinical research training fellowship. Encephalitis International will support one clinical research training fellowship to undertake UK-based research that contributes to improving the detection,…",
+    "description": "The Medical Research Council collaborates with Encephalitis International to offer a jointly funded clinical research training fellowship. Encephalitis International will support one clinical research training fellowship to undertake UK-based research that contributes to improving the detection, dia…",
     "funder_names": [],
     "funders": [],
     "country": "United Kingdom",
@@ -23812,7 +23654,7 @@
     "type": "funding",
     "slug": "nc3rs-grants-awards-studentships",
     "name": "NC3Rs - grants, awards, studentships",
-    "description": "<p class=\"MsoNormal\" style=\"margin: 0px; caret-color: #222222; color: #222222; font-family: Arial, Helvetica, sans-serif;\"><span style=\"font-size: 10pt; font-family: Arial, sans-serif;\">Project Grants - Need to hold a PhD<u></u><u></u></span></p>\r\n<p class=\"MsoNormal\" style=\"margin: 0px; caret-color…",
+    "description": "#222222; font-family: Arial, Helvetica, sans-serif;\"> Project Grants - Need to hold a PhD https://www.nc3rs.org.uk/our- funding-schemes/project-grants Partnerships & Impact – Need to hold a PhD https://www.nc3rs.org.uk/our- funding-schemes/partnership- and-impact-awards Studentship call – Need min 5…",
     "funder_names": [
       "National Centre for the Replacement Refinement and Reduction of Animals in Research"
     ],
@@ -23858,7 +23700,7 @@
     "type": "funding",
     "slug": "nc3rs-project-grants",
     "name": "NC3Rs- Project grants",
-    "description": "<h2 id=\"scheme-at-a-glance\" style=\"box-sizing: inherit; margin: 35px 0px 0px; color: #1a1a1a; line-height: 1.2; letter-spacing: -0.5px; font-size: 26px; font-family: Arial, Helvetica, 'Nimbus Sans L', sans-serif;\">Scheme at a glance</h2>\r\n<div class=\"s8080-component text--width-limit\" style=\"box-siz…",
+    "description": "0px 0px; color: #1a1a1a; line-height: 1.2; letter-spacing: -0.5px; font-size: 26px; font-family: Arial, Helvetica, 'Nimbus Sans L', sans-serif;\">Scheme at a glance A Project grant is a research project which supports the development of new 3Rs approaches and technologies. Applications from any area…",
     "funder_names": [],
     "funders": [],
     "country": "",
@@ -23882,7 +23724,7 @@
     "type": "funding",
     "slug": "australia-india-women-researchers-exchange-aiwe-program",
     "name": "Australia India Women Researchers’ Exchange (AIWE) Program",
-    "description": "<p>The Australia India Women Researchers&rsquo; Exchange (AIWE) Program is an initiative aimed at strengthening collaboration between Australia and India while addressing gender equity in STEM research. The AIWE program offers 10 fellowships for early-career postdoctoral researchers in STEM discipli…",
+    "description": "The Australia India Women Researchers’ Exchange (AIWE) Program is an initiative aimed at strengthening collaboration between Australia and India while addressing gender equity in STEM research. The AIWE program offers 10 fellowships for early-career postdoctoral researchers in STEM disciplines. Each…",
     "funder_names": [],
     "funders": [],
     "country": "Australia, India",
@@ -23910,7 +23752,7 @@
     "type": "funding",
     "slug": "2025-stengl-wyer-scholars",
     "name": "2025 Stengl-Wyer Scholars",
-    "description": "<p>Stengl-Wyer, the largest endowment in the history of the College of Natural Sciences, offers premier support for postdoctoral scientists to serve as Stengl-Wyer Scholars. Each scholar researches broadly the diversity of life and interactions between living things and their natural environments.</…",
+    "description": "Stengl-Wyer, the largest endowment in the history of the College of Natural Sciences, offers premier support for postdoctoral scientists to serve as Stengl-Wyer Scholars. Each scholar researches broadly the diversity of life and interactions between living things and their natural environments. Rece…",
     "funder_names": [],
     "funders": [],
     "country": "United States",
@@ -23970,7 +23812,7 @@
     "type": "funding",
     "slug": "mopga-visiting-research-fellowships-in-france",
     "name": "MOPGA Visiting Research Fellowships in France",
-    "description": "The MOPGA  visiting fellowship program supports significant scientific projects addressing issues related to the environment and climate change.\r\n\r\nThis program, implemented by Campus France and funded by the French Ministry of Europe and Foreign Affairs in partnership with the Ministry of Higher Ed…",
+    "description": "The MOPGA visiting fellowship program supports significant scientific projects addressing issues related to the environment and climate change. This program, implemented by Campus France and funded by the French Ministry of Europe and Foreign Affairs in partnership with the Ministry of Higher Educat…",
     "funder_names": [],
     "funders": [],
     "country": "Worldwide",
@@ -24004,7 +23846,7 @@
     "type": "funding",
     "slug": "junior-resarch-fellowships-at-the-hanse-wissenschaftskolleg",
     "name": "Junior Resarch Fellowships at the Hanse-Wissenschaftskolleg",
-    "description": "<p data-pm-slice=\"1 1 []\">The Hanse-Wissenschaftskolleg (HWK) in Delmenhorst is a leading Institute for Advanced Study located in Northwest Germany, dedicated to fostering exceptional research across all academic disciplines. Through its prestigious Fellowship program, HWK offers talented scholars&m…",
+    "description": "The Hanse-Wissenschaftskolleg (HWK) in Delmenhorst is a leading Institute for Advanced Study located in Northwest Germany, dedicated to fostering exceptional research across all academic disciplines. Through its prestigious Fellowship program, HWK offers talented scholars—from postdoctoral to senior…",
     "funder_names": [],
     "funders": [],
     "country": "Worldwide",
@@ -24036,7 +23878,7 @@
     "type": "funding",
     "slug": "gingko-grants-programme",
     "name": "GINGKO Grants Programme",
-    "description": "<p>GINGKO provides grants to support academic research into the history, art history and religions of MENA. GINGKO also offers grants for people organising transformative interfaith and intercultural encounters between people from MENA and the West. The Werner Mark Linz Memorial Grant (WMLM) is a me…",
+    "description": "GINGKO provides grants to support academic research into the history, art history and religions of MENA. GINGKO also offers grants for people organising transformative interfaith and intercultural encounters between people from MENA and the West. The Werner Mark Linz Memorial Grant (WMLM) is a mediu…",
     "funder_names": [],
     "funders": [],
     "country": "MENA",
@@ -25258,7 +25100,7 @@
     "type": "funding",
     "slug": "flinders-university-re-entry-fellowship",
     "name": "Flinders University re-entry Fellowship",
-    "description": "The Flinders University Re-entry Fellowship is to assist researchers in re-establishing their research careers after time away from research due to parental leave.\r\n\r\nValue: Up to $50,000\r\nClosing date: By 30 April and 30 November each year.",
+    "description": "The Flinders University Re-entry Fellowship is to assist researchers in re-establishing their research careers after time away from research due to parental leave. Value: Up to $50,000 Closing date: By 30 April and 30 November each year.",
     "funder_names": [
       "Flinders University"
     ],
@@ -25482,7 +25324,7 @@
     "type": "funding",
     "slug": "innovation-for-impact-prize",
     "name": "Innovation for Impact Prize",
-    "description": "The Innovation for Impact Prize is open to all researchers at universities and companies in the Maryland area.",
+    "description": "The Innovation for Impact Prize is open to all researchers at universities and companies in the Maryland area.",
     "funder_names": [
       "SoBran"
     ],
@@ -25856,7 +25698,7 @@
     "type": "funding",
     "slug": "durham-international-junior-research-fellowships",
     "name": "Durham International Junior Research Fellowships",
-    "description": "The Junior Research Fellowship (JRF) scheme is designed to attract the most talented researchers in Europe and beyond, and build international networks of scholars with a common passion for the deepest theoretical questions and most pressing practical problems facing humanity.\r\n\r\nThe JRF scheme is a…",
+    "description": "The Junior Research Fellowship (JRF) scheme is designed to attract the most talented researchers in Europe and beyond, and build international networks of scholars with a common passion for the deepest theoretical questions and most pressing practical problems facing humanity. The JRF scheme is aime…",
     "funder_names": [
       "Durham University"
     ],
@@ -26370,7 +26212,7 @@
     "type": "funding",
     "slug": "british-council-researcher-in-climate-change-links-workshop-research-funding",
     "name": "British Council Researcher in Climate Change Links Workshop & Research Funding",
-    "description": "Topic : Climate Resilience of Micro, Small & Medium Industrial Workplaces \r\n\r\nUnder the Researcher Links Climate Challenge Workshops scheme funded by the British Council, the University College London and American University in Cairo will be holding a virtual workshop & funding projects for ECRs in…",
+    "description": "Topic : Climate Resilience of Micro, Small & Medium Industrial Workplaces Under the Researcher Links Climate Challenge Workshops scheme funded by the British Council, the University College London and American University in Cairo will be holding a virtual workshop & funding projects for ECRs in the…",
     "funder_names": [],
     "funders": [],
     "country": "UK & Egypt",
@@ -26830,7 +26672,7 @@
     "type": "funding",
     "slug": "three-2-year-postdoctoral-fellowships-at-the-zukunftskolleg",
     "name": "Three 2-year Postdoctoral Fellowships at the Zukunftskolleg",
-    "description": "The University of Konstanz is one of eleven Universities of Excellence in Germany. Since 2007 it has been successful in the German ExcellenceInitiative and its follow-up programme, the Excellence Strategy.\r\n\r\nThe Zukunftskolleg is an Institute for Advanced Study for early career postdoctoral researc…",
+    "description": "The University of Konstanz is one of eleven Universities of Excellence in Germany. Since 2007 it has been successful in the German ExcellenceInitiative and its follow-up programme, the Excellence Strategy. The Zukunftskolleg is an Institute for Advanced Study for early career postdoctoral researcher…",
     "funder_names": [],
     "funders": [],
     "country": "Worldwide",
@@ -26886,7 +26728,7 @@
     "type": "funding",
     "slug": "leuphana-institute-for-advanced-studies-post-doctoral-fellowships",
     "name": "Leuphana Institute for Advanced Studies Post-Doctoral Fellowships",
-    "description": "The Leuphana Institute for Advanced Studies in Culture and Society at Leuphana University Lüneburg invites applications for 12-month fellowships in residence for 2026/27 starting April 1, 2026 and ending March 31, 2027.\r\nWe invite post-doctoral researchers in the social sciences and humanities who c…",
+    "description": "The Leuphana Institute for Advanced Studies in Culture and Society at Leuphana University Lüneburg invites applications for 12-month fellowships in residence for 2026/27 starting April 1, 2026 and ending March 31, 2027. We invite post-doctoral researchers in the social sciences and humanities who co…",
     "funder_names": [],
     "funders": [],
     "country": "Worldwide",
@@ -26956,7 +26798,7 @@
     "type": "travel_grant",
     "slug": "iscb-conference-travel-fellowships",
     "name": "ISCB Conference Travel Fellowships",
-    "description": "<p>This Travel Fellowship funds exclusively for ISCB student and Postdoc members to attend the annual conferences such as RECOMB, ISMB, ECCB, and InCoB.</p>",
+    "description": "This Travel Fellowship funds exclusively for ISCB student and Postdoc members to attend the annual conferences such as RECOMB, ISMB, ECCB, and InCoB.",
     "funder_names": [],
     "funders": [],
     "country": "Worldwide",
@@ -27144,7 +26986,7 @@
     "type": "travel_grant",
     "slug": "aacr-scholar-in-training-awards-annual-meeting",
     "name": "AACR Scholar-in-Training Awards — Annual Meeting",
-    "description": "<p>Offsets registration, travel, and subsistence costs for young investigators presenting meritorious papers at the AACR Annual Meeting. Applicants must present their work in person.</p>",
+    "description": "Offsets registration, travel, and subsistence costs for young investigators presenting meritorious papers at the AACR Annual Meeting. Applicants must present their work in person.",
     "funder_names": [
       "American Association for Cancer Research"
     ],
@@ -27186,7 +27028,7 @@
     "type": "travel_grant",
     "slug": "acu-early-career-conference-grants",
     "name": "ACU Early Career Conference Grants",
-    "description": "<p>Conference travel support for early career researchers at Association of Commonwealth Universities (ACU) member universities to attend and take part in in-person conferences in Commonwealth countries outside their country of work.</p>",
+    "description": "Conference travel support for early career researchers at Association of Commonwealth Universities (ACU) member universities to attend and take part in in-person conferences in Commonwealth countries outside their country of work.",
     "funder_names": [
       "Association of Commonwealth Universities"
     ],
@@ -27224,7 +27066,7 @@
     "type": "travel_grant",
     "slug": "adi-conference-travel-bursary",
     "name": "ADI conference travel bursary",
-    "description": "The fund is open to those with a research focus on Alzheimer’s Disease or dementia, who began their research career within the last five years or are currently studying for a PhD.  This will  help provide researchers the opportunity to attend Alzheimer's Disease International's (ADI's) conference on…",
+    "description": "The fund is open to those with a research focus on Alzheimer’s Disease or dementia, who began their research career within the last five years or are currently studying for a PhD. This will help provide researchers the opportunity to attend Alzheimer's Disease International's (ADI's) conference on d…",
     "funder_names": [],
     "funders": [],
     "country": "Wordwide",
@@ -27280,7 +27122,7 @@
     "type": "travel_grant",
     "slug": "american-society-for-microbiology-travel-awards-for-asm-microbe",
     "name": "American Society for Microbiology Travel Awards for ASM Microbe",
-    "description": "<p>Travel awards for ASM Microbe (annual event) plus other ASM sponsored events</p>",
+    "description": "Travel awards for ASM Microbe (annual event) plus other ASM sponsored events",
     "funder_names": [],
     "funders": [],
     "country": "Worldwide",
@@ -27318,7 +27160,7 @@
     "type": "travel_grant",
     "slug": "antibodiescom-travel-grants",
     "name": "Antibodies.com Travel Grants",
-    "description": "<p>Antibodies.com is proud to support European and US researchers with travel grants up to &pound;500.</p>",
+    "description": "Antibodies.com is proud to support European and US researchers with travel grants up to £500.",
     "funder_names": [],
     "funders": [],
     "country": "US or Europe",
@@ -27356,7 +27198,7 @@
     "type": "travel_grant",
     "slug": "apos-early-career-travel-award",
     "name": "APOS Early Career Travel Award",
-    "description": "<p>Travel award for early career applicants to attend the Asia Pacific Oncology Specialists (APOS) annual meeting. Applicants may also apply for the Health Equity Scholarship but will receive only one award in the same cycle.</p>",
+    "description": "Travel award for early career applicants to attend the Asia Pacific Oncology Specialists (APOS) annual meeting. Applicants may also apply for the Health Equity Scholarship but will receive only one award in the same cycle.",
     "funder_names": [
       "Asia Pacific Oncology Specialists"
     ],
@@ -27398,7 +27240,7 @@
     "type": "travel_grant",
     "slug": "arr-travel-bursaries",
     "name": "ARR Travel bursaries",
-    "description": "<p>Travel bursaries are available from the Association for Radiation Research (ARR) to attend both the annual ARR meeting and alternative, radiation focused non-ARR meetings.</p>",
+    "description": "Travel bursaries are available from the Association for Radiation Research (ARR) to attend both the annual ARR meeting and alternative, radiation focused non-ARR meetings.",
     "funder_names": [],
     "funders": [],
     "country": "United Kingdom",
@@ -27432,7 +27274,7 @@
     "type": "travel_grant",
     "slug": "asbmb-graduate-student-postdoc-travel-award",
     "name": "ASBMB Graduate Student or Postdoctoral Researcher Travel Award",
-    "description": "<p>Competitive travel award that reimburses qualifying travel expenses for graduate students or postdoctoral researchers presenting at the ASBMB Annual Meeting.</p>",
+    "description": "Competitive travel award that reimburses qualifying travel expenses for graduate students or postdoctoral researchers presenting at the ASBMB Annual Meeting.",
     "funder_names": [
       "American Society for Biochemistry and Molecular Biology"
     ],
@@ -27474,7 +27316,7 @@
     "type": "travel_grant",
     "slug": "aspho-early-career-travel-awards",
     "name": "ASPHO Early Career Travel Awards",
-    "description": "<p>Travel support and complimentary registration for young investigators to attend the ASPHO Conference. Up to five awards available per cycle.</p>",
+    "description": "Travel support and complimentary registration for young investigators to attend the ASPHO Conference. Up to five awards available per cycle.",
     "funder_names": [
       "American Society of Pediatric Hematology/Oncology"
     ],
@@ -27580,7 +27422,7 @@
     "type": "travel_grant",
     "slug": "boehringer-ingelheim-fonds-travel-grants",
     "name": "Boehringer Ingelheim Fonds travel grants",
-    "description": "<p>The Boehringer Ingelheim Fonds (BIF) awards travel grants of up to three months duration to MD and PhD students, as well as postdoctoral researchers from all over the world. The BIF supports them if they conduct experimental projects in basic biomedical research and want to pursue short-term rese…",
+    "description": "The Boehringer Ingelheim Fonds (BIF) awards travel grants of up to three months duration to MD and PhD students, as well as postdoctoral researchers from all over the world. The BIF supports them if they conduct experimental projects in basic biomedical research and want to pursue short-term researc…",
     "funder_names": [],
     "funders": [],
     "country": "global - see details on website",
@@ -27612,7 +27454,7 @@
     "type": "travel_grant",
     "slug": "british-association-for-cancer-research-bacr-travel-grant",
     "name": "British Association for Cancer Research (BACR) travel grant",
-    "description": "<p>BACR provides a number of travel bursaries and fellowships for members of one year standing, awarded on a competitive basis</p>",
+    "description": "BACR provides a number of travel bursaries and fellowships for members of one year standing, awarded on a competitive basis",
     "funder_names": [],
     "funders": [],
     "country": "United Kingdom",
@@ -27770,7 +27612,7 @@
     "type": "travel_grant",
     "slug": "churchill-fellowships",
     "name": "Churchill Fellowships",
-    "description": "<p>The Winston Churchill Memorial Trust runs the Churchill Fellowships, a unique programme of overseas research grants. These support UK citizens from all parts of society to travel the world in search of innovative solutions for today&rsquo;s most pressing problems. Every year we award 150 Fellowsh…",
+    "description": "The Winston Churchill Memorial Trust runs the Churchill Fellowships, a unique programme of overseas research grants. These support UK citizens from all parts of society to travel the world in search of innovative solutions for today's most pressing problems. Every year we award 150 Fellowships. Thes…",
     "funder_names": [],
     "funders": [],
     "country": "United Kingdom",
@@ -27908,7 +27750,7 @@
     "type": "travel_grant",
     "slug": "csir-travel-grants",
     "name": "CSIR Travel Grants",
-    "description": "<p>Financial assistance for young Indian researchers to participate in or present at international conferences, seminars, workshops, courses, and training programs. Includes PhD students, research associates, resident doctors, and non-regular researchers.</p>",
+    "description": "Financial assistance for young Indian researchers to participate in or present at international conferences, seminars, workshops, courses, and training programs. Includes PhD students, research associates, resident doctors, and non-regular researchers.",
     "funder_names": [
       "CSIR Human Resource Development Group"
     ],
@@ -28000,7 +27842,7 @@
     "type": "travel_grant",
     "slug": "ddsa-visit-grant",
     "name": "DDSA Visit Grant",
-    "description": "The purpose of the DDSA Visit Grant is to attract students and early career researchers interested in forming a future DDSA fellowship application in collaboration with a potential supervisor from a Danish university or a Danish research institution.\r\n\r\nThe grant contributes up to DKK 15,000 to cove…",
+    "description": "The purpose of the DDSA Visit Grant is to attract students and early career researchers interested in forming a future DDSA fellowship application in collaboration with a potential supervisor from a Danish university or a Danish research institution. The grant contributes up to DKK 15,000 to cover c…",
     "funder_names": [],
     "funders": [],
     "country": "",
@@ -28138,7 +27980,7 @@
     "type": "travel_grant",
     "slug": "efis-travel-grants",
     "name": "EFIS Travel Grants",
-    "description": "<p>Travel grants for PhD students and postdoctoral researchers with no more than 7 years of postdoctoral experience to attend Gordon Research Conferences (GRC). Applicant must be the first or corresponding author of the submitted abstract.</p>",
+    "description": "Travel grants for PhD students and postdoctoral researchers with no more than 7 years of postdoctoral experience to attend Gordon Research Conferences (GRC). Applicant must be the first or corresponding author of the submitted abstract.",
     "funder_names": [
       "European Federation of Immunological Societies"
     ],
@@ -28224,7 +28066,7 @@
     "type": "travel_grant",
     "slug": "esdrsid-young-investigator-collegiality-awards",
     "name": "ESDR/SID Young Investigator Collegiality Awards",
-    "description": "<p>The Society for Investigative Dermatology promotes a continued joint initiative between the European Society for Dermatological Research (ESDR) and the SID, the Young Investigator Collegiality Travel Awards are designed to promote the academic career development of researchers and clinician-scien…",
+    "description": "The Society for Investigative Dermatology promotes a continued joint initiative between the European Society for Dermatological Research (ESDR) and the SID, the Young Investigator Collegiality Travel Awards are designed to promote the academic career development of researchers and clinician-scientis…",
     "funder_names": [],
     "funders": [],
     "country": "Applicants must be a member of the SID (in good standing) and active in investigative dermatology in an US-based department, laboratory, or institution.",
@@ -28262,7 +28104,7 @@
     "type": "travel_grant",
     "slug": "eseb-conference-travel-award",
     "name": "ESEB Conference Travel Award",
-    "description": "<p>These stipends are for students and young scientists to attend the ESEB congresses or the Evolution meetings. The stipend will contribute to covering travel, living expenses and early bird congress registration fees. The award will be paid out as a reimbursement after the congress, based on speci…",
+    "description": "These stipends are for students and young scientists to attend the ESEB congresses or the Evolution meetings. The stipend will contribute to covering travel, living expenses and early bird congress registration fees. The award will be paid out as a reimbursement after the congress, based on specific…",
     "funder_names": [],
     "funders": [],
     "country": "Scientists working in a country with high GDP are not eligible",
@@ -28292,7 +28134,7 @@
     "type": "travel_grant",
     "slug": "espr-travel-grants",
     "name": "ESPR Travel Grants",
-    "description": "<p>This program financially supports ESPR members to attend the joint European Neonatal Societies (jENS) Congress.</p>",
+    "description": "This program financially supports ESPR members to attend the joint European Neonatal Societies (jENS) Congress.",
     "funder_names": [],
     "funders": [],
     "country": "Worldwide",
@@ -28324,7 +28166,7 @@
     "type": "travel_grant",
     "slug": "eswi-early-career-scientists-fund",
     "name": "ESWI Early Career Scientists Fund",
-    "description": "<p>Travel and participation grants for early career scientists to attend the European Influenza Conference. Evaluated by the Scientific Programme Committee through open competition.</p>",
+    "description": "Travel and participation grants for early career scientists to attend the European Influenza Conference. Evaluated by the Scientific Programme Committee through open competition.",
     "funder_names": [
       "European Scientific Working Group on Influenza"
     ],
@@ -28366,7 +28208,7 @@
     "type": "travel_grant",
     "slug": "european-skin-science-travel-award",
     "name": "European Skin Science Travel Award",
-    "description": "<p>European Society for Dermatological Research (ESDR) is offering opportunities to apply for travel awards within Europe to further dermatological research.</p>",
+    "description": "European Society for Dermatological Research (ESDR) is offering opportunities to apply for travel awards within Europe to further dermatological research.",
     "funder_names": [],
     "funders": [],
     "country": "ESDR member based in Europe",
@@ -28408,7 +28250,7 @@
     "type": "travel_grant",
     "slug": "ewm-travel-grants",
     "name": "EWM Travel Grants",
-    "description": "<p>EWM awards a few grants each year for female mathematicians that are EWM members and are at an early stage of their career or work in a developing country, for participating and giving a talk at a significant conference in their field.</p>",
+    "description": "EWM awards a few grants each year for female mathematicians that are EWM members and are at an early stage of their career or work in a developing country, for participating and giving a talk at a significant conference in their field.",
     "funder_names": [],
     "funders": [],
     "country": "Developing Countries",
@@ -28478,7 +28320,7 @@
     "type": "travel_grant",
     "slug": "g-research-grants-for-phd-students-and-postdocs-in-quantitative-fields",
     "name": "G-Research Grants for PhD students and postdocs in quantitative fields",
-    "description": "Are you a PhD student or postdoc in a quantitative discipline?  Do you need help funding something that will help your research?  If so, we can help: every month we give away £2,000 in grant money to help early career researchers – and are especially interested in applications that are hard to fund…",
+    "description": "Are you a PhD student or postdoc in a quantitative discipline? Do you need help funding something that will help your research? If so, we can help: every month we give away £2,000 in grant money to help early career researchers – and are especially interested in applications that are hard to fund el…",
     "funder_names": [],
     "funders": [],
     "country": "Europe",
@@ -28702,7 +28544,7 @@
     "type": "travel_grant",
     "slug": "honor-fell-travel-award",
     "name": "Honor Fell Travel Award",
-    "description": "<p>Honor Fell Travel Awards are sponsored by the Company of Biologists (the publishers of The Journal of Cell Science and Development) and they provide financial support for BSCB members at the beginning of their research careers to attend meetings and courses.</p>",
+    "description": "Honor Fell Travel Awards are sponsored by the Company of Biologists (the publishers of The Journal of Cell Science and Development) and they provide financial support for BSCB members at the beginning of their research careers to attend meetings and courses.",
     "funder_names": [],
     "funders": [],
     "country": "United Kingdom",
@@ -28790,7 +28632,7 @@
     "type": "travel_grant",
     "slug": "ifmrs-travel-grants",
     "name": "IFMRS Travel Grants",
-    "description": "<p>IFMRS travel grants are available for members of IFMRS member societies to attend any IFMRS member society or affiliated event.</p>",
+    "description": "IFMRS travel grants are available for members of IFMRS member societies to attend any IFMRS member society or affiliated event.",
     "funder_names": [],
     "funders": [],
     "country": "Worldwide",
@@ -28852,7 +28694,7 @@
     "type": "travel_grant",
     "slug": "international-early-career-physiologist-travel-awards",
     "name": "International Early Career Physiologist Travel Awards",
-    "description": "<p>The International Early Career Physiologist (IECP) Travel Awards are presented to graduate students, post-doctoral fellows and junior faculty members who work outside the United States. This initiative of the International Physiology Committee is designed to assist with travel expenses that inter…",
+    "description": "The International Early Career Physiologist (IECP) Travel Awards are presented to graduate students, post-doctoral fellows and junior faculty members who work outside the United States. This initiative of the International Physiology Committee is designed to assist with travel expenses that internat…",
     "funder_names": [],
     "funders": [],
     "country": "Worldwide",
@@ -28988,7 +28830,7 @@
     "type": "travel_grant",
     "slug": "iscb-student-council-symposium-travel-fellowships",
     "name": "ISCB Student Council Symposium Travel Fellowships",
-    "description": "<p>These travel fellowships are for Ph.D. and Postdocs to attain the annual ISCB Student Council Symposium</p>",
+    "description": "These travel fellowships are for Ph.D. and Postdocs to attain the annual ISCB Student Council Symposium",
     "funder_names": [],
     "funders": [],
     "country": "Wordwide",
@@ -29022,7 +28864,7 @@
     "type": "travel_grant",
     "slug": "ishr-eci-travel-awards",
     "name": "ISHR Early Career Investigator Travel Awards",
-    "description": "<p>Travel awards for early career investigators to attend the International Society for Heart Research World Congress. Applications are evaluated in two batches.</p>",
+    "description": "Travel awards for early career investigators to attend the International Society for Heart Research World Congress. Applications are evaluated in two batches.",
     "funder_names": [
       "International Society for Heart Research"
     ],
@@ -29148,7 +28990,7 @@
     "type": "travel_grant",
     "slug": "jem-early-career-travel-award",
     "name": "JEM Early Career Travel Award",
-    "description": "<p>Travel award from the Journal of Experimental Medicine (Rockefeller University Press) for graduate students or early-career postdocs to attend selected scientific conferences.</p>",
+    "description": "Travel award from the Journal of Experimental Medicine (Rockefeller University Press) for graduate students or early-career postdocs to attend selected scientific conferences.",
     "funder_names": [
       "Rockefeller University Press"
     ],
@@ -29282,7 +29124,7 @@
     "type": "travel_grant",
     "slug": "lms-travel-grants-for-early-career-researchers",
     "name": "LMS Travel Grants for Early Career Researchers",
-    "description": "<p>Partial travel and/or accommodation support for PhD/research students or researchers within five years of PhD. Supports conference attendance or research visits in the UK or overseas. One grant per scheme per person per LMS financial year.</p>",
+    "description": "Partial travel and/or accommodation support for PhD/research students or researchers within five years of PhD. Supports conference attendance or research visits in the UK or overseas. One grant per scheme per person per LMS financial year.",
     "funder_names": [
       "London Mathematical Society"
     ],
@@ -29356,7 +29198,7 @@
     "type": "travel_grant",
     "slug": "martin-frank-diversity-travel-awards",
     "name": "Martin Frank Diversity Travel Awards",
-    "description": "<p>The Martin Frank Diversity Travel Award program is designed to broaden participation of those pursuing professional careers in physiological sciences. The specific intent this program is to increase active participation in and networking at scientific meetings among trainees and early career facu…",
+    "description": "The Martin Frank Diversity Travel Award program is designed to broaden participation of those pursuing professional careers in physiological sciences. The specific intent this program is to increase active participation in and networking at scientific meetings among trainees and early career faculty…",
     "funder_names": [],
     "funders": [],
     "country": "Applicants must be attending U.S. institutions",
@@ -29392,7 +29234,7 @@
     "type": "travel_grant",
     "slug": "medical-research-travel-grants",
     "name": "Medical Research Travel Grants",
-    "description": "<p><span style=\"font-family: Verdana, Arial, 'Trebuchet MS', Tahoma, sans-serif; font-size: 11.84000015258789px;\">The Trustees are mindful of the influence of new clinical and laboratory techniques on the advance of medical science, and are aware of the advantages that may be derived from visits to…",
+    "description": "sans-serif; font-size: 11.84000015258789px;\">The Trustees are mindful of the influence of new clinical and laboratory techniques on the advance of medical science, and are aware of the advantages that may be derived from visits to laboratories for the acquisition of new skills, and for setting up in…",
     "funder_names": [],
     "funders": [],
     "country": "",
@@ -29536,7 +29378,7 @@
     "type": "travel_grant",
     "slug": "norheart-travel-and-exchange-program",
     "name": "NORHEART travel and exchange program",
-    "description": "<p>This program financially supports Norwegian PhD students within cardiovascular research for research visits within Norway and abroad.</p>",
+    "description": "This program financially supports Norwegian PhD students within cardiovascular research for research visits within Norway and abroad.",
     "funder_names": [],
     "funders": [],
     "country": "Norway",
@@ -29630,7 +29472,7 @@
     "type": "travel_grant",
     "slug": "pag-travel-grants",
     "name": "PAG Travel Grants",
-    "description": "<p>Travel stipends for eligible applicants to attend the Plant and Animal Genome Conference. Multiple grant streams are available with separate application details.</p>",
+    "description": "Travel stipends for eligible applicants to attend the Plant and Animal Genome Conference. Multiple grant streams are available with separate application details.",
     "funder_names": [
       "Plant and Animal Genome Conference"
     ],
@@ -29672,7 +29514,7 @@
     "type": "travel_grant",
     "slug": "pianoforte-partnership-travel-grants",
     "name": "PIANOFORTE Partnership Travel Grants for Researchers",
-    "description": "<p>Travel grants for early career researchers in radiation protection research. Supports conference participation, course attendance, or exchange visits to research labs. EUR 40,000 per year available overall across the programme, with quarterly evaluations.</p>",
+    "description": "Travel grants for early career researchers in radiation protection research. Supports conference participation, course attendance, or exchange visits to research labs. EUR 40,000 per year available overall across the programme, with quarterly evaluations.",
     "funder_names": [
       "PIANOFORTE Partnership"
     ],
@@ -29808,7 +29650,7 @@
     "type": "travel_grant",
     "slug": "rna-society-travel-fellowship",
     "name": "RNA Society Travel Fellowship",
-    "description": "<p>The RNA Society provides travel fellowships in support of researchers who are constrained financially from attending the Society's annual conference. In most cases the fellowships will be made in the form of reduced or waived registration fees, although it is possible that some contribution towar…",
+    "description": "The RNA Society provides travel fellowships in support of researchers who are constrained financially from attending the Society's annual conference. In most cases the fellowships will be made in the form of reduced or waived registration fees, although it is possible that some contribution toward t…",
     "funder_names": [],
     "funders": [],
     "country": "Worldwide",
@@ -29836,7 +29678,7 @@
     "type": "travel_grant",
     "slug": "rsc-researcher-development-and-travel-grant",
     "name": "RSC Researcher Development and Travel Grant",
-    "description": "<p>Supports research career activities including travel to conferences, training events, meetings, and networking opportunities, whether virtual or in-person. Available to RSC members who are PhD students or early career scientists in academia or industry.</p>",
+    "description": "Supports research career activities including travel to conferences, training events, meetings, and networking opportunities, whether virtual or in-person. Available to RSC members who are PhD students or early career scientists in academia or industry.",
     "funder_names": [
       "Royal Society of Chemistry"
     ],
@@ -30077,54 +29919,6 @@
     "deadline_month": "February",
     "search_text": "Sparrho early career researcher prize PhD Postdoc Conference Worldwide",
     "url": "http://grants.sparrho.com/index.html",
-    "updated_at": ""
-  },
-  {
-    "id": "travel-grant-sparrow-500-early-career-research-prize",
-    "type": "travel_grant",
-    "slug": "sparrow-500-early-career-research-prize",
-    "name": "Sparrow $500 Early Career Research Prize",
-    "description": "If your research field covers:\r\n\r\n    Environment/Climate Change \r\n    Mind/Mental Health\r\n    Reproductive health\r\n\r\nyou could win a $500 travel grant to attend an academic conference of your choice in the coming 12 months.\r\n\r\nHow? Submit a Digest distilling research in the above topic areas into a…",
-    "funder_names": [],
-    "funders": [],
-    "country": "",
-    "applicant_country": "",
-    "host_country": "",
-    "career_levels": [
-      "phd",
-      "postdoc",
-      "junior-faculty",
-      "senior-faculty"
-    ],
-    "career_level_names": [
-      "PhD",
-      "Postdoc",
-      "Junior Faculty",
-      "Senior Faculty"
-    ],
-    "subjects": [],
-    "subject_names": [],
-    "travel_purposes": [
-      "conference",
-      "collaboration",
-      "workshop-training-or-course",
-      "research-visit",
-      "field-work",
-      "learn-new-technique"
-    ],
-    "travel_purpose_names": [
-      "Conference",
-      "Collaboration",
-      "Workshop, training or course",
-      "Research visit",
-      "Field work",
-      "Learn new technique"
-    ],
-    "status": "active",
-    "featured": false,
-    "deadline_month": "August",
-    "search_text": "Sparrow $500 Early Career Research Prize If your research field covers:\r\n\r\n    Environment/Climate Change \r\n    Mind/Mental Health\r\n    Reproductive health\r\n\r\nyou could win a $500 travel grant to attend an academic conference of your choice in the coming 12 months.\r\n\r\nHow? Submit a Digest distilling research in the above topic areas into a 3-minute, easy-to-read, layman-friendly summary. PhD Postdoc Junior Faculty Senior Faculty Conference Collaboration Workshop, training or course Research visit Field work Learn new technique",
-    "url": "https://grants.sparrow.science/",
     "updated_at": ""
   },
   {
@@ -30458,7 +30252,7 @@
     "type": "travel_grant",
     "slug": "travel-award-for-keystone-symposia-global-health-series",
     "name": "Travel Award for Keystone Symposia Global Health Series",
-    "description": "<p>These travel awards to attend one of the Keystone Symposia in their Global Health Series are sponsored by the Bill &amp; Melissa Gates Foundation. Travel awards are for local and regional scientists, students and post-doctoral fellows from a nation affected by the health problem of the meeting to…",
+    "description": "These travel awards to attend one of the Keystone Symposia in their Global Health Series are sponsored by the Bill & Melissa Gates Foundation. Travel awards are for local and regional scientists, students and post-doctoral fellows from a nation affected by the health problem of the meeting topic. Pr…",
     "funder_names": [],
     "funders": [],
     "country": "From nation affected by the health problem of the meeting topic",
@@ -30556,7 +30350,7 @@
     "type": "travel_grant",
     "slug": "travel-grants-for-early-career-researchers",
     "name": "Travel grants for early career researchers",
-    "description": "<p>The Springer Nature's communications journals (Biology, Chemistry, and Physics) introduced this travel grants for early career researchers in 2018. The programme aims to help promising researchers travel to an international scientific meeting of their choice that they would otherwise have not bee…",
+    "description": "The Springer Nature's communications journals (Biology, Chemistry, and Physics) introduced this travel grants for early career researchers in 2018. The programme aims to help promising researchers travel to an international scientific meeting of their choice that they would otherwise have not been a…",
     "funder_names": [
       "Springer Nature"
     ],
@@ -30756,7 +30550,7 @@
     "type": "travel_grant",
     "slug": "ut-austin-postdoctoral-scholars-travel-grant",
     "name": "UT Austin Postdoctoral Scholars Travel Grant Program",
-    "description": "<p>Travel award for University of Texas at Austin postdoctoral fellows to attend professional conferences and meetings. Encourages engagement in professional development opportunities.</p>",
+    "description": "Travel award for University of Texas at Austin postdoctoral fellows to attend professional conferences and meetings. Encourages engagement in professional development opportunities.",
     "funder_names": [
       "University of Texas at Austin"
     ],
@@ -30792,7 +30586,7 @@
     "type": "travel_grant",
     "slug": "wwf-professional-development-grants",
     "name": "WWF Professional Development Grants",
-    "description": "<p>Professional Development Grants (PDGs) provide support for mid-career conservationists to pursue short-term, non-degree training to upgrade their knowledge and skills. These trainings can include short courses, certificate trainings, or conferences among other training opportunities. PDGs support…",
+    "description": "Professional Development Grants (PDGs) provide support for mid-career conservationists to pursue short-term, non-degree training to upgrade their knowledge and skills. These trainings can include short courses, certificate trainings, or conferences among other training opportunities. PDGs support tr…",
     "funder_names": [],
     "funders": [],
     "country": "Click grant URL for list of eligible countries",
@@ -30830,7 +30624,7 @@
     "type": "travel_grant",
     "slug": "young-scientists-summer-program-yssp",
     "name": "Young Scientists Summer Program (YSSP)",
-    "description": "IIASA offers PhD student fellowships to undertake a summer project on a topic related to the IIASA research agenda. \r\nAnnually, from 1 June to 31 August, IIASA hosts up to 50 doctoral students from around the world in its Young Scientists Summer Program (YSSP).",
+    "description": "IIASA offers PhD student fellowships to undertake a summer project on a topic related to the IIASA research agenda. Annually, from 1 June to 31 August, IIASA hosts up to 50 doctoral students from around the world in its Young Scientists Summer Program (YSSP).",
     "funder_names": [],
     "funders": [],
     "country": "Worldwide",
@@ -31968,7 +31762,7 @@
     "type": "resource",
     "slug": "funding-opportunities-for-early-career-researchers",
     "name": "Funding Opportunities for Early Career Researchers",
-    "description": "Maintained by the VP Research at Johns Hopkins, their office maintains this updated list in the form of a spreadsheet with  375 opportunities intended for \"intended for late Postdoctoral investigators and early-career faculty, usually those at or below the rank of assistant professor\".",
+    "description": "Maintained by the VP Research at Johns Hopkins, their office maintains this updated list in the form of a spreadsheet with 375 opportunities intended for \"intended for late Postdoctoral investigators and early-career faculty, usually those at or below the rank of assistant professor\".",
     "funder_names": [],
     "funders": [],
     "country": "",
@@ -33750,7 +33544,7 @@
     "type": "resource",
     "slug": "sr-foundation-kuno-award",
     "name": "S&R Foundation Kuno Award",
-    "description": "The 2020 application for the $100,000 Kuno Award for Applied Science is now open until August 31st. \r\n\r\nS&R Foundation’s Kuno Award for Applied Science for the Social Good is designed to support women social innovators using scientific research and principles to address a 21st Century problem. The a…",
+    "description": "The 2020 application for the $100,000 Kuno Award for Applied Science is now open until August 31st. S&R Foundation’s Kuno Award for Applied Science for the Social Good is designed to support women social innovators using scientific research and principles to address a 21st Century problem. The award…",
     "funder_names": [],
     "funders": [],
     "country": "",
@@ -33972,7 +33766,7 @@
     "type": "resource",
     "slug": "publishing-as-an-early-career-researcher",
     "name": "Publishing as an early career researcher",
-    "description": "Resources from the Royal Society to help early career researchers navigate through their publishing journey and develop their academic career. \r\n\r\nThese include grant schemes, scientific meetings, open publishing practices, co-reviewing, talks, webinars and blog posts including our growing author ti…",
+    "description": "Resources from the Royal Society to help early career researchers navigate through their publishing journey and develop their academic career. These include grant schemes, scientific meetings, open publishing practices, co-reviewing, talks, webinars and blog posts including our growing author tips c…",
     "funder_names": [],
     "funders": [],
     "country": "",
@@ -34636,7 +34430,7 @@
     "type": "resource",
     "slug": "25-work-from-home-tips-for-scientists",
     "name": "25 Work From Home Tips for Scientists",
-    "description": "Are you a grad student, postdoc, or bench scientist who began working remotely recently? Most of us at Addgene began working from home last week to flatten the curve, but working remotely can be more difficult if your work is based in the lab.  If you’re unsure what to do during this period, check o…",
+    "description": "Are you a grad student, postdoc, or bench scientist who began working remotely recently? Most of us at Addgene began working from home last week to flatten the curve, but working remotely can be more difficult if your work is based in the lab. If you’re unsure what to do during this period, check ou…",
     "funder_names": [],
     "funders": [],
     "country": "",
@@ -34740,7 +34534,7 @@
     "type": "resource",
     "slug": "useful-projects-and-resources-for-covid-19",
     "name": "Useful projects and resources for COVID-19",
-    "description": "COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers around the world are building applications for the public to get up-to-date and accurate information as quickly as possible.  If you are a developer, you may also be able to contribute to some of these projects.",
+    "description": "COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers around the world are building applications for the public to get up-to-date and accurate information as quickly as possible. If you are a developer, you may also be able to contribute to some of these projects.",
     "funder_names": [],
     "funders": [],
     "country": "",
@@ -35038,7 +34832,7 @@
     "type": "resource",
     "slug": "coronavirus-the-science-explained",
     "name": "Coronavirus: the science explained",
-    "description": "This website will be regularly updated with the latest science information behind the coronavirus outbreak.  The following pages lay out the evidence and the facts about the virus, the disease, the epidemic, and its control. Please note, they are not intended as a source of health advice or official…",
+    "description": "This website will be regularly updated with the latest science information behind the coronavirus outbreak. The following pages lay out the evidence and the facts about the virus, the disease, the epidemic, and its control. Please note, they are not intended as a source of health advice or official…",
     "funder_names": [],
     "funders": [],
     "country": "",

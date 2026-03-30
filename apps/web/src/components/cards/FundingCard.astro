@@ -8,6 +8,7 @@ interface Props {
 }
 
 const { funding, compact = false, homepage = false } = Astro.props
+const stripHtml = (html: string | null | undefined) => html?.replace(/<[^>]*>/g, '').trim() ?? ''
 
 const firstFunderLogo = funding.funder_logos?.[0] ?? null
 const firstFunderName = funding.funder_names?.[0] ?? funding.legacy_funder_name ?? null
@@ -153,7 +154,7 @@ const dataFundingPurposes = (funding.funding_purposes ?? []).join(',')
 
     <!-- Description -->
     {!compact && funding.description && (
-      <p class="card-description">{funding.description}</p>
+      <p class="card-description">{stripHtml(funding.description)}</p>
     )}
 
     <!-- Tags: career levels + subjects -->

@@ -2,11 +2,7 @@ id: funding-febs-summer-fellowships
 legacy_id: 69
 slug: febs-summer-fellowships
 name: FEBS summer fellowships
-description: "FEBS Summer Fellowships are awarded to young promising students in a\
-  \ FEBS country wishing to gain practical scientific experience in an institution\
-  \ located in another country within the FEBS area.\r\n\r\nApplicants should normally\
-  \ be registered graduate students in a FEBS country who have not yet submitted a\
-  \ doctoral thesis."
+description: FEBS Summer Fellowships are awarded to young promising students in a FEBS country wishing to gain practical scientific experience in an institution located in another country within the FEBS area. Applicants should normally be registered graduate students in a FEBS country who have not yet submitted a doctoral thesis.
 url: http://www.febs.org/our-activities/fellowships/febs-summer-fellowships
 funders:
 - federation-of-european-biochemical-societies

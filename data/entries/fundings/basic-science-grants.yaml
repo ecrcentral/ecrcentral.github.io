@@ -2,11 +2,7 @@ id: funding-basic-science-grants
 legacy_id: 502
 slug: basic-science-grants
 name: Basic Science Grants
-description: The American Society for Surgery of the Hand (ASSH) and the American
-  Foundation for Surgery of the Hand (AFSH) have established grant funding to encourage
-  investigators to perform basic science research studies.  Their goal is to enable
-  investigators to initiate pilot projects that will lead to subsequent funding from
-  other sources such as the National Institutes of Health (NIH).
+description: The American Society for Surgery of the Hand (ASSH) and the American Foundation for Surgery of the Hand (AFSH) have established grant funding to encourage investigators to perform basic science research studies. Their goal is to enable investigators to initiate pilot projects that will lead to subsequent funding from other sources such as the National Institutes of Health (NIH).
 url: https://www.afsh.org/s/basic-science-grants
 funders:
 - american-foundation-for-surgery-of-the-hand

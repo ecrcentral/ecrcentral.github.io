@@ -2,20 +2,7 @@ id: funding-frs-fnrs-postdoctoraldoctoral-fellowships
 legacy_id: 73
 slug: frs-fnrs-postdoctoraldoctoral-fellowships
 name: F.R.S.-FNRS postdoctoral/doctoral fellowships
-description: "The mission of the F.R.S.-FNRS is to promote free scientific (fundamental)\
-  \ research in the Wallonia-Brussels Federation by attributing grants to researchers\
-  \ and institutions (mainly WBF universities). To fulfil this mission, the F.R.S.-FNRS\
-  \ has set up its own financial instruments that are the subject of calls for proposals\
-  \ at different times of the year. Allocation of grants is conditional on a peer\
-  \ review of the quality of the proposal and is based on scientific excellence.\r\
-  \n\r\nThis covers:\r\n\r\n1. either grants or fixed term contracts, for doctoral\
-  \ or postdoctoral researchers, or permanent positions for confirmed researchers\
-  \ (Research Associates, Senior Research Associates and Research Directors).\r\n\
-  2. These researchers carry out their activities in all areas of science, within\
-  \ French-speaking universities that make their infrastructures available to them\
-  \ and integrate them into their academic environment. Other tools also make it possible\
-  \ to provide researchers conducting a project of excellence with scientific and\
-  \ technical personnel, equipment and means of operation."
+description: 'The mission of the F.R.S.-FNRS is to promote free scientific (fundamental) research in the Wallonia-Brussels Federation by attributing grants to researchers and institutions (mainly WBF universities). To fulfil this mission, the F.R.S.-FNRS has set up its own financial instruments that are the subject of calls for proposals at different times of the year. Allocation of grants is conditional on a peer review of the quality of the proposal and is based on scientific excellence. This covers: 1. either grants or fixed term contracts, for doctoral or postdoctoral researchers, or permanent positions for confirmed researchers (Research Associates, Senior Research Associates and Research Directors). 2. These researchers carry out their activities in all areas of science, within French-speaking universities that make their infrastructures available to them and integrate them into their academic environment. Other tools also make it possible to provide researchers conducting a project of excellence with scientific and technical personnel, equipment and means of operation.'
 url: http://www.fnrs.be/en/index.php/funding/mandates/postdoctoral-researchers
 funders:
 - fund-for-scientific-research-frsfnrs

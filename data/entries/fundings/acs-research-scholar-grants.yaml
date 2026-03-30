@@ -2,14 +2,7 @@ id: funding-acs-research-scholar-grants
 legacy_id: 616
 slug: acs-research-scholar-grants
 name: ACS Research Scholar Grants
-description: "The Research Scholar Grant (RSG) supports investigator-initiated projects\
-  \ across the cancer research continuum. \r\n\r\nWho's Eligible: Independent investigators\
-  \ in the first 6 years of an independent research career or faculty appointment\
-  \ are eligible to apply. Eligibility is extended for 8 years for clinician scientists\
-  \ who remain active in clinical care. Applicants typically must be within 12 years\
-  \ of receiving a terminal (doctorate) degree and cannot have more than one R01/R01-like\
-  \ grant (>$100,000/year direct costs for more than 3 years) as principal investigator\
-  \ at the time of application."
+description: 'The Research Scholar Grant (RSG) supports investigator-initiated projects across the cancer research continuum. Who''s Eligible: Independent investigators in the first 6 years of an independent research career or faculty appointment are eligible to apply. Eligibility is extended for 8 years for clinician scientists who remain active in clinical care. Applicants typically must be within 12 years of receiving a terminal (doctorate) degree and cannot have more than one R01/R01-like grant (>$100,000/year direct costs for more than 3 years) as principal investigator at the time of application.'
 url: http://www.cancer.org/research/applyforaresearchgrant/granttypes/research-scholar-grants
 funders:
 - american-cancer-society
