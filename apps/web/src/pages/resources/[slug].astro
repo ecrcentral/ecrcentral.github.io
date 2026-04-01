@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../../components/layout/BaseLayout.astro'
+import ShareButtons from '../../components/ShareButtons.astro'
 import { resources, getFunderBySlug } from '../../lib/data'
 import type { GetStaticPaths } from 'astro'
 
@@ -21,6 +22,9 @@ const resolvedFunders = resource.funders.map(slug => ({
 const githubRepo = 'https://github.com/ecrcentral/ecrcentral.github.io'
 const editUrl = `${githubRepo}/edit/main/data/entries/resources/${resource.slug}.yaml`
 const issueUrl = `${githubRepo}/issues/new?template=report_issue.yml&title=Issue+with+resource:+${encodeURIComponent(resource.name)}&labels=resource`
+
+const shareUrl = encodeURIComponent(new URL(`/resources/${resource.slug}/`, Astro.site).toString())
+const shareTitle = encodeURIComponent(resource.name)
 
 const statusClass: Record<string, string> = {
   active: 'badge-active',
@@ -158,6 +162,9 @@ const statusClass: Record<string, string> = {
           </div>
         </div>
       </section>
+
+      <!-- Share buttons -->
+      <ShareButtons url={shareUrl} title={shareTitle} />
 
       <!-- Actions -->
       <div class="detail-actions">

@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../../components/layout/BaseLayout.astro'
+import ShareButtons from '../../components/ShareButtons.astro'
 import { travelGrants, getFunderBySlug } from '../../lib/data'
 import type { GetStaticPaths } from 'astro'
 
@@ -21,6 +22,9 @@ const resolvedFunders = grant.funders.map(slug => ({
 const githubRepo = 'https://github.com/ecrcentral/ecrcentral.github.io'
 const editUrl = `${githubRepo}/edit/main/data/entries/travel-grants/${grant.slug}.yaml`
 const issueUrl = `${githubRepo}/issues/new?template=report_issue.yml&title=Issue+with+travel+grant:+${encodeURIComponent(grant.name)}&labels=travel-grant`
+
+const shareUrl = encodeURIComponent(new URL(`/travel-grants/${grant.slug}/`, Astro.site).toString())
+const shareTitle = encodeURIComponent(grant.name)
 
 function formatDeadline(deadline: string | null): string {
   if (!deadline) return ''
@@ -248,6 +252,9 @@ const jsonLd = JSON.stringify({
           </div>
         </div>
       </section>
+
+      <!-- Share buttons -->
+      <ShareButtons url={shareUrl} title={shareTitle} />
 
       <!-- Actions -->
       <div class="detail-actions">

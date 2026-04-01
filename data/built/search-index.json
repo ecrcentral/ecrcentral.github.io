@@ -2636,34 +2636,6 @@
     "updated_at": "2018-12-29T13:58:21Z"
   },
   {
-    "id": "funding-niaid-career-transition-award-k22-2",
-    "type": "funding",
-    "slug": "niaid-career-transition-award-k22-2",
-    "name": "NIAID Career Transition Award (K22)",
-    "description": null,
-    "funder_names": [
-      "National Institutes of Health (NIH)"
-    ],
-    "funders": [
-      "national-institutes-of-health-nih"
-    ],
-    "country": "United States",
-    "applicant_country": "",
-    "host_country": "United States",
-    "career_levels": [],
-    "career_level_names": [],
-    "subjects": [],
-    "subject_names": [],
-    "funding_purposes": [],
-    "funding_purpose_names": [],
-    "status": "active",
-    "featured": false,
-    "deadline_month": "February, June, October",
-    "search_text": "NIAID Career Transition Award (K22) National Institutes of Health (NIH) United States",
-    "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-16-434.html",
-    "updated_at": "2018-12-29T13:58:21Z"
-  },
-  {
     "id": "funding-nidcr-small-grant-program-for-new-investigators-r03-2",
     "type": "funding",
     "slug": "nidcr-small-grant-program-for-new-investigators-r03-2",

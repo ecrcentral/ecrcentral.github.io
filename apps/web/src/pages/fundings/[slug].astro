@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../../components/layout/BaseLayout.astro'
+import ShareButtons from '../../components/ShareButtons.astro'
 import { fundings, getFunderBySlug } from '../../lib/data'
 import type { GetStaticPaths } from 'astro'
 
@@ -22,6 +23,9 @@ const resolvedFunders = funding.funders.map(slug => ({
 const githubRepo = 'https://github.com/ecrcentral/ecrcentral.github.io'
 const editUrl = `${githubRepo}/edit/main/data/entries/fundings/${funding.slug}.yaml`
 const issueUrl = `${githubRepo}/issues/new?template=report_issue.yml&title=Issue+with+funding:+${encodeURIComponent(funding.name)}&labels=funding`
+
+const shareUrl = encodeURIComponent(new URL(`/fundings/${funding.slug}/`, Astro.site).toString())
+const shareTitle = encodeURIComponent(funding.name)
 
 function formatDeadline(deadline: string | null): string {
   if (!deadline) return ''
@@ -335,6 +339,9 @@ const jsonLd = JSON.stringify({
           </div>
         </div>
       </section>
+
+      <!-- Share buttons -->
+      <ShareButtons url={shareUrl} title={shareTitle} />
 
       <!-- Actions: edit / report -->
       <div class="detail-actions">

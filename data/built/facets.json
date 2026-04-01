@@ -4,7 +4,7 @@
       {
         "value": "national-institutes-of-health-nih",
         "label": "National Institutes of Health (NIH)",
-        "count": 61
+        "count": 60
       },
       {
         "value": "the-world-academy-of-sciences",
@@ -1748,7 +1748,7 @@
       {
         "value": "United States",
         "label": "United States",
-        "count": 445
+        "count": 444
       },
       {
         "value": "United Kingdom",
@@ -2631,7 +2631,7 @@
       {
         "value": "February, June, October",
         "label": "February, June, October",
-        "count": 45
+        "count": 44
       },
       {
         "value": "June",
@@ -2950,7 +2950,7 @@
       {
         "value": "active",
         "label": "Active",
-        "count": 690
+        "count": 689
       },
       {
         "value": "draft",
@@ -2972,7 +2972,7 @@
       {
         "value": "false",
         "label": "Not Featured",
-        "count": 766
+        "count": 765
       }
     ],
     "diversity": [
@@ -2984,7 +2984,7 @@
       {
         "value": "no",
         "label": "No Diversity Info",
-        "count": 746
+        "count": 745
       }
     ]
   },
