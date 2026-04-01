@@ -12,6 +12,11 @@
         "count": 15
       },
       {
+        "value": "smithsonian-tropical-research-institute",
+        "label": "Smithsonian Tropical Research Institute",
+        "count": 13
+      },
+      {
         "value": "american-gastroenterological-association",
         "label": "American Gastroenterological Association",
         "count": 9
@@ -194,6 +199,11 @@
       {
         "value": "foundation-fighting-blindness",
         "label": "Foundation Fighting Blindness",
+        "count": 2
+      },
+      {
+        "value": "fondation-pour-laide-a-la-recherche-sur-la-sclerose-en-plaques",
+        "label": "Fondation pour l'Aide à la Recherche sur la Sclérose en Plaques",
         "count": 2
       },
       {
@@ -437,11 +447,6 @@
         "count": 1
       },
       {
-        "value": "fondation-pour-laide-a-la-recherche-sur-la-sclerose-en-plaques",
-        "label": "Fondation pour l'Aide à la Recherche sur la Sclérose en Plaques",
-        "count": 1
-      },
-      {
         "value": "march-of-dimes-canada",
         "label": "March of Dimes Canada",
         "count": 1
@@ -652,11 +657,6 @@
         "count": 1
       },
       {
-        "value": "smithsonian-tropical-research-institute",
-        "label": "Smithsonian Tropical Research Institute",
-        "count": 1
-      },
-      {
         "value": "smithsonian-institution",
         "label": "Smithsonian Institution",
         "count": 1
@@ -859,6 +859,11 @@
       {
         "value": "council-on-foreign-relations",
         "label": "Council on Foreign Relations",
+        "count": 1
+      },
+      {
+        "value": "graham-foundation",
+        "label": "Graham Foundation",
         "count": 1
       },
       {
@@ -1072,6 +1077,11 @@
         "count": 1
       },
       {
+        "value": "w-m-keck-foundation",
+        "label": "W. M. Keck Foundation",
+        "count": 1
+      },
+      {
         "value": "singapore-mit-alliance-for-research-and-technology-centre",
         "label": "Singapore-MIT Alliance for Research and Technology Centre",
         "count": 1
@@ -1114,6 +1124,11 @@
       {
         "value": "jane-coffin-childs-memorial-fund-for-cancer-research",
         "label": "Jane Coffin Childs Memorial Fund for Cancer Research",
+        "count": 1
+      },
+      {
+        "value": "michael-smith-foundation-for-health-research",
+        "label": "Michael Smith Foundation for Health Research",
         "count": 1
       },
       {
@@ -1496,12 +1511,12 @@
       {
         "value": "Worldwide",
         "label": "Worldwide",
-        "count": 272
+        "count": 287
       },
       {
         "value": "United States",
         "label": "United States",
-        "count": 94
+        "count": 95
       },
       {
         "value": "Developing countries",
@@ -1733,7 +1748,7 @@
       {
         "value": "United States",
         "label": "United States",
-        "count": 444
+        "count": 445
       },
       {
         "value": "United Kingdom",
@@ -1743,7 +1758,7 @@
       {
         "value": "Worldwide",
         "label": "Worldwide",
-        "count": 44
+        "count": 45
       },
       {
         "value": "Germany",
@@ -1758,7 +1773,12 @@
       {
         "value": "Canada",
         "label": "Canada",
-        "count": 16
+        "count": 17
+      },
+      {
+        "value": "Panama",
+        "label": "Panama",
+        "count": 13
       },
       {
         "value": "Europe",
@@ -1778,7 +1798,7 @@
       {
         "value": "France",
         "label": "France",
-        "count": 6
+        "count": 7
       },
       {
         "value": "Belgium",
@@ -1931,11 +1951,6 @@
         "count": 1
       },
       {
-        "value": "STRI Facility",
-        "label": "Stri Facility",
-        "count": 1
-      },
-      {
         "value": "United States, Japan",
         "label": "United States, Japan",
         "count": 1
@@ -2035,12 +2050,12 @@
       {
         "value": "phd",
         "label": "PhD",
-        "count": 299
+        "count": 306
       },
       {
         "value": "postdoc",
         "label": "Postdoc",
-        "count": 112
+        "count": 122
       },
       {
         "value": "junior-faculty",
@@ -2050,12 +2065,12 @@
       {
         "value": "md",
         "label": "MD",
-        "count": 104
+        "count": 106
       },
       {
         "value": "master-students",
         "label": "Master students",
-        "count": 25
+        "count": 27
       },
       {
         "value": "senior-faculty",
@@ -2065,19 +2080,19 @@
       {
         "value": "bachelor-students",
         "label": "Bachelor students",
-        "count": 10
+        "count": 11
       }
     ],
     "subjects": [
       {
         "value": "medicine-and-health-sciences",
         "label": "Medicine and Health Sciences",
-        "count": 185
+        "count": 187
       },
       {
         "value": "life-sciences",
         "label": "Life Sciences",
-        "count": 146
+        "count": 147
       },
       {
         "value": "all-subjects",
@@ -2087,17 +2102,22 @@
       {
         "value": "physical-sciences-and-mathematics",
         "label": "Physical Sciences and Mathematics",
-        "count": 37
+        "count": 38
       },
       {
         "value": "engineering",
         "label": "Engineering",
-        "count": 36
+        "count": 37
       },
       {
         "value": "arts-and-humanities",
         "label": "Arts and Humanities",
-        "count": 30
+        "count": 31
+      },
+      {
+        "value": "ecology-and-evolutionary-biology",
+        "label": "Ecology and Evolutionary Biology",
+        "count": 23
       },
       {
         "value": "social-and-behavioral-sciences",
@@ -2120,11 +2140,6 @@
         "count": 12
       },
       {
-        "value": "ecology-and-evolutionary-biology",
-        "label": "Ecology and Evolutionary Biology",
-        "count": 11
-      },
-      {
         "value": "physics",
         "label": "Physics",
         "count": 9
@@ -2135,14 +2150,14 @@
         "count": 8
       },
       {
-        "value": "earth-sciences",
-        "label": "Earth Sciences",
+        "value": "environmental-sciences",
+        "label": "Environmental Sciences",
         "count": 8
       },
       {
-        "value": "environmental-sciences",
-        "label": "Environmental Sciences",
-        "count": 7
+        "value": "earth-sciences",
+        "label": "Earth Sciences",
+        "count": 8
       },
       {
         "value": "psychology",
@@ -2155,6 +2170,11 @@
         "count": 6
       },
       {
+        "value": "biodiversity",
+        "label": "Biodiversity",
+        "count": 5
+      },
+      {
         "value": "computer-sciences",
         "label": "Computer Sciences",
         "count": 5
@@ -2165,19 +2185,24 @@
         "count": 5
       },
       {
-        "value": "anthropology",
-        "label": "Anthropology",
+        "value": "agriculture",
+        "label": "Agriculture",
         "count": 5
       },
       {
-        "value": "agriculture",
-        "label": "Agriculture",
+        "value": "anthropology",
+        "label": "Anthropology",
         "count": 5
       },
       {
         "value": "diseases",
         "label": "Diseases",
         "count": 5
+      },
+      {
+        "value": "marine-biology",
+        "label": "Marine Biology",
+        "count": 4
       },
       {
         "value": "environmental-studies",
@@ -2220,13 +2245,13 @@
         "count": 3
       },
       {
-        "value": "genetics-and-genomics",
-        "label": "Genetics and Genomics",
+        "value": "biochemistry-biophysics-and-structural-biology",
+        "label": "Biochemistry, Biophysics, and Structural Biology",
         "count": 3
       },
       {
-        "value": "biochemistry-biophysics-and-structural-biology",
-        "label": "Biochemistry, Biophysics, and Structural Biology",
+        "value": "genetics-and-genomics",
+        "label": "Genetics and Genomics",
         "count": 3
       },
       {
@@ -2270,18 +2295,8 @@
         "count": 2
       },
       {
-        "value": "plant-sciences",
-        "label": "Plant Sciences",
-        "count": 2
-      },
-      {
         "value": "veterinary-medicine",
         "label": "Veterinary Medicine",
-        "count": 2
-      },
-      {
-        "value": "marine-biology",
-        "label": "Marine Biology",
         "count": 2
       },
       {
@@ -2297,6 +2312,11 @@
       {
         "value": "sociology",
         "label": "Sociology",
+        "count": 2
+      },
+      {
+        "value": "plant-sciences",
+        "label": "Plant Sciences",
         "count": 2
       },
       {
@@ -2405,11 +2425,6 @@
         "count": 1
       },
       {
-        "value": "biodiversity",
-        "label": "Biodiversity",
-        "count": 1
-      },
-      {
         "value": "pharmacology-toxicology-and-environmental-health",
         "label": "Pharmacology, Toxicology and Environmental Health",
         "count": 1
@@ -2422,6 +2437,11 @@
       {
         "value": "public-affairs-public-policy-and-public-administration",
         "label": "Public Affairs, Public Policy and Public Administration",
+        "count": 1
+      },
+      {
+        "value": "fine-arts",
+        "label": "Fine Arts",
         "count": 1
       },
       {
@@ -2552,14 +2572,14 @@
     ],
     "funding_purposes": [
       {
-        "value": "research",
-        "label": "Research",
-        "count": 220
-      },
-      {
         "value": "fellowship-scholarship-or-training",
         "label": "Fellowship, scholarship or training",
-        "count": 212
+        "count": 224
+      },
+      {
+        "value": "research",
+        "label": "Research",
+        "count": 223
       },
       {
         "value": "award",
@@ -2596,7 +2616,7 @@
       {
         "value": "September",
         "label": "September",
-        "count": 56
+        "count": 57
       },
       {
         "value": "December",
@@ -2604,24 +2624,24 @@
         "count": 53
       },
       {
+        "value": "October",
+        "label": "October",
+        "count": 47
+      },
+      {
         "value": "February, June, October",
         "label": "February, June, October",
         "count": 45
       },
       {
-        "value": "October",
-        "label": "October",
-        "count": 42
-      },
-      {
         "value": "June",
         "label": "June",
-        "count": 41
+        "count": 43
       },
       {
         "value": "January",
         "label": "January",
-        "count": 40
+        "count": 41
       },
       {
         "value": "March",
@@ -2641,17 +2661,17 @@
       {
         "value": "April",
         "label": "April",
-        "count": 30
+        "count": 31
+      },
+      {
+        "value": "February",
+        "label": "February",
+        "count": 29
       },
       {
         "value": "August",
         "label": "August",
         "count": 29
-      },
-      {
-        "value": "February",
-        "label": "February",
-        "count": 28
       },
       {
         "value": "May",
@@ -2824,6 +2844,11 @@
         "count": 1
       },
       {
+        "value": "May, November",
+        "label": "May, November",
+        "count": 1
+      },
+      {
         "value": "October, February",
         "label": "October, February",
         "count": 1
@@ -2888,7 +2913,7 @@
       {
         "value": "Annual",
         "label": "Annual",
-        "count": 251
+        "count": 264
       },
       {
         "value": "Rolling",
@@ -2898,7 +2923,7 @@
       {
         "value": "Biannual",
         "label": "Biannual",
-        "count": 22
+        "count": 23
       },
       {
         "value": "Triannual",
@@ -2911,6 +2936,11 @@
         "count": 3
       },
       {
+        "value": "Three rounds per year",
+        "label": "Three Rounds Per Year",
+        "count": 1
+      },
+      {
         "value": "Three times per year",
         "label": "Three Times Per Year",
         "count": 1
@@ -2920,7 +2950,7 @@
       {
         "value": "active",
         "label": "Active",
-        "count": 675
+        "count": 690
       },
       {
         "value": "draft",
@@ -2930,7 +2960,7 @@
       {
         "value": "expired",
         "label": "Expired",
-        "count": 16
+        "count": 17
       }
     ],
     "featured": [
@@ -2942,7 +2972,7 @@
       {
         "value": "false",
         "label": "Not Featured",
-        "count": 750
+        "count": 766
       }
     ],
     "diversity": [
@@ -2954,7 +2984,7 @@
       {
         "value": "no",
         "label": "No Diversity Info",
-        "count": 730
+        "count": 746
       }
     ]
   },
@@ -3342,17 +3372,17 @@
       {
         "value": "phd",
         "label": "PhD",
-        "count": 44
+        "count": 45
       },
       {
         "value": "postdoc",
         "label": "Postdoc",
-        "count": 40
+        "count": 41
       },
       {
         "value": "junior-faculty",
         "label": "Junior Faculty",
-        "count": 8
+        "count": 9
       },
       {
         "value": "master-students",
@@ -3362,7 +3392,7 @@
       {
         "value": "senior-faculty",
         "label": "Senior Faculty",
-        "count": 2
+        "count": 3
       },
       {
         "value": "bachelor-students",
@@ -3426,32 +3456,32 @@
       {
         "value": "conference",
         "label": "Conference",
-        "count": 85
+        "count": 86
       },
       {
         "value": "collaboration",
         "label": "Collaboration",
-        "count": 28
+        "count": 29
       },
       {
         "value": "learn-new-technique",
         "label": "Learn new technique",
-        "count": 25
+        "count": 26
       },
       {
         "value": "research-visit",
         "label": "Research visit",
-        "count": 20
+        "count": 21
       },
       {
         "value": "workshop-training-or-course",
         "label": "Workshop, training or course",
-        "count": 18
+        "count": 19
       },
       {
         "value": "field-work",
         "label": "Field work",
-        "count": 6
+        "count": 7
       }
     ],
     "membership": [
@@ -3463,7 +3493,7 @@
       {
         "value": "no",
         "label": "No Membership",
-        "count": 12
+        "count": 13
       }
     ],
     "deadline_month": [
@@ -3558,6 +3588,11 @@
         "count": 1
       },
       {
+        "value": "August",
+        "label": "August",
+        "count": 1
+      },
+      {
         "value": "August, December",
         "label": "August, December",
         "count": 1
@@ -3582,7 +3617,7 @@
       {
         "value": "active",
         "label": "Active",
-        "count": 119
+        "count": 120
       },
       {
         "value": "draft",
@@ -3725,7 +3760,7 @@
       {
         "value": "United States",
         "label": "United States",
-        "count": 176
+        "count": 178
       },
       {
         "value": "United Kingdom",
@@ -3745,7 +3780,7 @@
       {
         "value": "Canada",
         "label": "Canada",
-        "count": 10
+        "count": 11
       },
       {
         "value": "Switzerland",
@@ -3892,14 +3927,14 @@
       {
         "value": "false",
         "label": "Not Featured",
-        "count": 294
+        "count": 297
       }
     ],
     "status": [
       {
         "value": "active",
         "label": "Active",
-        "count": 305
+        "count": 308
       }
     ],
     "dora": [

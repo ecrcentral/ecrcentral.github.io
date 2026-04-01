@@ -1,0 +1,28 @@
+id: funding-stri-short-term-fellowships
+slug: stri-short-term-fellowships
+name: STRI Short-Term Fellowships
+url: https://stri.si.edu/academic-programs/fellowships
+description: Three-month fellowships providing an introduction to tropical research at STRI. Open to graduate students, undergraduates, and postdoctoral researchers. Covers a monthly stipend, research allowance, and round-trip airfare to Panama.
+funders:
+- smithsonian-tropical-research-institute
+applicant_country: Worldwide
+host_country: Panama
+award: USD 1,250/month + up to USD 2,000 research allowance + round-trip airfare
+duration: 3 months
+frequency: Three rounds per year
+deadline: February, June, October
+deadline_month: February
+career_levels:
+- bachelor-students
+- master-students
+- phd
+- postdoc
+subjects:
+- ecology-and-evolutionary-biology
+- biodiversity
+funding_purposes:
+- fellowship-scholarship-or-training
+featured: false
+review_status: approved
+status: active
+source: manual

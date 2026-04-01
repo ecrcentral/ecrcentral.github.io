@@ -5150,7 +5150,7 @@
     "created_at": "2019-05-20T06:49:59Z",
     "updated_at": "2019-05-20T06:49:59Z",
     "source": "legacy-import",
-    "active_funding_count": 0,
+    "active_funding_count": 1,
     "active_travel_grant_count": 0,
     "resource_count": 0
   },
@@ -11250,7 +11250,7 @@
     "created_at": "2020-05-23T15:19:55Z",
     "updated_at": "2020-05-23T15:19:55Z",
     "source": "legacy-import",
-    "active_funding_count": 1,
+    "active_funding_count": 12,
     "active_travel_grant_count": 0,
     "resource_count": 0
   },

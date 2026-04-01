@@ -793,6 +793,570 @@
     ]
   },
   {
+    "id": "funding-stri-nomis-postdoctoral-fellowship-animal-behavior",
+    "slug": "stri-nomis-postdoctoral-fellowship-animal-behavior",
+    "name": "NOMIS–STRI Postdoctoral Fellowship in Animal Behavior",
+    "url": "https://stri.si.edu/academic-programs/fellowships",
+    "description": "A three-year postdoctoral fellowship focused on animal behavior and its proximate and ultimate causes, including social behavior, sensory ecology, neuroethology, and cognitive ecology. Preference for advanced candidates with prior postdoctoral experience.",
+    "funders": [
+      "smithsonian-tropical-research-institute"
+    ],
+    "applicant_country": "Worldwide",
+    "host_country": "Panama",
+    "award": "USD 62,000/year stipend + USD 13,000 annual research/travel budget",
+    "duration": "3 years",
+    "frequency": "Annual",
+    "deadline": "April 15",
+    "deadline_month": "April",
+    "career_levels": [
+      "postdoc"
+    ],
+    "subjects": [
+      "ecology-and-evolutionary-biology"
+    ],
+    "funding_purposes": [
+      "fellowship-scholarship-or-training"
+    ],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "source": "manual",
+    "funder_names": [
+      "Smithsonian Tropical Research Institute"
+    ],
+    "funder_logos": [
+      "/logos/funders/smithsonian-tropical-research-institute.jpeg"
+    ],
+    "career_level_names": [
+      "Postdoc"
+    ],
+    "subject_names": [
+      "Ecology and Evolutionary Biology"
+    ],
+    "funding_purpose_names": [
+      "Fellowship, scholarship or training"
+    ]
+  },
+  {
+    "id": "funding-stri-3-year-tupper-postdoctoral-fellowship",
+    "slug": "stri-3-year-tupper-postdoctoral-fellowship",
+    "name": "STRI 3-Year TUPPER Postdoctoral Fellowship",
+    "url": "https://stri.si.edu/academic-programs/fellowships",
+    "description": "A three-year postdoctoral fellowship open to research in any field practised at STRI. PhD must be completed before the start date. Fellows are based at STRI in Panama.",
+    "funders": [
+      "smithsonian-tropical-research-institute"
+    ],
+    "applicant_country": "Worldwide",
+    "host_country": "Panama",
+    "award": "USD 57,000/year + USD 16,000 annual research budget",
+    "duration": "3 years",
+    "frequency": "Annual",
+    "deadline": "June 15",
+    "deadline_month": "June",
+    "career_levels": [
+      "postdoc"
+    ],
+    "subjects": [
+      "ecology-and-evolutionary-biology",
+      "biodiversity"
+    ],
+    "funding_purposes": [
+      "fellowship-scholarship-or-training"
+    ],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "source": "manual",
+    "funder_names": [
+      "Smithsonian Tropical Research Institute"
+    ],
+    "funder_logos": [
+      "/logos/funders/smithsonian-tropical-research-institute.jpeg"
+    ],
+    "career_level_names": [
+      "Postdoc"
+    ],
+    "subject_names": [
+      "Ecology and Evolutionary Biology",
+      "Biodiversity"
+    ],
+    "funding_purpose_names": [
+      "Fellowship, scholarship or training"
+    ]
+  },
+  {
+    "id": "funding-stri-anthony-g-coates-3-year-postdoctoral-fellowship",
+    "slug": "stri-anthony-g-coates-3-year-postdoctoral-fellowship",
+    "name": "STRI Anthony G. Coates 3-Year Postdoctoral Fellowship",
+    "url": "https://stri.si.edu/academic-programs/fellowships",
+    "description": "A three-year postdoctoral fellowship open to research in any field practised at STRI. PhD must be completed before the start date. Fellows are based at STRI in Panama.",
+    "funders": [
+      "smithsonian-tropical-research-institute"
+    ],
+    "applicant_country": "Worldwide",
+    "host_country": "Panama",
+    "award": "USD 57,000/year + USD 16,000 annual research budget",
+    "duration": "3 years",
+    "frequency": "Annual",
+    "deadline": "June 15",
+    "deadline_month": "June",
+    "career_levels": [
+      "postdoc"
+    ],
+    "subjects": [
+      "ecology-and-evolutionary-biology",
+      "biodiversity"
+    ],
+    "funding_purposes": [
+      "fellowship-scholarship-or-training"
+    ],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "source": "manual",
+    "funder_names": [
+      "Smithsonian Tropical Research Institute"
+    ],
+    "funder_logos": [
+      "/logos/funders/smithsonian-tropical-research-institute.jpeg"
+    ],
+    "career_level_names": [
+      "Postdoc"
+    ],
+    "subject_names": [
+      "Ecology and Evolutionary Biology",
+      "Biodiversity"
+    ],
+    "funding_purpose_names": [
+      "Fellowship, scholarship or training"
+    ]
+  },
+  {
+    "id": "funding-stri-d-ross-robertson-research-award-deep-reef-fishes",
+    "slug": "stri-d-ross-robertson-research-award-deep-reef-fishes",
+    "name": "STRI D. Ross Robertson Research Award — Neotropical Deep-Reef Fishes",
+    "url": "https://stri.si.edu/academic-programs/fellowships",
+    "description": "Supports field research on the biology of living reef-fishes found between 40–300m in the Neotropics. Covers fieldwork travel and living expenses. Open to predoctoral students and recent PhDs (up to 3 years post-degree).",
+    "funders": [
+      "smithsonian-tropical-research-institute"
+    ],
+    "applicant_country": "Worldwide",
+    "host_country": "Panama",
+    "award": "Travel and living expenses covered (no stipend)",
+    "duration": "1 year",
+    "frequency": "Annual",
+    "deadline": "Check official page",
+    "deadline_month": null,
+    "career_levels": [
+      "phd",
+      "postdoc"
+    ],
+    "subjects": [
+      "marine-biology",
+      "ecology-and-evolutionary-biology"
+    ],
+    "funding_purposes": [
+      "fellowship-scholarship-or-training"
+    ],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "source": "manual",
+    "funder_names": [
+      "Smithsonian Tropical Research Institute"
+    ],
+    "funder_logos": [
+      "/logos/funders/smithsonian-tropical-research-institute.jpeg"
+    ],
+    "career_level_names": [
+      "PhD",
+      "Postdoc"
+    ],
+    "subject_names": [
+      "Marine Biology",
+      "Ecology and Evolutionary Biology"
+    ],
+    "funding_purpose_names": [
+      "Fellowship, scholarship or training"
+    ]
+  },
+  {
+    "id": "funding-stri-d-ross-robertson-shore-fish-fellowship",
+    "slug": "stri-d-ross-robertson-shore-fish-fellowship",
+    "name": "STRI D. Ross Robertson Shore-Fish Fellowship",
+    "url": "https://stri.si.edu/academic-programs/fellowships",
+    "description": "A one-year fellowship for predoctoral PhD students to conduct field research on the evolution, ecology, and natural history of marine and brackish-water fishes in nearshore tropical and subtropical waters. Based at STRI in Panama.",
+    "funders": [
+      "smithsonian-tropical-research-institute"
+    ],
+    "applicant_country": "Worldwide",
+    "host_country": "Panama",
+    "award": "Check official page",
+    "duration": "1 year",
+    "frequency": "Annual",
+    "deadline": "Check official page",
+    "deadline_month": null,
+    "career_levels": [
+      "phd"
+    ],
+    "subjects": [
+      "marine-biology",
+      "ecology-and-evolutionary-biology"
+    ],
+    "funding_purposes": [
+      "fellowship-scholarship-or-training"
+    ],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "source": "manual",
+    "funder_names": [
+      "Smithsonian Tropical Research Institute"
+    ],
+    "funder_logos": [
+      "/logos/funders/smithsonian-tropical-research-institute.jpeg"
+    ],
+    "career_level_names": [
+      "PhD"
+    ],
+    "subject_names": [
+      "Marine Biology",
+      "Ecology and Evolutionary Biology"
+    ],
+    "funding_purpose_names": [
+      "Fellowship, scholarship or training"
+    ]
+  },
+  {
+    "id": "funding-stri-resilience-sustainability-science-postdoctoral-fellowship",
+    "slug": "stri-resilience-sustainability-science-postdoctoral-fellowship",
+    "name": "STRI Resilience and Sustainability Science Postdoctoral Fellowship",
+    "url": "https://stri.si.edu/academic-programs/fellowships",
+    "description": "A 24-month postdoctoral fellowship supporting research on resilience and sustainability in marine or terrestrial tropical systems. Fellows are based at STRI in Panama.",
+    "funders": [
+      "smithsonian-tropical-research-institute"
+    ],
+    "applicant_country": "Worldwide",
+    "host_country": "Panama",
+    "award": "USD 62,000/year + up to USD 10,000 research allowance",
+    "duration": "2 years",
+    "frequency": "Annual",
+    "deadline": "Check official page",
+    "deadline_month": null,
+    "career_levels": [
+      "postdoc"
+    ],
+    "subjects": [
+      "ecology-and-evolutionary-biology",
+      "environmental-sciences"
+    ],
+    "funding_purposes": [
+      "fellowship-scholarship-or-training"
+    ],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "source": "manual",
+    "funder_names": [
+      "Smithsonian Tropical Research Institute"
+    ],
+    "funder_logos": [
+      "/logos/funders/smithsonian-tropical-research-institute.jpeg"
+    ],
+    "career_level_names": [
+      "Postdoc"
+    ],
+    "subject_names": [
+      "Ecology and Evolutionary Biology",
+      "Environmental Sciences"
+    ],
+    "funding_purpose_names": [
+      "Fellowship, scholarship or training"
+    ]
+  },
+  {
+    "id": "funding-stri-short-term-fellowships",
+    "slug": "stri-short-term-fellowships",
+    "name": "STRI Short-Term Fellowships",
+    "url": "https://stri.si.edu/academic-programs/fellowships",
+    "description": "Three-month fellowships providing an introduction to tropical research at STRI. Open to graduate students, undergraduates, and postdoctoral researchers. Covers a monthly stipend, research allowance, and round-trip airfare to Panama.",
+    "funders": [
+      "smithsonian-tropical-research-institute"
+    ],
+    "applicant_country": "Worldwide",
+    "host_country": "Panama",
+    "award": "USD 1,250/month + up to USD 2,000 research allowance + round-trip airfare",
+    "duration": "3 months",
+    "frequency": "Three rounds per year",
+    "deadline": "February, June, October",
+    "deadline_month": "February",
+    "career_levels": [
+      "bachelor-students",
+      "master-students",
+      "phd",
+      "postdoc"
+    ],
+    "subjects": [
+      "ecology-and-evolutionary-biology",
+      "biodiversity"
+    ],
+    "funding_purposes": [
+      "fellowship-scholarship-or-training"
+    ],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "source": "manual",
+    "funder_names": [
+      "Smithsonian Tropical Research Institute"
+    ],
+    "funder_logos": [
+      "/logos/funders/smithsonian-tropical-research-institute.jpeg"
+    ],
+    "career_level_names": [
+      "Bachelor students",
+      "Master students",
+      "PhD",
+      "Postdoc"
+    ],
+    "subject_names": [
+      "Ecology and Evolutionary Biology",
+      "Biodiversity"
+    ],
+    "funding_purpose_names": [
+      "Fellowship, scholarship or training"
+    ]
+  },
+  {
+    "id": "funding-stri-sifp-biodiversity-genomics-postdoctoral-fellowship",
+    "slug": "stri-sifp-biodiversity-genomics-postdoctoral-fellowship",
+    "name": "STRI SIFP Biodiversity Genomics Postdoctoral Fellowship",
+    "url": "https://stri.si.edu/academic-programs/fellowships",
+    "description": "A Smithsonian Institution Fellowship Program (SIFP) award for postdoctoral researchers to conduct collaborative research at STRI using comparative genomic approaches such as phylogenetics, population genomics, metagenomics, or transcriptomics. PhD must be completed before the start date. Duration ranges from 12 to 24 months.",
+    "funders": [
+      "smithsonian-tropical-research-institute"
+    ],
+    "applicant_country": "Worldwide",
+    "host_country": "Panama",
+    "award": "USD 55,000/year + up to USD 4,000 research allowance",
+    "duration": "12–24 months",
+    "frequency": "Annual",
+    "deadline": "October 15",
+    "deadline_month": "October",
+    "career_levels": [
+      "postdoc"
+    ],
+    "subjects": [
+      "biodiversity",
+      "ecology-and-evolutionary-biology"
+    ],
+    "funding_purposes": [
+      "fellowship-scholarship-or-training"
+    ],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "source": "manual",
+    "funder_names": [
+      "Smithsonian Tropical Research Institute"
+    ],
+    "funder_logos": [
+      "/logos/funders/smithsonian-tropical-research-institute.jpeg"
+    ],
+    "career_level_names": [
+      "Postdoc"
+    ],
+    "subject_names": [
+      "Biodiversity",
+      "Ecology and Evolutionary Biology"
+    ],
+    "funding_purpose_names": [
+      "Fellowship, scholarship or training"
+    ]
+  },
+  {
+    "id": "funding-stri-sifp-graduate-student-fellowship",
+    "slug": "stri-sifp-graduate-student-fellowship",
+    "name": "STRI SIFP Graduate Student Fellowship",
+    "url": "https://stri.si.edu/academic-programs/fellowships",
+    "description": "A 10-week Smithsonian Institution Fellowship Program (SIFP) award for graduate students who have completed at least one semester. Supports research at STRI in Panama.",
+    "funders": [
+      "smithsonian-tropical-research-institute"
+    ],
+    "applicant_country": "Worldwide",
+    "host_country": "Panama",
+    "award": "USD 10,000",
+    "duration": "10 weeks",
+    "frequency": "Annual",
+    "deadline": "October 15",
+    "deadline_month": "October",
+    "career_levels": [
+      "master-students",
+      "phd"
+    ],
+    "subjects": [
+      "ecology-and-evolutionary-biology"
+    ],
+    "funding_purposes": [
+      "fellowship-scholarship-or-training"
+    ],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "source": "manual",
+    "funder_names": [
+      "Smithsonian Tropical Research Institute"
+    ],
+    "funder_logos": [
+      "/logos/funders/smithsonian-tropical-research-institute.jpeg"
+    ],
+    "career_level_names": [
+      "Master students",
+      "PhD"
+    ],
+    "subject_names": [
+      "Ecology and Evolutionary Biology"
+    ],
+    "funding_purpose_names": [
+      "Fellowship, scholarship or training"
+    ]
+  },
+  {
+    "id": "funding-stri-sifp-postdoctoral-researcher-fellowship",
+    "slug": "stri-sifp-postdoctoral-researcher-fellowship",
+    "name": "STRI SIFP Postdoctoral Researcher Fellowship",
+    "url": "https://stri.si.edu/academic-programs/fellowships",
+    "description": "A Smithsonian Institution Fellowship Program (SIFP) award for postdoctoral researchers to conduct research at STRI in Panama. Duration ranges from 3 to 24 months.",
+    "funders": [
+      "smithsonian-tropical-research-institute"
+    ],
+    "applicant_country": "Worldwide",
+    "host_country": "Panama",
+    "award": "USD 57,000/year + up to USD 5,000 research allowance",
+    "duration": "3–24 months",
+    "frequency": "Annual",
+    "deadline": "October 15",
+    "deadline_month": "October",
+    "career_levels": [
+      "postdoc"
+    ],
+    "subjects": [
+      "ecology-and-evolutionary-biology"
+    ],
+    "funding_purposes": [
+      "fellowship-scholarship-or-training"
+    ],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "source": "manual",
+    "funder_names": [
+      "Smithsonian Tropical Research Institute"
+    ],
+    "funder_logos": [
+      "/logos/funders/smithsonian-tropical-research-institute.jpeg"
+    ],
+    "career_level_names": [
+      "Postdoc"
+    ],
+    "subject_names": [
+      "Ecology and Evolutionary Biology"
+    ],
+    "funding_purpose_names": [
+      "Fellowship, scholarship or training"
+    ]
+  },
+  {
+    "id": "funding-stri-sifp-predoctoral-student-fellowship",
+    "slug": "stri-sifp-predoctoral-student-fellowship",
+    "name": "STRI SIFP Predoctoral Student Fellowship",
+    "url": "https://stri.si.edu/academic-programs/fellowships",
+    "description": "A Smithsonian Institution Fellowship Program (SIFP) award for doctoral candidates to conduct dissertation research at STRI in Panama. Duration ranges from 3 to 12 months.",
+    "funders": [
+      "smithsonian-tropical-research-institute"
+    ],
+    "applicant_country": "Worldwide",
+    "host_country": "Panama",
+    "award": "USD 45,000/year + up to USD 5,000 research allowance",
+    "duration": "3–12 months",
+    "frequency": "Annual",
+    "deadline": "October 15",
+    "deadline_month": "October",
+    "career_levels": [
+      "phd"
+    ],
+    "subjects": [
+      "ecology-and-evolutionary-biology"
+    ],
+    "funding_purposes": [
+      "fellowship-scholarship-or-training"
+    ],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "source": "manual",
+    "funder_names": [
+      "Smithsonian Tropical Research Institute"
+    ],
+    "funder_logos": [
+      "/logos/funders/smithsonian-tropical-research-institute.jpeg"
+    ],
+    "career_level_names": [
+      "PhD"
+    ],
+    "subject_names": [
+      "Ecology and Evolutionary Biology"
+    ],
+    "funding_purpose_names": [
+      "Fellowship, scholarship or training"
+    ]
+  },
+  {
+    "id": "funding-stri-sifp-senior-postdoctoral-researcher-fellowship",
+    "slug": "stri-sifp-senior-postdoctoral-researcher-fellowship",
+    "name": "STRI SIFP Senior Postdoctoral Researcher Fellowship",
+    "url": "https://stri.si.edu/academic-programs/fellowships",
+    "description": "A Smithsonian Institution Fellowship Program (SIFP) award for researchers with 7 or more years of post-PhD experience to conduct research at STRI in Panama. Duration ranges from 3 to 24 months.",
+    "funders": [
+      "smithsonian-tropical-research-institute"
+    ],
+    "applicant_country": "Worldwide",
+    "host_country": "Panama",
+    "award": "USD 57,000/year + up to USD 5,000 research allowance",
+    "duration": "3–24 months",
+    "frequency": "Annual",
+    "deadline": "October 15",
+    "deadline_month": "October",
+    "career_levels": [
+      "postdoc"
+    ],
+    "subjects": [
+      "ecology-and-evolutionary-biology"
+    ],
+    "funding_purposes": [
+      "fellowship-scholarship-or-training"
+    ],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "source": "manual",
+    "funder_names": [
+      "Smithsonian Tropical Research Institute"
+    ],
+    "funder_logos": [
+      "/logos/funders/smithsonian-tropical-research-institute.jpeg"
+    ],
+    "career_level_names": [
+      "Postdoc"
+    ],
+    "subject_names": [
+      "Ecology and Evolutionary Biology"
+    ],
+    "funding_purpose_names": [
+      "Fellowship, scholarship or training"
+    ]
+  },
+  {
     "id": "funding-faculty-early-career-development-program-career",
     "legacy_id": 543,
     "slug": "faculty-early-career-development-program-career",
@@ -13123,76 +13687,6 @@
     ],
     "career_level_names": [],
     "subject_names": [],
-    "funding_purpose_names": [
-      "Fellowship, scholarship or training"
-    ]
-  },
-  {
-    "id": "funding-earl-s-tupper-postdoctoral-fellowship",
-    "legacy_id": 183,
-    "slug": "earl-s-tupper-postdoctoral-fellowship",
-    "name": "Earl S. Tupper Postdoctoral Fellowship",
-    "description": "STRI’s most prestigious postdoctoral fellowship is awarded once a year to an outstanding candidate in one of the many research fields practiced at STRI. Successful candidate will conduct a three-year research program based at a STRI facility, typically in the lab of a staff scientist who serves as host or advisor on the project.",
-    "url": "http://www.stri.si.edu/english/education_fellowships/fellowships/index.php",
-    "funders": [
-      "smithsonian-tropical-research-institute"
-    ],
-    "legacy_funder_name": "Smithsonian Institute",
-    "host_country": "STRI Facility",
-    "applicant_country": "Worldwide",
-    "career_levels": [
-      "phd"
-    ],
-    "years_since_phd": null,
-    "duration": "3",
-    "award": "Stipend of US$50400 in year one, with annual increase of $1,000 for years 2 and 3",
-    "mobility_rule": null,
-    "research_costs": "up to US$16000 per year",
-    "deadline": "August",
-    "deadline_month": "August",
-    "diversity": null,
-    "comments": null,
-    "benefits": null,
-    "frequency": "Annual",
-    "fileds": null,
-    "featured": false,
-    "review_status": "approved",
-    "status": "active",
-    "last_verified": "2026-02-19",
-    "verified_by": "asntech",
-    "legacy_user_id": 1,
-    "created_at": null,
-    "updated_at": "2020-05-23T15:26:57Z",
-    "subjects": [
-      "life-sciences",
-      "biology",
-      "ecology-and-evolutionary-biology",
-      "genetics-and-genomics",
-      "plant-sciences",
-      "anthropology"
-    ],
-    "funding_purposes": [
-      "fellowship-scholarship-or-training"
-    ],
-    "search_text": "Earl S. Tupper Postdoctoral Fellowship STRI’s most prestigious postdoctoral fellowship is awarded once a year to an outstanding candidate in one of the many research fields practiced at STRI. Successful candidate will conduct a three-year research program based at a STRI facility, typically in the lab of a staff scientist who serves as host or advisor on the project. Smithsonian Tropical Research Institute PhD Life Sciences Biology Ecology and Evolutionary Biology Genetics and Genomics Plant Sciences Anthropology Fellowship, scholarship or training STRI Facility Worldwide",
-    "source": "legacy-import",
-    "funder_names": [
-      "Smithsonian Tropical Research Institute"
-    ],
-    "funder_logos": [
-      "/logos/funders/smithsonian-tropical-research-institute.jpeg"
-    ],
-    "career_level_names": [
-      "PhD"
-    ],
-    "subject_names": [
-      "Life Sciences",
-      "Biology",
-      "Ecology and Evolutionary Biology",
-      "Genetics and Genomics",
-      "Plant Sciences",
-      "Anthropology"
-    ],
     "funding_purpose_names": [
       "Fellowship, scholarship or training"
     ]
@@ -27205,6 +27699,68 @@
     ]
   },
   {
+    "id": "funding-msfhr-research-trainee-program",
+    "legacy_id": 699,
+    "slug": "msfhr-research-trainee-program",
+    "name": "MSFHR Research Trainee Program",
+    "description": "The MSFHR Research Trainee Program supports health researchers in the training phase of their research career to enable career development and the long-term success of the BC health research landscape. The Research Trainee Program is one of MSFHR's flagship funding opportunities.",
+    "url": "https://www.msfhr.org/our-work/activities/trainee-awards%20",
+    "funders": [
+      "michael-smith-foundation-for-health-research"
+    ],
+    "legacy_funder_name": "Michael Smith Foundation for Health Research",
+    "host_country": "Canada",
+    "applicant_country": "Worldwide",
+    "career_levels": [
+      "phd",
+      "md"
+    ],
+    "years_since_phd": "5",
+    "duration": "3",
+    "award": "CAD 40 000",
+    "mobility_rule": "No",
+    "research_costs": "0",
+    "deadline": "January",
+    "deadline_month": "January",
+    "diversity": null,
+    "comments": null,
+    "benefits": null,
+    "frequency": "Annual",
+    "fileds": "Biomedical",
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "legacy_user_id": 89,
+    "created_at": "2019-02-08T23:04:58Z",
+    "updated_at": "2020-05-26T07:59:49Z",
+    "subjects": [
+      "medicine-and-health-sciences"
+    ],
+    "funding_purposes": [
+      "research"
+    ],
+    "search_text": "MSFHR Research Trainee Program \"The MSFHR Research Trainee Program supports health researchers in the training phase of their research career to enable career development and the long-term success of the BC health research landscape.\"\r\n\r\nThe Research Trainee Program is one of MSFHR’s flagship funding opportunities. Since 2001, we’ve granted more than 1,200 Research Trainee awards worth more than $45 million, helping to develop, attract and retain BC’s best and brightest health researchers and support the advancement of world-class health research in BC. Michael Smith Foundation for Health Research PhD MD Medicine and Health Sciences Research Canada Worldwide",
+    "source": "legacy-import",
+    "funder_names": [
+      "Michael Smith Foundation for Health Research"
+    ],
+    "funder_logos": [
+      "/logos/funders/michael-smith-foundation-for-health-research.png"
+    ],
+    "career_level_names": [
+      "PhD",
+      "MD"
+    ],
+    "subject_names": [
+      "Medicine and Health Sciences"
+    ],
+    "funding_purpose_names": [
+      "Research"
+    ]
+  },
+  {
     "id": "funding-serb-early-career-research-award",
     "legacy_id": 55,
     "slug": "serb-early-career-research-award",
@@ -41056,6 +41612,76 @@
     "career_level_names": [],
     "subject_names": [],
     "funding_purpose_names": []
+  },
+  {
+    "id": "funding-earl-s-tupper-postdoctoral-fellowship",
+    "legacy_id": 183,
+    "slug": "earl-s-tupper-postdoctoral-fellowship",
+    "name": "Earl S. Tupper Postdoctoral Fellowship",
+    "description": "STRI’s most prestigious postdoctoral fellowship is awarded once a year to an outstanding candidate in one of the many research fields practiced at STRI. Successful candidate will conduct a three-year research program based at a STRI facility, typically in the lab of a staff scientist who serves as host or advisor on the project.",
+    "url": "http://www.stri.si.edu/english/education_fellowships/fellowships/index.php",
+    "funders": [
+      "smithsonian-tropical-research-institute"
+    ],
+    "legacy_funder_name": "Smithsonian Institute",
+    "host_country": "Panama",
+    "applicant_country": "Worldwide",
+    "career_levels": [
+      "phd"
+    ],
+    "years_since_phd": null,
+    "duration": "3",
+    "award": "Stipend of US$50400 in year one, with annual increase of $1,000 for years 2 and 3",
+    "mobility_rule": null,
+    "research_costs": "up to US$16000 per year",
+    "deadline": "August",
+    "deadline_month": "August",
+    "diversity": null,
+    "comments": null,
+    "benefits": null,
+    "frequency": "Annual",
+    "fileds": null,
+    "featured": false,
+    "review_status": "approved",
+    "status": "expired",
+    "last_verified": "2026-02-19",
+    "verified_by": "asntech",
+    "legacy_user_id": 1,
+    "created_at": null,
+    "updated_at": "2020-05-23T15:26:57Z",
+    "subjects": [
+      "life-sciences",
+      "biology",
+      "ecology-and-evolutionary-biology",
+      "genetics-and-genomics",
+      "plant-sciences",
+      "anthropology"
+    ],
+    "funding_purposes": [
+      "fellowship-scholarship-or-training"
+    ],
+    "search_text": "Earl S. Tupper Postdoctoral Fellowship STRI’s most prestigious postdoctoral fellowship is awarded once a year to an outstanding candidate in one of the many research fields practiced at STRI. Successful candidate will conduct a three-year research program based at a STRI facility, typically in the lab of a staff scientist who serves as host or advisor on the project. Smithsonian Tropical Research Institute PhD Life Sciences Biology Ecology and Evolutionary Biology Genetics and Genomics Plant Sciences Anthropology Fellowship, scholarship or training STRI Facility Worldwide",
+    "source": "legacy-import",
+    "funder_names": [
+      "Smithsonian Tropical Research Institute"
+    ],
+    "funder_logos": [
+      "/logos/funders/smithsonian-tropical-research-institute.jpeg"
+    ],
+    "career_level_names": [
+      "PhD"
+    ],
+    "subject_names": [
+      "Life Sciences",
+      "Biology",
+      "Ecology and Evolutionary Biology",
+      "Genetics and Genomics",
+      "Plant Sciences",
+      "Anthropology"
+    ],
+    "funding_purpose_names": [
+      "Fellowship, scholarship or training"
+    ]
   },
   {
     "id": "funding-fondazione-umberto-veronesi-postdoctoral-fellowship",

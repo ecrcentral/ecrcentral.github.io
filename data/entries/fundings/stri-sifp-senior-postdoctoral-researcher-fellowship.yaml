@@ -1,0 +1,24 @@
+id: funding-stri-sifp-senior-postdoctoral-researcher-fellowship
+slug: stri-sifp-senior-postdoctoral-researcher-fellowship
+name: STRI SIFP Senior Postdoctoral Researcher Fellowship
+url: https://stri.si.edu/academic-programs/fellowships
+description: A Smithsonian Institution Fellowship Program (SIFP) award for researchers with 7 or more years of post-PhD experience to conduct research at STRI in Panama. Duration ranges from 3 to 24 months.
+funders:
+- smithsonian-tropical-research-institute
+applicant_country: Worldwide
+host_country: Panama
+award: USD 57,000/year + up to USD 5,000 research allowance
+duration: 3–24 months
+frequency: Annual
+deadline: October 15
+deadline_month: October
+career_levels:
+- postdoc
+subjects:
+- ecology-and-evolutionary-biology
+funding_purposes:
+- fellowship-scholarship-or-training
+featured: false
+review_status: approved
+status: active
+source: manual
