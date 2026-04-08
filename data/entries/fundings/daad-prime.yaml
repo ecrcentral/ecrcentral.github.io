@@ -1,0 +1,44 @@
+id: funding-daad-prime
+slug: daad-prime
+name: DAAD PRIME — Postdoctoral Researchers International Mobility Experience
+description: PRIME (Postdoctoral Researchers International Mobility Experience) is
+  a DAAD programme that combines employment at a German university with a research
+  stay abroad. Postdocs of all nationalities are employed on a full work contract
+  at a German university (TV-L E 13 scale) and spend 12 months conducting research
+  outside Germany, followed by a 6-month integration phase in Germany.
+url: https://www.daad.de/en/study-and-research-in-germany/scholarships/daad-funding-programmes-at-a-glance/prime/
+funders:
+- deutscher-akademischer-austauschdienst
+legacy_funder_name: German Academic Exchange Service (DAAD)
+host_country: Worldwide
+applicant_country: Worldwide
+career_levels:
+- postdoc
+years_since_phd: null
+duration: '18'
+award: Employment contract at TV-L E 13 (approx. EUR 4,000-5,000/month gross) plus
+  EUR 1,200-2,000/month expatriate allowance during international stay
+mobility_rule: 'Yes'
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: 'Total duration: 18 months (12 months abroad + 6-month integration phase
+  in Germany). Requires host institution approval from both institutions.'
+benefits: Travel allowance, expatriate allowance, employment contract
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-04-08'
+verified_by: asntech
+created_at: '2026-04-08T00:00:00Z'
+updated_at: '2026-04-08T00:00:00Z'
+subjects:
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: DAAD PRIME Postdoctoral Researchers International Mobility Experience
+  postdoc Germany abroad mobility fellowship
+source: manual

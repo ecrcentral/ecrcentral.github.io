@@ -5,10 +5,12 @@ name: Deutsche Forschungsgemeinschaft
 short_name: Deutsche Forschungsgemeinschaft
 funder_registry_id: '501100001659'
 country: Germany
-website: null
-logo: null
+website: https://www.daad.de/en/
+logo: /logos/funders/deutsche-forschungsgemeinschaft.png
 dora: false
-aliases: []
+aliases:
+  - DFG
+  - DAAD
 description: null
 status: active
 featured: false

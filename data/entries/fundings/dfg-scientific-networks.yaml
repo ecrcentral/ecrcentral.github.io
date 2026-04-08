@@ -1,0 +1,45 @@
+id: funding-dfg-scientific-networks
+slug: dfg-scientific-networks
+name: DFG Scientific Networks
+description: DFG Scientific Networks enables researchers who have completed their
+  doctorate (or are doctoral candidates) to establish thematic scientific networks
+  of 10 to 20 members for multi-year collaborative exchange. Supports workshops,
+  international travel, coordination, and publication costs. International researchers
+  may comprise up to 50% of members. Rolling submissions accepted at any time.
+url: https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/scientific-networks
+funders:
+- deutsche-forschungsgemeinschaft
+legacy_funder_name: German Research Foundation (DFG)
+host_country: Germany
+applicant_country: Germany
+career_levels:
+- postdoc
+- phd
+years_since_phd: null
+duration: '3'
+award: null
+mobility_rule: 'No'
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: 'Lead applicant must work at a German research institution. International
+  researchers may make up to 50% of the network. Duration: up to 3 years.'
+benefits: null
+frequency: Rolling
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-04-08'
+verified_by: asntech
+created_at: '2026-04-08T00:00:00Z'
+updated_at: '2026-04-08T00:00:00Z'
+subjects:
+- all-subjects
+funding_purposes:
+- collaboration
+- research
+search_text: DFG Scientific Networks German Research Foundation postdoc PhD research
+  network Germany collaboration
+source: manual

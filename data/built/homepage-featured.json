@@ -991,261 +991,27 @@
   ],
   "recently_updated": [
     {
-      "id": "funding-faraday-discovery-fellowships",
+      "id": "funding-daad-era-fellowships-green-hydrogen",
       "type": "funding",
       "_type": "funding",
-      "slug": "faraday-discovery-fellowships",
-      "name": "Faraday Discovery Fellowships",
-      "description": "Prestigious long-term awards supporting the most talented mid-career research leaders to undertake high-quality, original research across all STEM fields within the Royal Society's remit.",
-      "url": "https://royalsociety.org/grants/faraday-discovery-fellowships/",
-      "status": "active",
-      "featured": true,
-      "updated_at": "2026-03-26T00:00:00Z",
-      "funder_names": [
-        "The Royal Society"
-      ],
-      "funder_logos": [
-        "/logos/funders/the-royal-society.png"
-      ],
-      "funders": [
-        "the-royal-society"
-      ],
-      "applicant_country": "Worldwide",
-      "host_country": "United Kingdom",
-      "career_levels": [
-        "junior-faculty",
-        "senior-faculty"
-      ],
-      "career_level_names": [
-        "Junior Faculty",
-        "Senior Faculty"
-      ],
-      "deadline": "2026-09-22",
-      "deadline_month": "September",
-      "award": "Up to £8 million over 10 years",
-      "subjects": [
-        "engineering",
-        "physics",
-        "artificial-intelligence",
-        "natural-sciences"
-      ],
-      "funding_purposes": [
-        "fellowship-scholarship-or-training",
-        "research"
-      ],
-      "search_text": "Faraday Discovery Fellowships Royal Society mid-career research leaders STEM original research United Kingdom Worldwide Fellowship research",
-      "legacy_funder_name": "",
-      "frequency": "Annual"
-    },
-    {
-      "id": "funding-simons-foundation-fellows-to-faculty-award",
-      "type": "funding",
-      "_type": "funding",
-      "slug": "simons-foundation-fellows-to-faculty-award",
-      "name": "Fellows to Faculty Award",
-      "description": "Supports talented early-career scientists transitioning from postdoctoral positions into tenure-track or equivalent faculty roles. Provides postdoctoral funding for two years followed by a faculty res…",
-      "url": "https://www.simonsfoundation.org/grant/fellows-to-faculty-award/",
-      "status": "active",
-      "featured": true,
-      "updated_at": "2026-03-26T00:00:00Z",
-      "funder_names": [
-        "Simons Foundation"
-      ],
-      "funder_logos": [
-        "/logos/funders/simons-foundation.png"
-      ],
-      "funders": [
-        "simons-foundation"
-      ],
-      "applicant_country": "Worldwide",
-      "host_country": "Worldwide",
-      "career_levels": [
-        "postdoc"
-      ],
-      "career_level_names": [
-        "Postdoc"
-      ],
-      "deadline": "2026-01-14",
-      "deadline_month": "January",
-      "award": "$100,000",
-      "subjects": [
-        "neuroscience",
-        "biology"
-      ],
-      "funding_purposes": [
-        "fellowship-scholarship-or-training",
-        "research"
-      ],
-      "search_text": "Fellows-to-Faculty Award Simons Foundation postdoctoral career transition tenure-track faculty neuroscience biology Worldwide Annual",
-      "legacy_funder_name": "",
-      "frequency": "Annual"
-    },
-    {
-      "id": "funding-cancer-research-uk-advanced-clinician-scientist-fellowship",
-      "type": "funding",
-      "_type": "funding",
-      "slug": "cancer-research-uk-advanced-clinician-scientist-fellowship",
-      "name": "Cancer Research UK Advanced Clinician Scientist Fellowship",
-      "description": "Supports clinician-scientists who have completed fellowship training to establish themselves as independent researchers and develop a strong track record in cancer research, while maintaining their cl…",
-      "url": "https://www.cancerresearchuk.org/for-researchers/apply-for-and-manage-your-funding/our-funding-schemes/advanced-clinician-scientist-fellowship",
+      "slug": "daad-era-fellowships-green-hydrogen",
+      "name": "DAAD ERA Fellowships — Green Hydrogen",
+      "description": "DAAD ERA Fellowships for Green Hydrogen support researchers and interns from Extended European Research Area (ERA) countries to conduct research projects in Germany on green hydrogen topics. Research…",
+      "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/daad-funding-programmes-at-a-glance/era-fellowships/",
       "status": "active",
       "featured": false,
-      "updated_at": "2026-03-26T00:00:00Z",
+      "updated_at": "2026-04-08T00:00:00Z",
       "funder_names": [
-        "Cancer Research UK"
+        "Deutscher Akademischer Austauschdienst"
       ],
       "funder_logos": [
-        "/logos/funders/cancer-research-uk.svg"
+        null
       ],
       "funders": [
-        "cancer-research-uk"
+        "deutscher-akademischer-austauschdienst"
       ],
-      "applicant_country": "United Kingdom",
-      "host_country": "United Kingdom",
-      "career_levels": [
-        "postdoc",
-        "junior-faculty"
-      ],
-      "career_level_names": [
-        "Postdoc",
-        "Junior Faculty"
-      ],
-      "deadline": "",
-      "deadline_month": "",
-      "award": "Salary plus research costs",
-      "subjects": [
-        "medicine-and-health-sciences",
-        "diseases"
-      ],
-      "funding_purposes": [
-        "fellowship-scholarship-or-training",
-        "research"
-      ],
-      "search_text": "Cancer Research UK Advanced Clinician Scientist Fellowship Supports clinician-scientists in cancer research United Kingdom Fellowship research",
-      "legacy_funder_name": "",
-      "frequency": ""
-    },
-    {
-      "id": "funding-cancer-research-uk-career-development-fellowship",
-      "type": "funding",
-      "_type": "funding",
-      "slug": "cancer-research-uk-career-development-fellowship",
-      "name": "Cancer Research UK Career Development Fellowship",
-      "description": "Supports early-career cancer researchers to develop the skills and experience needed to become independent research leaders, funding a programme of cancer research alongside career development activit…",
-      "url": "https://www.cancerresearchuk.org/for-researchers/apply-for-and-manage-your-funding/our-funding-schemes/career-development-fellowship",
-      "status": "active",
-      "featured": false,
-      "updated_at": "2026-03-26T00:00:00Z",
-      "funder_names": [
-        "Cancer Research UK"
-      ],
-      "funder_logos": [
-        "/logos/funders/cancer-research-uk.svg"
-      ],
-      "funders": [
-        "cancer-research-uk"
-      ],
-      "applicant_country": "United Kingdom",
-      "host_country": "United Kingdom",
-      "career_levels": [
-        "postdoc",
-        "junior-faculty"
-      ],
-      "career_level_names": [
-        "Postdoc",
-        "Junior Faculty"
-      ],
-      "deadline": "",
-      "deadline_month": "",
-      "award": "Salary plus research costs",
-      "subjects": [
-        "medicine-and-health-sciences",
-        "diseases"
-      ],
-      "funding_purposes": [
-        "fellowship-scholarship-or-training",
-        "research"
-      ],
-      "search_text": "Cancer Research UK Career Development Fellowship early-career cancer researchers independent research leaders United Kingdom Fellowship research",
-      "legacy_funder_name": "",
-      "frequency": ""
-    },
-    {
-      "id": "funding-wellcome-early-career-awards",
-      "type": "funding",
-      "_type": "funding",
-      "slug": "wellcome-early-career-awards",
-      "name": "Wellcome Early-Career Awards",
-      "description": "Funding for early-career researchers ready to develop their research identity through innovative projects that advance understanding in their field, or develop methodologies, frameworks, tools or tech…",
-      "url": "https://wellcome.org/research-funding/schemes/wellcome-early-career-awards",
-      "status": "active",
-      "featured": false,
-      "updated_at": "2026-03-26T00:00:00Z",
-      "funder_names": [
-        "Wellcome Trust"
-      ],
-      "funder_logos": [
-        "/logos/funders/wellcome-trust.png"
-      ],
-      "funders": [
-        "wellcome-trust"
-      ],
-      "applicant_country": "United Kingdom, Ireland, LMICs",
-      "host_country": "United Kingdom, Ireland, LMICs",
-      "career_levels": [
-        "postdoc"
-      ],
-      "career_level_names": [
-        "Postdoc"
-      ],
-      "deadline": "",
-      "deadline_month": "",
-      "award": "Salary plus up to £400,000 research expenses",
-      "subjects": [
-        "all-subjects"
-      ],
-      "funding_purposes": [
-        "fellowship-scholarship-or-training",
-        "research"
-      ],
-      "search_text": "Wellcome Early-Career Awards Funding for early-career researchers ready to develop their research identity. Wellcome Trust Postdoc United Kingdom Ireland LMICs All subjects Fellowship research",
-      "legacy_funder_name": "",
-      "frequency": "Three times per year"
-    },
-    {
-      "id": "travel-grant-simons-foundation-travel-support-for-mathematicians",
-      "type": "travel-grant",
-      "_type": "travel-grant",
-      "slug": "simons-foundation-travel-support-for-mathematicians",
-      "name": "Travel Support for Mathematicians",
-      "description": "Program designed to stimulate collaboration in mathematics primarily through funding of travel and related expenditures for tenure-track and tenured faculty at U.S. institutions.",
-      "url": "https://www.simonsfoundation.org/grant/travel-support-for-mathematicians/",
-      "status": "active",
-      "featured": false,
-      "updated_at": "2026-03-26T00:00:00Z"
-    },
-    {
-      "id": "funding-twas-fellowships-research-and-advanced-training",
-      "type": "funding",
-      "_type": "funding",
-      "slug": "twas-fellowships-research-and-advanced-training",
-      "name": "TWAS Fellowships for Research and Advanced Training",
-      "description": "Fellowships for young scientists in developing countries to spend 3 to 12 months at a research institution in a developing country other than their own, enabling South-South scientific collaboration i…",
-      "url": "https://twas.org/opportunity/twas-fellowships-research-and-advanced-training",
-      "status": "active",
-      "featured": false,
-      "updated_at": "2026-03-25T00:00:00Z",
-      "funder_names": [
-        "The World Academy of Sciences"
-      ],
-      "funder_logos": [
-        "/logos/funders/the-world-academy-of-sciences.png"
-      ],
-      "funders": [
-        "the-world-academy-of-sciences"
-      ],
-      "applicant_country": "Developing countries",
-      "host_country": "Developing countries",
+      "applicant_country": "ERA Countries",
+      "host_country": "Germany",
       "career_levels": [
         "phd",
         "postdoc"
@@ -1256,40 +1022,41 @@
       ],
       "deadline": "",
       "deadline_month": "",
-      "award": "",
+      "award": "EUR 1,200-2,000/month plus health insurance, travel subsidy, research allowance, and language course support",
       "subjects": [
-        "natural-sciences"
+        "environmental-sciences",
+        "engineering"
       ],
       "funding_purposes": [
         "fellowship-scholarship-or-training",
-        "collaboration"
+        "research"
       ],
-      "search_text": "TWAS Fellowships Research Advanced Training developing countries South-South natural sciences MSc",
-      "legacy_funder_name": "",
-      "frequency": "Annual"
+      "search_text": "DAAD ERA Fellowships Green Hydrogen ERA countries research Germany phd postdoc renewable energy",
+      "legacy_funder_name": "German Academic Exchange Service (DAAD)",
+      "frequency": "Rolling"
     },
     {
-      "id": "funding-twas-cui-postdoctoral-fellowship",
+      "id": "funding-daad-prime",
       "type": "funding",
       "_type": "funding",
-      "slug": "twas-cui-postdoctoral-fellowship",
-      "name": "TWAS-CUI Postdoctoral Fellowship",
-      "description": "Postdoctoral fellowships for young scientists from developing countries (excluding Pakistan) to pursue research at COMSATS University Islamabad (CUI) in Pakistan. Applicants must have obtained their P…",
-      "url": "https://twas.org/opportunity/twas-cui-postdoctoral-fellowship-programme",
+      "slug": "daad-prime",
+      "name": "DAAD PRIME — Postdoctoral Researchers International Mobility Experience",
+      "description": "PRIME (Postdoctoral Researchers International Mobility Experience) is a DAAD programme that combines employment at a German university with a research stay abroad. Postdocs of all nationalities are em…",
+      "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/daad-funding-programmes-at-a-glance/prime/",
       "status": "active",
       "featured": false,
-      "updated_at": "2026-03-25T00:00:00Z",
+      "updated_at": "2026-04-08T00:00:00Z",
       "funder_names": [
-        "The World Academy of Sciences"
+        "Deutscher Akademischer Austauschdienst"
       ],
       "funder_logos": [
-        "/logos/funders/the-world-academy-of-sciences.png"
+        null
       ],
       "funders": [
-        "the-world-academy-of-sciences"
+        "deutscher-akademischer-austauschdienst"
       ],
-      "applicant_country": "Developing countries (excluding Pakistan)",
-      "host_country": "Pakistan",
+      "applicant_country": "Worldwide",
+      "host_country": "Worldwide",
       "career_levels": [
         "postdoc"
       ],
@@ -1298,94 +1065,377 @@
       ],
       "deadline": "",
       "deadline_month": "",
-      "award": "",
-      "subjects": [],
+      "award": "Employment contract at TV-L E 13 (approx. EUR 4,000-5,000/month gross) plus EUR 1,200-2,000/month expatriate allowance during international stay",
+      "subjects": [
+        "all-subjects"
+      ],
       "funding_purposes": [
         "fellowship-scholarship-or-training"
       ],
-      "search_text": "TWAS CUI Postdoctoral Fellowship COMSATS Pakistan developing countries",
-      "legacy_funder_name": "",
+      "search_text": "DAAD PRIME Postdoctoral Researchers International Mobility Experience postdoc Germany abroad mobility fellowship",
+      "legacy_funder_name": "German Academic Exchange Service (DAAD)",
+      "frequency": ""
+    },
+    {
+      "id": "funding-daad-research-grants-one-year",
+      "type": "funding",
+      "_type": "funding",
+      "slug": "daad-research-grants-one-year",
+      "name": "DAAD Research Grants — One-Year Grants",
+      "description": "DAAD one-year research grants enable doctoral candidates who have begun their PhD within the last 3 years, or hold an equivalent master's qualification, to conduct research stays of 7 to 12 months at…",
+      "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/daad-funding-programmes-at-a-glance/research-grants-one-year-grants/",
+      "status": "active",
+      "featured": false,
+      "updated_at": "2026-04-08T00:00:00Z",
+      "funder_names": [
+        "Deutscher Akademischer Austauschdienst"
+      ],
+      "funder_logos": [
+        null
+      ],
+      "funders": [
+        "deutscher-akademischer-austauschdienst"
+      ],
+      "applicant_country": "Worldwide",
+      "host_country": "Germany",
+      "career_levels": [
+        "phd"
+      ],
+      "career_level_names": [
+        "PhD"
+      ],
+      "deadline": "",
+      "deadline_month": "",
+      "award": "EUR 861-1,200/month plus insurance, travel allowance, research allowance, and language course support",
+      "subjects": [
+        "all-subjects"
+      ],
+      "funding_purposes": [
+        "fellowship-scholarship-or-training",
+        "research"
+      ],
+      "search_text": "DAAD Research Grants One-Year Grants doctoral PhD Germany research fellowship",
+      "legacy_funder_name": "German Academic Exchange Service (DAAD)",
       "frequency": "Annual"
     },
     {
-      "id": "funding-twas-dfg-cooperation-visits-mena",
+      "id": "funding-daad-research-stays-university-academics",
       "type": "funding",
       "_type": "funding",
-      "slug": "twas-dfg-cooperation-visits-mena",
-      "name": "TWAS-DFG Cooperation Visits Programme (MENA)",
-      "description": "Postdoctoral researchers from the Middle East and North Africa (MENA) region can conduct a three-month collaborative visit to a German research institute, supported jointly by TWAS and the German Rese…",
-      "url": "https://twas.org/opportunity/twas-dfg-cooperation-visits-programme-mena",
+      "slug": "daad-research-stays-university-academics",
+      "name": "DAAD Research Stays for University Academics and Scientists",
+      "description": "DAAD Research Stays enable international academics and scientists to conduct short-term research visits of 1 to 3 months at German state-run or state-recognised universities and non-university researc…",
+      "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/daad-funding-programmes-at-a-glance/research-stays-for-university-academics-and-scientists/",
       "status": "active",
       "featured": false,
-      "updated_at": "2026-03-25T00:00:00Z",
+      "updated_at": "2026-04-08T00:00:00Z",
       "funder_names": [
-        "The World Academy of Sciences"
+        "Deutscher Akademischer Austauschdienst"
       ],
       "funder_logos": [
-        "/logos/funders/the-world-academy-of-sciences.png"
+        null
       ],
       "funders": [
-        "the-world-academy-of-sciences"
+        "deutscher-akademischer-austauschdienst"
       ],
-      "applicant_country": "MENA",
+      "applicant_country": "Worldwide",
       "host_country": "Germany",
+      "career_levels": [
+        "postdoc",
+        "senior-faculty"
+      ],
+      "career_level_names": [
+        "Postdoc",
+        "Senior Faculty"
+      ],
+      "deadline": "",
+      "deadline_month": "",
+      "award": "EUR 2,000-2,150/month plus travel allowance",
+      "subjects": [
+        "all-subjects"
+      ],
+      "funding_purposes": [
+        "fellowship-scholarship-or-training"
+      ],
+      "search_text": "DAAD Research Stays University Academics Scientists short-term Germany postdoc senior researcher",
+      "legacy_funder_name": "German Academic Exchange Service (DAAD)",
+      "frequency": "Annual"
+    },
+    {
+      "id": "funding-dfg-initiation-of-international-collaboration",
+      "type": "funding",
+      "_type": "funding",
+      "slug": "dfg-initiation-of-international-collaboration",
+      "name": "DFG Initiation of International Collaboration",
+      "description": "The DFG Initiation of International Collaboration programme facilitates the establishment of new international research partnerships. It supports bilateral workshops, international travel, and visitin…",
+      "url": "https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/initiation-of-international-collaboration",
+      "status": "active",
+      "featured": false,
+      "updated_at": "2026-04-08T00:00:00Z",
+      "funder_names": [
+        "Deutsche Forschungsgemeinschaft"
+      ],
+      "funder_logos": [
+        "/logos/funders/deutsche-forschungsgemeinschaft.png"
+      ],
+      "funders": [
+        "deutsche-forschungsgemeinschaft"
+      ],
+      "applicant_country": "Germany",
+      "host_country": "Germany",
+      "career_levels": [
+        "postdoc",
+        "senior-faculty"
+      ],
+      "career_level_names": [
+        "Postdoc",
+        "Senior Faculty"
+      ],
+      "deadline": "",
+      "deadline_month": "",
+      "award": "Travel expenses and daily/monthly allowances",
+      "subjects": [
+        "all-subjects"
+      ],
+      "funding_purposes": [
+        "collaboration"
+      ],
+      "search_text": "DFG Initiation of International Collaboration German Research Foundation bilateral workshops visiting scholars Germany postdoc senior researcher",
+      "legacy_funder_name": "German Research Foundation (DFG)",
+      "frequency": "Rolling"
+    },
+    {
+      "id": "funding-dfg-scientific-networks",
+      "type": "funding",
+      "_type": "funding",
+      "slug": "dfg-scientific-networks",
+      "name": "DFG Scientific Networks",
+      "description": "DFG Scientific Networks enables researchers who have completed their doctorate (or are doctoral candidates) to establish thematic scientific networks of 10 to 20 members for multi-year collaborative e…",
+      "url": "https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/scientific-networks",
+      "status": "active",
+      "featured": false,
+      "updated_at": "2026-04-08T00:00:00Z",
+      "funder_names": [
+        "Deutsche Forschungsgemeinschaft"
+      ],
+      "funder_logos": [
+        "/logos/funders/deutsche-forschungsgemeinschaft.png"
+      ],
+      "funders": [
+        "deutsche-forschungsgemeinschaft"
+      ],
+      "applicant_country": "Germany",
+      "host_country": "Germany",
+      "career_levels": [
+        "postdoc",
+        "phd"
+      ],
+      "career_level_names": [
+        "Postdoc",
+        "PhD"
+      ],
+      "deadline": "",
+      "deadline_month": "",
+      "award": "",
+      "subjects": [
+        "all-subjects"
+      ],
+      "funding_purposes": [
+        "collaboration",
+        "research"
+      ],
+      "search_text": "DFG Scientific Networks German Research Foundation postdoc PhD research network Germany collaboration",
+      "legacy_funder_name": "German Research Foundation (DFG)",
+      "frequency": "Rolling"
+    },
+    {
+      "id": "funding-dlr-daad-research-fellowships",
+      "type": "funding",
+      "_type": "funding",
+      "slug": "dlr-daad-research-fellowships",
+      "name": "DLR-DAAD Research Fellowships",
+      "description": "DLR-DAAD Research Fellowships are jointly offered by the German Aerospace Center (DLR) and the German Academic Exchange Service (DAAD). They enable researchers to work at DLR institutes in areas of sp…",
+      "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/daad-funding-programmes-at-a-glance/dlr-daad-research-fellowships/",
+      "status": "active",
+      "featured": false,
+      "updated_at": "2026-04-08T00:00:00Z",
+      "funder_names": [
+        "German Aerospace Center",
+        "Deutscher Akademischer Austauschdienst"
+      ],
+      "funder_logos": [
+        null,
+        null
+      ],
+      "funders": [
+        "dlr-german-aerospace-center",
+        "deutscher-akademischer-austauschdienst"
+      ],
+      "applicant_country": "Worldwide",
+      "host_country": "Germany",
+      "career_levels": [
+        "phd",
+        "postdoc",
+        "senior-faculty"
+      ],
+      "career_level_names": [
+        "PhD",
+        "Postdoc",
+        "Senior Faculty"
+      ],
+      "deadline": "",
+      "deadline_month": "",
+      "award": "EUR 1,760/month (PhD), EUR 2,400/month (early career), EUR 2,760/month (established researchers) plus travel, health insurance, and family allowances",
+      "subjects": [
+        "engineering",
+        "physical-sciences-and-mathematics",
+        "all-subjects"
+      ],
+      "funding_purposes": [
+        "fellowship-scholarship-or-training",
+        "research"
+      ],
+      "search_text": "DLR DAAD Research Fellowships German Aerospace Center space aeronautics energy transport digitalisation phd postdoc Germany",
+      "legacy_funder_name": "German Aerospace Center (DLR) and German Academic Exchange Service (DAAD)",
+      "frequency": "Rolling"
+    },
+    {
+      "id": "funding-erc-consolidator-grant",
+      "type": "funding",
+      "_type": "funding",
+      "slug": "erc-consolidator-grant",
+      "name": "ERC Consolidator Grant",
+      "description": "The ERC Consolidator Grant supports outstanding researchers who are consolidating their independence by establishing or strengthening their research teams. Open to researchers of any nationality who c…",
+      "url": "https://erc.europa.eu/funding/consolidator-grants",
+      "status": "active",
+      "featured": false,
+      "updated_at": "2026-04-08T00:00:00Z",
+      "funder_names": [
+        "European Research Council"
+      ],
+      "funder_logos": [
+        "/logos/funders/european-research-council.png"
+      ],
+      "funders": [
+        "european-research-council"
+      ],
+      "applicant_country": "Worldwide",
+      "host_country": "Europe",
       "career_levels": [
         "postdoc"
       ],
       "career_level_names": [
         "Postdoc"
       ],
-      "deadline": "2026-04-15",
-      "deadline_month": "April",
-      "award": "",
-      "subjects": [],
-      "funding_purposes": [
-        "fellowship-scholarship-or-training",
-        "collaboration"
+      "deadline": "",
+      "deadline_month": "",
+      "award": "Up to EUR 2 million (up to EUR 3 million in exceptional cases) over 5 years",
+      "subjects": [
+        "life-sciences",
+        "physical-sciences-and-mathematics",
+        "engineering",
+        "social-and-behavioral-sciences",
+        "all-subjects"
       ],
-      "search_text": "TWAS DFG Cooperation Visits MENA Middle East North Africa Germany postdoc German Research Foundation",
-      "legacy_funder_name": "",
+      "funding_purposes": [
+        "research",
+        "fellowship-scholarship-or-training"
+      ],
+      "search_text": "ERC Consolidator Grant European Research Council postdoc Germany Europe Worldwide",
+      "legacy_funder_name": "European Research Council",
       "frequency": "Annual"
     },
     {
-      "id": "funding-twas-dfg-cooperation-visits-ssa",
+      "id": "funding-erc-synergy-grant",
       "type": "funding",
       "_type": "funding",
-      "slug": "twas-dfg-cooperation-visits-ssa",
-      "name": "TWAS-DFG Cooperation Visits Programme (Sub-Saharan Africa)",
-      "description": "Postdoctoral researchers from sub-Saharan Africa can conduct a three-month collaborative visit to a German research institute, supported jointly by TWAS and the German Research Foundation (DFG).",
-      "url": "https://twas.org/opportunity/twas-dfg-cooperation-visits-programme-ssa",
+      "slug": "erc-synergy-grant",
+      "name": "ERC Synergy Grant",
+      "description": "ERC Synergy Grants support groups of 2 to 4 researchers working together on ambitious research problems that can only be addressed through the combined skills of the team. Each Principal Investigator…",
+      "url": "https://erc.europa.eu/funding/synergy-grants",
       "status": "active",
       "featured": false,
-      "updated_at": "2026-03-25T00:00:00Z",
+      "updated_at": "2026-04-08T00:00:00Z",
       "funder_names": [
-        "The World Academy of Sciences"
+        "European Research Council"
       ],
       "funder_logos": [
-        "/logos/funders/the-world-academy-of-sciences.png"
+        "/logos/funders/european-research-council.png"
       ],
       "funders": [
-        "the-world-academy-of-sciences"
+        "european-research-council"
       ],
-      "applicant_country": "Sub-Saharan Africa",
-      "host_country": "Germany",
+      "applicant_country": "Worldwide",
+      "host_country": "Europe",
       "career_levels": [
-        "postdoc"
+        "postdoc",
+        "senior-faculty"
       ],
       "career_level_names": [
-        "Postdoc"
+        "Postdoc",
+        "Senior Faculty"
       ],
-      "deadline": "2026-04-15",
-      "deadline_month": "April",
-      "award": "",
-      "subjects": [],
+      "deadline": "",
+      "deadline_month": "",
+      "award": "Up to EUR 10 million (up to EUR 14 million in exceptional cases) over 6 years",
+      "subjects": [
+        "life-sciences",
+        "physical-sciences-and-mathematics",
+        "engineering",
+        "social-and-behavioral-sciences",
+        "all-subjects"
+      ],
       "funding_purposes": [
-        "fellowship-scholarship-or-training",
-        "collaboration"
+        "research"
       ],
-      "search_text": "TWAS DFG Cooperation Visits Sub-Saharan Africa Germany postdoc German Research Foundation",
-      "legacy_funder_name": "",
+      "search_text": "ERC Synergy Grant European Research Council group interdisciplinary Europe Worldwide postdoc senior researcher",
+      "legacy_funder_name": "European Research Council",
       "frequency": "Annual"
+    },
+    {
+      "id": "funding-fraunhofer-attract",
+      "type": "funding",
+      "_type": "funding",
+      "slug": "fraunhofer-attract",
+      "name": "Fraunhofer Attract",
+      "description": "Fraunhofer Attract enables accomplished scientists to create innovative research groups within Fraunhofer Institutes through industrial collaboration. Applicants should hold a PhD and preferably have…",
+      "url": "https://www.fraunhofer.de/en/research/fraunhofer-attract.html",
+      "status": "active",
+      "featured": false,
+      "updated_at": "2026-04-08T00:00:00Z",
+      "funder_names": [
+        "Fraunhofer-Gesellschaft"
+      ],
+      "funder_logos": [
+        null
+      ],
+      "funders": [
+        "fraunhofer-gesellschaft"
+      ],
+      "applicant_country": "Worldwide",
+      "host_country": "Germany",
+      "career_levels": [
+        "postdoc",
+        "senior-faculty"
+      ],
+      "career_level_names": [
+        "Postdoc",
+        "Senior Faculty"
+      ],
+      "deadline": "",
+      "deadline_month": "",
+      "award": "Up to EUR 2.5 million over 5 years",
+      "subjects": [
+        "engineering",
+        "all-subjects"
+      ],
+      "funding_purposes": [
+        "research",
+        "fellowship-scholarship-or-training"
+      ],
+      "search_text": "Fraunhofer Attract Fraunhofer Gesellschaft research group Germany postdoc early career applied research industry",
+      "legacy_funder_name": "Fraunhofer-Gesellschaft",
+      "frequency": "Twice per year"
     }
   ]
 }

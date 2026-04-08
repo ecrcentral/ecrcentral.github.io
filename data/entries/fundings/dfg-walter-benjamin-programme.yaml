@@ -1,0 +1,43 @@
+id: funding-dfg-walter-benjamin-programme
+slug: dfg-walter-benjamin-programme
+name: Walter Benjamin Programme
+description: The DFG Walter Benjamin Programme supports early-career researchers at
+  a very early stage of their postdoctoral phase, enabling them to conduct an independent
+  research project at a research institution of their choice worldwide. Researchers
+  may work at a German institution (funded as a research position) or abroad (funded
+  as a fellowship). Rolling applications accepted at any time.
+url: https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/walter-benjamin
+funders:
+- deutsche-forschungsgemeinschaft
+legacy_funder_name: German Research Foundation (DFG)
+host_country: Worldwide
+applicant_country: Worldwide
+career_levels:
+- postdoc
+years_since_phd: null
+duration: '2'
+award: null
+mobility_rule: 'No'
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: Rolling applications; up to 2 years.
+benefits: null
+frequency: Rolling
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-04-08'
+verified_by: asntech
+created_at: '2026-04-08T00:00:00Z'
+updated_at: '2026-04-08T00:00:00Z'
+subjects:
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: Walter Benjamin Programme DFG German Research Foundation postdoc early
+  career independent research Germany Worldwide
+source: manual

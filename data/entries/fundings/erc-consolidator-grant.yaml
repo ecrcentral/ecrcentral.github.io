@@ -1,0 +1,47 @@
+id: funding-erc-consolidator-grant
+slug: erc-consolidator-grant
+name: ERC Consolidator Grant
+description: The ERC Consolidator Grant supports outstanding researchers who are consolidating
+  their independence by establishing or strengthening their research teams. Open to
+  researchers of any nationality who completed their PhD 7 to 12 years ago and are
+  building a promising independent research career. Awards up to EUR 2 million over
+  5 years, with exceptional funding up to EUR 3 million.
+url: https://erc.europa.eu/funding/consolidator-grants
+funders:
+- european-research-council
+legacy_funder_name: European Research Council
+host_country: Europe
+applicant_country: Worldwide
+career_levels:
+- postdoc
+years_since_phd: '12'
+duration: '5'
+award: Up to EUR 2 million (up to EUR 3 million in exceptional cases) over 5 years
+mobility_rule: 'No'
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: PhD must have been completed 7 to 12 years before the call deadline.
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-04-08'
+verified_by: asntech
+created_at: '2026-04-08T00:00:00Z'
+updated_at: '2026-04-08T00:00:00Z'
+subjects:
+- life-sciences
+- physical-sciences-and-mathematics
+- engineering
+- social-and-behavioral-sciences
+- all-subjects
+funding_purposes:
+- research
+- fellowship-scholarship-or-training
+search_text: ERC Consolidator Grant European Research Council postdoc Germany Europe
+  Worldwide
+source: manual

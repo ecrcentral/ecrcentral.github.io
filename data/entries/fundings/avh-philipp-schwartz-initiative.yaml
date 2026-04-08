@@ -1,0 +1,44 @@
+id: funding-avh-philipp-schwartz-initiative
+slug: avh-philipp-schwartz-initiative
+name: Philipp Schwartz Initiative
+description: The Philipp Schwartz Initiative by the Alexander von Humboldt Foundation
+  enables German universities and research institutions to host researchers at risk.
+  It supports postdoctoral researchers and advanced scholars who face concrete threats
+  in their home countries. Fellows are offered fixed-amount fellowships or contractual
+  employment at German host institutions for 24 months, with the possibility of a
+  12-month extension.
+url: https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/philipp-schwartz-initiative
+funders:
+- alexander-von-humboldt-foundation
+legacy_funder_name: Alexander von Humboldt Foundation
+host_country: Germany
+applicant_country: Worldwide
+career_levels:
+- postdoc
+- senior-faculty
+years_since_phd: null
+duration: '24'
+award: Fixed-amount fellowship or employment contract; 24 months (extendable by 12
+  months)
+mobility_rule: 'No'
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: Supports researchers at risk; open to researchers facing concrete threats
+benefits: null
+frequency: null
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-04-08'
+verified_by: asntech
+created_at: '2026-04-08T00:00:00Z'
+updated_at: '2026-04-08T00:00:00Z'
+subjects:
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Philipp Schwartz Initiative Alexander von Humboldt Foundation at-risk
+  researchers Germany postdoc fellowship
+source: manual

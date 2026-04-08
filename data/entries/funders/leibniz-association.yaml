@@ -1,0 +1,20 @@
+id: funder-leibniz-association
+slug: leibniz-association
+name: Leibniz Association
+short_name: Leibniz Association
+funder_registry_id: leibniz-association
+country: Germany
+website: https://www.leibniz-gemeinschaft.de/en/
+logo: null
+dora: false
+aliases:
+- Leibniz-Gemeinschaft
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-04-08'
+verified_by: asntech
+created_at: '2026-04-08T00:00:00Z'
+updated_at: '2026-04-08T00:00:00Z'
+source: manual

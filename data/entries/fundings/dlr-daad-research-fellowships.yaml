@@ -1,0 +1,52 @@
+id: funding-dlr-daad-research-fellowships
+slug: dlr-daad-research-fellowships
+name: DLR-DAAD Research Fellowships
+description: DLR-DAAD Research Fellowships are jointly offered by the German Aerospace
+  Center (DLR) and the German Academic Exchange Service (DAAD). They enable researchers
+  to work at DLR institutes in areas of space, aeronautics, energy, transport, digitalisation,
+  and security. PhD student fellowships last up to 36 months; early-career researcher
+  fellowships 6 to 24 months; established researcher fellowships 1 to 3 months.
+  Includes monthly stipend, travel allowance, health insurance, and family allowances.
+url: https://www.daad.de/en/study-and-research-in-germany/scholarships/daad-funding-programmes-at-a-glance/dlr-daad-research-fellowships/
+funders:
+- dlr-german-aerospace-center
+- deutscher-akademischer-austauschdienst
+legacy_funder_name: German Aerospace Center (DLR) and German Academic Exchange Service
+  (DAAD)
+host_country: Germany
+applicant_country: Worldwide
+career_levels:
+- phd
+- postdoc
+- senior-faculty
+years_since_phd: null
+duration: null
+award: EUR 1,760/month (PhD), EUR 2,400/month (early career), EUR 2,760/month (established
+  researchers) plus travel, health insurance, and family allowances
+mobility_rule: 'No'
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: Deadlines vary by individual fellowship offer. Requires excellent English
+  and master's degree or doctorate.
+benefits: Travel allowance, health insurance, family allowances
+frequency: Rolling
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-04-08'
+verified_by: asntech
+created_at: '2026-04-08T00:00:00Z'
+updated_at: '2026-04-08T00:00:00Z'
+subjects:
+- engineering
+- physical-sciences-and-mathematics
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: DLR DAAD Research Fellowships German Aerospace Center space aeronautics
+  energy transport digitalisation phd postdoc Germany
+source: manual

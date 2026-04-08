@@ -1,0 +1,48 @@
+id: funding-green-talents
+slug: green-talents
+name: Green Talents — International Forum for High Potentials in Sustainable Development
+description: The Green Talents programme by the German Federal Ministry of Education
+  and Research (BMBF) promotes international exchange of ideas in sustainable development.
+  Outstanding master's and PhD students and recent graduates in sustainability research
+  are invited to a Science Forum in Germany and receive a BMBF-funded research stay
+  of up to 3 months at a German institution. Open to non-German citizens not residing
+  in Germany.
+url: https://www.greentalents.de/
+funders:
+- federal-ministry-education-research
+legacy_funder_name: Federal Ministry of Education and Research (BMBF)
+host_country: Germany
+applicant_country: Worldwide
+career_levels:
+- master-students
+- phd
+years_since_phd: '3'
+duration: null
+award: Funded Science Forum plus research stay of up to 3 months
+mobility_rule: 'No'
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: Open to non-German citizens not residing in Germany. Master's or PhD degree
+  (or completion within last 3 years). Includes multi-day Science Forum in Germany.
+benefits: Science Forum participation, funded research stay up to 3 months
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-04-08'
+verified_by: asntech
+created_at: '2026-04-08T00:00:00Z'
+updated_at: '2026-04-08T00:00:00Z'
+subjects:
+- environmental-sciences
+- ecology-and-evolutionary-biology
+- engineering
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+search_text: Green Talents BMBF Federal Ministry sustainable development Germany
+  master PhD student early career forum research stay
+source: manual

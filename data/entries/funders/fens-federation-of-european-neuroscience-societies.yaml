@@ -1,0 +1,20 @@
+id: funder-fens-federation-of-european-neuroscience-societies
+slug: fens-federation-of-european-neuroscience-societies
+name: Federation of European Neuroscience Societies
+short_name: FENS
+funder_registry_id: fens-federation-of-european-neuroscience-societies
+country: Belgium
+website: https://www.fens.org
+logo: null
+dora: false
+aliases:
+- FENS
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-04-08'
+verified_by: asntech
+created_at: '2026-04-08T00:00:00Z'
+updated_at: '2026-04-08T00:00:00Z'
+source: manual

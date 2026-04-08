@@ -5261,6 +5261,118 @@
     ]
   },
   {
+    "id": "travel-grant-fens-travel-grants-sfn-annual-meeting",
+    "slug": "fens-travel-grants-sfn-annual-meeting",
+    "name": "FENS Travel Grants to the SfN Annual Meeting",
+    "url": "https://www.fens.org/careers/grants-and-stipends/grant/travel-grants-for-the-annual-meeting-of-the-society-for-neuroscience",
+    "description": "FENS offers travel grants to support its members attending the Society for Neuroscience (SfN) Annual Meeting in the USA. Ten grants of EUR 2,000 each are awarded per cycle. Open to researchers from the 2nd year of PhD up to postdoctoral fellows within 2 years of their PhD defense. FENS membership is required. Grants are awarded in odd years only (biennial).",
+    "funders": [
+      "fens-federation-of-european-neuroscience-societies"
+    ],
+    "legacy_funder_name": "Federation of European Neuroscience Societies (FENS)",
+    "applicant_country": "Worldwide",
+    "host_country": "United States",
+    "award": "EUR 2,000 (10 grants per cycle)",
+    "deadline": null,
+    "deadline_month": null,
+    "membership": "Yes",
+    "membership_time": null,
+    "purpose_text": null,
+    "career_levels": [
+      "phd",
+      "postdoc"
+    ],
+    "subjects": [
+      "neuroscience"
+    ],
+    "travel_purposes": [
+      "conference"
+    ],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-04-08",
+    "verified_by": "asntech",
+    "created_at": "2026-04-08T00:00:00Z",
+    "updated_at": "2026-04-08T00:00:00Z",
+    "search_text": "FENS Travel Grants SfN Annual Meeting Society for Neuroscience Federation of European Neuroscience Societies PhD postdoc conference neuroscience",
+    "source": "manual",
+    "funder_names": [
+      "Federation of European Neuroscience Societies"
+    ],
+    "funder_logos": [
+      null
+    ],
+    "career_level_names": [
+      "PhD",
+      "Postdoc"
+    ],
+    "subject_names": [
+      "Neuroscience"
+    ],
+    "travel_purpose_names": [
+      "Conference"
+    ]
+  },
+  {
+    "id": "travel-grant-wingate-foundation-medical-research-travel-grants",
+    "slug": "wingate-foundation-medical-research-travel-grants",
+    "name": "Wingate Foundation Medical Research Travel Grants",
+    "url": "https://wingate.org.uk/support/medical-research-travel-grants/",
+    "description": "The Wingate Foundation Medical Research Travel Grants support researchers visiting laboratories to acquire new skills and establish inter-institutional collaborative research. Grants cover short-term research visits aimed at transferring techniques and building international partnerships in medical and life sciences research.",
+    "funders": [
+      "wingate-foundation"
+    ],
+    "legacy_funder_name": "Wingate Foundation",
+    "applicant_country": "Worldwide",
+    "host_country": null,
+    "award": null,
+    "deadline": null,
+    "deadline_month": null,
+    "membership": null,
+    "membership_time": null,
+    "purpose_text": null,
+    "career_levels": [
+      "phd",
+      "postdoc"
+    ],
+    "subjects": [
+      "medical-sciences",
+      "life-sciences"
+    ],
+    "travel_purposes": [
+      "research-visit",
+      "learn-new-technique"
+    ],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-04-08",
+    "verified_by": "asntech",
+    "created_at": "2026-04-08T00:00:00Z",
+    "updated_at": "2026-04-08T00:00:00Z",
+    "search_text": "Wingate Foundation Medical Research Travel Grants laboratory visit skills collaboration medical life sciences PhD postdoc",
+    "source": "manual",
+    "funder_names": [
+      "Wingate Foundation"
+    ],
+    "funder_logos": [
+      null
+    ],
+    "career_level_names": [
+      "PhD",
+      "Postdoc"
+    ],
+    "subject_names": [
+      "Medical Sciences",
+      "Life Sciences"
+    ],
+    "travel_purpose_names": [
+      "Research visit",
+      "Learn new technique"
+    ]
+  },
+  {
     "id": "travel-grant-bio-techne-travel-grants-go-everywhere",
     "legacy_id": 51,
     "slug": "bio-techne-travel-grants-go-everywhere",

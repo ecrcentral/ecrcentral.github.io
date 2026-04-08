@@ -1,0 +1,48 @@
+id: funding-erc-synergy-grant
+slug: erc-synergy-grant
+name: ERC Synergy Grant
+description: ERC Synergy Grants support groups of 2 to 4 researchers working together
+  on ambitious research problems that can only be addressed through the combined skills
+  of the team. Each Principal Investigator must bring complementary expertise. Awards
+  up to EUR 10 million (exceptionally up to EUR 14 million) over 6 years. Open to
+  researchers of any nationality.
+url: https://erc.europa.eu/funding/synergy-grants
+funders:
+- european-research-council
+legacy_funder_name: European Research Council
+host_country: Europe
+applicant_country: Worldwide
+career_levels:
+- postdoc
+- senior-faculty
+years_since_phd: null
+duration: '6'
+award: Up to EUR 10 million (up to EUR 14 million in exceptional cases) over 6 years
+mobility_rule: 'No'
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: Groups of 2 to 4 Principal Investigators; at least one must be hosted at
+  an EU member state or associated country institution.
+benefits: null
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-04-08'
+verified_by: asntech
+created_at: '2026-04-08T00:00:00Z'
+updated_at: '2026-04-08T00:00:00Z'
+subjects:
+- life-sciences
+- physical-sciences-and-mathematics
+- engineering
+- social-and-behavioral-sciences
+- all-subjects
+funding_purposes:
+- research
+search_text: ERC Synergy Grant European Research Council group interdisciplinary Europe
+  Worldwide postdoc senior researcher
+source: manual

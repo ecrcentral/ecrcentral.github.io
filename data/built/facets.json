@@ -22,6 +22,11 @@
         "count": 9
       },
       {
+        "value": "deutscher-akademischer-austauschdienst",
+        "label": "Deutscher Akademischer Austauschdienst",
+        "count": 9
+      },
+      {
         "value": "wellcome-trust",
         "label": "Wellcome Trust",
         "count": 7
@@ -49,6 +54,11 @@
       {
         "value": "the-royal-society",
         "label": "The Royal Society",
+        "count": 5
+      },
+      {
+        "value": "deutsche-forschungsgemeinschaft",
+        "label": "Deutsche Forschungsgemeinschaft",
         "count": 5
       },
       {
@@ -82,13 +92,13 @@
         "count": 4
       },
       {
-        "value": "deutscher-akademischer-austauschdienst",
-        "label": "Deutscher Akademischer Austauschdienst",
-        "count": 4
-      },
-      {
         "value": "european-molecular-biology-organization-embo",
         "label": "European Molecular Biology Organization",
+        "count": 3
+      },
+      {
+        "value": "european-research-council",
+        "label": "European Research Council",
         "count": 3
       },
       {
@@ -189,6 +199,16 @@
       {
         "value": "biotechnology-and-biological-sciences-research-council-bbsrc",
         "label": "Biotechnology and Biological Sciences Research Council - BBSRC",
+        "count": 3
+      },
+      {
+        "value": "alexander-von-humboldt-foundation",
+        "label": "Alexander von Humboldt Foundation",
+        "count": 3
+      },
+      {
+        "value": "max-planck-society",
+        "label": "Max Planck Society",
         "count": 3
       },
       {
@@ -377,11 +397,6 @@
         "count": 2
       },
       {
-        "value": "deutsche-forschungsgemeinschaft",
-        "label": "Deutsche Forschungsgemeinschaft",
-        "count": 2
-      },
-      {
         "value": "science-and-engineering-research-board",
         "label": "Science and Engineering Research Board",
         "count": 2
@@ -425,11 +440,6 @@
         "value": "cancer-research-uk",
         "label": "Cancer Research UK",
         "count": 2
-      },
-      {
-        "value": "european-research-council",
-        "label": "European Research Council",
-        "count": 1
       },
       {
         "value": "alfred-p-sloan-foundation",
@@ -1352,11 +1362,6 @@
         "count": 1
       },
       {
-        "value": "alexander-von-humboldt-foundation",
-        "label": "Alexander von Humboldt Foundation",
-        "count": 1
-      },
-      {
         "value": "international-institute-for-applied-systems-analysis",
         "label": "International Institute for Applied Systems Analysis",
         "count": 1
@@ -1407,11 +1412,6 @@
         "count": 1
       },
       {
-        "value": "max-planck-society",
-        "label": "Max Planck Society",
-        "count": 1
-      },
-      {
         "value": "national-institute-of-water-and-atmospheric-research",
         "label": "National Institute of Water and Atmospheric Research",
         "count": 1
@@ -1444,6 +1444,26 @@
       {
         "value": "national-centre-for-the-replacement-refinement-and-reduction-of-animals-in-research",
         "label": "National Centre for the Replacement Refinement and Reduction of Animals in Research",
+        "count": 1
+      },
+      {
+        "value": "dlr-german-aerospace-center",
+        "label": "German Aerospace Center",
+        "count": 1
+      },
+      {
+        "value": "fraunhofer-gesellschaft",
+        "label": "Fraunhofer-Gesellschaft",
+        "count": 1
+      },
+      {
+        "value": "federal-ministry-education-research",
+        "label": "Federal Ministry of Education and Research",
+        "count": 1
+      },
+      {
+        "value": "leibniz-association",
+        "label": "Leibniz Association",
         "count": 1
       },
       {
@@ -1511,7 +1531,7 @@
       {
         "value": "Worldwide",
         "label": "Worldwide",
-        "count": 287
+        "count": 300
       },
       {
         "value": "United States",
@@ -1601,6 +1621,11 @@
       {
         "value": "Least Developed Countries (LDC)",
         "label": "Least Developed Countries (Ldc)",
+        "count": 2
+      },
+      {
+        "value": "Germany",
+        "label": "Germany",
         "count": 2
       },
       {
@@ -1729,6 +1754,16 @@
         "count": 1
       },
       {
+        "value": "ERA Countries",
+        "label": "Era Countries",
+        "count": 1
+      },
+      {
+        "value": "Non-EU Emerging Economies and Developing Countries",
+        "label": "Non Eu Emerging Economies And Developing Countries",
+        "count": 1
+      },
+      {
         "value": "United States, Israel",
         "label": "United States, Israel",
         "count": 1
@@ -1751,19 +1786,19 @@
         "count": 444
       },
       {
-        "value": "United Kingdom",
-        "label": "United Kingdom",
-        "count": 45
+        "value": "Germany",
+        "label": "Germany",
+        "count": 48
       },
       {
         "value": "Worldwide",
         "label": "Worldwide",
-        "count": 45
+        "count": 47
       },
       {
-        "value": "Germany",
-        "label": "Germany",
-        "count": 35
+        "value": "United Kingdom",
+        "label": "United Kingdom",
+        "count": 45
       },
       {
         "value": "Australia",
@@ -1776,14 +1811,14 @@
         "count": 17
       },
       {
-        "value": "Panama",
-        "label": "Panama",
+        "value": "Europe",
+        "label": "Europe",
         "count": 13
       },
       {
-        "value": "Europe",
-        "label": "Europe",
-        "count": 11
+        "value": "Panama",
+        "label": "Panama",
+        "count": 13
       },
       {
         "value": "India",
@@ -2050,12 +2085,12 @@
       {
         "value": "phd",
         "label": "PhD",
-        "count": 306
+        "count": 312
       },
       {
         "value": "postdoc",
         "label": "Postdoc",
-        "count": 122
+        "count": 137
       },
       {
         "value": "junior-faculty",
@@ -2070,12 +2105,12 @@
       {
         "value": "master-students",
         "label": "Master students",
-        "count": 27
+        "count": 28
       },
       {
         "value": "senior-faculty",
         "label": "Senior Faculty",
-        "count": 16
+        "count": 23
       },
       {
         "value": "bachelor-students",
@@ -2092,22 +2127,22 @@
       {
         "value": "life-sciences",
         "label": "Life Sciences",
-        "count": 147
+        "count": 149
       },
       {
         "value": "all-subjects",
         "label": "All subjects",
-        "count": 102
-      },
-      {
-        "value": "physical-sciences-and-mathematics",
-        "label": "Physical Sciences and Mathematics",
-        "count": 38
+        "count": 118
       },
       {
         "value": "engineering",
         "label": "Engineering",
-        "count": 37
+        "count": 43
+      },
+      {
+        "value": "physical-sciences-and-mathematics",
+        "label": "Physical Sciences and Mathematics",
+        "count": 41
       },
       {
         "value": "arts-and-humanities",
@@ -2117,12 +2152,12 @@
       {
         "value": "ecology-and-evolutionary-biology",
         "label": "Ecology and Evolutionary Biology",
-        "count": 23
+        "count": 25
       },
       {
         "value": "social-and-behavioral-sciences",
         "label": "Social and Behavioral Sciences",
-        "count": 20
+        "count": 22
       },
       {
         "value": "natural-sciences",
@@ -2140,6 +2175,11 @@
         "count": 12
       },
       {
+        "value": "environmental-sciences",
+        "label": "Environmental Sciences",
+        "count": 11
+      },
+      {
         "value": "physics",
         "label": "Physics",
         "count": 9
@@ -2147,11 +2187,6 @@
       {
         "value": "neuroscience",
         "label": "Neuroscience",
-        "count": 8
-      },
-      {
-        "value": "environmental-sciences",
-        "label": "Environmental Sciences",
         "count": 8
       },
       {
@@ -2574,22 +2609,22 @@
       {
         "value": "fellowship-scholarship-or-training",
         "label": "Fellowship, scholarship or training",
-        "count": 224
+        "count": 238
       },
       {
         "value": "research",
         "label": "Research",
-        "count": 223
+        "count": 235
+      },
+      {
+        "value": "collaboration",
+        "label": "Collaboration",
+        "count": 21
       },
       {
         "value": "award",
         "label": "Award",
         "count": 20
-      },
-      {
-        "value": "collaboration",
-        "label": "Collaboration",
-        "count": 19
       },
       {
         "value": "equipment",
@@ -2913,12 +2948,12 @@
       {
         "value": "Annual",
         "label": "Annual",
-        "count": 264
+        "count": 270
       },
       {
         "value": "Rolling",
         "label": "Rolling",
-        "count": 34
+        "count": 40
       },
       {
         "value": "Biannual",
@@ -2944,13 +2979,18 @@
         "value": "Three times per year",
         "label": "Three Times Per Year",
         "count": 1
+      },
+      {
+        "value": "Twice per year",
+        "label": "Twice Per Year",
+        "count": 1
       }
     ],
     "status": [
       {
         "value": "active",
         "label": "Active",
-        "count": 689
+        "count": 706
       },
       {
         "value": "draft",
@@ -2972,19 +3012,19 @@
       {
         "value": "false",
         "label": "Not Featured",
-        "count": 765
+        "count": 782
       }
     ],
     "diversity": [
       {
         "value": "yes",
         "label": "Has Diversity Info",
-        "count": 31
+        "count": 32
       },
       {
         "value": "no",
         "label": "No Diversity Info",
-        "count": 745
+        "count": 761
       }
     ]
   },
@@ -3121,6 +3161,16 @@
         "count": 1
       },
       {
+        "value": "fens-federation-of-european-neuroscience-societies",
+        "label": "Federation of European Neuroscience Societies",
+        "count": 1
+      },
+      {
+        "value": "wingate-foundation",
+        "label": "Wingate Foundation",
+        "count": 1
+      },
+      {
         "value": "elife",
         "label": "eLife",
         "count": 1
@@ -3130,7 +3180,7 @@
       {
         "value": "Worldwide",
         "label": "Worldwide",
-        "count": 31
+        "count": 33
       },
       {
         "value": "United Kingdom",
@@ -3372,12 +3422,12 @@
       {
         "value": "phd",
         "label": "PhD",
-        "count": 45
+        "count": 47
       },
       {
         "value": "postdoc",
         "label": "Postdoc",
-        "count": 41
+        "count": 43
       },
       {
         "value": "junior-faculty",
@@ -3404,12 +3454,12 @@
       {
         "value": "life-sciences",
         "label": "Life Sciences",
-        "count": 12
+        "count": 13
       },
       {
         "value": "medical-sciences",
         "label": "Medical Sciences",
-        "count": 7
+        "count": 8
       },
       {
         "value": "all-subjects",
@@ -3450,13 +3500,18 @@
         "value": "physics",
         "label": "Physics",
         "count": 1
+      },
+      {
+        "value": "neuroscience",
+        "label": "Neuroscience",
+        "count": 1
       }
     ],
     "travel_purposes": [
       {
         "value": "conference",
         "label": "Conference",
-        "count": 86
+        "count": 87
       },
       {
         "value": "collaboration",
@@ -3466,12 +3521,12 @@
       {
         "value": "learn-new-technique",
         "label": "Learn new technique",
-        "count": 26
+        "count": 27
       },
       {
         "value": "research-visit",
         "label": "Research visit",
-        "count": 21
+        "count": 22
       },
       {
         "value": "workshop-training-or-course",
@@ -3488,12 +3543,12 @@
       {
         "value": "yes",
         "label": "Membership Required",
-        "count": 109
+        "count": 110
       },
       {
         "value": "no",
         "label": "No Membership",
-        "count": 13
+        "count": 14
       }
     ],
     "deadline_month": [
@@ -3617,7 +3672,7 @@
       {
         "value": "active",
         "label": "Active",
-        "count": 120
+        "count": 122
       },
       {
         "value": "draft",
@@ -3765,12 +3820,12 @@
       {
         "value": "United Kingdom",
         "label": "United Kingdom",
-        "count": 30
+        "count": 31
       },
       {
         "value": "Germany",
         "label": "Germany",
-        "count": 14
+        "count": 18
       },
       {
         "value": "Australia",
@@ -3800,7 +3855,7 @@
       {
         "value": "Belgium",
         "label": "Belgium",
-        "count": 4
+        "count": 5
       },
       {
         "value": "India",
@@ -3927,14 +3982,14 @@
       {
         "value": "false",
         "label": "Not Featured",
-        "count": 297
+        "count": 303
       }
     ],
     "status": [
       {
         "value": "active",
         "label": "Active",
-        "count": 308
+        "count": 314
       }
     ],
     "dora": [

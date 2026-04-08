@@ -1,0 +1,44 @@
+id: funding-max-planck-advanced-postdoctoral-training
+slug: max-planck-advanced-postdoctoral-training
+name: Max Planck Grants for Advanced Postdoctoral Training
+description: Max Planck Grants for Advanced Postdoctoral Training enable early-career
+  researchers to develop expertise at a Max Planck Institute. Positions are open to
+  researchers who completed an outstanding doctorate within the last 10 years and
+  have at least 2 years of research experience. Funding is provided as an employment
+  contract based on collective agreement, up to 4 years.
+url: https://www.mpg.de/en/postdoctoral-researchers
+funders:
+- max-planck-society
+legacy_funder_name: Max Planck Society
+host_country: Germany
+applicant_country: Worldwide
+career_levels:
+- postdoc
+years_since_phd: '10'
+duration: '4'
+award: Salary per public sector collective agreement (TV-L); up to 4 years
+mobility_rule: 'No'
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: PhD must have been completed within the last 10 years with at least 2 years
+  research experience. Positions advertised continuously at individual institutes.
+benefits: null
+frequency: Rolling
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-04-08'
+verified_by: asntech
+created_at: '2026-04-08T00:00:00Z'
+updated_at: '2026-04-08T00:00:00Z'
+subjects:
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: Max Planck Advanced Postdoctoral Training grants Germany postdoc
+  early career researcher institute
+source: manual

@@ -1,0 +1,45 @@
+id: funding-daad-research-grants-one-year
+slug: daad-research-grants-one-year
+name: DAAD Research Grants — One-Year Grants
+description: DAAD one-year research grants enable doctoral candidates who have begun
+  their PhD within the last 3 years, or hold an equivalent master's qualification,
+  to conduct research stays of 7 to 12 months at German universities or recognised
+  research institutions. Covers monthly stipend of EUR 861 to EUR 1,200 plus supplementary
+  allowances.
+url: https://www.daad.de/en/study-and-research-in-germany/scholarships/daad-funding-programmes-at-a-glance/research-grants-one-year-grants/
+funders:
+- deutscher-akademischer-austauschdienst
+legacy_funder_name: German Academic Exchange Service (DAAD)
+host_country: Germany
+applicant_country: Worldwide
+career_levels:
+- phd
+years_since_phd: null
+duration: null
+award: EUR 861-1,200/month plus insurance, travel allowance, research allowance,
+  and language course support
+mobility_rule: 'No'
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: PhD must have been started within the last 3 years. Duration 7 to 12 months.
+  Deadline varies by country.
+benefits: Travel allowance, language course support, health insurance subsidy
+frequency: Annual
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-04-08'
+verified_by: asntech
+created_at: '2026-04-08T00:00:00Z'
+updated_at: '2026-04-08T00:00:00Z'
+subjects:
+- all-subjects
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: DAAD Research Grants One-Year Grants doctoral PhD Germany research
+  fellowship
+source: manual

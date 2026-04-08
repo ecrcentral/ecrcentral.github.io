@@ -1,0 +1,48 @@
+id: funding-daad-era-fellowships-green-hydrogen
+slug: daad-era-fellowships-green-hydrogen
+name: DAAD ERA Fellowships — Green Hydrogen
+description: DAAD ERA Fellowships for Green Hydrogen support researchers and interns
+  from Extended European Research Area (ERA) countries to conduct research projects
+  in Germany on green hydrogen topics. Research fellowships last 1 to 24 months;
+  internships last 2 to 3 months. Funding includes monthly stipends, health insurance,
+  travel subsidy, research allowance, and language course support.
+url: https://www.daad.de/en/study-and-research-in-germany/scholarships/daad-funding-programmes-at-a-glance/era-fellowships/
+funders:
+- deutscher-akademischer-austauschdienst
+legacy_funder_name: German Academic Exchange Service (DAAD)
+host_country: Germany
+applicant_country: ERA Countries
+career_levels:
+- phd
+- postdoc
+years_since_phd: null
+duration: null
+award: EUR 1,200-2,000/month plus health insurance, travel subsidy, research allowance,
+  and language course support
+mobility_rule: 'No'
+research_costs: null
+deadline: null
+deadline_month: null
+diversity: null
+comments: Open to applicants from Extended European Research Area (ERA) nations.
+  Research fellowships 1-24 months; internships 2-3 months. Must engage with green
+  hydrogen production, infrastructure, or market working groups.
+benefits: Health insurance, travel subsidy, language course support
+frequency: Rolling
+fileds: null
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-04-08'
+verified_by: asntech
+created_at: '2026-04-08T00:00:00Z'
+updated_at: '2026-04-08T00:00:00Z'
+subjects:
+- environmental-sciences
+- engineering
+funding_purposes:
+- fellowship-scholarship-or-training
+- research
+search_text: DAAD ERA Fellowships Green Hydrogen ERA countries research Germany phd
+  postdoc renewable energy
+source: manual

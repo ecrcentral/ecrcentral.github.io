@@ -1,0 +1,19 @@
+id: funder-wingate-foundation
+slug: wingate-foundation
+name: Wingate Foundation
+short_name: Wingate Foundation
+funder_registry_id: wingate-foundation
+country: United Kingdom
+website: https://wingate.org.uk
+logo: null
+dora: false
+aliases: []
+description: null
+status: active
+featured: false
+review_status: approved
+last_verified: '2026-04-08'
+verified_by: asntech
+created_at: '2026-04-08T00:00:00Z'
+updated_at: '2026-04-08T00:00:00Z'
+source: manual

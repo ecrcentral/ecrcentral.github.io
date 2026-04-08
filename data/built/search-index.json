@@ -24952,6 +24952,768 @@
     "updated_at": "2026-03-26T00:00:00Z"
   },
   {
+    "id": "funding-daad-era-fellowships-green-hydrogen",
+    "type": "funding",
+    "slug": "daad-era-fellowships-green-hydrogen",
+    "name": "DAAD ERA Fellowships — Green Hydrogen",
+    "description": "DAAD ERA Fellowships for Green Hydrogen support researchers and interns from Extended European Research Area (ERA) countries to conduct research projects in Germany on green hydrogen topics. Research fellowships last 1 to 24 months; internships last 2 to 3 months. Funding includes monthly stipends,…",
+    "funder_names": [
+      "Deutscher Akademischer Austauschdienst"
+    ],
+    "funders": [
+      "deutscher-akademischer-austauschdienst"
+    ],
+    "country": "ERA Countries",
+    "applicant_country": "ERA Countries",
+    "host_country": "Germany",
+    "career_levels": [
+      "phd",
+      "postdoc"
+    ],
+    "career_level_names": [
+      "PhD",
+      "Postdoc"
+    ],
+    "subjects": [
+      "environmental-sciences",
+      "engineering"
+    ],
+    "subject_names": [
+      "Environmental Sciences",
+      "Engineering"
+    ],
+    "funding_purposes": [
+      "fellowship-scholarship-or-training",
+      "research"
+    ],
+    "funding_purpose_names": [
+      "Fellowship, scholarship or training",
+      "Research"
+    ],
+    "status": "active",
+    "featured": false,
+    "deadline_month": "",
+    "search_text": "DAAD ERA Fellowships Green Hydrogen ERA countries research Germany phd postdoc renewable energy",
+    "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/daad-funding-programmes-at-a-glance/era-fellowships/",
+    "updated_at": "2026-04-08T00:00:00Z"
+  },
+  {
+    "id": "funding-daad-prime",
+    "type": "funding",
+    "slug": "daad-prime",
+    "name": "DAAD PRIME — Postdoctoral Researchers International Mobility Experience",
+    "description": "PRIME (Postdoctoral Researchers International Mobility Experience) is a DAAD programme that combines employment at a German university with a research stay abroad. Postdocs of all nationalities are employed on a full work contract at a German university (TV-L E 13 scale) and spend 12 months conducti…",
+    "funder_names": [
+      "Deutscher Akademischer Austauschdienst"
+    ],
+    "funders": [
+      "deutscher-akademischer-austauschdienst"
+    ],
+    "country": "Worldwide",
+    "applicant_country": "Worldwide",
+    "host_country": "Worldwide",
+    "career_levels": [
+      "postdoc"
+    ],
+    "career_level_names": [
+      "Postdoc"
+    ],
+    "subjects": [
+      "all-subjects"
+    ],
+    "subject_names": [
+      "All subjects"
+    ],
+    "funding_purposes": [
+      "fellowship-scholarship-or-training"
+    ],
+    "funding_purpose_names": [
+      "Fellowship, scholarship or training"
+    ],
+    "status": "active",
+    "featured": false,
+    "deadline_month": "",
+    "search_text": "DAAD PRIME Postdoctoral Researchers International Mobility Experience postdoc Germany abroad mobility fellowship",
+    "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/daad-funding-programmes-at-a-glance/prime/",
+    "updated_at": "2026-04-08T00:00:00Z"
+  },
+  {
+    "id": "funding-daad-research-grants-one-year",
+    "type": "funding",
+    "slug": "daad-research-grants-one-year",
+    "name": "DAAD Research Grants — One-Year Grants",
+    "description": "DAAD one-year research grants enable doctoral candidates who have begun their PhD within the last 3 years, or hold an equivalent master's qualification, to conduct research stays of 7 to 12 months at German universities or recognised research institutions. Covers monthly stipend of EUR 861 to EUR 1,…",
+    "funder_names": [
+      "Deutscher Akademischer Austauschdienst"
+    ],
+    "funders": [
+      "deutscher-akademischer-austauschdienst"
+    ],
+    "country": "Worldwide",
+    "applicant_country": "Worldwide",
+    "host_country": "Germany",
+    "career_levels": [
+      "phd"
+    ],
+    "career_level_names": [
+      "PhD"
+    ],
+    "subjects": [
+      "all-subjects"
+    ],
+    "subject_names": [
+      "All subjects"
+    ],
+    "funding_purposes": [
+      "fellowship-scholarship-or-training",
+      "research"
+    ],
+    "funding_purpose_names": [
+      "Fellowship, scholarship or training",
+      "Research"
+    ],
+    "status": "active",
+    "featured": false,
+    "deadline_month": "",
+    "search_text": "DAAD Research Grants One-Year Grants doctoral PhD Germany research fellowship",
+    "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/daad-funding-programmes-at-a-glance/research-grants-one-year-grants/",
+    "updated_at": "2026-04-08T00:00:00Z"
+  },
+  {
+    "id": "funding-daad-research-stays-university-academics",
+    "type": "funding",
+    "slug": "daad-research-stays-university-academics",
+    "name": "DAAD Research Stays for University Academics and Scientists",
+    "description": "DAAD Research Stays enable international academics and scientists to conduct short-term research visits of 1 to 3 months at German state-run or state-recognised universities and non-university research institutes. Open to junior and senior researchers who generally hold a doctorate. Covers a monthly…",
+    "funder_names": [
+      "Deutscher Akademischer Austauschdienst"
+    ],
+    "funders": [
+      "deutscher-akademischer-austauschdienst"
+    ],
+    "country": "Worldwide",
+    "applicant_country": "Worldwide",
+    "host_country": "Germany",
+    "career_levels": [
+      "postdoc",
+      "senior-faculty"
+    ],
+    "career_level_names": [
+      "Postdoc",
+      "Senior Faculty"
+    ],
+    "subjects": [
+      "all-subjects"
+    ],
+    "subject_names": [
+      "All subjects"
+    ],
+    "funding_purposes": [
+      "fellowship-scholarship-or-training"
+    ],
+    "funding_purpose_names": [
+      "Fellowship, scholarship or training"
+    ],
+    "status": "active",
+    "featured": false,
+    "deadline_month": "",
+    "search_text": "DAAD Research Stays University Academics Scientists short-term Germany postdoc senior researcher",
+    "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/daad-funding-programmes-at-a-glance/research-stays-for-university-academics-and-scientists/",
+    "updated_at": "2026-04-08T00:00:00Z"
+  },
+  {
+    "id": "funding-dfg-initiation-of-international-collaboration",
+    "type": "funding",
+    "slug": "dfg-initiation-of-international-collaboration",
+    "name": "DFG Initiation of International Collaboration",
+    "description": "The DFG Initiation of International Collaboration programme facilitates the establishment of new international research partnerships. It supports bilateral workshops, international travel, and visiting scholar exchanges. The lead applicant must work at a German research institution. Covers travel ex…",
+    "funder_names": [
+      "Deutsche Forschungsgemeinschaft"
+    ],
+    "funders": [
+      "deutsche-forschungsgemeinschaft"
+    ],
+    "country": "Germany",
+    "applicant_country": "Germany",
+    "host_country": "Germany",
+    "career_levels": [
+      "postdoc",
+      "senior-faculty"
+    ],
+    "career_level_names": [
+      "Postdoc",
+      "Senior Faculty"
+    ],
+    "subjects": [
+      "all-subjects"
+    ],
+    "subject_names": [
+      "All subjects"
+    ],
+    "funding_purposes": [
+      "collaboration"
+    ],
+    "funding_purpose_names": [
+      "Collaboration"
+    ],
+    "status": "active",
+    "featured": false,
+    "deadline_month": "",
+    "search_text": "DFG Initiation of International Collaboration German Research Foundation bilateral workshops visiting scholars Germany postdoc senior researcher",
+    "url": "https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/initiation-of-international-collaboration",
+    "updated_at": "2026-04-08T00:00:00Z"
+  },
+  {
+    "id": "funding-dfg-scientific-networks",
+    "type": "funding",
+    "slug": "dfg-scientific-networks",
+    "name": "DFG Scientific Networks",
+    "description": "DFG Scientific Networks enables researchers who have completed their doctorate (or are doctoral candidates) to establish thematic scientific networks of 10 to 20 members for multi-year collaborative exchange. Supports workshops, international travel, coordination, and publication costs. Internationa…",
+    "funder_names": [
+      "Deutsche Forschungsgemeinschaft"
+    ],
+    "funders": [
+      "deutsche-forschungsgemeinschaft"
+    ],
+    "country": "Germany",
+    "applicant_country": "Germany",
+    "host_country": "Germany",
+    "career_levels": [
+      "postdoc",
+      "phd"
+    ],
+    "career_level_names": [
+      "Postdoc",
+      "PhD"
+    ],
+    "subjects": [
+      "all-subjects"
+    ],
+    "subject_names": [
+      "All subjects"
+    ],
+    "funding_purposes": [
+      "collaboration",
+      "research"
+    ],
+    "funding_purpose_names": [
+      "Collaboration",
+      "Research"
+    ],
+    "status": "active",
+    "featured": false,
+    "deadline_month": "",
+    "search_text": "DFG Scientific Networks German Research Foundation postdoc PhD research network Germany collaboration",
+    "url": "https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/scientific-networks",
+    "updated_at": "2026-04-08T00:00:00Z"
+  },
+  {
+    "id": "funding-dlr-daad-research-fellowships",
+    "type": "funding",
+    "slug": "dlr-daad-research-fellowships",
+    "name": "DLR-DAAD Research Fellowships",
+    "description": "DLR-DAAD Research Fellowships are jointly offered by the German Aerospace Center (DLR) and the German Academic Exchange Service (DAAD). They enable researchers to work at DLR institutes in areas of space, aeronautics, energy, transport, digitalisation, and security. PhD student fellowships last up t…",
+    "funder_names": [
+      "German Aerospace Center",
+      "Deutscher Akademischer Austauschdienst"
+    ],
+    "funders": [
+      "dlr-german-aerospace-center",
+      "deutscher-akademischer-austauschdienst"
+    ],
+    "country": "Worldwide",
+    "applicant_country": "Worldwide",
+    "host_country": "Germany",
+    "career_levels": [
+      "phd",
+      "postdoc",
+      "senior-faculty"
+    ],
+    "career_level_names": [
+      "PhD",
+      "Postdoc",
+      "Senior Faculty"
+    ],
+    "subjects": [
+      "engineering",
+      "physical-sciences-and-mathematics",
+      "all-subjects"
+    ],
+    "subject_names": [
+      "Engineering",
+      "Physical Sciences and Mathematics",
+      "All subjects"
+    ],
+    "funding_purposes": [
+      "fellowship-scholarship-or-training",
+      "research"
+    ],
+    "funding_purpose_names": [
+      "Fellowship, scholarship or training",
+      "Research"
+    ],
+    "status": "active",
+    "featured": false,
+    "deadline_month": "",
+    "search_text": "DLR DAAD Research Fellowships German Aerospace Center space aeronautics energy transport digitalisation phd postdoc Germany",
+    "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/daad-funding-programmes-at-a-glance/dlr-daad-research-fellowships/",
+    "updated_at": "2026-04-08T00:00:00Z"
+  },
+  {
+    "id": "funding-erc-consolidator-grant",
+    "type": "funding",
+    "slug": "erc-consolidator-grant",
+    "name": "ERC Consolidator Grant",
+    "description": "The ERC Consolidator Grant supports outstanding researchers who are consolidating their independence by establishing or strengthening their research teams. Open to researchers of any nationality who completed their PhD 7 to 12 years ago and are building a promising independent research career. Award…",
+    "funder_names": [
+      "European Research Council"
+    ],
+    "funders": [
+      "european-research-council"
+    ],
+    "country": "Worldwide",
+    "applicant_country": "Worldwide",
+    "host_country": "Europe",
+    "career_levels": [
+      "postdoc"
+    ],
+    "career_level_names": [
+      "Postdoc"
+    ],
+    "subjects": [
+      "life-sciences",
+      "physical-sciences-and-mathematics",
+      "engineering",
+      "social-and-behavioral-sciences",
+      "all-subjects"
+    ],
+    "subject_names": [
+      "Life Sciences",
+      "Physical Sciences and Mathematics",
+      "Engineering",
+      "Social and Behavioral Sciences",
+      "All subjects"
+    ],
+    "funding_purposes": [
+      "research",
+      "fellowship-scholarship-or-training"
+    ],
+    "funding_purpose_names": [
+      "Research",
+      "Fellowship, scholarship or training"
+    ],
+    "status": "active",
+    "featured": false,
+    "deadline_month": "",
+    "search_text": "ERC Consolidator Grant European Research Council postdoc Germany Europe Worldwide",
+    "url": "https://erc.europa.eu/funding/consolidator-grants",
+    "updated_at": "2026-04-08T00:00:00Z"
+  },
+  {
+    "id": "funding-erc-synergy-grant",
+    "type": "funding",
+    "slug": "erc-synergy-grant",
+    "name": "ERC Synergy Grant",
+    "description": "ERC Synergy Grants support groups of 2 to 4 researchers working together on ambitious research problems that can only be addressed through the combined skills of the team. Each Principal Investigator must bring complementary expertise. Awards up to EUR 10 million (exceptionally up to EUR 14 million)…",
+    "funder_names": [
+      "European Research Council"
+    ],
+    "funders": [
+      "european-research-council"
+    ],
+    "country": "Worldwide",
+    "applicant_country": "Worldwide",
+    "host_country": "Europe",
+    "career_levels": [
+      "postdoc",
+      "senior-faculty"
+    ],
+    "career_level_names": [
+      "Postdoc",
+      "Senior Faculty"
+    ],
+    "subjects": [
+      "life-sciences",
+      "physical-sciences-and-mathematics",
+      "engineering",
+      "social-and-behavioral-sciences",
+      "all-subjects"
+    ],
+    "subject_names": [
+      "Life Sciences",
+      "Physical Sciences and Mathematics",
+      "Engineering",
+      "Social and Behavioral Sciences",
+      "All subjects"
+    ],
+    "funding_purposes": [
+      "research"
+    ],
+    "funding_purpose_names": [
+      "Research"
+    ],
+    "status": "active",
+    "featured": false,
+    "deadline_month": "",
+    "search_text": "ERC Synergy Grant European Research Council group interdisciplinary Europe Worldwide postdoc senior researcher",
+    "url": "https://erc.europa.eu/funding/synergy-grants",
+    "updated_at": "2026-04-08T00:00:00Z"
+  },
+  {
+    "id": "funding-fraunhofer-attract",
+    "type": "funding",
+    "slug": "fraunhofer-attract",
+    "name": "Fraunhofer Attract",
+    "description": "Fraunhofer Attract enables accomplished scientists to create innovative research groups within Fraunhofer Institutes through industrial collaboration. Applicants should hold a PhD and preferably have postdoctoral experience. Awards of up to EUR 2.5 million over 5 years cover research staff, equipmen…",
+    "funder_names": [
+      "Fraunhofer-Gesellschaft"
+    ],
+    "funders": [
+      "fraunhofer-gesellschaft"
+    ],
+    "country": "Worldwide",
+    "applicant_country": "Worldwide",
+    "host_country": "Germany",
+    "career_levels": [
+      "postdoc",
+      "senior-faculty"
+    ],
+    "career_level_names": [
+      "Postdoc",
+      "Senior Faculty"
+    ],
+    "subjects": [
+      "engineering",
+      "all-subjects"
+    ],
+    "subject_names": [
+      "Engineering",
+      "All subjects"
+    ],
+    "funding_purposes": [
+      "research",
+      "fellowship-scholarship-or-training"
+    ],
+    "funding_purpose_names": [
+      "Research",
+      "Fellowship, scholarship or training"
+    ],
+    "status": "active",
+    "featured": false,
+    "deadline_month": "",
+    "search_text": "Fraunhofer Attract Fraunhofer Gesellschaft research group Germany postdoc early career applied research industry",
+    "url": "https://www.fraunhofer.de/en/research/fraunhofer-attract.html",
+    "updated_at": "2026-04-08T00:00:00Z"
+  },
+  {
+    "id": "funding-green-talents",
+    "type": "funding",
+    "slug": "green-talents",
+    "name": "Green Talents — International Forum for High Potentials in Sustainable Development",
+    "description": "The Green Talents programme by the German Federal Ministry of Education and Research (BMBF) promotes international exchange of ideas in sustainable development. Outstanding master's and PhD students and recent graduates in sustainability research are invited to a Science Forum in Germany and receive…",
+    "funder_names": [
+      "Federal Ministry of Education and Research"
+    ],
+    "funders": [
+      "federal-ministry-education-research"
+    ],
+    "country": "Worldwide",
+    "applicant_country": "Worldwide",
+    "host_country": "Germany",
+    "career_levels": [
+      "master-students",
+      "phd"
+    ],
+    "career_level_names": [
+      "Master students",
+      "PhD"
+    ],
+    "subjects": [
+      "environmental-sciences",
+      "ecology-and-evolutionary-biology",
+      "engineering",
+      "all-subjects"
+    ],
+    "subject_names": [
+      "Environmental Sciences",
+      "Ecology and Evolutionary Biology",
+      "Engineering",
+      "All subjects"
+    ],
+    "funding_purposes": [
+      "fellowship-scholarship-or-training"
+    ],
+    "funding_purpose_names": [
+      "Fellowship, scholarship or training"
+    ],
+    "status": "active",
+    "featured": false,
+    "deadline_month": "",
+    "search_text": "Green Talents BMBF Federal Ministry sustainable development Germany master PhD student early career forum research stay",
+    "url": "https://www.greentalents.de/",
+    "updated_at": "2026-04-08T00:00:00Z"
+  },
+  {
+    "id": "funding-avh-international-climate-protection-fellowship",
+    "type": "funding",
+    "slug": "avh-international-climate-protection-fellowship",
+    "name": "International Climate Protection Fellowship",
+    "description": "The Alexander von Humboldt Foundation International Climate Protection Fellowship supports postdoctoral researchers and young professionals from non-European emerging economies and developing countries to conduct long-term research projects in Germany addressing climate protection, biodiversity, and…",
+    "funder_names": [
+      "Alexander von Humboldt Foundation"
+    ],
+    "funders": [
+      "alexander-von-humboldt-foundation"
+    ],
+    "country": "Non-EU Emerging Economies and Developing Countries",
+    "applicant_country": "Non-EU Emerging Economies and Developing Countries",
+    "host_country": "Germany",
+    "career_levels": [
+      "postdoc"
+    ],
+    "career_level_names": [
+      "Postdoc"
+    ],
+    "subjects": [
+      "ecology-and-evolutionary-biology",
+      "environmental-sciences",
+      "all-subjects"
+    ],
+    "subject_names": [
+      "Ecology and Evolutionary Biology",
+      "Environmental Sciences",
+      "All subjects"
+    ],
+    "funding_purposes": [
+      "fellowship-scholarship-or-training",
+      "research"
+    ],
+    "funding_purpose_names": [
+      "Fellowship, scholarship or training",
+      "Research"
+    ],
+    "status": "active",
+    "featured": false,
+    "deadline_month": "",
+    "search_text": "International Climate Protection Fellowship Alexander von Humboldt Foundation AvH postdoc climate protection biodiversity sustainability Germany non-European developing countries",
+    "url": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/international-climate-protection-fellowship",
+    "updated_at": "2026-04-08T00:00:00Z"
+  },
+  {
+    "id": "funding-leibniz-junior-research-groups",
+    "type": "funding",
+    "slug": "leibniz-junior-research-groups",
+    "name": "Leibniz Junior Research Groups",
+    "description": "The Leibniz Association Junior Research Groups programme enables talented early-career researchers to establish independent research groups within Leibniz Institutes. Applicants must have completed their doctorate no more than 5 years ago. Funding of up to EUR 1.7 million covers the group leader sal…",
+    "funder_names": [
+      "Leibniz Association"
+    ],
+    "funders": [
+      "leibniz-association"
+    ],
+    "country": "Worldwide",
+    "applicant_country": "Worldwide",
+    "host_country": "Germany",
+    "career_levels": [
+      "postdoc"
+    ],
+    "career_level_names": [
+      "Postdoc"
+    ],
+    "subjects": [
+      "all-subjects"
+    ],
+    "subject_names": [
+      "All subjects"
+    ],
+    "funding_purposes": [
+      "fellowship-scholarship-or-training",
+      "research"
+    ],
+    "funding_purpose_names": [
+      "Fellowship, scholarship or training",
+      "Research"
+    ],
+    "status": "active",
+    "featured": false,
+    "deadline_month": "",
+    "search_text": "Leibniz Junior Research Groups Leibniz Association postdoc independent research group Germany early career",
+    "url": "https://www.leibniz-gemeinschaft.de/en/research/funding-and-competitions/leibniz-junior-research-groups",
+    "updated_at": "2026-04-08T00:00:00Z"
+  },
+  {
+    "id": "funding-max-planck-advanced-postdoctoral-training",
+    "type": "funding",
+    "slug": "max-planck-advanced-postdoctoral-training",
+    "name": "Max Planck Grants for Advanced Postdoctoral Training",
+    "description": "Max Planck Grants for Advanced Postdoctoral Training enable early-career researchers to develop expertise at a Max Planck Institute. Positions are open to researchers who completed an outstanding doctorate within the last 10 years and have at least 2 years of research experience. Funding is provided…",
+    "funder_names": [
+      "Max Planck Society"
+    ],
+    "funders": [
+      "max-planck-society"
+    ],
+    "country": "Worldwide",
+    "applicant_country": "Worldwide",
+    "host_country": "Germany",
+    "career_levels": [
+      "postdoc"
+    ],
+    "career_level_names": [
+      "Postdoc"
+    ],
+    "subjects": [
+      "all-subjects"
+    ],
+    "subject_names": [
+      "All subjects"
+    ],
+    "funding_purposes": [
+      "fellowship-scholarship-or-training",
+      "research"
+    ],
+    "funding_purpose_names": [
+      "Fellowship, scholarship or training",
+      "Research"
+    ],
+    "status": "active",
+    "featured": false,
+    "deadline_month": "",
+    "search_text": "Max Planck Advanced Postdoctoral Training grants Germany postdoc early career researcher institute",
+    "url": "https://www.mpg.de/en/postdoctoral-researchers",
+    "updated_at": "2026-04-08T00:00:00Z"
+  },
+  {
+    "id": "funding-max-planck-international-visiting-researchers",
+    "type": "funding",
+    "slug": "max-planck-international-visiting-researchers",
+    "name": "Max Planck International Visiting Researchers",
+    "description": "The Max Planck Society enables international scientists with outstanding qualifications to conduct independent research at Max Planck Institutes. PhD students may visit for up to 6 months; postdoctoral researchers for up to 2 years. Funding includes a grant and travel allowances. Applications are ma…",
+    "funder_names": [
+      "Max Planck Society"
+    ],
+    "funders": [
+      "max-planck-society"
+    ],
+    "country": "Worldwide",
+    "applicant_country": "Worldwide",
+    "host_country": "Germany",
+    "career_levels": [
+      "phd",
+      "postdoc",
+      "senior-faculty"
+    ],
+    "career_level_names": [
+      "PhD",
+      "Postdoc",
+      "Senior Faculty"
+    ],
+    "subjects": [
+      "all-subjects"
+    ],
+    "subject_names": [
+      "All subjects"
+    ],
+    "funding_purposes": [
+      "fellowship-scholarship-or-training",
+      "research"
+    ],
+    "funding_purpose_names": [
+      "Fellowship, scholarship or training",
+      "Research"
+    ],
+    "status": "active",
+    "featured": false,
+    "deadline_month": "",
+    "search_text": "Max Planck International Visiting Researchers PhD postdoc Germany independent research institute",
+    "url": "https://www.mpg.de/en/research/visiting-researchers",
+    "updated_at": "2026-04-08T00:00:00Z"
+  },
+  {
+    "id": "funding-avh-philipp-schwartz-initiative",
+    "type": "funding",
+    "slug": "avh-philipp-schwartz-initiative",
+    "name": "Philipp Schwartz Initiative",
+    "description": "The Philipp Schwartz Initiative by the Alexander von Humboldt Foundation enables German universities and research institutions to host researchers at risk. It supports postdoctoral researchers and advanced scholars who face concrete threats in their home countries. Fellows are offered fixed-amount f…",
+    "funder_names": [
+      "Alexander von Humboldt Foundation"
+    ],
+    "funders": [
+      "alexander-von-humboldt-foundation"
+    ],
+    "country": "Worldwide",
+    "applicant_country": "Worldwide",
+    "host_country": "Germany",
+    "career_levels": [
+      "postdoc",
+      "senior-faculty"
+    ],
+    "career_level_names": [
+      "Postdoc",
+      "Senior Faculty"
+    ],
+    "subjects": [
+      "all-subjects"
+    ],
+    "subject_names": [
+      "All subjects"
+    ],
+    "funding_purposes": [
+      "fellowship-scholarship-or-training"
+    ],
+    "funding_purpose_names": [
+      "Fellowship, scholarship or training"
+    ],
+    "status": "active",
+    "featured": false,
+    "deadline_month": "",
+    "search_text": "Philipp Schwartz Initiative Alexander von Humboldt Foundation at-risk researchers Germany postdoc fellowship",
+    "url": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/philipp-schwartz-initiative",
+    "updated_at": "2026-04-08T00:00:00Z"
+  },
+  {
+    "id": "funding-dfg-walter-benjamin-programme",
+    "type": "funding",
+    "slug": "dfg-walter-benjamin-programme",
+    "name": "Walter Benjamin Programme",
+    "description": "The DFG Walter Benjamin Programme supports early-career researchers at a very early stage of their postdoctoral phase, enabling them to conduct an independent research project at a research institution of their choice worldwide. Researchers may work at a German institution (funded as a research posi…",
+    "funder_names": [
+      "Deutsche Forschungsgemeinschaft"
+    ],
+    "funders": [
+      "deutsche-forschungsgemeinschaft"
+    ],
+    "country": "Worldwide",
+    "applicant_country": "Worldwide",
+    "host_country": "Worldwide",
+    "career_levels": [
+      "postdoc"
+    ],
+    "career_level_names": [
+      "Postdoc"
+    ],
+    "subjects": [
+      "all-subjects"
+    ],
+    "subject_names": [
+      "All subjects"
+    ],
+    "funding_purposes": [
+      "fellowship-scholarship-or-training",
+      "research"
+    ],
+    "funding_purpose_names": [
+      "Fellowship, scholarship or training",
+      "Research"
+    ],
+    "status": "active",
+    "featured": false,
+    "deadline_month": "",
+    "search_text": "Walter Benjamin Programme DFG German Research Foundation postdoc early career independent research Germany Worldwide",
+    "url": "https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/walter-benjamin",
+    "updated_at": "2026-04-08T00:00:00Z"
+  },
+  {
     "id": "funding-aaas-lemelson-invention-ambassadors-program",
     "type": "funding",
     "slug": "aaas-lemelson-invention-ambassadors-program",
@@ -31420,6 +32182,94 @@
     "updated_at": "2026-03-26T00:00:00Z"
   },
   {
+    "id": "travel-grant-fens-travel-grants-sfn-annual-meeting",
+    "type": "travel_grant",
+    "slug": "fens-travel-grants-sfn-annual-meeting",
+    "name": "FENS Travel Grants to the SfN Annual Meeting",
+    "description": "FENS offers travel grants to support its members attending the Society for Neuroscience (SfN) Annual Meeting in the USA. Ten grants of EUR 2,000 each are awarded per cycle. Open to researchers from the 2nd year of PhD up to postdoctoral fellows within 2 years of their PhD defense. FENS membership is…",
+    "funder_names": [
+      "Federation of European Neuroscience Societies"
+    ],
+    "funders": [
+      "fens-federation-of-european-neuroscience-societies"
+    ],
+    "country": "Worldwide",
+    "applicant_country": "Worldwide",
+    "host_country": "United States",
+    "career_levels": [
+      "phd",
+      "postdoc"
+    ],
+    "career_level_names": [
+      "PhD",
+      "Postdoc"
+    ],
+    "subjects": [
+      "neuroscience"
+    ],
+    "subject_names": [
+      "Neuroscience"
+    ],
+    "travel_purposes": [
+      "conference"
+    ],
+    "travel_purpose_names": [
+      "Conference"
+    ],
+    "status": "active",
+    "featured": false,
+    "deadline_month": "",
+    "search_text": "FENS Travel Grants SfN Annual Meeting Society for Neuroscience Federation of European Neuroscience Societies PhD postdoc conference neuroscience",
+    "url": "https://www.fens.org/careers/grants-and-stipends/grant/travel-grants-for-the-annual-meeting-of-the-society-for-neuroscience",
+    "updated_at": "2026-04-08T00:00:00Z"
+  },
+  {
+    "id": "travel-grant-wingate-foundation-medical-research-travel-grants",
+    "type": "travel_grant",
+    "slug": "wingate-foundation-medical-research-travel-grants",
+    "name": "Wingate Foundation Medical Research Travel Grants",
+    "description": "The Wingate Foundation Medical Research Travel Grants support researchers visiting laboratories to acquire new skills and establish inter-institutional collaborative research. Grants cover short-term research visits aimed at transferring techniques and building international partnerships in medical…",
+    "funder_names": [
+      "Wingate Foundation"
+    ],
+    "funders": [
+      "wingate-foundation"
+    ],
+    "country": "Worldwide",
+    "applicant_country": "Worldwide",
+    "host_country": "",
+    "career_levels": [
+      "phd",
+      "postdoc"
+    ],
+    "career_level_names": [
+      "PhD",
+      "Postdoc"
+    ],
+    "subjects": [
+      "medical-sciences",
+      "life-sciences"
+    ],
+    "subject_names": [
+      "Medical Sciences",
+      "Life Sciences"
+    ],
+    "travel_purposes": [
+      "research-visit",
+      "learn-new-technique"
+    ],
+    "travel_purpose_names": [
+      "Research visit",
+      "Learn new technique"
+    ],
+    "status": "active",
+    "featured": false,
+    "deadline_month": "",
+    "search_text": "Wingate Foundation Medical Research Travel Grants laboratory visit skills collaboration medical life sciences PhD postdoc",
+    "url": "https://wingate.org.uk/support/medical-research-travel-grants/",
+    "updated_at": "2026-04-08T00:00:00Z"
+  },
+  {
     "id": "travel-grant-bio-techne-travel-grants-go-everywhere",
     "type": "travel_grant",
     "slug": "bio-techne-travel-grants-go-everywhere",
@@ -37518,10 +38368,13 @@
     "career_level_names": [],
     "subjects": [],
     "subject_names": [],
-    "aliases": [],
+    "aliases": [
+      "DFG",
+      "DAAD"
+    ],
     "status": "active",
     "featured": false,
-    "website": "",
+    "website": "https://www.daad.de/en/",
     "updated_at": "2019-01-17T00:40:55Z"
   },
   {
@@ -47636,5 +48489,144 @@
     "featured": false,
     "website": "https://www.utexas.edu",
     "updated_at": "2026-03-27T00:00:00Z"
+  },
+  {
+    "id": "funder-federal-ministry-education-research",
+    "type": "funder",
+    "slug": "federal-ministry-education-research",
+    "name": "Federal Ministry of Education and Research",
+    "description": null,
+    "funder_names": [],
+    "funders": [],
+    "country": "Germany",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "aliases": [
+      "BMBF",
+      "Bundesministerium für Bildung und Forschung"
+    ],
+    "status": "active",
+    "featured": false,
+    "website": "https://www.bmbf.de/bmbf/en/home/home_node.html",
+    "updated_at": "2026-04-08T00:00:00Z"
+  },
+  {
+    "id": "funder-fens-federation-of-european-neuroscience-societies",
+    "type": "funder",
+    "slug": "fens-federation-of-european-neuroscience-societies",
+    "name": "Federation of European Neuroscience Societies",
+    "description": null,
+    "funder_names": [],
+    "funders": [],
+    "country": "Belgium",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "aliases": [
+      "FENS"
+    ],
+    "status": "active",
+    "featured": false,
+    "website": "https://www.fens.org",
+    "updated_at": "2026-04-08T00:00:00Z"
+  },
+  {
+    "id": "funder-fraunhofer-gesellschaft",
+    "type": "funder",
+    "slug": "fraunhofer-gesellschaft",
+    "name": "Fraunhofer-Gesellschaft",
+    "description": null,
+    "funder_names": [],
+    "funders": [],
+    "country": "Germany",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "aliases": [
+      "Fraunhofer Society",
+      "Fraunhofer Association"
+    ],
+    "status": "active",
+    "featured": false,
+    "website": "https://www.fraunhofer.de/en.html",
+    "updated_at": "2026-04-08T00:00:00Z"
+  },
+  {
+    "id": "funder-dlr-german-aerospace-center",
+    "type": "funder",
+    "slug": "dlr-german-aerospace-center",
+    "name": "German Aerospace Center",
+    "description": null,
+    "funder_names": [],
+    "funders": [],
+    "country": "Germany",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "aliases": [
+      "DLR",
+      "Deutsches Zentrum für Luft- und Raumfahrt"
+    ],
+    "status": "active",
+    "featured": false,
+    "website": "https://www.dlr.de/en",
+    "updated_at": "2026-04-08T00:00:00Z"
+  },
+  {
+    "id": "funder-leibniz-association",
+    "type": "funder",
+    "slug": "leibniz-association",
+    "name": "Leibniz Association",
+    "description": null,
+    "funder_names": [],
+    "funders": [],
+    "country": "Germany",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "aliases": [
+      "Leibniz-Gemeinschaft"
+    ],
+    "status": "active",
+    "featured": false,
+    "website": "https://www.leibniz-gemeinschaft.de/en/",
+    "updated_at": "2026-04-08T00:00:00Z"
+  },
+  {
+    "id": "funder-wingate-foundation",
+    "type": "funder",
+    "slug": "wingate-foundation",
+    "name": "Wingate Foundation",
+    "description": null,
+    "funder_names": [],
+    "funders": [],
+    "country": "United Kingdom",
+    "applicant_country": "",
+    "host_country": "",
+    "career_levels": [],
+    "career_level_names": [],
+    "subjects": [],
+    "subject_names": [],
+    "aliases": [],
+    "status": "active",
+    "featured": false,
+    "website": "https://wingate.org.uk",
+    "updated_at": "2026-04-08T00:00:00Z"
   }
 ]

@@ -1,0 +1,38 @@
+id: travel-grant-wingate-foundation-medical-research-travel-grants
+slug: wingate-foundation-medical-research-travel-grants
+name: Wingate Foundation Medical Research Travel Grants
+url: https://wingate.org.uk/support/medical-research-travel-grants/
+description: The Wingate Foundation Medical Research Travel Grants support researchers
+  visiting laboratories to acquire new skills and establish inter-institutional collaborative
+  research. Grants cover short-term research visits aimed at transferring techniques
+  and building international partnerships in medical and life sciences research.
+funders:
+- wingate-foundation
+legacy_funder_name: Wingate Foundation
+applicant_country: Worldwide
+host_country: null
+award: null
+deadline: null
+deadline_month: null
+membership: null
+membership_time: null
+purpose_text: null
+career_levels:
+- phd
+- postdoc
+subjects:
+- medical-sciences
+- life-sciences
+travel_purposes:
+- research-visit
+- learn-new-technique
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-04-08'
+verified_by: asntech
+created_at: '2026-04-08T00:00:00Z'
+updated_at: '2026-04-08T00:00:00Z'
+search_text: Wingate Foundation Medical Research Travel Grants laboratory visit skills
+  collaboration medical life sciences PhD postdoc
+source: manual
