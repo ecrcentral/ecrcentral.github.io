@@ -1,0 +1,32 @@
+id: travel-grant-eccb-travel-fellowship
+slug: eccb-travel-fellowship
+name: ECCB Travel Fellowship
+url: https://eccb2026.org/fellowships#eccb-fellowship
+description: The ECCB Travel Fellowship supports students, early-career researchers, and young researchers who would otherwise have difficulty covering the costs of attending the European Conference on Computational Biology (ECCB). Recipients must be presenting authors on accepted proceedings, abstracts, or posters, and must register and attend all three conference days. Expenses are reimbursed after attendance.
+funders: []
+legacy_funder_name: ECCB Association
+applicant_country: Worldwide
+host_country: null
+award: 'EUR 800 (Europe), EUR 1,200 (non Europe)'
+deadline: '2026-05-18'
+deadline_month: null
+membership: 'No'
+membership_time: null
+purpose_text: null
+career_levels:
+- bachelor-students
+- master-students
+- phd
+- postdoc
+subjects:
+- bioinformatics
+travel_purposes:
+- conference
+featured: false
+review_status: approved
+status: active
+last_verified: '2026-04-11'
+verified_by: asntech
+created_at: null
+updated_at: null
+source: manual

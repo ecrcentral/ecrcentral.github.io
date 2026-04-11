@@ -57,7 +57,7 @@
     "legacy_id": 77,
     "slug": "iscb-conference-travel-fellowships",
     "name": "ISCB Conference Travel Fellowships",
-    "url": "https://www.iscb.org/iscb-conference-travel-fellowships",
+    "url": "https://transition.iscb.org/iscb-conference-travel-fellowships",
     "description": "This Travel Fellowship funds exclusively for ISCB student and Postdoc members to attend the annual conferences such as RECOMB, ISMB, ECCB, and InCoB.",
     "funders": [],
     "legacy_funder_name": "International Society for Computational Biology",
@@ -1518,6 +1518,57 @@
     "funder_logos": [],
     "career_level_names": [],
     "subject_names": [],
+    "travel_purpose_names": [
+      "Conference"
+    ]
+  },
+  {
+    "id": "travel-grant-eccb-travel-fellowship",
+    "slug": "eccb-travel-fellowship",
+    "name": "ECCB Travel Fellowship",
+    "url": "https://eccb2026.org/fellowships#eccb-fellowship",
+    "description": "The ECCB Travel Fellowship supports students, early-career researchers, and young researchers who would otherwise have difficulty covering the costs of attending the European Conference on Computational Biology (ECCB). Recipients must be presenting authors on accepted proceedings, abstracts, or posters, and must register and attend all three conference days. Expenses are reimbursed after attendance.",
+    "funders": [],
+    "legacy_funder_name": "ECCB Association",
+    "applicant_country": "Worldwide",
+    "host_country": null,
+    "award": "EUR 800 (Europe), EUR 1,200 (outside Europe)",
+    "deadline": "2026-05-18",
+    "deadline_month": null,
+    "membership": "No",
+    "membership_time": null,
+    "purpose_text": null,
+    "career_levels": [
+      "bachelor-students",
+      "master-students",
+      "phd",
+      "postdoc"
+    ],
+    "subjects": [
+      "bioinformatics"
+    ],
+    "travel_purposes": [
+      "conference"
+    ],
+    "featured": false,
+    "review_status": "approved",
+    "status": "active",
+    "last_verified": "2026-04-11",
+    "verified_by": "asntech",
+    "created_at": null,
+    "updated_at": null,
+    "source": "manual",
+    "funder_names": [],
+    "funder_logos": [],
+    "career_level_names": [
+      "Bachelor students",
+      "Master students",
+      "PhD",
+      "Postdoc"
+    ],
+    "subject_names": [
+      "Bioinformatics"
+    ],
     "travel_purpose_names": [
       "Conference"
     ]
