@@ -28,11 +28,9 @@ const shareTitle = encodeURIComponent(grant.name)
 
 function formatDeadline(deadline: string | null): string {
   if (!deadline) return ''
-  try {
-    return new Date(deadline).toLocaleDateString('en-GB', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' })
-  } catch {
-    return deadline
-  }
+  const d = new Date(deadline)
+  if (isNaN(d.getTime())) return deadline
+  return d.toLocaleDateString('en-GB', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' })
 }
 
 const statusClass: Record<string, string> = {
