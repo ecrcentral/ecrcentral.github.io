@@ -3180,7 +3180,7 @@
       {
         "value": "Worldwide",
         "label": "Worldwide",
-        "count": 33
+        "count": 34
       },
       {
         "value": "United Kingdom",
@@ -3422,12 +3422,12 @@
       {
         "value": "phd",
         "label": "PhD",
-        "count": 47
+        "count": 48
       },
       {
         "value": "postdoc",
         "label": "Postdoc",
-        "count": 43
+        "count": 44
       },
       {
         "value": "junior-faculty",
@@ -3437,7 +3437,7 @@
       {
         "value": "master-students",
         "label": "Master students",
-        "count": 5
+        "count": 6
       },
       {
         "value": "senior-faculty",
@@ -3447,7 +3447,7 @@
       {
         "value": "bachelor-students",
         "label": "Bachelor students",
-        "count": 1
+        "count": 2
       }
     ],
     "subjects": [
@@ -3467,6 +3467,11 @@
         "count": 3
       },
       {
+        "value": "bioinformatics",
+        "label": "Bioinformatics",
+        "count": 2
+      },
+      {
         "value": "mathematics",
         "label": "Mathematics",
         "count": 2
@@ -3479,11 +3484,6 @@
       {
         "value": "immunology",
         "label": "Immunology",
-        "count": 1
-      },
-      {
-        "value": "bioinformatics",
-        "label": "Bioinformatics",
         "count": 1
       },
       {
@@ -3511,7 +3511,7 @@
       {
         "value": "conference",
         "label": "Conference",
-        "count": 87
+        "count": 88
       },
       {
         "value": "collaboration",
@@ -3543,7 +3543,7 @@
       {
         "value": "yes",
         "label": "Membership Required",
-        "count": 110
+        "count": 111
       },
       {
         "value": "no",
@@ -3672,7 +3672,7 @@
       {
         "value": "active",
         "label": "Active",
-        "count": 122
+        "count": 123
       },
       {
         "value": "draft",
